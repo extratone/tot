@@ -1,0 +1,18 @@
+Tot 1.0.2
+
+macOS:
+
+• AutoList™: lines with leading tabs or a symbol and a space are automatically replicated to make maintaining lists easier. [Yay Ben!]
+• Cmd-S no longer beeps when saving text, immediately syncs instead. [Yay Nick!]
+• New “Extra Extra Large” font size setting. [Yay Justin!]
+• Added check for plain text mode to prevent issues with style attributes in fonts like Fira Code. [Yay Jed!]
+• Added a new Window > Column Layout option to set column width (wide, narrow or full) for wider windows [Yay Ben!]
+• Spelling, grammar, and substitution settings are now synced for each dot. Use Edit or the contextual menu within a dot to turn on spell check or turn off substitutions. [Yay Andre!]
+
+iOS:
+
+• AutoList™: lines with leading tabs or a symbol and a space are automatically replicated to make maintaining lists easier. [Yay Ben!]
+• Sharing now uses text from dot, not a file. To save a file, long-press on the share icon.
+• Added Cmd-0 and Cmd-1-7 support to iPadOS
+• Clear All no longer adds stuff to the clipboard unexpectedly
+

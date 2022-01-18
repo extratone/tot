@@ -1,0 +1,12 @@
+
+Tot 1.2
+
+All:
+
+• Compatibility with latest operating systems and hardware, including Big Sur and Apple Silicon.
+
+macOS:
+
+• Fixed an issue where the center dot wasn’t clickable. [Yay Chris!]
+• Fixed titlebar appearance.
+

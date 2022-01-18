@@ -1,0 +1,30 @@
+Tot 1.0.4
+
+macOS:
+
+• AutoList improvements:
+  - Items without any text are automatically removed when you press return. [Yay Ben, Gus, Ged, and Ian!]
+  - A new item will be inserted before the current line if the cursor is at or before the symbol. [Yay Ian!]
+  - Text now scrolls into view after inserting a new symbol. [Yay Ian!]
+
+• Hiding the window with the hotkey will restore the application that was open when the window was activated.
+• Updated help with settings for menu bar items: configuring text view quotes and spelling, floating window support, and modifying keyboard shortcuts. [Yay @tot_app followers!]
+• Removed an unneeded submenu from text view context menu. 
+
+iOS:
+
+• AutoList improvements:
+  - Items without any text are automatically removed when you press return. [Yay Ben, Gus, Ged, and Ian!]
+  - A new item will be inserted before the current line if the cursor is at or before the symbol. [Yay Ian!]
+  - Text now scrolls into view after inserting a new symbol. [Yay Ian!]
+  
+• Font improvements:
+  - Tot now supports custom fonts.
+  - For help installing fonts on iOS, please see: https://support.iconfactory.com/kb/tot/using-custom-fonts-in-tot-pocket
+  - Added setting for fixed width font. [Yay Gruber!]
+  - Added sliders in Settings to fine tune text size. [Yay Ged!] 
+
+• Updated tab button icon (so it no longer looks like indent).
+• Fixed name of dark green icon [Yay Karan!]
+• Fixed a problem with pasting URLs as plain text.
+

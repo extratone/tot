@@ -1,0 +1,13 @@
+Tot 1.0.6
+
+macOS:
+
+• Fixed a crash when dragging or quitting from menu bar (yes, really).
+
+
+iOS:
+
+• Fixed VoiceOver when switching edit modes. [Yay Alex!]
+• Improvements when navigating header using VoiceOver. [Yay Alex!]
+• Disabled text size changes using keyboard commands (Cmd + and -). [Yay Gruber!]
+• Text statistics are no longer abbreviated if there’s enough space (e.g. iPad).

@@ -1,0 +1,691 @@
+html {
+	background-color: #000;
+}
+
+body {
+	font-family: myriad-pro, helvetica, arial, sans-serif;
+	font-weight: 300;
+	color: #303540;
+	font-size: 1.2em;
+}
+
+h1, h2, h3, h4, p, li {
+	font-weight: 300;
+}
+
+a {
+	color: #c1fe5e;
+	text-decoration: none;
+}
+
+header {
+	width: 800px;
+	height: 64px;
+	position: absolute;
+	left: 50%;
+	margin-left: -400px;
+	background: url('../images/shared/header.png') center top no-repeat;
+}
+
+div#logo {
+	margin: 10px 0px 0px 30px;
+	float: left;
+}
+
+div#logo a img {
+	width: 196px;
+	height: 45px;
+}
+
+nav ul {
+	margin-top: 20px;
+	margin-right: 20px;
+	width: auto;
+	float: right;
+	list-style-type: none;
+	font-family: myriad-pro, sans-serif;
+}
+
+nav ul li {
+	float: left;
+	margin: 0px 20px 0px 20px;
+	font-size: 0.9em;
+	padding-bottom: 6px;
+	-webkit-font-smoothing: subpixel-antialiased;
+}
+
+nav ul li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+nav ul li a, nav ul li a:visited, nav ul li a:active, nav ul li a:hover {
+	color: #fff !important;
+	font-weight: 500 !important;
+}
+
+
+
+em {
+	font-style: normal;
+	color: #dd5cfa;
+}
+
+
+section > * {
+	max-width: 800px;
+}
+
+section {
+	text-align: center;
+	margin: auto;
+}
+
+section h2 {
+
+	text-align: left;
+	font-size: 1.8em;
+	line-height: 1.2em;
+	font-weight: 200;
+
+	margin-left: calc(50% - 400px);
+	margin-right: 0px;
+	margin-bottom: 20px;
+	margin-top: 0px;
+	max-width: 100%;
+}
+
+section h3 {
+	text-align: left;
+	font-weight: 400;
+	margin-bottom: 0px;
+	font-size: 1.2em;
+}
+
+section h4 {
+	text-align: left;
+	font-weight: 400;
+	margin-bottom: 10px;
+}
+
+section p {
+	color: #fff;
+	font-size: 1.4em;
+	line-height: 1.2em;
+}
+
+
+
+section span, em {
+
+}
+
+section ul {
+	margin: 10px 20px 10px 20px;
+}
+
+section li {
+	margin-left: 20px;
+	color: #666;
+}
+
+section strong {
+	font-weight: 400;
+	color: #303540;
+}
+
+/*---------------------------------------------*/
+/*                   tout                      */
+/*---------------------------------------------*/
+
+section#tout {
+	margin: auto;
+	background: url('../images/background_tout.jpg') center bottom no-repeat;
+	background-size: cover;
+	
+	padding: 100px calc(50% - 400px) 40px calc(50% - 400px);
+	
+	
+	display: flex;
+	justify-content: center;
+	align-items:center;
+
+	display: -webkit-flex;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+	
+}
+
+section#tout img {
+ 	display: block;
+	width: 372px;
+	margin: 0px auto 0px auto;
+}
+
+
+
+
+
+
+section div.download {
+	width: 100%;	
+
+}
+
+section div.download a {
+	display: block;
+	color: #c1fe5e;
+	font-size: 1.2em;
+	font-weight: 400;
+	background-color: rgba(0,0,0,0.2);
+	border: 2px solid #a3db46;
+	border-radius: 12px;
+	padding: 14px;
+	margin: 20px auto 20px auto;
+
+	width: 60%;
+
+	animation-name: off;
+	animation-duration: 0.5s;
+	animation-iteration-count: 1;
+	animation-direction: normal;
+	animation-play-state: running; 
+	animation-fill-mode: forwards;
+
+}
+
+
+section div.download a.macos {
+	color: #1ceeff;
+	border: 2px solid #1cd3fc;
+}
+
+
+@keyframes off {
+	0% {
+		transform: scale(1.05, 1.05);
+		background-color: rgba(0,30,30, 0.5);
+	}
+	100% {
+		transform: scale(1.0, 1.0);
+		background-color: rgba(0,0,0,0.2);
+	}
+}
+
+@keyframes on {
+	0% {
+		transform: scale(1.0, 1.0);
+		background-color: rgba(0,0,0,0.2);
+	}
+	100% {
+		transform: scale(1.05, 1.05);
+		background-color: rgba(0,30,30, 0.5);
+	}
+}
+
+section div.download a:hover {
+	animation-name: on;
+	animation-play-state: running;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards;
+}
+
+
+
+
+/*---------------------------------------------*/
+/*                   description               */
+/*---------------------------------------------*/
+
+
+section#description {
+	background: url('../images/background_description.jpg') center top no-repeat;
+	background-size: cover;
+	
+
+	width: 100%;
+	padding: 20px 0px 0px 0px;
+	
+	text-align: center;
+
+}
+
+section#description img {
+	width: 100%;
+	max-width: 800px;
+}
+
+
+section#description p {
+	font-family: myriad-pro, sans-serif;
+	text-transform: none;
+	text-align: center;
+	margin: 40px auto 30px auto;
+	max-width: 600px;
+	font-size: 1.6em;
+	color: #fff;
+	border-bottom: none;
+}
+
+
+
+
+
+
+
+
+/*---------------------------------------------*/
+/*                bullets                      */
+/*---------------------------------------------*/
+
+section#bullets {
+	background-color: #2e004a;
+	background-image: linear-gradient(#5d0296, #2e004a);
+	padding: 60px 0px 20px 0px;
+}
+
+section#bullets ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px 0px 0px 20px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	display: flex;
+	align-items:top;
+	justify-content: center;
+	flex-wrap: wrap;
+	
+	display: -webkit-flex;
+	-webkit-align-items: top;
+	-webkit-justify-content: center;
+	-webkit-flex-wrap: wrap;
+}
+
+section#bullets ul li {
+	width: calc(50% - 110px);
+	margin: 0px;
+	padding: 0px 30px 20px 80px;
+}
+
+section#bullets ul li:nth-child(1) {
+	background: url('../images/bullet_window.png') left top no-repeat;
+	background-size: 64px 64px;
+}
+
+section#bullets ul li:nth-child(2) {
+	background: url('../images/bullet_icloud.png') left top no-repeat;
+	background-size: 64px 64px;
+}
+
+section#bullets ul li:nth-child(3) {
+	background: url('../images/bullet_darklight.png') left top no-repeat;
+	background-size: 64px 64px;
+}
+
+section#bullets ul li:nth-child(4) {
+	background: url('../images/bullet_markdown.png') left top no-repeat;
+	background-size: 64px 64px;
+}
+
+section#bullets ul li:nth-child(5) {
+	background: url('../images/bullet_menubar.png') left top no-repeat;
+	background-size: 64px 64px;
+}
+
+section#bullets ul li:nth-child(6) {
+	background: url('../images/bullet_keyboard.png') left top no-repeat;
+	background-size: 64px 64px;
+}
+
+
+
+
+section#bullets ul li h3 {
+	font-size: 1.2em;
+}
+
+section#bullets ul li p {
+	margin: 0px;
+	padding: 4px 0px 10px 0px;
+	font-size: 1.0em;
+	text-align: left;
+	color: #dbf;
+}
+
+
+
+
+/*---------------------------------------------*/
+/*                   press                     */
+/*---------------------------------------------*/
+
+
+section#press {
+	text-align: center;
+	background-color: #222;
+	background-image: linear-gradient(#101, #212);
+	padding: 40px 0px 80px 0px;
+}
+
+
+section#press h2 {
+	text-align: center;
+	font-size: 2.4em;
+	margin: 20px auto 20px auto;
+	padding: 0px;
+	width: 100%;
+	color: #dd5cfa;
+}
+
+section#press div.pressitem {
+	margin: 80px auto 20px auto !important;
+	max-width: 720px;
+
+}
+
+
+
+section#press p.quote {
+	font-size: 1.8em;
+	padding: 0px 40px 0px 40px;
+}
+
+section#press p {
+	margin-bottom: 16px;
+}
+section#press p:last-child {
+	margin-bottom: 0;
+}
+
+section#press span.attribution {
+	display: block;
+	text-align: right;
+	color: #999;
+}
+section#press span.attribution em {
+	color: #999;
+}
+
+
+
+
+
+/*---------------------------------------------*/
+/*             bottom-download                 */
+/*---------------------------------------------*/
+
+section#bottom-download div.download {
+
+	padding: 20px calc(50% - 400px) 10px calc(50% - 400px);	
+	
+	display: flex;
+	justify-content: center;
+	align-items:center;
+
+	display: -webkit-flex;
+	-webkit-justify-content: center;
+	-webkit-align-items: center;
+}
+
+section#bottom-download img {
+	width: 180px;
+	margin-top: 40px;
+}
+
+section#bottom-download p {
+	margin: 20px auto 20px auto;
+	font-size: 1.8em;
+}
+
+
+
+section#bottom-download div.download a {
+	padding: 14px;
+	margin: 0px auto 20px auto;
+
+	width: 40%;
+
+}
+
+section#bottom-download p.pricing {
+	font-size: 1.0em;
+	margin-top: 0px;
+}
+
+
+
+
+/*---------------------------------------------*/
+/*                   legal                     */
+/*---------------------------------------------*/
+/* used for both #privacy and #terms (in privacy.html and term.html */
+
+
+section.legal {
+	padding-top: 40px;
+}
+
+section.legal h3 { 
+	margin: 20px;
+	margin-top: 30px;
+}
+
+section.legal p { 
+	margin: 20px;
+}
+
+
+
+section.legal li {
+	color: #fff;
+	font-size: 1.4em;
+	margin-bottom: 10px;
+	line-height: 1.2em;
+	margin-left: 35px;
+}
+
+section.legal > *:not(h2) {
+	margin-left: auto !important;
+	margin-right: auto !important;
+	text-align: left;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+section.legal p:last-of-type {
+	padding-bottom: 20px;
+}
+
+/*---------------------------------------------*/
+/*                  footer                     */
+/*---------------------------------------------*/
+
+footer {
+	background-color: #000;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+footer > * {
+	max-width: 100%;
+	position: static;
+	text-align: center;
+	margin: 0px;
+	color: #000;
+}
+
+footer p {
+	font-size: 0.8em;
+	color: #808080;
+	padding-bottom: 10px;
+}
+
+footer p:last-child {
+	padding-bottom: 60px;
+	background: url('../images/shared/if_watermark.png') center bottom no-repeat;
+	background-size: 46px 46px;
+}
+
+
+
+/*---------------------------------------------*/
+/*          media max-width: 900               */
+/*---------------------------------------------*/
+
+
+@media screen and (max-width: 900px) {
+
+
+}
+
+/*---------------------------------------------*/
+/*          media max-width: 800               */
+/*---------------------------------------------*/
+
+
+@media screen and (max-width: 800px) {
+
+	header {
+		width: 100%;
+		height: 64px;
+		left: 0;
+		margin-left: 0px;
+	}
+	
+	section {
+		padding-left: 20px !important;
+		padding-right: 20px !important;
+		width: calc( 100% - 40px ) !important;
+	}
+	
+
+	
+
+
+}
+
+/*---------------------------------------------*/
+/*          media max-width: 640               */
+/*---------------------------------------------*/
+
+
+@media screen and (max-width: 640px) {
+
+	header {
+		width: 100%;
+		height: 112px;
+		left: 0;
+		margin-left: 0px;
+	}
+	
+	div#logo {
+		float: none;
+		width: 100%;
+		text-align: center;
+		margin-left: 0px;
+		margin-right: 0px;
+		margin-top: 7px;
+	}
+	
+	div#logo a img {
+		width: 216px;
+		height: auto;
+	}
+
+
+	nav ul {
+		clear:both;
+		float: none;
+		margin-left: auto;
+		margin-right: auto;
+		height: 80px;
+		width: 60%;
+		margin-top: 20px; /* I have no idea why this is 14px on iconfactory.com and needs to be 20px here (#logo size is computed as 50px instead of 56px) */
+	}
+	
+	nav ul li {
+		text-align: center;
+		width: 50%;
+		margin: 0px;
+	}
+	
+
+	section#tout {
+		padding-top: 160px;
+
+		flex-wrap: wrap;
+		-webkit-flex-wrap: wrap;
+
+	}
+	
+	section#tout img {
+		margin-bottom: 40px;
+		width: 90%;
+	}
+	
+	section#bottom-download div.download {
+		flex-wrap: wrap;
+		
+		-webkit-flex-wrap: wrap;
+	}
+	
+	section#bottom-download div.download a {
+		width: 80%;
+
+	}
+	
+	section div.download a {
+		width: 80%;
+	}
+	
+	
+	section#bullets ul li {
+		width: 70%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+
+
+
+	section#description p {
+		max-width: 360px;
+		font-size: 1.6em;
+	}
+
+	
+}
+
+
+
+
+
+
+/*---------------------------------------------*/
+/*          media max-width: 480               */
+/*---------------------------------------------*/
+
+
+@media screen and (max-width: 480px) {
+
+
+}
+
+
+
+/*---------------------------------------------*/
+/*              retina images                  */
+/*---------------------------------------------*/
+
+
+@media screen and (-webkit-min-device-pixel-ratio: 2) {
+
+	header {
+		background: url('../images/shared/header@2x.png') center top no-repeat;
+		background-size: 800px 144px;
+	}
+
+}
+
+

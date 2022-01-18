@@ -1,0 +1,27 @@
+Tot 1.1
+
+All:
+
+• Added Share extension and widget
+  - On macOS, enable in System Preferences > Extensions
+  - On iOS, use ⋯ in Share sheet app icons to add Tot
+  - On iOS, use Edit at bottom of widget view to add Tot
+• New Mobius icon. [Yay Ged!]
+• Added a limit of 100,000 characters per dot. [Yay Garrett!]
+
+macOS:
+
+• Help text is displayed using the font size setting of the current dot. [Yay zax!]
+• Fixed styling for links dragged in from Chrome.
+• URLs pasted into rich text are now linked automatically.
+• Scrollbar is now tinted using dot theme [Yay Frank!]
+• Fixed drawing issues with status bar.
+• Improved VoiceOver labels for statistics and text mode toggle. [Yay Alex!]
+• Improved VoiceOver for dot header, status bar, and settings. [Yay Robin!]
+
+iOS:
+
+• Default font is now selected correctly in settings (both variable and fixed).
+• Fixed a bug where tapping a link while editing didn’t select the entire URL.
+• Fixed VoiceOver for switching edit modes. [Yay Alex!]
+• Improvements when navigating header using VoiceOver. [Yay Alex!]

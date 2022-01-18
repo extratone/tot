@@ -1,0 +1,7 @@
+
+Tot 1.2.2
+
+macOS:
+
+• Updated all icons, including dynamic ones, to Big Sur style
+• Added purple tint color on controls to match iOS

@@ -1,0 +1,22 @@
+
+Tot 1.2.3
+
+All:
+
+• Fixed a crash during iCloud updates - often seen at launch
+• Fixed a typo in help: there are no longer limitions in this app
+• Hash marks for Markdown headers are no longer used for AutoList [Yay TJ!]
+• Fixed issues with some bullet characters not automatically starting a list
+
+macOS:
+
+• Fixed a problem with spell check settings not saving correctly
+• Improved rendering of dots on the flat title bar
+• Fixed placement of popover window in menu bar
+
+iOS:
+
+• Fixed a problem with text undo not working
+• Changed shortcut action names to be more explicit by adding “Text”
+• Fixed a problem with RTL text being displayed incorrectly when returning to foreground [Yay Moshik!]
+

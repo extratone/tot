@@ -1,0 +1,29 @@
+Tot 1.0.1
+
+macOS:
+
+• Text mode is now synced across devices: if you switch to plain text on your phone, your desktop will also switch.
+
+• Updated Settings to match Apple Style Guide. [Yay John!]
+• Fixed a problem with the dynamic dock icon's drop shadow. [Yay Anthony!]
+• Increased contrast of help text for better readability. [Yay John!]
+• Cleaned up help text – its great now. [Yay John, Dan, and TJ!] 
+• Straight quote obliteration. [Fricken’ Gruber!]
+• Selecting Tot with Cmd-Tab will now reopen its window if needed.
+• Popover window no longer animates from menu bar. Snappy. [Yay Fredrik!]
+• A detached popover window’s size is saved and used the next time you click on the menu bar icon. [Yay Jordan!]
+• Added a “Display as Floating Window” option in Window menu. [Yay Kevin!]
+• New Edit > Add Link… (⌘K) can used to create or edit links in rich text mode.
+• Arrow keys can now navigate in Help.
+
+iOS:
+
+• Text mode is now synced across devices: if you switch to plain text on your phone, your desktop will also switch.
+
+• Cleaned up help text – its great now.
+• Straight quote obliteration. [Fricken’ Gruber!]
+• Delete button no longer causes a crash a first character. [Yay Matthew!]
+• Fixed check for adding sample content: you may see it once more, but then it will only occur after a new install.
+• Text editing now adapts to new dynamic text size without having to relaunch.
+• The keyboard is no longer tinted when Colored Backgrounds are set to OFF
+• Additional keyboard shortcuts to match Safari muscle memory: ⌘⇧[ to show previous dot, ⌘⇧] to show next dot. [Thanks Erik!]

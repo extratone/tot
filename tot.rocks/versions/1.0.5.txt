@@ -1,0 +1,29 @@
+Tot 1.0.5
+
+All:
+
+• Improved Accessibility:
+  - Dots in header are now treated as an ordered list of tab buttons in VoiceOver.
+  - The text view’s label is now read as “Dot #” followed by its contents.
+  - Fixed many items so they read correctly in VoiceOver.
+  - Dots now use numbers for "differentiate without color" in Accessibility settings. [Yay Jason!]
+  - Updated help and default content for color blindness accessibility.
+  - Added Grayscale icons to app settings.
+
+• Lines that begin with a brace or bracket are no longer used for AutoList [Yay huckncatch!]
+
+
+macOS:
+
+• Moved Dock icon configuration to Settings:
+  - Pick your favorite icon style using the heart icon.
+  - Use the contrast icon to pick between Dark & Light themes.
+
+• Dots can be numbered using “defaults write com.iconfactory.Tot showIndex true” then quit and relaunch. [Yay Kelvin!]
+• Added tooltip on menu bar icon that shows app name and keyboard shortcut. [Yay stiegjon!]
+
+
+iOS:
+
+• Fixed a potential crash if a custom font was no longer available [Yay Ged!]
+• Cleaned up presentation of bulk actions (when tapping and holding on share button). [Yay Gruber!]

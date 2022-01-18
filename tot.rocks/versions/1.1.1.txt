@@ -1,0 +1,26 @@
+Tot 1.1.1
+
+All:
+
+• Improved Markdown support:
+  - Text should not lose characters when switching edit modes, and literal escapes are only added as needed.
+  - Fixed issues with escaped Markdown characters not being removed from rich text.  [Yay Marvin!]
+  - Underscores and asterisks in rich text are now escaped when converted to Markdown.
+  - Text for inline links is handled correctly now.
+  - Improved handling of horizontal rulers.
+
+macOS:
+
+• The icon picker in Settings is a lot simpler now. We’re not afraid to make mistakes, we’re afraid of bad decisions that don’t get corrected. :-)
+• Added icons that look better on future versions of macOS.
+• Titlebar appearance was adapted for future versions of macOS.
+• Pasting relative URLs now treats them as plain text. [Yay Marvin!]
+• Fixed selecting fixed width fonts by not using a localized name. [Yay Carles!]
+• Fixed issues with substitutions and text checking getting stored and synced correctly. [Yay Dom!]
+
+iOS:
+
+• Added entitlement for “user installed fonts” so Adobe CC fonts can be used.
+• Change sharing extension button from “Done” to “Save”.
+• Fixed issues with keys when reduced transparency was turned on. [Yay Oli!]
+• Typing whitespace at the end of a link will remove link formatting and allow normal text to be entered. [Yay Gruber!]

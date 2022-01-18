@@ -1,0 +1,54 @@
+{
+  "tot_backup" : "1.0",
+  "dots" : [
+    {
+      "text" : "[Dark](shortcuts:\/\/x-callback-url\/run-shortcut?name=Dark%20Odette) - [Light](shortcuts:\/\/x-callback-url\/run-shortcut?name=Light%20Odette) - [MacWish](shortcuts:\/\/x-callback-url\/run-shortcut?name=MacWish) - [LinkJar](shortcuts:\/\/x-callback-url\/run-shortcut?name=LinkJar) - [TBLink](shortcuts:\/\/x-callback-url\/run-shortcut?name=tbmac)",
+      "selectionRich" : "{41, 0}",
+      "selectionPlain" : "{0, 0}",
+      "view" : "rich",
+      "date" : "0001-01-01T00:00:00.000Z"
+    },
+    {
+      "text" : "**Tot can be used for lots of things!**\n\nMake lists:\n\n**WEEK AHEAD**\n\n• [Learn how to use Tot!](tot:\/\/help)\n• Call mom\n• Be kind to others\n\n**GROCERIES**\n\n• Taters\n• Whiskey\n\nOr collect your thoughts:\n\n✱ Is Emoji mankind’s greatest invention? 💚💛🧡❤️💜💙\n✱ What makes ice cubes cold?\n✱ What the heck is a [Tot?](tot:\/\/help)\n\n\nClick the _red (third) circle_ to learn more.\n",
+      "selectionRich" : "{0, 331}",
+      "selectionPlain" : "{0, 0}",
+      "view" : "rich",
+      "date" : "0001-01-01T00:00:00.000Z"
+    },
+    {
+      "text" : "**Drafts Instrument Panel**\n\n_Drafts_\n- [The Psalms’ 2021](drafts:\/\/open?uuid=CB2985C0-C484-48F0-A170-2EBEF1E94972)\n- [Fresh Eyes on macOS](drafts:\/\/open?uuid=944F772C-CC9D-47F2-BD98-F4E435E40227)\n- [Hold Your Clipboard Mangers Close](drafts:\/\/open?uuid=81CC3D50-BC7A-471F-B247-DBE0ACC54C6B)\n- [David Blue’s Twitter History](drafts:\/\/open?uuid=F490F4FE-5635-4513-9320-B5DB7E0FFE31)\n- [How to Fuck Text](drafts:\/\/open?uuid=A350D578-1CFA-4B5A-8655-74F6B3AD72AE)\n- [Please Fuck With This License](drafts:\/\/open?uuid=72DBA1B1-B506-4805-8A82-47F7C59C5DBE)\n\n_Notes_\n- [Notes-The Psalms’ 2021](drafts:\/\/open?uuid=E7E2670F-0DB1-49A1-BA26-73F3B43ACB52)\n- [Notes-Fresh Eyes on macOS](drafts:\/\/open?uuid=6C76EDBD-025D-40BA-9381-9AE95AD70F36)\n- [Notes-Hold Your Clipboard Managers Close](drafts:\/\/open?uuid=65AC8211-F3F9-419D-A7B3-EBF82E4944F1)\n- [Notes-Personal Twitter History](drafts:\/\/open?uuid=37B865E1-4372-4AF7-BB77-3979836130D4)\n- [Notes-TextFuck](drafts:\/\/open?uuid=F0E9A527-77DE-45C6-9B24-F101565AC0BE)\n- \n\n\n[Marked-Drafts Arrange](shortcuts:\/\/x-callback-url\/run-shortcut?name=Drafts-Marked)\n\n[New Draft with Template](drafts:\/\/x-callback-url\/runAction?text=%7C%7Cclipboard%7C%7C&action=Template)\n\n[New Draft with Clipboard](drafts:\/\/x-callback-url\/create?text=%7C%7Cclipboard%7C%7C)\n\n[tgrainbot](tg:\/\/resolve?domain=raindropiobot)",
+      "selectionRich" : "{368, 0}",
+      "selectionPlain" : "{25, 0}",
+      "view" : "rich",
+      "date" : "0001-01-01T00:00:00.000Z"
+    },
+    {
+      "text" : "shortcuts:\/\/x-callback-url\/run-shortcut?name=Drafts-Marked\n\nshortcuts:\/\/x-callback-url\/run-shortcut?name=Dark%20Odette\n\ndrafts:\/\/x-callback-url\/runAction?text=||clipboard||&action=new-draft-with-template\n\ndrafts:\/\/x-callback-url\/new-draft-with-template\n\ndrafts:\/\/copy\n\ndrafts:\/\/x-callback-url\/template\n\ndrafts:\/\/x-callback-url\/runAction?text=||clipboard||&action=Template\n\ndrafts:\/\/x-callback-url\/create?text=||clipboard||\n\ntweetbot:\/\/NeoYokel\/status\/1482588176569020420\n\ntweetbot:\/\/<screenname>\/post?text=clipboard\n\ntweetbot:\/\/butt_sword\/status\/1482567017978896390\n\nshortcuts:\/\/x-callback-url\/run-shortcut?name=tbmac",
+      "selectionRich" : "{118, 0}",
+      "selectionPlain" : "{0, 0}",
+      "view" : "plain",
+      "date" : "0001-01-01T00:00:00.000Z"
+    },
+    {
+      "text" : "**URL Schemes Learning**\n\n_Links_\n- [Drafts](https:\/\/docs.getdrafts.com\/docs\/automation\/urlschemes)\n- [Use x-callback-url with Shortcuts on Mac - Apple Support](https:\/\/support.apple.com\/guide\/shortcuts-mac\/use-x-callback-url-apdcd7f20a6f\/mac)\n- [Automating iOS: A Comprehensive Guide to URL Schemes and Drafts Actions - MacStories](https:\/\/www.macstories.net\/tutorials\/guide-url-scheme-ios-drafts\/)\n- [Apps | x-callback-url](http:\/\/x-callback-url.com\/apps\/)\n- [Use x-callback-url with Shortcuts on iPhone or iPad - Apple Support](https:\/\/support.apple.com\/guide\/shortcuts\/use-x-callback-url-apdcd7f20a6f\/5.0\/ios\/15.0)\n- [Supported Tweetbot 3 URL Schemes](https:\/\/tapbots.net\/tweetbot3\/support\/url-schemes\/) - [Draft](drafts:\/\/open?uuid=D9CEDA79-9CC1-489F-8684-5329F8C0BB93)",
+      "selectionRich" : "{22, 0}",
+      "selectionPlain" : "{774, 0}",
+      "view" : "rich",
+      "date" : "0001-01-01T00:00:00.000Z"
+    },
+    {
+      "text" : "**Tot Guide**\n\n**Make Tot your own.**\n\nAt the top-right of Tot’s window there is a toggle for settings. Here are some things that you can do to make the app fit your workflow:\n\n_Use a menu bar icon with a detachable window:_ With this setting, the window is tucked away at the top of your screen, but you can drag it away when needed. With this setting, there is no _Dock_ icon or application menu so this is where you can quit the app.\n\n_Appearance:_ Tot looks great whether you prefer a dark or light interface. And you’ll either love or hate the colored background, so make your choice!\n\n_Set a system-wide hotkey:_ This setting allows Tot to become a keyboard-only app: the key combination you specify will bring up the window and allow you to type or navigate with keyboard shortcuts.\n\nIn addition to the settings view, you can also configure Tot using the menu bar:\n\n_Style the text view:_ The font for both rich and plain text can be customized along with the size and tab spacing using _Format_ in the menu bar or from the context menu while you’re editing text.\n\n_Configure the text view:_ Sometimes smart quotes are just what you need, sometimes they screw up your code. Use the _Edit_ > _Substitions_ and _Spelling and Grammar_ menus to tweak the text view to your needs. Each dot has its own settings and they are synced to other devices. (They are currently unused on iOS because there's no standard way to modify the settings there.)\n\n_Floating window:_ When you're taking notes, it can be helpful to have Tot's window above all others. Use _Window_ > _Display as Floating Window_ and the window will always be visible and ready to go!\n\nAnd speaking of menus, if you find an item with a keyboard combo that you don't like (switching tabs!), take a look at our [handy guide for customizing shortcuts](https:\/\/support.iconfactory.com\/kb\/tot\/keyboard-shortcuts-in-tot).\n\n**Tot loves links.**\n\nWhether you’re in plain text or rich text, Tot handles links intelligently. If you drag a link from a web browser, you’ll get the page title and URL formatted as rich text or as Markdown inline link. In plain text mode, it’s easy to edit the parts individually; rich text gives you a clickable link.\n\nThis conversion also happens if you copy and paste a block of text from a web page: text and links are converted on the fly. If you’re entering URLs manually, they’ll automatically be detected as you type.\n\nLinks aren’t limited to just web pages. [Click here](dict:\/\/tot) to see \"tot\" in the dictionary. Here are other useful examples:\n\n<dict:\/\/CHOCK>\n<x-bbedit:\/\/open?url=file:\/\/\/etc\/hosts>\n<facetime:18005551212>\n<tel:1-800-555-1212>\n<ssh:\/\/root@example.com>\n\nTry dragging a message from Mail into Tot’s window: you will get [a link](https:\/\/daringfireball.net\/2007\/12\/message_urls_leopard_mail) that’s a simple way to reference conversations and other information!\n\nFinally, Tot has its own URL scheme that can automate tasks. It works like this:\n\ntot:\/\/ + _host_ + _operation_ + ? + _parameter_\n\nThe _host_ is \"1\" to \"7\" and will open the numbered dot (left to right). If you specify \"empty\", the first empty dot is selected. Use \"settings\" and \"help\" to open their views.\n\nThe _operation_ can be specified for dots; use \"\/prepend\" to insert text at the beginning, \"\/append\" to add to the end, or \"\/replace\" the entire contents of dot. The _parameter_ is \"text\" and a URL encoded string. For example, <tot:\/\/1\/append?text=odds+%26+ends%0A> will add some text to the end of the first dot. To open the first dot from the Terminal, use _open_ and this URL:\n\n$ open tot:\/\/1\n\nIf you’re using the scheme from an AppleScript, \"\/content\" will return the text from the selected dot. Try this:\n\n$ osascript -e 'tell application \"Tot\" to open location \"tot:\/\/6\/content\"'\n\nThere is no support for rich text in the URL scheme: use Markdown in plain text to get formatting. If this functionality appeals to you, look at [this shell script](https:\/\/gist.github.com\/chockenberry\/d33ef5b6e6da4a3e4aa9b07b093d3c23).\n",
+      "selectionRich" : "{0, 9}",
+      "selectionPlain" : "{0, 4007}",
+      "view" : "plain",
+      "date" : "0001-01-01T00:00:00.000Z"
+    },
+    {
+      "text" : "Tot Tweet\n\nshortcuts run “a”",
+      "selectionRich" : "{11, 17}",
+      "selectionPlain" : "{21, 0}",
+      "view" : "rich",
+      "date" : "0001-01-01T00:00:00.000Z"
+    }
+  ]
+}

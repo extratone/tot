@@ -1,0 +1,13 @@
+
+Tot 1.2.4
+
+macOS:
+
+• Local backups of iCloud data are now done automatically:
+	- View latest backups with File > Show Automatic Backups
+	- Backups are JSON files encoded in UTF-8
+	- Restore a backup with File > Restore Backup…
+	- Backups are updated as needed every hour
+• Increased contrast of unused dots in dark mode [Yay Mark!]
+• Keyboard shortcuts like ⌘G now work correctly while Find panel is displayed [Yay Ben!]
+• Improved compatibility with Bartender [Yay Michal!]

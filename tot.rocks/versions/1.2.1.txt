@@ -1,0 +1,27 @@
+
+Tot 1.2.1
+
+All:
+
+• Dot defragger: compacts dots to keep things clean and organized:
+  - Cleans up dots by moving full ones to the left and empty ones to the right
+  - iOS: Use “Compact Dots” in share sheet (or tap & hold on share icon)
+  - macOS: Use Window > Compact Dots… (or ⇧⌘D)
+• AutoList will only remove bullets if they are in the middle of a list [Thanks Ian!]
+• Fixed check for 100,000 characters: deleting text no longer triggers the alert
+• If the first paragraph of a dot is mostly Arabic or Hebrew, the text will automatically switch to using a Right-to-Left writing direction [Thanks Ezra!]
+• In plain text, ⌘B and ⌘I inserts a single Markdown character without a selection (this previously only worked with selected text)
+
+
+macOS:
+
+• New symbol picker added to status bar:
+  - Click on the asterisk to get a popover with symbols
+  - Pick a bullet to start a new list, Emoji to add status, or any other symbol
+  - A quick alternative to ⌃⌘Spacebar
+
+
+iOS:
+
+• Fixed sample text at first launch
+
