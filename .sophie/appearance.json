@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "Type",
+    "TagPillsx"
+  ]
+}

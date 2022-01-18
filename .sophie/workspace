@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "c56287c85aa902cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "87b60c8ee55bb65f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Notes - Min Browser Review.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7f22f7b89196720a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Instrument Panel.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eaaf6ed8875ccbc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a774cce0165e6179",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8525fb2ccc87e9a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "29943dd4edf5e0e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a31c02ce05a2642",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0cef6f03eb44c1e0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 173.00680351257324,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ede937ddfac9f863",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a35322e00c82611",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5edc6dd332d2fe00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "326397920c54bd0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Instrument Panel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4499de9cfe87a736",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Instrument Panel.md"
+              }
+            }
+          },
+          {
+            "id": "4ebfc0f906a626a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Instrument Panel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 118,
+    "collapsed": true
+  },
+  "active": "7f22f7b89196720a",
+  "lastOpenFiles": [
+    "Instrument Panel.md",
+    "notes/Notes - Min Browser Review.md",
+    "time/Priority 1.md",
+    "time/NOT The Psalms.md",
+    "time/Two Weeks.md",
+    "time/90 Days.md",
+    "notes/Untitled 1.md",
+    "time/All Psalms Tasks.md",
+    "notes/Untitled.md",
+    "notes/Legacy - MinBrowserNotes.md"
+  ]
+}
