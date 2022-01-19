@@ -1,0 +1,128 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 SFProText-Bold;\f1\fnil\fcharset0 SFProText-Regular;\f2\fnil\fcharset0 SFProText-RegularItalic;
+\f3\fnil\fcharset0 SFProText-BoldItalic;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\deftab720
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f0\b\fs28 \cf0 Tot Scheme
+\f1\b0 \
+tot:// + 
+\f2\i host
+\f1\i0  + 
+\f2\i operation
+\f1\i0  + ? + 
+\f2\i parameter
+\f1\i0 \
+\
+The 
+\f2\i host
+\f1\i0  is "1" to "7" and will open the numbered dot (left to right). If you specify "empty", the first empty dot is selected. Use "settings" and "help" to open their views.\
+\
+The 
+\f2\i operation
+\f1\i0  can be specified for dots; use "/prepend" to insert text at the beginning, "/append" to add to the end, or "/replace" the entire contents of dot. The 
+\f2\i parameter
+\f1\i0  is "text" and a URL encoded string. For example, {\field{\*\fldinst{HYPERLINK "tot://1/append?text=odds+%26+ends%0A"}}{\fldrslt tot://1/append?text=odds+%26+ends%0A}} will add some text to the end of the first dot. To open the first dot from the Terminal, use 
+\f2\i open
+\f1\i0  and this URL:\
+\
+$ open {\field{\*\fldinst{HYPERLINK "tot://1"}}{\fldrslt tot://1}}\
+\
+If you\'92re using the scheme from an AppleScript, "/content" will return the text from the selected dot. Try this:\
+\
+$ osascript -e 'tell application "Tot" to open location "{\field{\*\fldinst{HYPERLINK "tot://6/content"}}{\fldrslt tot://6/content}}"'\
+\
+There is no support for rich text in the URL scheme: use Markdown in plain text to get formatting. If this functionality appeals to you, look at {\field{\*\fldinst{HYPERLINK "https://gist.github.com/chockenberry/d33ef5b6e6da4a3e4aa9b07b093d3c23"}}{\fldrslt this shell script}}. \
+\
+{\field{\*\fldinst{HYPERLINK "file://Library/Mobile%20Documents/com~apple~CloudDocs/1Tot"}}{\fldrslt file://Library/Mobile Documents/com~apple~CloudDocs/1Tot}}\
+\
+
+\f0\b Telegram
+\f1\b0 \
+\
+{\field{\*\fldinst{HYPERLINK "tg://msg?text="}}{\fldrslt tg://msg?text=}}\
+\
+{\field{\*\fldinst{HYPERLINK "tg://msg?text=%5B%5Bdraft"}}{\fldrslt tg://msg?text=[[draft}}]]\
+\
+[[[[[[[tg://msg?text=[[draft]]&to=+15738234380](tg://msg?text=%5B%5Bdraft%5D%5D&to=+15738234380)]({\field{\*\fldinst{HYPERLINK "tg://msg?text=%5B%5Bdraft%5D%5D&to=+15738234380"}}{\fldrslt tg://msg?text=%5B%5Bdraft%5D%5D&to=+15738234380}})]({\field{\*\fldinst{HYPERLINK "tg://msg?text=%5B%5Bdraft%5D%5D&to=+15738234380"}}{\fldrslt tg://msg?text=%5B%5Bdraft%5D%5D&to=+15738234380}})]({\field{\*\fldinst{HYPERLINK "tg://msg?text=%5B%5Bdraft%5D%5D&to=+15738234380"}}{\fldrslt tg://msg?text=%5B%5Bdraft%5D%5D&to=+15738234380}})]({\field{\*\fldinst{HYPERLINK "tg://msg?text=%5B%5Bdraft%5D%5D&to=+15738234380"}}{\fldrslt tg://msg?text=%5B%5Bdraft%5D%5D&to=+15738234380}})]({\field{\*\fldinst{HYPERLINK "tg://msg?text=%5B%5Bdraft%5D%5D&to=+15738234380"}}{\fldrslt tg://msg?text=%5B%5Bdraft%5D%5D&to=+15738234380}})]({\field{\*\fldinst{HYPERLINK "tg://msg?text=%5B%5Bdraft%5D%5D&to=+15738234380"}}{\fldrslt tg://msg?text=%5B%5Bdraft%5D%5D&to=+15738234380}}) pee\
+\
+{\field{\*\fldinst{HYPERLINK "telegram://msg?text=pee&to=+15738234380"}}{\fldrslt telegram://msg?text=pee&to=+15738234380}} pee\
+\
+{\field{\*\fldinst{HYPERLINK "telegram://msg?text=pee&to=raindropiobot"}}{\fldrslt telegram://msg?text=pee&to=raindropiobot}}\
+\
+{\field{\*\fldinst{HYPERLINK "tg://resolve?domain=raindropiobot"}}{\fldrslt tg://resolve?domain=raindropiobot}}\
+\
+{\field{\*\fldinst{HYPERLINK "tg://join?invite="}}{\fldrslt tg://join?invite=}}\
+\
+{\field{\*\fldinst{HYPERLINK "tg://addstickers?set="}}{\fldrslt tg://addstickers?set=}}\
+\
+{\field{\*\fldinst{HYPERLINK "tg://msg_url?=macswift/87752"}}{\fldrslt tg://msg_url?=macswift/87752}}\
+\
+{\field{\*\fldinst{HYPERLINK "tg://confirmphone?"}}{\fldrslt tg://confirmphone?}}\
+\
+{\field{\*\fldinst{HYPERLINK "tg://socks?"}}{\fldrslt tg://socks?}}\
+\
+{\field{\*\fldinst{HYPERLINK "tg://proxy?"}}{\fldrslt tg://proxy?}}\
+\
+{\field{\*\fldinst{HYPERLINK "tg://resolve/?domain="}}{\fldrslt tg://resolve/?domain=}}\
+\
+
+\f0\b Tweetbot
+\f1\b0 \
+\
+tweetbot://<screenname>/timeline\
+tweetbot://<screenname>/mentions\
+tweetbot://<screenname>/retweets\
+tweetbot://<screenname>/direct_messages\
+tweetbot://<screenname>/lists\
+tweetbot://<screenname>/favorites\
+tweetbot://<screenname>/search\
+tweetbot://<screenname>/search?query=<text>\
+tweetbot://<screenname>/status/<tweet_id>\
+tweetbot://<screenname>/user_profile/<profile_screenname>\
+tweetbot://<screenname>/post\
+tweetbot://<screenname>/post?text=<text>\
+tweetbot://<screenname>/post?text=<text>&callback_url=<url>&in_reply_to_status_id=<tweet_id>\
+tweetbot://<screenname>/search?query=<text>&callback_url=<url>\
+tweetbot://<screenname>/status/<tweet_id>?callback_url=<url>\
+tweetbot://<screenname>/user_profile/<screenname|user_id>?callback_url=<url>\
+tweetbot://<screenname>/follow/<screenname|user_id>\
+tweetbot://<screenname>/unfollow/<screenname|user_id>\
+tweetbot://<screenname>/favorite/<tweet_id>\
+tweetbot://<screenname>/unfavorite/<tweet_id>\
+tweetbot://<screenname>/retweet/<tweet_id>\
+tweetbot://<screenname>/list/<list_id>?callback_url=<url>\
+\
+
+\f0\b Misc
+\f1\b0 \
+\
+{\field{\*\fldinst{HYPERLINK "shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette"}}{\fldrslt shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette}}\
+\
+{\field{\*\fldinst{HYPERLINK "drafts://x-callback-url/create?text=%7C%7Cclipboard%7C%7C"}}{\fldrslt drafts://x-callback-url/create?text=||clipboard||}}\
+\
+{\field{\*\fldinst{HYPERLINK "drafts://x-callback-url/runAction?text=%7C%7Cclipboard%7C%7C&action=Template"}}{\fldrslt drafts://x-callback-url/runAction?text=||clipboard||&action=Template}}\
+\
+
+\f0\b iMessage
+\f1\b0 \
+\
+imessage --text "<clipboard>" --contacts "{\field{\*\fldinst{HYPERLINK "mailto:asphaltapostle@icloud.com"}}{\fldrslt asphaltapostle@icloud.com}}"\
+\
+imessage --text "GoodMorning" --contacts "{\field{\*\fldinst{HYPERLINK "mailto:asphaltapostle@icloud.com"}}{\fldrslt asphaltapostle@icloud.com}}" --attachment '2021.png'\
+\
+
+\f3\i\b Messages Subjects Field
+\f1\i0\b0  \
+\
+Enable: defaults write com.apple.MobileSMS MMSShowSubject 1\
+Disable: defaults write com.apple.MobileSMS MMSShowSubject 0\
+\
+\
+\
+{\field{\*\fldinst{HYPERLINK "tg://resolve?domain=raindropiobot"}}{\fldrslt tg://resolve?domain=raindropiobot}} \
+\
+\
+}

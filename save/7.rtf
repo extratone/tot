@@ -1,0 +1,109 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 SFProText-Regular;\f1\fnil\fcharset0 SFProText-Bold;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\deftab720
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf0 omg what a special moment\'85\
+\
+I basically witnessed the birth of a local Telegram group in real time\'85\
+\
+so much potential\'85 how long do you think this wild creature will survive before it is overcome with sex and crypto bots? {\field{\*\fldinst{HYPERLINK "https://t.me/c/1251203901/5"}}{\fldrslt https://t.me/c/1251203901/5}}\
+\
+{\field{\*\fldinst{HYPERLINK "https://t.me/c/1251203901/5"}}{\fldrslt ===}}\
+\
+{\field{\*\fldinst{HYPERLINK "https://t.me/c/1251203901/5"}}{\fldrslt System}} Colors Telegram Themes\
+SYSTEM COLORS Themes for iOS-Bound Telegram \'96 Telegraph\
+{\field{\*\fldinst{HYPERLINK "https://telegra.ph/SYSTEM-COLORS-Themes-for-iOS-Bound-Telegram-09-27"}}{\fldrslt https://telegra.ph/SYSTEM-COLORS-Themes-for-iOS-Bound-Telegram-09-27}}\
+\
+{\field{\*\fldinst{HYPERLINK "https://telegra.ph/SYSTEM-COLORS-Themes-for-iOS-Bound-Telegram-09-27"}}{\fldrslt SYSTEM COLORS Themes for iOS-Bound Telegram \'96 Telegraph}}\
+\
+{\field{\*\fldinst{HYPERLINK "https://t.me/addtheme/systemblue"}}{\fldrslt -}} {\field{\*\fldinst{HYPERLINK "https://t.me/addtheme/systemblue"}}{\fldrslt SYSTEM BLUE}}\
+{\field{\*\fldinst{HYPERLINK "https://t.me/addtheme/systempink"}}{\fldrslt -}} {\field{\*\fldinst{HYPERLINK "https://t.me/addtheme/systempink"}}{\fldrslt SYSTEM PINK}}\
+{\field{\*\fldinst{HYPERLINK "https://t.me/addtheme/systempurple"}}{\fldrslt -}} {\field{\*\fldinst{HYPERLINK "https://t.me/addtheme/systempurple"}}{\fldrslt SYSTEM PURPLE}}\
+{\field{\*\fldinst{HYPERLINK "https://t.me/addtheme/systemred"}}{\fldrslt -}} {\field{\*\fldinst{HYPERLINK "https://t.me/addtheme/systemred"}}{\fldrslt SYSTEM RED}}\
+{\field{\*\fldinst{HYPERLINK "https://t.me/addtheme/systemgreen"}}{\fldrslt -}} {\field{\*\fldinst{HYPERLINK "https://t.me/addtheme/systemgreen"}}{\fldrslt SYSTEM GREEN}}\
+{\field{\*\fldinst{HYPERLINK "https://t.me/addtheme/systemorange"}}{\fldrslt -}} {\field{\*\fldinst{HYPERLINK "https://t.me/addtheme/systemorange"}}{\fldrslt SYSTEM ORANGE\
+-}} \
+\
+Apollo: First App in 8K?\
+Wrapping Paper\
+Peachv\
+Sandals 'n Socks\
+Pro Wrestler\
+A+ Intontation\
+Yo. Jonathan Here.\
+Margaret\
+Icons Drop Test\
+ATP\
+Phil\
+Canada D'Eh\
+America!\
+Super America\
+UK, Hugh Laurie\
+Ernest\
+SUS\
+Karol Tylke\
+Teal All the Things\
+\
+\
+
+\f1\b Sticker Packs
+\f0\b0 \
+- 2021 {\field{\*\fldinst{HYPERLINK "Perditionhttps://t.me/addstickers/perdition_by_stickersthiefbot"}}{\fldrslt Perditionhttps://t.me/addstickers/perdition_by_stickersthiefbot}} \
+- {\field{\*\fldinst{HYPERLINK "https://t.me/addstickers/grotesque_by_stickersthiefbot"}}{\fldrslt https://t.me/addstickers/grotesque_by_stickersthiefbot}} \
+- Extending Emoji I - {\field{\*\fldinst{HYPERLINK "https://telegram.me/addstickers/ExtendingEmoji_by_stickersthiefbot"}}{\fldrslt https://telegram.me/addstickers/ExtendingEmoji_by_stickersthiefbot}} \
+- Extending Emoji II - {\field{\*\fldinst{HYPERLINK "https://telegram.me/addstickers/ExtendingEmoji2_by_stickersthiefbot"}}{\fldrslt https://telegram.me/addstickers/ExtendingEmoji2_by_stickersthiefbot}} \
+\
+"Whites, it must frankly be said, are not putting in a similar mass effort to reeducate themselves out of their racial ignorance. It is an aspect of their sense of superiority that the white people of America believe they have so little to learn."\
+\'97 MLK, Jr. \
+\'97 \
+\
+```\
+-- The base folder where you want to backup the TextExpander snippets\
+set strBaseFolder to "/Users/stephen/Dropbox/Temp/TextExpander"\
+-- Set bTimebased to true to save to a new sub directory on each run\
+set bTimebased to true\
+-- Set bZip to archive exported snippet groups\
+set bZip to true\
+\
+-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\
+\
+-- If any time based processing is to be used append a timestamp to the directory\
+if (bTimebased or bZip) then\
+    set strBaseFolder to strBaseFolder & "/" & pyTimestamp(current date)\
+end if\
+\
+-- Create any required directory structure\
+do shell script "mkdir -p \\"" & strBaseFolder & "/\\""\
+\
+-- Export all TextExpander snippet groups\
+tell application "TextExpander"\
+    repeat with objGroup in groups\
+        set strFilename to strBaseFolder & "/" & (name of objGroup) & ".textexpander"\
+        save objGroup in strFilename\
+    end repeat\
+\
+\
+    -- If the option is set ZIP the resulting folder of files\
+    if bZip then\
+        -- Create the ZIP file\
+        do shell script "zip -jr \\"" & strBaseFolder & ".zip\\" \\"" & strBaseFolder & "/\\""\
+        -- Remove the intermediate directory of files\
+        do shell script "rm -rf \\"" & strBaseFolder & "/\\""\
+        display notification (((count groups) as string) & " snippet groups backed up to \
+" & strBaseFolder & ".zip") with title "TextExpander Snippet Backup"\
+    else\
+        display notification (((count groups) as string) & " snippet groups backed up to \
+" & strBaseFolder) with title "TextExpander Snippet Backup"\
+    end if\
+end tell\
+\
+-- Timestamp generation script based on script published by MacDrifter\
+-- http://www.macdrifter.com/2011/12/timestamps-in-applescript.html\
+on pyTimestamp(AS_Date)\
+    set timeFormat to quoted form of "%Y-%m-%d-%H.%M.%S"\
+    return (do shell script "/usr/bin/python -c \\"import time, dateutil.parser; print dateutil.parser.parse('" & AS_Date & "').strftime(" & timeFormat & "); \\"")\
+end pyTimestamp\
+```}
