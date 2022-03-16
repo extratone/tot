@@ -1,5 +1,17 @@
-![Cute Git](https://user-images.githubusercontent.com/43663476/117531764-d6064100-afa9-11eb-9e09-783e189abe8e.gif)
+![Tot Folder](https://user-images.githubusercontent.com/43663476/158552488-89d6e176-fc0a-4f4e-8a27-d486cd334226.png)
 
-# David Blue's GitHub Repository Template
+An experiment in cross-platform git tracking with [Tot](https://apps.apple.com/us/app/tot/id1491071483?mt=12) and [Tot Pocket](https://apps.apple.com/us/app/tot-pocket/id1498235191) 
 
-Howdy! I'm new to all of this and yet I've already grown quite tired of things like Labels not being set up the way I prefer, so I created this template for myself. It is very much a work in progress. I've left it public just in case it'd be of use to anyone else, and I hope it is! If there's any way I can catalyze that, please do reach out!
+[ONE](tot://1)
+
+[TWO](tot://2)
+
+[THREE](tot://3)
+
+[FOUR](tot://4)
+
+[FIVE](tot://5)
+
+[SIX](tot://6)
+
+[SEVEN](tot://7)
