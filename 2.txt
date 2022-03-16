@@ -1,0 +1,51 @@
+**Tot Keys**
+- **⌘/** = Show/Hide Status Bar
+- **⇧⌘T** = Switch to Plain Text View
+- **⌘,** = Preferences
+- **⌘⌥,** = Theme Preferences
+- **⌘⌥⇦⇨** = Tot Switch
+- **⌘0** = Empty Tot
+- **⇧⌘S** = Save File
+- **⌘S** = Save Version
+- **⌥⌘S** = Save Backup
+- **⌥⌘R** = Restore Backup
+
+**Todo**
+- [Write.as Siri Shortcuts](drafts://open?uuid=C616958C-BFDE-4B6C-A7E9-05CBAF394E08)
+- [Generate Shortcuts x-callback Links (macOS)](drafts://open?uuid=400D3AE6-CBA9-4272-B681-92B9131ED7B3)
+- WhatCMS API tools
+- AppWishIDs
+- Batch rename image files by sampling from an Extract Text from Image Action, intelligently truncated.
+- Post to Write.as Blog (iOS) - with a-Shell?
+- Taio & Drafts Integration with [URL Schemes](https://docs.taio.app/#/integration/url-schemes)
+- Drafts Themes inspired by [Mineshaft Gold](https://t.me/addtheme/mineshaftgold2022) and [Japan Serenity](https://t.me/addtheme/japanserenity2022)
+- Big Complex [iOS System Sounds](https://github.com/extratone/iOSSystemSounds) shortcut
+- SSH with Working Copy
+- Learning to use the Snap.as CLI/Snap.as Siri Shortcuts
+- Shortcuts Horn Buttons
+- Bear links to Tot?
+- Figure out Zalgo Shortcuts
+- Figure out how GitHub Wikis actually work and organize [The Psalms’ Wiki](https://github.com/extratone/bilge/wiki)
+- WriteFreely community Telegram Group?
+- Learn [Paste Stacks](https://pasteapp.io/help/paste-stack-51)
+- Update [NeoCities Homepage Text](drafts://open?uuid=D1E2EEA4-95BC-4837-BE96-387BC11E0037)
+- LookUp Collection ⇨ Spoken Audio File
+- [Submit to](https://www.earratmag.com/p/submissions.html) _[Ear Rat](https://www.earratmag.com/p/submissions.html)_[’s 90s Issue by March 31st](https://www.earratmag.com/p/submissions.html)
+- A Safari Extension for iOS that cleans links
+- Bear Siri Shortcuts
+- Bear Keyboard Shortcuts
+- Bear URL Schemes
+- More extensive Panda testing?
+- Services/Shortcuts in macOS
+- 
+⌦ ⌦ ⌦ ⌦ 
+
+**Reading**
+- [Toolbox Pro Review: A Must-Have Companion Utility for Shortcuts Power Users](https://www.macstories.net/reviews/toolbox-pro-review-a-must-have-companion-utility-for-shortcuts-power-users/)
+- [Drafts 15 Review: Multiwindow, Shortcuts, and More](https://www.macstories.net/reviews/drafts-15-review-multiwindow-shortcuts-and-more/)
+- “[Automating iOS: A Comprehensive Guide to URL Schemes and Drafts Actions](drafts://open?uuid=A944CF95-DE24-47AA-BC50-CB03E1A20396)”
+
+
+**Tools**
+- [ColorHound](http://colorhound.net)
+- [HTML HOUSE](https://html.house)
