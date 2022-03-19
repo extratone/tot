@@ -37,7 +37,7 @@
 - Bear URL Schemes
 - More extensive Panda testing?
 - Services/Shortcuts in macOS
-- 
+ 
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**

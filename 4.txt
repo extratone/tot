@@ -34,3 +34,9 @@ From the Tot version 1.3 Testflight notes:
 
 defaults write -g ApplePressAndHoldEnabled -bool false
 
+brew cleanup
+
+echo \\033OQ | xxd -r -p
+
+snippetslab://search/{query}
+snippetslab://search/[[selection\_only]] snippetslab://search/pee

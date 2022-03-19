@@ -5,6 +5,8 @@ T       O       T               L       E       A       R       N
 
 [symbol](shortcuts://run-shortcut?name=symbol)
 
+[cc](shortcuts://run-shortcut?name=cc)
+[hide](shortcuts://run-shortcut?name=hide)
 [RoutinePub](shortcuts://run-shortcut?name=RoutinePub)
 [Shortcut Source Tool](shortcuts://run-shortcut?name=Shortcut%20Source%20Tool)
 [Action Directory](shortcuts://run-shortcut?name=Action%20Directory)
@@ -102,7 +104,7 @@ _Documentation_
 - Bear URL Schemes
 - More extensive Panda testing?
 - Services/Shortcuts in macOS
-- 
+ 
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
@@ -164,7 +166,12 @@ From the Tot version 1.3 Testflight notes:
 
 defaults write -g ApplePressAndHoldEnabled -bool false
 
----- [Notes-TildeTown on iPhone with Blink Shell](drafts://open?uuid=31122181-5565-4F1C-BEA3-C22DA140619A)
+brew cleanup
+
+echo \\033OQ | xxd -r -p
+
+snippetslab://search/{query}
+snippetslab://search/[[selection\_only]] snippetslab://search/pee---- [Notes-TildeTown on iPhone with Blink Shell](drafts://open?uuid=31122181-5565-4F1C-BEA3-C22DA140619A)
 - [David Blue’s WORLD FAMOUS Fast n’ Loose™ Siri Shortcuts for](drafts://open?uuid=68F049EC-59AF-4A49-885F-698BB9653400) [𝚂𝙲𝚁𝚄𝙱𝚂](drafts://open?uuid=68F049EC-59AF-4A49-885F-698BB9653400)
 - [End User Episode 9](drafts://open?uuid=69EA3CC6-7081-47B4-B4AB-C16E5C7E8417)
 - [App Store Reviews](drafts://open?uuid=25628140-FC0A-4DBF-96BE-1E7624E9F50A)

@@ -5,6 +5,8 @@ T       O       T               L       E       A       R       N
 
 [symbol](shortcuts://run-shortcut?name=symbol)
 
+[cc](shortcuts://run-shortcut?name=cc)
+[hide](shortcuts://run-shortcut?name=hide)
 [RoutinePub](shortcuts://run-shortcut?name=RoutinePub)
 [Shortcut Source Tool](shortcuts://run-shortcut?name=Shortcut%20Source%20Tool)
 [Action Directory](shortcuts://run-shortcut?name=Action%20Directory)
