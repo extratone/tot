@@ -17,3 +17,10 @@ _[BearTest](bear://x-callback-url/open-note?id=E2DE96E8-7C98-4403-AD5B-586C2048F
 - 
 
   **“keys”** | 03202022-073249 
+
+
+Noir Support
+
+Open Dictionary for me
+
+x-help-action://openApp?bundleId=com.apple.Dictionary
