@@ -37,6 +37,8 @@
 - Bear URL Schemes
 - More extensive Panda testing?
 - Services/Shortcuts in macOS
+- Odesli Drafts action?
+- Search Action Directory Action
  
 ⌦ ⌦ ⌦ ⌦ 
 
