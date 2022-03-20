@@ -50,6 +50,7 @@ _Social/Family_
 - [Underdocumented iOS Manuevers Thread](https://www.reddit.com/r/ios/comments/l5p7ly/underdocumented_ios_functions_stuff_you_wish/)
 - [Recommended Apps](drafts://open?uuid=C11B9C28-5584-414B-8C22-D0ACFCA339D0)
 - [Tilde Guide Tweet](https://twitter.com/NeoYokel/status/1503187276444098560)
+- [about - The Tilde Whirl Podcast](http://tilde.town/~dozens/podcast/about.html)
 
 _Documentation_
 - [Siri Shortcuts for Telegram](drafts://open?uuid=3260C6BA-1CA8-4ADB-9888-98601FADD82F)
@@ -107,6 +108,7 @@ _Documentation_
 - Services/Shortcuts in macOS
 - Odesli Drafts action?
 - Search Action Directory Action
+- [Snap Lens Documentation](https://docs.snap.com/lens-studio/references/guides/overview/)
  
 ⌦ ⌦ ⌦ ⌦ 
 
@@ -133,7 +135,10 @@ _[BearTest](bear://x-callback-url/open-note?id=E2DE96E8-7C98-4403-AD5B-586C2048F
 - [On Drafts and Obsidian](bear://x-callback-url/open-note?id=1370F643-9CD2-4B55-8C06-61A596AFA4C0-596-0000000E21830D7A) (Bear)
 - [How to Fuck Text](bear://x-callback-url/open-note?id=9F12813D-74E7-498B-8CC4-1B23DB6B33C7-20824-000024D69F569FB9)
 - [iPad Diaries: Working with Drag and Drop – Bear and Gladys](bear://x-callback-url/open-note?id=F5F74BDA-3884-4376-9538-0CDDDAE5E1A9-20824-000024AC62301A7C)
-- [Why I’m Considering Bear as a Notes App Replacement](bear://x-callback-url/open-note?id=ADA46854-09EE-479E-BC4E-ADD5604A62D5-20824-000024A929A0E1A7)---**Tot Shortcuts**
+- [Why I’m Considering Bear as a Notes App Replacement](bear://x-callback-url/open-note?id=ADA46854-09EE-479E-BC4E-ADD5604A62D5-20824-000024A929A0E1A7)
+- 
+
+  **“keys”** | 03202022-073249 ---**Tot Shortcuts**
 - [Append Drafts Tag Index to Tot](https://www.icloud.com/shortcuts/d23d57ac8bb04c77a12f274ede4e9656) 
 - [Tot Action Showcase](https://www.icloud.com/shortcuts/471dddd770e84e93a687f87d580ab3a3)
 - [Tot Consolidated Backup](https://www.icloud.com/shortcuts/b40c48899fd84941b7e5342c16d52fd2)
@@ -501,7 +506,11 @@ _Links_
 - [David Blue‘s Drafts Configs](drafts://open?uuid=38A942A2-33C4-4630-9CDE-B005989F4E3A)
 - 
 
----- [Notes-TildeTown on iPhone with Blink Shell](drafts://open?uuid=31122181-5565-4F1C-BEA3-C22DA140619A)
+---         (\_\_)
+         (oo)
+         /\\/\\
+Cocown  (\\==/)
+         \\<>/- [Notes-TildeTown on iPhone with Blink Shell](drafts://open?uuid=31122181-5565-4F1C-BEA3-C22DA140619A)
 - [End User Episode 9](drafts://open?uuid=69EA3CC6-7081-47B4-B4AB-C16E5C7E8417)
 - [Please Fuck With This License](drafts://open?uuid=FAFFA333-34A5-4412-B46C-3D216C09FD8E)
 - [The Psalms Action Group](drafts://open?uuid=7580294A-E97B-4614-AAF6-4E4A63358E6E)
@@ -637,7 +646,7 @@ _Links_
 - [iOS 15’s Last Bullets](drafts://open?uuid=8757F54B-420D-491C-BCD2-A33FFD6F99F3)
 - [Drafts 28 Bluetooth Keyboard Considerations](drafts://open?uuid=F74B3E82-8A13-445D-B0DD-0EF2ED52773E)
 - [Drafts 28.0 Release Notes](drafts://open?uuid=A7AA40AC-664F-49ED-9381-D6ABEB1C6681)
-- [Embed <audio> Element: ⇧⌃A](drafts://open?uuid=E3D8E967-1822-4D60-8CC0-BCA31A1861F4)
+- [Embed <audio> Element:](drafts://open?uuid=E3D8E967-1822-4D60-8CC0-BCA31A1861F4) [⇧⌃](drafts://open?uuid=E3D8E967-1822-4D60-8CC0-BCA31A1861F4)[A](drafts://open?uuid=E3D8E967-1822-4D60-8CC0-BCA31A1861F4)
 - [NOTES: Underdocumented Maneuvers in iOS](drafts://open?uuid=464F92D4-5A63-4447-BBF7-CB1B0D885568)
 - [Twitter Thread:](drafts://open?uuid=101762F8-538A-454D-9049-F6E391483EC7)
 - [Shortcuts User Group Transcript](drafts://open?uuid=7FD1C728-9A20-4993-8D35-C1837A49BC62)
@@ -651,7 +660,7 @@ _Links_
 - [Overflow](drafts://open?uuid=6B55D761-4FCA-4553-9446-E2B956ADF549)
 - [iOS 15 MacStories Discord Message](drafts://open?uuid=1F1EFADA-2284-4172-B429-CEB70F2CEE09)
 - [iOS 15 Reviewed for My Family 2021-09-14-04.29.08 Backup](drafts://open?uuid=31C3D084-49AE-4677-ACCF-BD51AF09CBEE)
-- [/* Written in November 2020 by David Blue for bilge.world.](drafts://open?uuid=71AFC3F0-F8BF-490D-914C-A1F5470A1BE9)
+- [/\* Written in November 2020 by David Blue for bilge.world.](drafts://open?uuid=71AFC3F0-F8BF-490D-914C-A1F5470A1BE9)
 - [Reminders Backup Shortcut Documentation](drafts://open?uuid=2E7B3F43-84D3-4043-8CDD-02B03E8BAB15)
 - [Audio Recording Apps](drafts://open?uuid=FA42C451-169C-4E83-96BF-321B5CD729D6)
 - [MacStories Discord General Correspondence](drafts://open?uuid=FAB72C67-5029-4423-9C3B-A7BF584237FC)
@@ -684,7 +693,7 @@ _Links_
 - [Notes - Preface](drafts://open?uuid=EBF75B28-1102-4F47-85EC-D9CF68607FD0)
 - [The ExtraKeys Universal Clacker Award](drafts://open?uuid=863860F1-C4D8-4559-825A-21C86DCF868A)
 - [Bluetooth Keyboard Section in the Official iPhone User Guide](drafts://open?uuid=016B77F0-F48D-4D36-A5A3-4C84FD27199F)
-- [if you’re *absolutely positive* you want to know more, I’ve tossed most of my findings in this GitHub issue over the past few months: https://github.com/extratone/bilge/issues/79](drafts://open?uuid=0F035275-0916-455A-B9BC-E8D2A884BDBF)
+- [if you’re \*absolutely positive\* you want to know more, I’ve tossed most of my findings in this GitHub issue over the past few months: https://github.com/extratone/bilge/issues/79](drafts://open?uuid=0F035275-0916-455A-B9BC-E8D2A884BDBF)
 - [Echoes in Twitter Spaces](drafts://open?uuid=3332A5DA-5001-4C81-B1DB-FC1580A7C91C)
 - [WF Workflow Social](drafts://open?uuid=99864B0C-2D08-4760-979E-48A4CA4C0298)
 - [Notes: Writeas/WriteFreely iOS Publishing Workflow](drafts://open?uuid=0A53E1CC-C30F-4690-A8E7-6F7CCB107879)
@@ -729,3 +738,38 @@ _Links_
 - [Google Will Soon Replace God and The Church](drafts://open?uuid=DF5E8457-53A6-4423-B125-54CC8BF88251)
 - [Mark Fuck and the Goofy Godheads](drafts://open?uuid=DC58C318-F899-4165-9D7D-6F213F60D2C8)
 - [Why I Write About Technology](drafts://open?uuid=B554E17B-5310-4DCD-8F03-CB56859E249D)
+- 
+
+[dariusforoux]: https://dariusforoux.com/one-thing/
+[googleapis]: https://storage.googleapis.com/snap-inc/brand-guidelines/snapchat-brand-standards.pdf
+[mastodon]: https://mastodon.social/web/getting-started
+[sindresorhus]: https://sindresorhus.com/apps
+[sindresorhus 2]: https://newsletter.sindresorhus.com/
+[snap]: https://docs.snap.com/lens-studio/references/guides/overview/
+[snap 2]: https://snap.com/en-US/brand-guidelines
+[thecut]: https://www.thecut.com/2022/02/a-vibe-shift-is-coming.html
+[theverge]: https://www.theverge.com/22984200/silicon-valley-tech-power-journalism-biden-trump
+[twitter]: https://twitter.com/HaggardHawks/status/1505438996217827328
+
+
+ (___)
+ (___)
+ (   )
+ |   |
+ |   |
+ (___)
+    \_*
+TOP VIEW
+
+
+      / / / / / / / / / / /
+     / / / / / / / / / / / /
+     / / / / / _______   / /
+     / / /    /   |   \  / /
+     / / /    (__)|      / /
+     / / /    (oo)|      / /
+       /-------\/ |
+      / |     ||^_|
+     *  ||----|
+        ^^    ^
+Cow sheltering from English Weather

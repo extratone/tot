@@ -50,6 +50,7 @@ _Social/Family_
 - [Underdocumented iOS Manuevers Thread](https://www.reddit.com/r/ios/comments/l5p7ly/underdocumented_ios_functions_stuff_you_wish/)
 - [Recommended Apps](drafts://open?uuid=C11B9C28-5584-414B-8C22-D0ACFCA339D0)
 - [Tilde Guide Tweet](https://twitter.com/NeoYokel/status/1503187276444098560)
+- [about - The Tilde Whirl Podcast](http://tilde.town/~dozens/podcast/about.html)
 
 _Documentation_
 - [Siri Shortcuts for Telegram](drafts://open?uuid=3260C6BA-1CA8-4ADB-9888-98601FADD82F)

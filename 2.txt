@@ -39,6 +39,7 @@
 - Services/Shortcuts in macOS
 - Odesli Drafts action?
 - Search Action Directory Action
+- [Snap Lens Documentation](https://docs.snap.com/lens-studio/references/guides/overview/)
  
 ⌦ ⌦ ⌦ ⌦ 
 
