@@ -1,7 +1,7 @@
 **_Constraints can be powerful._**
 T       O       T               L       E       A       R       N    
 
-[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - [DraftsKeys Update](shortcuts://run-shortcut?name=DraftsKeys%20Update) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - [Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames) - [sl](shortcuts://run-shortcut?name=sl)
+[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - [DraftsKeys Update](shortcuts://run-shortcut?name=DraftsKeys%20Update) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - [Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames) - [sl](shortcuts://run-shortcut?name=sl) - [rss](shortcuts://run-shortcut?name=rss)
 
 [symbol](shortcuts://run-shortcut?name=symbol)
 
@@ -64,6 +64,7 @@ _Documentation_
 - [Shortcuts x-callback URLs](drafts://open?uuid=B47A3F69-12B7-4EA7-BBFA-ABB0FFBABCB8)
 - [David Blue’s Drafts Action Directory Contributions](drafts://open?uuid=C70FF15A-5B48-407C-9587-0DC4E9536102)
 - [TextExpander Snippet Groups](drafts://open?uuid=00ED31D1-18B9-4A61-ADF9-3128DD0C2688)
+- [ttm.sh Shortcut](drafts://open?uuid=117111D9-A508-46F3-BB14-FC999568113A)
 
 [New Draft with Clipboard](drafts://x-callback-url/create?text=%7C%7Cclipboard%7C%7C)
 
@@ -201,7 +202,14 @@ cd public\_html && ls
 zsh --emulate sh
 
 /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -f /Applications/Safari.app
----- [Notes-TildeTown on iPhone with Blink Shell](drafts://open?uuid=31122181-5565-4F1C-BEA3-C22DA140619A)
+
+<textexpander://textexpander>
+
+#1c0021
+
+extratone.vivaldi.net
+
+neocities upload -d icons \*.png---- [Notes-TildeTown on iPhone with Blink Shell](drafts://open?uuid=31122181-5565-4F1C-BEA3-C22DA140619A)
 - [David Blue’s WORLD FAMOUS Fast n’ Loose™ Siri Shortcuts for](drafts://open?uuid=68F049EC-59AF-4A49-885F-698BB9653400) [𝚂𝙲𝚁𝚄𝙱𝚂](drafts://open?uuid=68F049EC-59AF-4A49-885F-698BB9653400)
 - [End User Episode 9](drafts://open?uuid=69EA3CC6-7081-47B4-B4AB-C16E5C7E8417)
 - [App Store Reviews](drafts://open?uuid=25628140-FC0A-4DBF-96BE-1E7624E9F50A)
@@ -373,9 +381,13 @@ zsh --emulate sh
 - [Petrify Vanity Code Renders for The Psalms Repo Colophon](drafts://open?uuid=A181CA53-D79E-4FFE-A7FC-E98DBEB9A200)
 - [Fantastical Learning](drafts://open?uuid=494AA9DA-843D-4A05-9F8D-EB126FB85EED)
 - [Panda Keyboard Shortcuts](drafts://open?uuid=7DD96093-2DA1-45F8-8822-A63D3390CE27)
-- [TMPDIR= var folders 1v n0v4xk2s3f59zt75gxpyy8bm0000gp T](drafts://open?uuid=EC1F9B3A-DCEE-4375-A72F-250F95CD944F)
+[Testing](drafts://open?uuid=C27A0B52-1B51-45D3-8641-0BD32AD72D4F)
+- [Testing](drafts://open?uuid=C27A0B52-1B51-45D3-8641-0BD32AD72D4F)
+- [SnippetsLab Beta Feedback](message:%3CB43A290E-ABDF-42E4-A9C7-C0C3518DAB99@icloud.com%3E)
 
-- [lsregister -dump URLSchemeBinding   03202022-082553](drafts://open?uuid=579B9100-36C0-42F4-8D31-39EA83E39860)---**URL Schemes Learning**
+**Tot Configs**
+- [Notes-Siri Shortcuts and More for Tot](drafts://open?uuid=E6D127B8-B5CE-45F5-8D6A-0BC5CE12A149)
+- [Siri Shortcuts and More for Tot](drafts://open?uuid=9DAFE8FC-3655-4FBD-BA16-7439BAC109FA)---**URL Schemes Learning**
 
 _Links_
 - [Drafts](https://docs.getdrafts.com/docs/automation/urlschemes)
@@ -663,24 +675,26 @@ Cocown  (\\==/)
 [twitter]: https://twitter.com/HaggardHawks/status/1505438996217827328
 
 
- (___)
- (___)
+ (**_)
+ (_**)
  (   )
  |   |
  |   |
- (___)
-    \_*
+ (\_\_\_)
+    \_\*
 TOP VIEW
 
 
       / / / / / / / / / / /
      / / / / / / / / / / / /
-     / / / / / _______   / /
+     / / / / / \_\_\_\_   **_/ /
      / / /    /   |   \  / /
-     / / /    (__)|      / /
+     / / /    (**)|      / /
      / / /    (oo)|      / /
-       /-------\/ |
+       /-------\\/ |
       / |     ||^_|
      *  ||----|
         ^^    ^
 Cow sheltering from English Weather
+
+mac

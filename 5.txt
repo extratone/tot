@@ -170,6 +170,10 @@
 - [Petrify Vanity Code Renders for The Psalms Repo Colophon](drafts://open?uuid=A181CA53-D79E-4FFE-A7FC-E98DBEB9A200)
 - [Fantastical Learning](drafts://open?uuid=494AA9DA-843D-4A05-9F8D-EB126FB85EED)
 - [Panda Keyboard Shortcuts](drafts://open?uuid=7DD96093-2DA1-45F8-8822-A63D3390CE27)
-- [TMPDIR= var folders 1v n0v4xk2s3f59zt75gxpyy8bm0000gp T](drafts://open?uuid=EC1F9B3A-DCEE-4375-A72F-250F95CD944F)
+[Testing](drafts://open?uuid=C27A0B52-1B51-45D3-8641-0BD32AD72D4F)
+- [Testing](drafts://open?uuid=C27A0B52-1B51-45D3-8641-0BD32AD72D4F)
+- [SnippetsLab Beta Feedback](message:%3CB43A290E-ABDF-42E4-A9C7-C0C3518DAB99@icloud.com%3E)
 
-- [lsregister -dump URLSchemeBinding   03202022-082553](drafts://open?uuid=579B9100-36C0-42F4-8D31-39EA83E39860)
+**Tot Configs**
+- [Notes-Siri Shortcuts and More for Tot](drafts://open?uuid=E6D127B8-B5CE-45F5-8D6A-0BC5CE12A149)
+- [Siri Shortcuts and More for Tot](drafts://open?uuid=9DAFE8FC-3655-4FBD-BA16-7439BAC109FA)

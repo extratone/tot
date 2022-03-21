@@ -54,3 +54,11 @@ cd public\_html && ls
 zsh --emulate sh
 
 /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -f /Applications/Safari.app
+
+<textexpander://textexpander>
+
+#1c0021
+
+extratone.vivaldi.net
+
+neocities upload -d icons \*.png
