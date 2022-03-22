@@ -47,6 +47,7 @@
 - [Toolbox Pro Review: A Must-Have Companion Utility for Shortcuts Power Users](https://www.macstories.net/reviews/toolbox-pro-review-a-must-have-companion-utility-for-shortcuts-power-users/)
 - [Drafts 15 Review: Multiwindow, Shortcuts, and More](https://www.macstories.net/reviews/drafts-15-review-multiwindow-shortcuts-and-more/)
 - “[Automating iOS: A Comprehensive Guide to URL Schemes and Drafts Actions](drafts://open?uuid=A944CF95-DE24-47AA-BC50-CB03E1A20396)”
+- “[Inspecting JSON Files on iOS with Jayson](bear://x-callback-url/open-note?id=C558E98C-3481-4E48-9F4A-ED7F13F91FB2-12586-000021EA8E9BE1F5)”
 
 
 **Tools**

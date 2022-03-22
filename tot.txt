@@ -1,7 +1,7 @@
 **_Constraints can be powerful._**
 T       O       T               L       E       A       R       N    
 
-[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - [DraftsKeys Update](shortcuts://run-shortcut?name=DraftsKeys%20Update) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - [Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames) - [sl](shortcuts://run-shortcut?name=sl) - [rss](shortcuts://run-shortcut?name=rss)
+[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - [DraftsKeys Update](shortcuts://run-shortcut?name=DraftsKeys%20Update) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - [Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames) - [sl](shortcuts://run-shortcut?name=sl) - [rss](shortcuts://run-shortcut?name=rss) - [New Repo](https://github.com/extratone/latte/generate) - [notifications](shortcuts://run-shortcut?name=notifications)
 
 [symbol](shortcuts://run-shortcut?name=symbol)
 
@@ -117,6 +117,7 @@ _Documentation_
 - [Toolbox Pro Review: A Must-Have Companion Utility for Shortcuts Power Users](https://www.macstories.net/reviews/toolbox-pro-review-a-must-have-companion-utility-for-shortcuts-power-users/)
 - [Drafts 15 Review: Multiwindow, Shortcuts, and More](https://www.macstories.net/reviews/drafts-15-review-multiwindow-shortcuts-and-more/)
 - “[Automating iOS: A Comprehensive Guide to URL Schemes and Drafts Actions](drafts://open?uuid=A944CF95-DE24-47AA-BC50-CB03E1A20396)”
+- “[Inspecting JSON Files on iOS with Jayson](bear://x-callback-url/open-note?id=C558E98C-3481-4E48-9F4A-ED7F13F91FB2-12586-000021EA8E9BE1F5)”
 
 
 **Tools**
@@ -209,7 +210,19 @@ zsh --emulate sh
 
 extratone.vivaldi.net
 
-neocities upload -d icons \*.png---- [Notes-TildeTown on iPhone with Blink Shell](drafts://open?uuid=31122181-5565-4F1C-BEA3-C22DA140619A)
+neocities upload -d capture \*.png
+
+networkquality
+
+/usr/local/bin/speedtest-cli --share --json
+
+sips -s format png icon\_file.icns --out png\_file.png
+
+for i in \*.icns; do sips -s format png -s "${i}" --out “${i%icns}png”; done
+
+shortcuts sign --mode anyone --input “\*.shortcut" --output “\*signed.shortcut"
+
+for i in \*.shortcut; do shortcuts sign --mode anyone --input "${i}" --output ${isigned%shortcut}shortcut; done---- [Notes-TildeTown on iPhone with Blink Shell](drafts://open?uuid=31122181-5565-4F1C-BEA3-C22DA140619A)
 - [David Blue’s WORLD FAMOUS Fast n’ Loose™ Siri Shortcuts for](drafts://open?uuid=68F049EC-59AF-4A49-885F-698BB9653400) [𝚂𝙲𝚁𝚄𝙱𝚂](drafts://open?uuid=68F049EC-59AF-4A49-885F-698BB9653400)
 - [End User Episode 9](drafts://open?uuid=69EA3CC6-7081-47B4-B4AB-C16E5C7E8417)
 - [App Store Reviews](drafts://open?uuid=25628140-FC0A-4DBF-96BE-1E7624E9F50A)
@@ -698,3 +711,365 @@ TOP VIEW
 Cow sheltering from English Weather
 
 mac
+- [03802022-203248.pdf](file:////Users/blue/Library/Mobile%20Documents/com~apple~CloudDocs/Clipboard/PDF/03802022-203245.pdf)
+- [03802022-203407.pdf](file:////Users/blue/Library/Mobile%20Documents/com~apple~CloudDocs/Clipboard/PDF/03802022-203404.pdf)
+- [03802022-203718.pdf](file:////Users/blue/Library/Mobile%20Documents/com~apple~CloudDocs/Clipboard/PDF/03802022-203715.pdf)
+- [trimming.png](file:////Users/blue/-/trimming.png)
+- [LICENSE.md](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md)
+- [MacStories Shortcuts Library.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt)
+- [Posting with the Write.as CLI… Running on Tilde.Town.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt)
+- [index.html](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html)
+- [02212022-055503.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt)
+- [※ G o o d M o r n i n g ※.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt)
+- [Return to Tilde Town.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt)
+- [David Blue on Tilde.Town.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt
+file:////Users/blue/-/neocities/David%20Blue%20on%20Tilde.Town.txt)
+- [NeoCities Action Group.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt
+file:////Users/blue/-/neocities/David%20Blue%20on%20Tilde.Town.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group.txt)
+- [David Blue’s RoutineHub Library.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt
+file:////Users/blue/-/neocities/David%20Blue%20on%20Tilde.Town.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group.txt
+file:////Users/blue/-/neocities/David%20Blue%E2%80%99s%20RoutineHub%20Library.txt)
+- [Town Help.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt
+file:////Users/blue/-/neocities/David%20Blue%20on%20Tilde.Town.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group.txt
+file:////Users/blue/-/neocities/David%20Blue%E2%80%99s%20RoutineHub%20Library.txt
+file:////Users/blue/-/neocities/Town%20Help.txt)
+- [02052022-161510 | ~ Town Blog.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt
+file:////Users/blue/-/neocities/David%20Blue%20on%20Tilde.Town.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group.txt
+file:////Users/blue/-/neocities/David%20Blue%E2%80%99s%20RoutineHub%20Library.txt
+file:////Users/blue/-/neocities/Town%20Help.txt
+file:////Users/blue/-/neocities/02052022-161510%20%7C%20~%20Town%20Blog.txt)
+- [02122022-194602 | Tilde Blog.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt
+file:////Users/blue/-/neocities/David%20Blue%20on%20Tilde.Town.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group.txt
+file:////Users/blue/-/neocities/David%20Blue%E2%80%99s%20RoutineHub%20Library.txt
+file:////Users/blue/-/neocities/Town%20Help.txt
+file:////Users/blue/-/neocities/02052022-161510%20%7C%20~%20Town%20Blog.txt
+file:////Users/blue/-/neocities/02122022-194602%20%7C%20Tilde%20Blog.txt)
+- [App Store Reviews.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt
+file:////Users/blue/-/neocities/David%20Blue%20on%20Tilde.Town.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group.txt
+file:////Users/blue/-/neocities/David%20Blue%E2%80%99s%20RoutineHub%20Library.txt
+file:////Users/blue/-/neocities/Town%20Help.txt
+file:////Users/blue/-/neocities/02052022-161510%20%7C%20~%20Town%20Blog.txt
+file:////Users/blue/-/neocities/02122022-194602%20%7C%20Tilde%20Blog.txt
+file:////Users/blue/-/neocities/App%20Store%20Reviews.txt)
+- [NeoCities Action Group Reference.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt
+file:////Users/blue/-/neocities/David%20Blue%20on%20Tilde.Town.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group.txt
+file:////Users/blue/-/neocities/David%20Blue%E2%80%99s%20RoutineHub%20Library.txt
+file:////Users/blue/-/neocities/Town%20Help.txt
+file:////Users/blue/-/neocities/02052022-161510%20%7C%20~%20Town%20Blog.txt
+file:////Users/blue/-/neocities/02122022-194602%20%7C%20Tilde%20Blog.txt
+file:////Users/blue/-/neocities/App%20Store%20Reviews.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Reference.txt)
+- [NeoCities Action Group Action List.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt
+file:////Users/blue/-/neocities/David%20Blue%20on%20Tilde.Town.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group.txt
+file:////Users/blue/-/neocities/David%20Blue%E2%80%99s%20RoutineHub%20Library.txt
+file:////Users/blue/-/neocities/Town%20Help.txt
+file:////Users/blue/-/neocities/02052022-161510%20%7C%20~%20Town%20Blog.txt
+file:////Users/blue/-/neocities/02122022-194602%20%7C%20Tilde%20Blog.txt
+file:////Users/blue/-/neocities/App%20Store%20Reviews.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Reference.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Action%20List.txt)
+- [02092022-231353 | Tilde.Town Blog.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt
+file:////Users/blue/-/neocities/David%20Blue%20on%20Tilde.Town.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group.txt
+file:////Users/blue/-/neocities/David%20Blue%E2%80%99s%20RoutineHub%20Library.txt
+file:////Users/blue/-/neocities/Town%20Help.txt
+file:////Users/blue/-/neocities/02052022-161510%20%7C%20~%20Town%20Blog.txt
+file:////Users/blue/-/neocities/02122022-194602%20%7C%20Tilde%20Blog.txt
+file:////Users/blue/-/neocities/App%20Store%20Reviews.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Reference.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Action%20List.txt
+file:////Users/blue/-/neocities/02092022-231353%20%7C%20Tilde.Town%20Blog.txt)
+- [NeoCities HTML Template.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt
+file:////Users/blue/-/neocities/David%20Blue%20on%20Tilde.Town.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group.txt
+file:////Users/blue/-/neocities/David%20Blue%E2%80%99s%20RoutineHub%20Library.txt
+file:////Users/blue/-/neocities/Town%20Help.txt
+file:////Users/blue/-/neocities/02052022-161510%20%7C%20~%20Town%20Blog.txt
+file:////Users/blue/-/neocities/02122022-194602%20%7C%20Tilde%20Blog.txt
+file:////Users/blue/-/neocities/App%20Store%20Reviews.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Reference.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Action%20List.txt
+file:////Users/blue/-/neocities/02092022-231353%20%7C%20Tilde.Town%20Blog.txt
+file:////Users/blue/-/neocities/NeoCities%20HTML%20Template.txt)
+- [NeoCities Action Group Release Notes.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt
+file:////Users/blue/-/neocities/David%20Blue%20on%20Tilde.Town.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group.txt
+file:////Users/blue/-/neocities/David%20Blue%E2%80%99s%20RoutineHub%20Library.txt
+file:////Users/blue/-/neocities/Town%20Help.txt
+file:////Users/blue/-/neocities/02052022-161510%20%7C%20~%20Town%20Blog.txt
+file:////Users/blue/-/neocities/02122022-194602%20%7C%20Tilde%20Blog.txt
+file:////Users/blue/-/neocities/App%20Store%20Reviews.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Reference.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Action%20List.txt
+file:////Users/blue/-/neocities/02092022-231353%20%7C%20Tilde.Town%20Blog.txt
+file:////Users/blue/-/neocities/NeoCities%20HTML%20Template.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Release%20Notes.txt)
+- [Notes-Using Drafts & Blink Shell with Tilde.Town.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt
+file:////Users/blue/-/neocities/David%20Blue%20on%20Tilde.Town.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group.txt
+file:////Users/blue/-/neocities/David%20Blue%E2%80%99s%20RoutineHub%20Library.txt
+file:////Users/blue/-/neocities/Town%20Help.txt
+file:////Users/blue/-/neocities/02052022-161510%20%7C%20~%20Town%20Blog.txt
+file:////Users/blue/-/neocities/02122022-194602%20%7C%20Tilde%20Blog.txt
+file:////Users/blue/-/neocities/App%20Store%20Reviews.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Reference.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Action%20List.txt
+file:////Users/blue/-/neocities/02092022-231353%20%7C%20Tilde.Town%20Blog.txt
+file:////Users/blue/-/neocities/NeoCities%20HTML%20Template.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Release%20Notes.txt
+file:////Users/blue/-/neocities/Notes-Using%20Drafts%20&%20Blink%20Shell%20with%20Tilde.Town.txt)
+- [TildeTown Blog | 02192022-150545.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt
+file:////Users/blue/-/neocities/David%20Blue%20on%20Tilde.Town.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group.txt
+file:////Users/blue/-/neocities/David%20Blue%E2%80%99s%20RoutineHub%20Library.txt
+file:////Users/blue/-/neocities/Town%20Help.txt
+file:////Users/blue/-/neocities/02052022-161510%20%7C%20~%20Town%20Blog.txt
+file:////Users/blue/-/neocities/02122022-194602%20%7C%20Tilde%20Blog.txt
+file:////Users/blue/-/neocities/App%20Store%20Reviews.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Reference.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Action%20List.txt
+file:////Users/blue/-/neocities/02092022-231353%20%7C%20Tilde.Town%20Blog.txt
+file:////Users/blue/-/neocities/NeoCities%20HTML%20Template.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Release%20Notes.txt
+file:////Users/blue/-/neocities/Notes-Using%20Drafts%20&%20Blink%20Shell%20with%20Tilde.Town.txt
+file:////Users/blue/-/neocities/TildeTown%20Blog%20%7C%2002192022-150545.txt)
+- [Reply to Introduce Yourself BBJ Thread.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt
+file:////Users/blue/-/neocities/David%20Blue%20on%20Tilde.Town.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group.txt
+file:////Users/blue/-/neocities/David%20Blue%E2%80%99s%20RoutineHub%20Library.txt
+file:////Users/blue/-/neocities/Town%20Help.txt
+file:////Users/blue/-/neocities/02052022-161510%20%7C%20~%20Town%20Blog.txt
+file:////Users/blue/-/neocities/02122022-194602%20%7C%20Tilde%20Blog.txt
+file:////Users/blue/-/neocities/App%20Store%20Reviews.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Reference.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Action%20List.txt
+file:////Users/blue/-/neocities/02092022-231353%20%7C%20Tilde.Town%20Blog.txt
+file:////Users/blue/-/neocities/NeoCities%20HTML%20Template.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Release%20Notes.txt
+file:////Users/blue/-/neocities/Notes-Using%20Drafts%20&%20Blink%20Shell%20with%20Tilde.Town.txt
+file:////Users/blue/-/neocities/TildeTown%20Blog%20%7C%2002192022-150545.txt
+file:////Users/blue/-/neocities/Reply%20to%20Introduce%20Yourself%20BBJ%20Thread.txt)
+- [Tilde.Town Template.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt
+file:////Users/blue/-/neocities/David%20Blue%20on%20Tilde.Town.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group.txt
+file:////Users/blue/-/neocities/David%20Blue%E2%80%99s%20RoutineHub%20Library.txt
+file:////Users/blue/-/neocities/Town%20Help.txt
+file:////Users/blue/-/neocities/02052022-161510%20%7C%20~%20Town%20Blog.txt
+file:////Users/blue/-/neocities/02122022-194602%20%7C%20Tilde%20Blog.txt
+file:////Users/blue/-/neocities/App%20Store%20Reviews.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Reference.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Action%20List.txt
+file:////Users/blue/-/neocities/02092022-231353%20%7C%20Tilde.Town%20Blog.txt
+file:////Users/blue/-/neocities/NeoCities%20HTML%20Template.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Release%20Notes.txt
+file:////Users/blue/-/neocities/Notes-Using%20Drafts%20&%20Blink%20Shell%20with%20Tilde.Town.txt
+file:////Users/blue/-/neocities/TildeTown%20Blog%20%7C%2002192022-150545.txt
+file:////Users/blue/-/neocities/Reply%20to%20Introduce%20Yourself%20BBJ%20Thread.txt
+file:////Users/blue/-/neocities/Tilde.Town%20Template.txt)
+- [Using Drafts with NeoCities.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt
+file:////Users/blue/-/neocities/David%20Blue%20on%20Tilde.Town.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group.txt
+file:////Users/blue/-/neocities/David%20Blue%E2%80%99s%20RoutineHub%20Library.txt
+file:////Users/blue/-/neocities/Town%20Help.txt
+file:////Users/blue/-/neocities/02052022-161510%20%7C%20~%20Town%20Blog.txt
+file:////Users/blue/-/neocities/02122022-194602%20%7C%20Tilde%20Blog.txt
+file:////Users/blue/-/neocities/App%20Store%20Reviews.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Reference.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Action%20List.txt
+file:////Users/blue/-/neocities/02092022-231353%20%7C%20Tilde.Town%20Blog.txt
+file:////Users/blue/-/neocities/NeoCities%20HTML%20Template.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Release%20Notes.txt
+file:////Users/blue/-/neocities/Notes-Using%20Drafts%20&%20Blink%20Shell%20with%20Tilde.Town.txt
+file:////Users/blue/-/neocities/TildeTown%20Blog%20%7C%2002192022-150545.txt
+file:////Users/blue/-/neocities/Reply%20to%20Introduce%20Yourself%20BBJ%20Thread.txt
+file:////Users/blue/-/neocities/Tilde.Town%20Template.txt
+file:////Users/blue/-/neocities/Using%20Drafts%20with%20NeoCities.txt)
+- [Hello, ~ town!.txt](file:////Users/blue/-/trimming.png
+file:////Users/blue/-/LICENSE.md
+file:////Users/blue/-/documentation/MacStories%20Shortcuts%20Library.txt
+file:////Users/blue/-/documentation/Posting%20with%20the%20Write.as%20CLI%E2%80%A6%20Running%20on%20Tilde.Town.txt
+file:////Users/blue/-/index.html
+file:////Users/blue/-/neocities/02212022-055503.txt
+file:////Users/blue/-/neocities/%E2%80%BB%20G%20o%20o%20d%20M%20o%20r%20n%20i%20n%20g%20%E2%80%BB.txt
+file:////Users/blue/-/neocities/Return%20to%20Tilde%20Town.txt
+file:////Users/blue/-/neocities/David%20Blue%20on%20Tilde.Town.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group.txt
+file:////Users/blue/-/neocities/David%20Blue%E2%80%99s%20RoutineHub%20Library.txt
+file:////Users/blue/-/neocities/Town%20Help.txt
+file:////Users/blue/-/neocities/02052022-161510%20%7C%20~%20Town%20Blog.txt
+file:////Users/blue/-/neocities/02122022-194602%20%7C%20Tilde%20Blog.txt
+file:////Users/blue/-/neocities/App%20Store%20Reviews.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Reference.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Action%20List.txt
+file:////Users/blue/-/neocities/02092022-231353%20%7C%20Tilde.Town%20Blog.txt
+file:////Users/blue/-/neocities/NeoCities%20HTML%20Template.txt
+file:////Users/blue/-/neocities/NeoCities%20Action%20Group%20Release%20Notes.txt
+file:////Users/blue/-/neocities/Notes-Using%20Drafts%20&%20Blink%20Shell%20with%20Tilde.Town.txt
+file:////Users/blue/-/neocities/TildeTown%20Blog%20%7C%2002192022-150545.txt
+file:////Users/blue/-/neocities/Reply%20to%20Introduce%20Yourself%20BBJ%20Thread.txt
+file:////Users/blue/-/neocities/Tilde.Town%20Template.txt
+file:////Users/blue/-/neocities/Using%20Drafts%20with%20NeoCities.txt
+file:////Users/blue/-/neocities/Hello,%20~%20town!.txt)
+long1950-5G
+`03802022-232836`
+- Down: 141
+- Up: 69
+- Ping: 34
+- RPM: 493
+- Type: wifi
+- 

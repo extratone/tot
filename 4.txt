@@ -61,4 +61,16 @@ zsh --emulate sh
 
 extratone.vivaldi.net
 
-neocities upload -d icons \*.png
+neocities upload -d capture \*.png
+
+networkquality
+
+/usr/local/bin/speedtest-cli --share --json
+
+sips -s format png icon\_file.icns --out png\_file.png
+
+for i in \*.icns; do sips -s format png -s "${i}" --out “${i%icns}png”; done
+
+shortcuts sign --mode anyone --input “\*.shortcut" --output “\*signed.shortcut"
+
+for i in \*.shortcut; do shortcuts sign --mode anyone --input "${i}" --output ${isigned%shortcut}shortcut; done
