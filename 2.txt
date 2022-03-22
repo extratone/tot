@@ -48,6 +48,9 @@
 - [Drafts 15 Review: Multiwindow, Shortcuts, and More](https://www.macstories.net/reviews/drafts-15-review-multiwindow-shortcuts-and-more/)
 - “[Automating iOS: A Comprehensive Guide to URL Schemes and Drafts Actions](drafts://open?uuid=A944CF95-DE24-47AA-BC50-CB03E1A20396)”
 - “[Inspecting JSON Files on iOS with Jayson](bear://x-callback-url/open-note?id=C558E98C-3481-4E48-9F4A-ED7F13F91FB2-12586-000021EA8E9BE1F5)”
+- [The Future of Workflow - MacStories](https://www.macstories.net/stories/the-future-of-workflow/)  - [Bear](bear://x-callback-url/open-note?id=FFC3AC6E-FC68-4B6B-880E-2665EBAF09D3-11154-00001A4DDDDF834F)
+- [Apple has acquired Workflow, a powerful automation tool for iPad and iPhone | TechCrunch](https://techcrunch.com/2017/03/22/apple-has-acquired-workflow-a-powerful-automation-tool-for-ipad-and-iphone/) - [Bear](bear://x-callback-url/open-note?id=55BD09F0-6E82-4827-8152-E345501C62E8-13721-000022B233344959)
+- [Workflow Review: Integrated Automation for iOS 8 - MacStories](https://www.macstories.net/reviews/workflow-review-integrated-automation-for-ios-8/) - [Bear](bear://x-callback-url/open-note?id=F585E24B-3E6A-4085-B81A-41A81967640C-14838-00002533C1143767)
 
 
 **Tools**

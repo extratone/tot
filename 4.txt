@@ -60,7 +60,7 @@ zsh --emulate sh
 #1c0021
 
 extratone.vivaldi.net
-
+ 
 neocities upload -d capture \*.png
 
 networkquality
@@ -71,6 +71,14 @@ sips -s format png icon\_file.icns --out png\_file.png
 
 for i in \*.icns; do sips -s format png -s "${i}" --out “${i%icns}png”; done
 
+for i in \*.icns; do sips -s format png -s formatOptions 70 "${i}" --out “${i%icns}png”; done
+
 shortcuts sign --mode anyone --input “\*.shortcut" --output “\*signed.shortcut"
 
 for i in \*.shortcut; do shortcuts sign --mode anyone --input "${i}" --output ${isigned%shortcut}shortcut; done
+
+for i in \*.m4r; do ffmpeg -i "$i" "${i%.\*}.mp3"; done
+
+file%3A///Users/blue/Library/Application%20Support/BBEdit/BBEdit%20User%20Manual%20(14.1.1).pdf
+
+file:///Users/blue/Library/Application%20Support/BBEdit/BBEdit%20User%20Manual%20(14.1.1).pdf

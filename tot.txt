@@ -53,7 +53,8 @@ _Social/Family_
 - [about - The Tilde Whirl Podcast](http://tilde.town/~dozens/podcast/about.html)
 
 _Documentation_
-- [Siri Shortcuts for Telegram](drafts://open?uuid=3260C6BA-1CA8-4ADB-9888-98601FADD82F)
+- [BBEdit User Manual](file:///Users/blue/Library/Application%20Support/BBEdit/BBEdit%20User%20Manual%20(14.1.1).pdf)
+[Siri Shortcuts for Telegram](drafts://open?uuid=3260C6BA-1CA8-4ADB-9888-98601FADD82F)
 - **[David Blue’s RoutineHub Library](drafts://open?uuid=2145B3D6-2DE4-43E9-A305-3C879D7027DD)**
 - [Scrubs Shortcuts Library](drafts://open?uuid=68F049EC-59AF-4A49-885F-698BB9653400)
 - [Highlights](drafts://open?uuid=98CAEC13-3E7B-425C-B389-E5E0BC06E935)
@@ -118,6 +119,9 @@ _Documentation_
 - [Drafts 15 Review: Multiwindow, Shortcuts, and More](https://www.macstories.net/reviews/drafts-15-review-multiwindow-shortcuts-and-more/)
 - “[Automating iOS: A Comprehensive Guide to URL Schemes and Drafts Actions](drafts://open?uuid=A944CF95-DE24-47AA-BC50-CB03E1A20396)”
 - “[Inspecting JSON Files on iOS with Jayson](bear://x-callback-url/open-note?id=C558E98C-3481-4E48-9F4A-ED7F13F91FB2-12586-000021EA8E9BE1F5)”
+- [The Future of Workflow - MacStories](https://www.macstories.net/stories/the-future-of-workflow/)  - [Bear](bear://x-callback-url/open-note?id=FFC3AC6E-FC68-4B6B-880E-2665EBAF09D3-11154-00001A4DDDDF834F)
+- [Apple has acquired Workflow, a powerful automation tool for iPad and iPhone | TechCrunch](https://techcrunch.com/2017/03/22/apple-has-acquired-workflow-a-powerful-automation-tool-for-ipad-and-iphone/) - [Bear](bear://x-callback-url/open-note?id=55BD09F0-6E82-4827-8152-E345501C62E8-13721-000022B233344959)
+- [Workflow Review: Integrated Automation for iOS 8 - MacStories](https://www.macstories.net/reviews/workflow-review-integrated-automation-for-ios-8/) - [Bear](bear://x-callback-url/open-note?id=F585E24B-3E6A-4085-B81A-41A81967640C-14838-00002533C1143767)
 
 
 **Tools**
@@ -209,7 +213,7 @@ zsh --emulate sh
 #1c0021
 
 extratone.vivaldi.net
-
+ 
 neocities upload -d capture \*.png
 
 networkquality
@@ -220,9 +224,17 @@ sips -s format png icon\_file.icns --out png\_file.png
 
 for i in \*.icns; do sips -s format png -s "${i}" --out “${i%icns}png”; done
 
+for i in \*.icns; do sips -s format png -s formatOptions 70 "${i}" --out “${i%icns}png”; done
+
 shortcuts sign --mode anyone --input “\*.shortcut" --output “\*signed.shortcut"
 
-for i in \*.shortcut; do shortcuts sign --mode anyone --input "${i}" --output ${isigned%shortcut}shortcut; done---- [Notes-TildeTown on iPhone with Blink Shell](drafts://open?uuid=31122181-5565-4F1C-BEA3-C22DA140619A)
+for i in \*.shortcut; do shortcuts sign --mode anyone --input "${i}" --output ${isigned%shortcut}shortcut; done
+
+for i in \*.m4r; do ffmpeg -i "$i" "${i%.\*}.mp3"; done
+
+file%3A///Users/blue/Library/Application%20Support/BBEdit/BBEdit%20User%20Manual%20(14.1.1).pdf
+
+file:///Users/blue/Library/Application%20Support/BBEdit/BBEdit%20User%20Manual%20(14.1.1).pdf---- [Notes-TildeTown on iPhone with Blink Shell](drafts://open?uuid=31122181-5565-4F1C-BEA3-C22DA140619A)
 - [David Blue’s WORLD FAMOUS Fast n’ Loose™ Siri Shortcuts for](drafts://open?uuid=68F049EC-59AF-4A49-885F-698BB9653400) [𝚂𝙲𝚁𝚄𝙱𝚂](drafts://open?uuid=68F049EC-59AF-4A49-885F-698BB9653400)
 - [End User Episode 9](drafts://open?uuid=69EA3CC6-7081-47B4-B4AB-C16E5C7E8417)
 - [App Store Reviews](drafts://open?uuid=25628140-FC0A-4DBF-96BE-1E7624E9F50A)

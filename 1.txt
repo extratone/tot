@@ -53,7 +53,8 @@ _Social/Family_
 - [about - The Tilde Whirl Podcast](http://tilde.town/~dozens/podcast/about.html)
 
 _Documentation_
-- [Siri Shortcuts for Telegram](drafts://open?uuid=3260C6BA-1CA8-4ADB-9888-98601FADD82F)
+- [BBEdit User Manual](file:///Users/blue/Library/Application%20Support/BBEdit/BBEdit%20User%20Manual%20(14.1.1).pdf)
+[Siri Shortcuts for Telegram](drafts://open?uuid=3260C6BA-1CA8-4ADB-9888-98601FADD82F)
 - **[David Blue’s RoutineHub Library](drafts://open?uuid=2145B3D6-2DE4-43E9-A305-3C879D7027DD)**
 - [Scrubs Shortcuts Library](drafts://open?uuid=68F049EC-59AF-4A49-885F-698BB9653400)
 - [Highlights](drafts://open?uuid=98CAEC13-3E7B-425C-B389-E5E0BC06E935)
