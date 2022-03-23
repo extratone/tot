@@ -412,7 +412,9 @@ file:///Users/blue/Library/Application%20Support/BBEdit/BBEdit%20User%20Manual%2
 
 **Tot Configs**
 - [Notes-Siri Shortcuts and More for Tot](drafts://open?uuid=E6D127B8-B5CE-45F5-8D6A-0BC5CE12A149)
-- [Siri Shortcuts and More for Tot](drafts://open?uuid=9DAFE8FC-3655-4FBD-BA16-7439BAC109FA)---**URL Schemes Learning**
+- [Siri Shortcuts and More for Tot](drafts://open?uuid=9DAFE8FC-3655-4FBD-BA16-7439BAC109FA)
+- [Tot Help, Merged](drafts://open?uuid=E4E1326D-7FF8-4E5D-9E91-8509D2789259)
+- [Tot Help, Merged](https://www.icloud.com/notes/086zvPtBKmjA2yZDuBwKeCBjA#Tot_Help,_Merged) (Apple Notes)---**URL Schemes Learning**
 
 _Links_
 - [Drafts](https://docs.getdrafts.com/docs/automation/urlschemes)
@@ -1085,3 +1087,29 @@ long1950-5G
 - RPM: 493
 - Type: wifi
 - 
+Jorts
+`03822022-003520`
+- Down: 88
+- Up: 25
+- Ping: 51
+- RPM: 124
+- Type: wifi
+
+long1950-5G
+`03822022-022929`
+- Down: 185
+- Up: 71
+- Ping: 35
+- RPM: 614
+- Type: wifi
+
+long1950-5G
+`03822022-032933`
+- Down: 193
+- Up: 72
+- Ping: 34
+- RPM: 572
+- Type: wifi
+- 
+
+pandoc -s *.md -o .md

@@ -629,3 +629,29 @@ long1950-5G
 - RPM: 493
 - Type: wifi
 - 
+Jorts
+`03822022-003520`
+- Down: 88
+- Up: 25
+- Ping: 51
+- RPM: 124
+- Type: wifi
+
+long1950-5G
+`03822022-022929`
+- Down: 185
+- Up: 71
+- Ping: 35
+- RPM: 614
+- Type: wifi
+
+long1950-5G
+`03822022-032933`
+- Down: 193
+- Up: 72
+- Ping: 34
+- RPM: 572
+- Type: wifi
+- 
+
+pandoc -s *.md -o .md
