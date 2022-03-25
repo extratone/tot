@@ -3,7 +3,7 @@ T       O       T               L       E       A       R       N
 
 [Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - [DraftsKeys Update](shortcuts://run-shortcut?name=DraftsKeys%20Update) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - [Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames) - [sl](shortcuts://run-shortcut?name=sl) - [rss](shortcuts://run-shortcut?name=rss) - [New Repo](https://github.com/extratone/latte/generate) - [notifications](shortcuts://run-shortcut?name=notifications)
 
-[symbol](shortcuts://run-shortcut?name=symbol)
+[symbol](shortcuts://run-shortcut?name=symbol) 
 
 [cc](shortcuts://run-shortcut?name=cc)
 [hide](shortcuts://run-shortcut?name=hide)
@@ -53,8 +53,7 @@ _Social/Family_
 - [about - The Tilde Whirl Podcast](http://tilde.town/~dozens/podcast/about.html)
 
 _Documentation_
-- [BBEdit User Manual](file:///Users/blue/Library/Application%20Support/BBEdit/BBEdit%20User%20Manual%20(14.1.1).pdf)
-[Siri Shortcuts for Telegram](drafts://open?uuid=3260C6BA-1CA8-4ADB-9888-98601FADD82F)
+ [Siri Shortcuts for Telegram](drafts://open?uuid=3260C6BA-1CA8-4ADB-9888-98601FADD82F)
 - **[David Blue’s RoutineHub Library](drafts://open?uuid=2145B3D6-2DE4-43E9-A305-3C879D7027DD)**
 - [Scrubs Shortcuts Library](drafts://open?uuid=68F049EC-59AF-4A49-885F-698BB9653400)
 - [Highlights](drafts://open?uuid=98CAEC13-3E7B-425C-B389-E5E0BC06E935)
@@ -414,7 +413,7 @@ file:///Users/blue/Library/Application%20Support/BBEdit/BBEdit%20User%20Manual%2
 - [Notes-Siri Shortcuts and More for Tot](drafts://open?uuid=E6D127B8-B5CE-45F5-8D6A-0BC5CE12A149)
 - [Siri Shortcuts and More for Tot](drafts://open?uuid=9DAFE8FC-3655-4FBD-BA16-7439BAC109FA)
 - [Tot Help, Merged](drafts://open?uuid=E4E1326D-7FF8-4E5D-9E91-8509D2789259)
-- [Tot Help, Merged](https://www.icloud.com/notes/086zvPtBKmjA2yZDuBwKeCBjA#Tot_Help,_Merged) (Apple Notes)---**URL Schemes Learning**
+- [Tot Help, Merged](https://www.icloud.com/notes/086zvPtBKmjA2yZDuBwKeCBjA#Tot_Help,_Merged)---**URL Schemes Learning**
 
 _Links_
 - [Drafts](https://docs.getdrafts.com/docs/automation/urlschemes)
@@ -1113,3 +1112,75 @@ long1950-5G
 - 
 
 pandoc -s *.md -o .md
+
+long1950-5G
+`03822022-042934`
+- Down: 159
+- Up: 71
+- Ping: 36
+- RPM: 603
+- Type: wifi
+
+long1950-5G
+`03832022-012931`
+- Down: 201
+- Up: 63
+- Ping: 34
+- RPM: 514
+- Type: wifi
+
+long1950-5G
+`03832022-022936`
+- Down: 200
+- Up: 72
+- Ping: 33
+- RPM: 591
+- Type: wifi
+
+long1950-5G
+`03832022-032934`
+- Down: 188
+- Up: 72
+- Ping: 34
+- RPM: 609
+- Type: wifi
+
+long1950-5G
+`03832022-232933`
+- Down: 223
+- Up: 72
+- Ping: 34
+- RPM: 554
+- Type: wifi
+
+long1950-5G
+`03842022-002936`
+- Down: 186
+- Up: 72
+- Ping: 34
+- RPM: 582
+- Type: wifi
+
+long1950-5G
+`03842022-012932`
+- Down: 176
+- Up: 70
+- Ping: 36
+- RPM: 481
+- Type: wifi
+
+long1950-5G
+`03842022-022936`
+- Down: 187
+- Up: 61
+- Ping: 35
+- RPM: 540
+- Type: wifi
+
+long1950-5G
+`03842022-032933`
+- Down: 136
+- Up: 68
+- Ping: 34
+- RPM: 467
+- Type: wifi
