@@ -1,0 +1,27 @@
+ shortcuts://x-callback-url/run-shortcut?name=Drafts-Marked
+
+shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette
+
+drafts://x-callback-url/runAction?text=||clipboard||&action=new-draft-with-template
+
+drafts://x-callback-url/new-draft-with-template
+
+drafts://copy
+
+drafts://x-callback-url/template
+
+drafts://x-callback-url/runAction?text=||clipboard||&action=Template
+
+drafts://x-callback-url/create?text=||clipboard||
+
+tweetbot://NeoYokel/status/1482588176569020420
+
+tweetbot://<screenname>/post?text=clipboard
+
+tweetbot://butt_sword/status/1482567017978896390
+
+shortcuts://x-callback-url/run-shortcut?name=test
+
+tweetbot://NeoYokel/post?text=clipboard
+
+file://host/path
