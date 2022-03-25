@@ -655,3 +655,35 @@ long1950-5G
 - 
 
 pandoc -s *.md -o .md
+
+long1950-5G
+`03822022-042934`
+- Down: 159
+- Up: 71
+- Ping: 36
+- RPM: 603
+- Type: wifi
+
+long1950-5G
+`03832022-012931`
+- Down: 201
+- Up: 63
+- Ping: 34
+- RPM: 514
+- Type: wifi
+
+long1950-5G
+`03832022-022936`
+- Down: 200
+- Up: 72
+- Ping: 33
+- RPM: 591
+- Type: wifi
+
+long1950-5G
+`03832022-032934`
+- Down: 188
+- Up: 72
+- Ping: 34
+- RPM: 609
+- Type: wifi
