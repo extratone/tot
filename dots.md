@@ -1,7 +1,7 @@
 **_Constraints can be powerful._**
 T       O       T               L       E       A       R       N    
 
-[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - [DraftsKeys Update](shortcuts://run-shortcut?name=DraftsKeys%20Update) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - [Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames) - [dREADME](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push)
+[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - [DraftsKeys Update](shortcuts://run-shortcut?name=DraftsKeys%20Update) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - [Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames) - [dREADME](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - [Tot Git iOS](shortcuts://run-shortcut?name=Tot%20Git%20iOS)
 
 [symbol](shortcuts://run-shortcut?name=symbol)
 
@@ -206,7 +206,106 @@ From the Tot version 1.3 Testflight notes:
 -  \*\*Show Dot\*\* - “Shows the specified dot”
 - 
 
-[Tot Individual Backup](shortcuts://run-shortcut?name=Tot%20Individual%20Backup)b------**URL Schemes Learning**
+[Tot Individual Backup](shortcuts://run-shortcut?name=Tot%20Individual%20Backup)b
+
+I would like to say thanks to /u/Aprilhoomie and /u/Neskire for posting useful information at <https://redd.it/jecdyn>
+
+I wanted to write a summary how I work out with torrenting on iOS, here is my approach.
+
+First you will need iSH Shell app from <https://apps.apple.com/us/app/ish-shell/id1436902243>
+
+Second, you will need to have a way to view page source to copy the “magnet:” magnet link address, because apparently somehow we couldn’t simply copy the magnet address as link without special workarounds, it could very well be Apple imposing this limitation.
+
+I have the text editor I developed with Shortcuts I can use to view page source, if you’re interested:
+
+	Have Shortcuts app installed, then grab New Text (and Save Text if you want save support) from <https://redd.it/ho37cs>
+
+	If it said this shortcut is untrusted: Settings app > Shortcuts > Allow untrusted shortcuts
+
+	If grayed out: Open Shortcuts app, create a random shortcut, the button will become available afterwards
+
+	Visit a webpage, open share sheet and choose New Text, your clipboard will be updated, paste into the text editor, then use Safari’s address to find “magnet:” in the page. For difficult magnet link, try select around it on the normal page then open New Text, the source will shrink to there.
+
+Finally open iSH, type and enter
+
+first time:
+
+	apk add –upgrade transmission-cli
+
+every session (to enable running torrent in background for this session):
+
+	cat /dev/location > /dev/null &
+
+every torrent:
+
+	transmission-cli (paste magnet link)
+
+So you know, you can use Files app to access recently torrented files in /root/Downloads/
+
+That’s it!
+
+
+
+
+UPDATE 2022/01/15 (bit late but never too late): way to stop seeding upon completion. Create a kill file into /root/ dir containing
+
+	#!/bin/sh
+
+	killall transmission-cli
+
+Open iSH, type and enter to change permission for the kill file
+
+	chmod +x /root/kill
+
+Then for next torrent do this
+
+	transmission-cli -f /root/kill (paste magnet link)---
+- [Batch Shortcuts Signer (macOS) Shortcut](drafts://open?uuid=5D4D9120-69EC-4449-AB7F-35C0D97BBA7D)
+- [David Blue’s Siri Shortcuts Repository
+-](drafts://open?uuid=7998F086-4951-4DAB-995F-FE698FACFF78) 
+
+**※ G o o d M o r n i n g ※
+**[David Blue](https://davidblue.wtf/)
+￼
+**I'm David Blue - an automotive journalist on sabbatical and self-described _Software Historian_.**
+
+It's good to be here!
+
+By that I mean, it's especially nice to feel welcome here even though **I am in no way a software developer**.
+
+I use the term _Software Historian_ because I have found myself especially fascinated with the origin stories of the platforms and services we use in the past 3-4 years, especially regarding Word Processors.
+
+My _ultimate_ software development aspiration would be to build my own CMS with Python from scratch, but I'm not just being humble when I tell you that I am _very_ far away from doing that.
+
+Recently, I have been toying with the idea of writing a _Literary History of Streaming Music_, directly inspired by Professor Matthew G. Kirschenbaum's _[Track Changes: A Literary History of Word Processing](https://www.hup.harvard.edu/catalog.php?isbn=9780674417076)_, continuing the work I began in one of my all-time best essays **[examining the Holiness of Bandcamp](https://davidblue.wtf/essays/bandcamp)** as a technology company who can do no wrong.
+
+I'm sure anyone reading this can relate when I lament that _I really should get around to writing an updated bio_, but I've already spent enough time on this one, I think. Let me just _quote myself_ from my blog's about page:
+
+_I’ve already born witness to innovation bridging divisions between people throughout the greatest informational renaissance my species has ever seen... Originally, I wrote about our relationship with **cars** ([2019 Volkswagen Atlas Review](https://dieselgoth.com/2019-volkswagen-atlas-sel-vr6-review)) and now **technology** ([Bandcamp: Streaming's Secret Savior](https://bilge.world/bandcamp-streaming-music)) from a perspective that feels tedious or abstract to some, but is generally entertaining, through-and-through. I’m proud of the work I’ve done so far, which has been wild, absurd, reflective, and hilarious — occasionally all in the same work as I develop my voice._
+
+I'm not just horsing around when I say **feel free to <email me> about literally anything**.
+
+† [The Psalms](https://bilge.world/) (My technology blog. Entirely nonsecular, I promise)
+† 
+
+🇪🇺 _[End User](https://anchor.fm/davidblue)_ (A solo "podcast" which I update now and then, talking to my phone - silence truncated - about things I've been exploring.)
+
+
+
+⌨ 
+⌨ [The iPhone x Bluetooth Keyboard Project](https://uikeycommand.neocities.org/) (Perhaps my very first truly worthwhile cause.)
+Ǝ _[Extratone](https://extratone.com/)_ (An online music magazine which I devoted most of my adult life to developing up until 2018.)
+
+⎆ [Social Directory](https://rotund.notion.site/9fdc8e9610b34b8f991ebc148b760055?v=c170b58650c04fbdb7adc551a73d16a7) (An ongoing list of links to my profiles on every social service I can remember signing up for.)
+⎆ dghj
+⎆ 
+
+
+[MASTODON](https://mastodon.social/@DavidBlue) **//** [TWITTER](https://twitter.com/NeoYokel) **//** [DISCORD](https://discord.gg/4hdQcVd)
+**Site Stuff**
+※ [Z҉̳͕̗͖͕͈͡](https://davidblue.wtf/zalgo/) [̶̡͏̟͙A̧̠͈̝̣̺ ̣̳͖̬̺͔̬̜L̻̪͔͚̀ ̨͇̦̕G̸̸͍͕̹̠̳̟͙̬͞ ̛̬̣̱̮͈͚̬ͅO̡̨̦̪̺̯̹͔̙͡ͅ](https://davidblue.wtf/zalgo/)' ' ' ※ [ＭＥＧＡ](https://davidblue.wtf/cool/) [ＣＯＯＬ](https://davidblue.wtf/cool/) [ＴＥＸＴ](https://davidblue.wtf/cool/) [UNI1PG](https://davidblue.wtf/tools/unicode.pdf)
+⎃⎃⎃⎃⎃⎃⎃⎃ d i n k u s ⎃⎃⎃⎃⎃⎃⎃⎃
+	•	Hosted on [Neocities](https://neocities.org/site/davidblue). View website source code on [GitHub](https://github.com/extratone/xyz).---**URL Schemes Learning**
 
 _Links_
 - [Drafts](https://docs.getdrafts.com/docs/automation/urlschemes)
