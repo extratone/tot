@@ -1,0 +1,143 @@
+Dot 5 > Dot 4
+
+NEW
+**Tot Shortcuts**
+- [Append Drafts Tag Index to Tot](https://www.icloud.com/shortcuts/d23d57ac8bb04c77a12f274ede4e9656) 
+- [Tot Action Showcase](https://www.icloud.com/shortcuts/471dddd770e84e93a687f87d580ab3a3)
+- [Tot Consolidated Backup](https://www.icloud.com/shortcuts/b40c48899fd84941b7e5342c16d52fd2)
+- [Tot Individual Backup](https://www.icloud.com/shortcuts/b24a0ad1c5b14831bfe36b6dbb97a97b)
+
+- [r/Shortcuts Thread](https://www.reddit.com/r/shortcuts/comments/tej1is/shortcuts_actions_are_coming_to_tot)
+
+I was delighted to discover by way of the macOS Beta that shortcuts actions are coming to [Tot](https://apps.apple.com/us/app/tot/id1491071483) and [Tot Pocket](https://apps.apple.com/us/app/tot-pocket/id1498235191)! 
+
+![Release Notes](https://user-images.githubusercontent.com/43663476/158322995-ee16014c-e293-4cf4-9b4b-fcffe9794e35.png)
+
+From the Tot version 1.3 Testflight notes:
+
+> • Added support for Shortcuts:
+> - Commands to get, set, or show text from any dot
+> - Works great as scratchpad to collect input for a Shortcut
+> - Also a convenient way to save text that has been processed
+> - Same actions on macOS and iOS, allowing shared workflows
+
+
+![Tot Shortcuts Actions](https://user-images.githubusercontent.com/43663476/158322998-bc6ffd1b-9ab9-4c7c-bc9d-6df1dc0ea36d.png)
+
+### Actions
+
+- \*\*Add to Dot\*\* - “Adds text to a dot by prepending or appending”
+- \*\*Get Dot\*\* - “Gets all the text from a dot”
+- \*\*Set Dot\*\* - “Sets all the text in a dot”
+-  \*\*Show Dot\*\* - “Shows the specified dot”
+- 
+
+[Tot Individual Backup](shortcuts://run-shortcut?name=Tot%20Individual%20Backup)b
+
+I would like to say thanks to /u/Aprilhoomie and /u/Neskire for posting useful information at <https://redd.it/jecdyn>
+
+I wanted to write a summary how I work out with torrenting on iOS, here is my approach.
+
+First you will need iSH Shell app from <https://apps.apple.com/us/app/ish-shell/id1436902243>
+
+Second, you will need to have a way to view page source to copy the “magnet:” magnet link address, because apparently somehow we couldn’t simply copy the magnet address as link without special workarounds, it could very well be Apple imposing this limitation.
+
+I have the text editor I developed with Shortcuts I can use to view page source, if you’re interested:
+
+	Have Shortcuts app installed, then grab New Text (and Save Text if you want save support) from <https://redd.it/ho37cs>
+
+	If it said this shortcut is untrusted: Settings app > Shortcuts > Allow untrusted shortcuts
+
+	If grayed out: Open Shortcuts app, create a random shortcut, the button will become available afterwards
+
+	Visit a webpage, open share sheet and choose New Text, your clipboard will be updated, paste into the text editor, then use Safari’s address to find “magnet:” in the page. For difficult magnet link, try select around it on the normal page then open New Text, the source will shrink to there.
+
+Finally open iSH, type and enter
+
+first time:
+
+	apk add –upgrade transmission-cli
+
+every session (to enable running torrent in background for this session):
+
+	cat /dev/location > /dev/null &
+
+every torrent:
+
+	transmission-cli (paste magnet link)
+
+So you know, you can use Files app to access recently torrented files in /root/Downloads/
+
+That’s it!
+
+
+
+
+UPDATE 2022/01/15 (bit late but never too late): way to stop seeding upon completion. Create a kill file into /root/ dir containing
+
+	#!/bin/sh
+
+	killall transmission-cli
+
+Open iSH, type and enter to change permission for the kill file
+
+	chmod +x /root/kill
+
+Then for next torrent do this
+
+	transmission-cli -f /root/kill (paste magnet link)
+- [HiRes%20Tweet](drafts://open?uuid=EEB5C0F0-48B4-45AF-A8A7-4FCE5DDCBE03)
+
+---
+
+PREVIOUS
+[Hot Tot Dot Swap](shortcuts://run-shortcut?name=Hot%20Tot%20Dot%20Swap)
+
+
+
+- [Batch Shortcuts Signer (macOS) Shortcut](drafts://open?uuid=5D4D9120-69EC-4449-AB7F-35C0D97BBA7D)
+- [David Blue’s Siri Shortcuts Repository
+-](drafts://open?uuid=7998F086-4951-4DAB-995F-FE698FACFF78) 
+
+**※ G o o d M o r n i n g ※
+**[David Blue](https://davidblue.wtf/)
+￼
+**I'm David Blue - an automotive journalist on sabbatical and self-described _Software Historian_.**
+
+It's good to be here!
+
+By that I mean, it's especially nice to feel welcome here even though **I am in no way a software developer**.
+
+I use the term _Software Historian_ because I have found myself especially fascinated with the origin stories of the platforms and services we use in the past 3-4 years, especially regarding Word Processors.
+
+My _ultimate_ software development aspiration would be to build my own CMS with Python from scratch, but I'm not just being humble when I tell you that I am _very_ far away from doing that.
+
+Recently, I have been toying with the idea of writing a _Literary History of Streaming Music_, directly inspired by Professor Matthew G. Kirschenbaum's _[Track Changes: A Literary History of Word Processing](https://www.hup.harvard.edu/catalog.php?isbn=9780674417076)_, continuing the work I began in one of my all-time best essays **[examining the Holiness of Bandcamp](https://davidblue.wtf/essays/bandcamp)** as a technology company who can do no wrong.
+
+I'm sure anyone reading this can relate when I lament that _I really should get around to writing an updated bio_, but I've already spent enough time on this one, I think. Let me just _quote myself_ from my blog's about page:
+
+_I’ve already born witness to innovation bridging divisions between people throughout the greatest informational renaissance my species has ever seen... Originally, I wrote about our relationship with **cars** ([2019 Volkswagen Atlas Review](https://dieselgoth.com/2019-volkswagen-atlas-sel-vr6-review)) and now **technology** ([Bandcamp: Streaming's Secret Savior](https://bilge.world/bandcamp-streaming-music)) from a perspective that feels tedious or abstract to some, but is generally entertaining, through-and-through. I’m proud of the work I’ve done so far, which has been wild, absurd, reflective, and hilarious — occasionally all in the same work as I develop my voice._
+
+I'm not just horsing around when I say **feel free to <email me> about literally anything**.
+
+† [The Psalms](https://bilge.world/) (My technology blog. Entirely nonsecular, I promise)
+† 
+
+🇪🇺 _[End User](https://anchor.fm/davidblue)_ (A solo "podcast" which I update now and then, talking to my phone - silence truncated - about things I've been exploring.)
+
+
+
+⌨ 
+⌨ [The iPhone x Bluetooth Keyboard Project](https://uikeycommand.neocities.org/) (Perhaps my very first truly worthwhile cause.)
+Ǝ _[Extratone](https://extratone.com/)_ (An online music magazine which I devoted most of my adult life to developing up until 2018.)
+
+⎆ [Social Directory](https://rotund.notion.site/9fdc8e9610b34b8f991ebc148b760055?v=c170b58650c04fbdb7adc551a73d16a7) (An ongoing list of links to my profiles on every social service I can remember signing up for.)
+⎆ dghj
+⎆ 
+
+
+[MASTODON](https://mastodon.social/@DavidBlue) **//** [TWITTER](https://twitter.com/NeoYokel) **//** [DISCORD](https://discord.gg/4hdQcVd)
+**Site Stuff**
+※ [Z҉̳͕̗͖͕͈͡](https://davidblue.wtf/zalgo/) [̶̡͏̟͙A̧̠͈̝̣̺ ̣̳͖̬̺͔̬̜L̻̪͔͚̀ ̨͇̦̕G̸̸͍͕̹̠̳̟͙̬͞ ̛̬̣̱̮͈͚̬ͅO̡̨̦̪̺̯̹͔̙͡ͅ](<https://davidblue.wtf/zalgo/>)' ' ' ※ [ＭＥＧＡ](https://davidblue.wtf/cool/) [ＣＯＯＬ](https://davidblue.wtf/cool/) [ＴＥＸＴ](https://davidblue.wtf/cool/) [UNI1PG](https://davidblue.wtf/tools/unicode.pdf)
+⎃⎃⎃⎃⎃⎃⎃⎃ d i n k u s ⎃⎃⎃⎃⎃⎃⎃⎃
+	•	Hosted on [Neocities](https://neocities.org/site/davidblue). View website source code on [GitHub](https://github.com/extratone/xyz).
