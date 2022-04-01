@@ -259,7 +259,22 @@ Open iSH, type and enter to change permission for the kill file
 
 Then for next torrent do this
 
-	transmission-cli -f /root/kill (paste magnet link)---
+	transmission-cli -f /root/kill (paste magnet link)
+
+Permanently delete non-empty directories:
+
+rm -rf [directory]
+
+cd Library/Mobile\\ Documents
+
+ls -1 -d "$PWD/shortcutsrepo/signed/"\*
+
+zip -0 -r mydir.zip mydir
+
+curl -F shorten= <https://ttm.sh>---[Hot Tot Dot Swap](shortcuts://run-shortcut?name=Hot%20Tot%20Dot%20Swap)
+
+
+
 - [Batch Shortcuts Signer (macOS) Shortcut](drafts://open?uuid=5D4D9120-69EC-4449-AB7F-35C0D97BBA7D)
 - [David Blue’s Siri Shortcuts Repository
 -](drafts://open?uuid=7998F086-4951-4DAB-995F-FE698FACFF78) 
@@ -303,9 +318,16 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 
 [MASTODON](https://mastodon.social/@DavidBlue) **//** [TWITTER](https://twitter.com/NeoYokel) **//** [DISCORD](https://discord.gg/4hdQcVd)
 **Site Stuff**
-※ [Z҉̳͕̗͖͕͈͡](https://davidblue.wtf/zalgo/) [̶̡͏̟͙A̧̠͈̝̣̺ ̣̳͖̬̺͔̬̜L̻̪͔͚̀ ̨͇̦̕G̸̸͍͕̹̠̳̟͙̬͞ ̛̬̣̱̮͈͚̬ͅO̡̨̦̪̺̯̹͔̙͡ͅ](https://davidblue.wtf/zalgo/)' ' ' ※ [ＭＥＧＡ](https://davidblue.wtf/cool/) [ＣＯＯＬ](https://davidblue.wtf/cool/) [ＴＥＸＴ](https://davidblue.wtf/cool/) [UNI1PG](https://davidblue.wtf/tools/unicode.pdf)
+※ [Z҉̳͕̗͖͕͈͡](https://davidblue.wtf/zalgo/) [̶̡͏̟͙A̧̠͈̝̣̺ ̣̳͖̬̺͔̬̜L̻̪͔͚̀ ̨͇̦̕G̸̸͍͕̹̠̳̟͙̬͞ ̛̬̣̱̮͈͚̬ͅO̡̨̦̪̺̯̹͔̙͡ͅ](<https://davidblue.wtf/zalgo/>)' ' ' ※ [ＭＥＧＡ](https://davidblue.wtf/cool/) [ＣＯＯＬ](https://davidblue.wtf/cool/) [ＴＥＸＴ](https://davidblue.wtf/cool/) [UNI1PG](https://davidblue.wtf/tools/unicode.pdf)
 ⎃⎃⎃⎃⎃⎃⎃⎃ d i n k u s ⎃⎃⎃⎃⎃⎃⎃⎃
-	•	Hosted on [Neocities](https://neocities.org/site/davidblue). View website source code on [GitHub](https://github.com/extratone/xyz).---**URL Schemes Learning**
+	•	Hosted on [Neocities](https://neocities.org/site/davidblue). View website source code on [GitHub](https://github.com/extratone/xyz).
+
+- [On Drafts and Obsidian](drafts://open?uuid=56EED87E-678E-4248-8E94-31650615C69A)
+- [Notes-Drafts vs. Obsidian](drafts://open?uuid=C300D6BD-07A2-44E2-9231-54ADA771F952)
+
+- [Notes-Drafts vs. Obsidian](drafts://open?uuid=C300D6BD-07A2-44E2-9231-54ADA771F952)
+
+- [NeoCities Homepage (WTF) 2.0](drafts://open?uuid=C2B1C951-518F-43FA-AEED-020CD5102A7B)---**URL Schemes Learning**
 
 _Links_
 - [Drafts](https://docs.getdrafts.com/docs/automation/urlschemes)
@@ -580,3 +602,18 @@ _Links_
 - [help](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/837A7069-BE1B-4844-8AFB-CE151BFBBD11/File%20Provider%20Storage/Shell/help.txt)
 - [iOSColors](shareddocuments:///private/var/mobile/Containers/Data/PluginKitPlugin/8F4DA708-2288-4F6D-8A46-894FA59CD852/tmp/94810C12-FA62-4BAF-8543-C63D8FBA75F0/iOSColors.css)%0A-%20[iOS Soundboard](shareddocuments%3A///private/var/mobile/Containers/Data/PluginKitPlugin/8F4DA708-2288-4F6D-8A46-894FA59CD852/tmp/E408F64A-0E1F-4E88-B68E-654B1D8EA4F5/iOS%2520Soundboard.shortcut)
 - [WFActionsplist](shareddocuments:///private/var/mobile/Containers/Data/PluginKitPlugin/8F4DA708-2288-4F6D-8A46-894FA59CD852/tmp/A3C5A16D-3064-4A22-AAAA-5851BB4DB503/WFActionsplist)
+
+sftp <blue@odette.local>:/zsh.txt
+
+cd Library/Mobile\\ Documents
+
+imessage -t hi -c [+15738234380](tel:+15738234380)
+
+ls -1 -d "$PWD/shortcutsrepo/signed/"\*
+
+<https://davidblue.wtf/shortcuts/batchshortcutssigner-ios.html>
+5
+
+I modified Federico’s Shortcut Injector to sign multiple shortcuts at a time (by folder.) I was even able to get [an over-ssh version](https://routinehub.co/shortcut/11467) working, though actually getting the resulting files back to the device is (at the moment, at least) beyond me. <https://routinehub.co/shortcut/11467>
+- Batch Shortcuts Signer (iOS): <https://routinehub.co/shortcut/11467>
+- Batch Shortcuts Signer (macOS): <https://routinehub.co/shortcut/11401>
