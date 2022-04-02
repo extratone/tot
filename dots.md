@@ -117,9 +117,13 @@ _Documentation_
 
 [Silicon Valley Buzz: Apple Paid More Than $200 Million For Siri To Get Into Mobile Search | TechCrunch](https://techcrunch.com/2010/04/28/apple-siri-200-million/)
 
-https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334
+<https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334>
 
-<https://web.archive.org/web/*/https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334>---**Tot Keys**
+<https://web.archive.org/web/*/https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334>
+
+**Tot Shortcuts Ideas**
+- Reminders ⇨ Tot
+- Finish Tot ↓ Drafts---**Tot Keys**
 - **⌘/** = Show/Hide Status Bar
 - **⇧⌘T** = Switch to Plain Text View
 - **⌘,** = Preferences
@@ -173,9 +177,13 @@ https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id91524
 
 [Silicon Valley Buzz: Apple Paid More Than $200 Million For Siri To Get Into Mobile Search | TechCrunch](https://techcrunch.com/2010/04/28/apple-siri-200-million/)
 
-https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334
+<https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334>
 
-<https://web.archive.org/web/*/https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334>---**Tot Shortcuts**
+<https://web.archive.org/web/*/https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334>
+
+**Tot Shortcuts Ideas**
+- Reminders ⇨ Tot
+- Finish Tot ↓ Drafts---**Tot Shortcuts**
 - [Append Drafts Tag Index to Tot](https://www.icloud.com/shortcuts/d23d57ac8bb04c77a12f274ede4e9656) 
 - [Tot Action Showcase](https://www.icloud.com/shortcuts/471dddd770e84e93a687f87d580ab3a3)
 - [Tot Consolidated Backup](https://www.icloud.com/shortcuts/b40c48899fd84941b7e5342c16d52fd2)
@@ -327,7 +335,9 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 
 - [Notes-Drafts vs. Obsidian](drafts://open?uuid=C300D6BD-07A2-44E2-9231-54ADA771F952)
 
-- [NeoCities Homepage (WTF) 2.0](drafts://open?uuid=C2B1C951-518F-43FA-AEED-020CD5102A7B)---**URL Schemes Learning**
+- [NeoCities Homepage (WTF) 2.0](drafts://open?uuid=C2B1C951-518F-43FA-AEED-020CD5102A7B)
+
+- [Re  screaming](drafts://open?uuid=2DFBD718-8845-49CF-A343-8BA3B639B7B3)---**URL Schemes Learning**
 
 _Links_
 - [Drafts](https://docs.getdrafts.com/docs/automation/urlschemes)
@@ -369,7 +379,153 @@ _Links_
 - [David Blue‘s Drafts Configs](drafts://open?uuid=38A942A2-33C4-4630-9CDE-B005989F4E3A)
 - 
 
----- [Notes-TildeTown on iPhone with Blink Shell](drafts://open?uuid=31122181-5565-4F1C-BEA3-C22DA140619A)
+---**[Push (to phone) from Widget Notes and Jinx Developer](x-apple-reminderkit://REMCDReminder/617DF0B6-E281-4C5C-B9C2-7E354292F28B)**
+``
+[Link](https://apps.apple.com/us/app/push-to-your-phone/id1502796482)
+Created: Jan 17, 2022 at 22:57
+Due: 
+
+2022-01-17T22:57:24-06:00
+
+**[Sophia track ID in Instagram post.](x-apple-reminderkit://REMCDReminder/F2044711-B8E9-4DFA-A984-5C48AD2FE99D)**
+`Social`
+[Link](https://www.instagram.com/p/CZPF24TKPNk/)
+Created: Feb 16, 2022 at 13:00
+Due: Feb 16, 2022 at 19:00
+
+02472022-130027
+
+**[Tilde Whirl Podcast](x-apple-reminderkit://REMCDReminder/85EFCAC2-2D11-4611-8803-074C765D6672)**
+`Social`
+[Link](http://tilde.town/~dozens/)
+Created: Mar 13, 2022 at 20:21
+Due: Mar 14, 2022 at 02:21
+
+03722022-202115
+
+**[Message from r w](x-apple-reminderkit://REMCDReminder/7A8CBAD1-11E2-4C1E-9201-03352072BB6D)**
+``
+[Link]()
+Created: Mar 31, 2022 at 14:38
+Due: 
+
+readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25jZzJhNytSRS13%0D%0AQi1obm5fUjdQQlc0MG5ZVzZNK3BmcEd4Si1UeHI3OHpUZ0BtYWlsLmdtYWlsLmNv%0D%0AbTs4NjA1NjYxNzg%3D
+
+**[Re: screaming](x-apple-reminderkit://REMCDReminder/08D236C2-6F93-4A0D-AC1E-F2CA5839ACC7)**
+``
+[Link]()
+Created: Apr 1, 2022 at 13:23
+Due: Apr 2, 2022 at 13:23
+
+readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25mVnNQYThtS3h0%0D%0AYmpkVEtKN1VBd25yNXMteW55WnFPTzFaaVFBcmNnWjFZUUBtYWlsLmdtYWlsLmNv%0D%0AbTsxOTUxNDQwMjky
+
+**[Test PodQueue Shortcut](x-apple-reminderkit://REMCDReminder/DA3C37DD-DA55-4D1F-8046-C1E461A1E7AE)**
+``
+[Link](https://podqueue.fm/pages/help/siri?s=09)
+Created: Apr 1, 2022 at 13:25
+Due: Apr 1, 2022 at 19:25
+
+04912022-132544
+
+[**Push (to phone) from Widget Notes and Jinx Developer**](x-apple-reminderkit://REMCDReminder/617DF0B6-E281-4C5C-B9C2-7E354292F28B)
+``
+[Link](https://apps.apple.com/us/app/push-to-your-phone/id1502796482)
+Created: Jan 17, 2022 at 22:57
+Due: 
+
+2022-01-17T22:57:24-06:00
+
+[**Sophia track ID in Instagram post.**](x-apple-reminderkit://REMCDReminder/F2044711-B8E9-4DFA-A984-5C48AD2FE99D)
+`Social`
+[Link](https://www.instagram.com/p/CZPF24TKPNk/)
+Created: Feb 16, 2022 at 13:00
+Due: Feb 16, 2022 at 19:00
+
+02472022-130027
+
+[**Tilde Whirl Podcast**](x-apple-reminderkit://REMCDReminder/85EFCAC2-2D11-4611-8803-074C765D6672)
+`Social`
+[Link](http://tilde.town/~dozens/)
+Created: Mar 13, 2022 at 20:21
+Due: Mar 14, 2022 at 02:21
+
+03722022-202115
+
+[**Message from r w**](x-apple-reminderkit://REMCDReminder/7A8CBAD1-11E2-4C1E-9201-03352072BB6D)
+``
+[Link]()
+Created: Mar 31, 2022 at 14:38
+Due: 
+
+readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25jZzJhNytSRS13%0D%0AQi1obm5fUjdQQlc0MG5ZVzZNK3BmcEd4Si1UeHI3OHpUZ0BtYWlsLmdtYWlsLmNv%0D%0AbTs4NjA1NjYxNzg%3D
+
+[**Re: screaming**](x-apple-reminderkit://REMCDReminder/08D236C2-6F93-4A0D-AC1E-F2CA5839ACC7)
+``
+[Link]()
+Created: Apr 1, 2022 at 13:23
+Due: Apr 2, 2022 at 13:23
+
+readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25mVnNQYThtS3h0%0D%0AYmpkVEtKN1VBd25yNXMteW55WnFPTzFaaVFBcmNnWjFZUUBtYWlsLmdtYWlsLmNv%0D%0AbTsxOTUxNDQwMjky
+
+[**Test PodQueue Shortcut**](x-apple-reminderkit://REMCDReminder/DA3C37DD-DA55-4D1F-8046-C1E461A1E7AE)
+``
+[Link](https://podqueue.fm/pages/help/siri?s=09)
+Created: Apr 1, 2022 at 13:25
+Due: Apr 1, 2022 at 19:25
+
+04912022-132544
+
+[**Push (to phone) from Widget Notes and Jinx Developer**](x-apple-reminderkit://REMCDReminder/617DF0B6-E281-4C5C-B9C2-7E354292F28B)
+``
+- https://apps.apple.com/us/app/push-to-your-phone/id1502796482
+- Created: Jan 17, 2022 at 22:57
+- Due: 
+Monday, 17 Jan 2022 22:56:25.png
+2022-01-17T22:57:24-06:00
+
+[**Sophia track ID in Instagram post.**](x-apple-reminderkit://REMCDReminder/F2044711-B8E9-4DFA-A984-5C48AD2FE99D)
+`Social`
+- https://www.instagram.com/p/CZPF24TKPNk/
+- Created: Feb 16, 2022 at 13:00
+- Due: Feb 16, 2022 at 19:00
+IMG_2583.heic
+02472022-130027
+
+[**Tilde Whirl Podcast**](x-apple-reminderkit://REMCDReminder/85EFCAC2-2D11-4611-8803-074C765D6672)
+`Social`
+- http://tilde.town/~dozens/
+- Created: Mar 13, 2022 at 20:21
+- Due: Mar 14, 2022 at 02:21
+03722022-202041.png
+03722022-202115
+
+[**Message from r w**](x-apple-reminderkit://REMCDReminder/7A8CBAD1-11E2-4C1E-9201-03352072BB6D)
+``
+- 
+- Created: Mar 31, 2022 at 14:38
+- Due: 
+
+readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25jZzJhNytSRS13%0D%0AQi1obm5fUjdQQlc0MG5ZVzZNK3BmcEd4Si1UeHI3OHpUZ0BtYWlsLmdtYWlsLmNv%0D%0AbTs4NjA1NjYxNzg%3D
+
+[**Re: screaming**](x-apple-reminderkit://REMCDReminder/08D236C2-6F93-4A0D-AC1E-F2CA5839ACC7)
+``
+- 
+- Created: Apr 1, 2022 at 13:23
+- Due: Apr 2, 2022 at 13:23
+
+readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25mVnNQYThtS3h0%0D%0AYmpkVEtKN1VBd25yNXMteW55WnFPTzFaaVFBcmNnWjFZUUBtYWlsLmdtYWlsLmNv%0D%0AbTsxOTUxNDQwMjky
+
+[**Test PodQueue Shortcut**](x-apple-reminderkit://REMCDReminder/DA3C37DD-DA55-4D1F-8046-C1E461A1E7AE)
+``
+- https://podqueue.fm/pages/help/siri?s=09
+- Created: Apr 1, 2022 at 13:25
+- Due: Apr 1, 2022 at 19:25
+IMG_4533.png
+04912022-132544
+
+
+---
+- [Notes-TildeTown on iPhone with Blink Shell](drafts://open?uuid=31122181-5565-4F1C-BEA3-C22DA140619A)
 - [End User Episode 9](drafts://open?uuid=69EA3CC6-7081-47B4-B4AB-C16E5C7E8417)
 - [Please Fuck With This License](drafts://open?uuid=FAFFA333-34A5-4412-B46C-3D216C09FD8E)
 - [The Psalms Action Group](drafts://open?uuid=7580294A-E97B-4614-AAF6-4E4A63358E6E)
