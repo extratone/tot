@@ -311,7 +311,11 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 
 - [Introducing Automation April  A Month-Long Community Event About Automation, Featuring Shortcuts, Interviews, Discord Workshops, and a Shortcut Contest](drafts://open?uuid=ECDF27E4-A224-4A9C-BDCD-3B3F9CA8B927)
 
-- [WTF Drafts Index](drafts://open?uuid=8C4596E3-0397-468C-A579-CF56CB7CFE06)---**URL Schemes Learning**
+- [WTF Drafts Index](drafts://open?uuid=8C4596E3-0397-468C-A579-CF56CB7CFE06)
+
+- [Snap.as Write.as API](drafts://open?uuid=BD1C9DBB-3C89-4FD9-AC9F-4D43BF2C7F08)
+
+- [HTML Redirect](drafts://open?uuid=B3B67F8F-EFA0-4B2A-9BA3-928D1D648B3D)---**URL Schemes Learning**
 
 _Links_
 - [Drafts](https://docs.getdrafts.com/docs/automation/urlschemes)
@@ -367,7 +371,7 @@ Due:
 Created: Feb 16, 2022 at 13:00
 Due: Feb 16, 2022 at 19:00
 
-02472022-130027
+[02472022-130027](tel:02472022-130027)
 
 **[Tilde Whirl Podcast](x-apple-reminderkit://REMCDReminder/85EFCAC2-2D11-4611-8803-074C765D6672)**
 `Social`
@@ -375,7 +379,7 @@ Due: Feb 16, 2022 at 19:00
 Created: Mar 13, 2022 at 20:21
 Due: Mar 14, 2022 at 02:21
 
-03722022-202115
+[03722022-202115](tel:03722022-202115)
 
 **[Message from r w](x-apple-reminderkit://REMCDReminder/7A8CBAD1-11E2-4C1E-9201-03352072BB6D)**
 ``
@@ -383,7 +387,7 @@ Due: Mar 14, 2022 at 02:21
 Created: Mar 31, 2022 at 14:38
 Due: 
 
-readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25jZzJhNytSRS13%0D%0AQi1obm5fUjdQQlc0MG5ZVzZNK3BmcEd4Si1UeHI3OHpUZ0BtYWlsLmdtYWlsLmNv%0D%0AbTs4NjA1NjYxNzg%3D
+<readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25jZzJhNytSRS13%0D%0AQi1obm5fUjdQQlc0MG5ZVzZNK3BmcEd4Si1UeHI3OHpUZ0BtYWlsLmdtYWlsLmNv%0D%0AbTs4NjA1NjYxNzg%3D>
 
 **[Re: screaming](x-apple-reminderkit://REMCDReminder/08D236C2-6F93-4A0D-AC1E-F2CA5839ACC7)**
 ``
@@ -391,7 +395,7 @@ readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25jZzJhNytSR
 Created: Apr 1, 2022 at 13:23
 Due: Apr 2, 2022 at 13:23
 
-readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25mVnNQYThtS3h0%0D%0AYmpkVEtKN1VBd25yNXMteW55WnFPTzFaaVFBcmNnWjFZUUBtYWlsLmdtYWlsLmNv%0D%0AbTsxOTUxNDQwMjky
+<readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25mVnNQYThtS3h0%0D%0AYmpkVEtKN1VBd25yNXMteW55WnFPTzFaaVFBcmNnWjFZUUBtYWlsLmdtYWlsLmNv%0D%0AbTsxOTUxNDQwMjky>
 
 **[Test PodQueue Shortcut](x-apple-reminderkit://REMCDReminder/DA3C37DD-DA55-4D1F-8046-C1E461A1E7AE)**
 ``
@@ -399,9 +403,9 @@ readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25mVnNQYThtS
 Created: Apr 1, 2022 at 13:25
 Due: Apr 1, 2022 at 19:25
 
-04912022-132544
+[04912022-132544](tel:04912022-132544)
 
-[**Push (to phone) from Widget Notes and Jinx Developer**](x-apple-reminderkit://REMCDReminder/617DF0B6-E281-4C5C-B9C2-7E354292F28B)
+[\*\*Push (to phone) from Widget Notes and Jinx Developer\*\*](x-apple-reminderkit://REMCDReminder/617DF0B6-E281-4C5C-B9C2-7E354292F28B)
 ``
 [Link](https://apps.apple.com/us/app/push-to-your-phone/id1502796482)
 Created: Jan 17, 2022 at 22:57
@@ -409,93 +413,93 @@ Due:
 
 2022-01-17T22:57:24-06:00
 
-[**Sophia track ID in Instagram post.**](x-apple-reminderkit://REMCDReminder/F2044711-B8E9-4DFA-A984-5C48AD2FE99D)
+[\*\*Sophia track ID in Instagram post.\*\*](x-apple-reminderkit://REMCDReminder/F2044711-B8E9-4DFA-A984-5C48AD2FE99D)
 `Social`
 [Link](https://www.instagram.com/p/CZPF24TKPNk/)
 Created: Feb 16, 2022 at 13:00
 Due: Feb 16, 2022 at 19:00
 
-02472022-130027
+[02472022-130027](tel:02472022-130027)
 
-[**Tilde Whirl Podcast**](x-apple-reminderkit://REMCDReminder/85EFCAC2-2D11-4611-8803-074C765D6672)
+[\*\*Tilde Whirl Podcast\*\*](x-apple-reminderkit://REMCDReminder/85EFCAC2-2D11-4611-8803-074C765D6672)
 `Social`
 [Link](http://tilde.town/~dozens/)
 Created: Mar 13, 2022 at 20:21
 Due: Mar 14, 2022 at 02:21
 
-03722022-202115
+[03722022-202115](tel:03722022-202115)
 
-[**Message from r w**](x-apple-reminderkit://REMCDReminder/7A8CBAD1-11E2-4C1E-9201-03352072BB6D)
+[\*\*Message from r w\*\*](x-apple-reminderkit://REMCDReminder/7A8CBAD1-11E2-4C1E-9201-03352072BB6D)
 ``
 [Link]()
 Created: Mar 31, 2022 at 14:38
 Due: 
 
-readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25jZzJhNytSRS13%0D%0AQi1obm5fUjdQQlc0MG5ZVzZNK3BmcEd4Si1UeHI3OHpUZ0BtYWlsLmdtYWlsLmNv%0D%0AbTs4NjA1NjYxNzg%3D
+<readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25jZzJhNytSRS13%0D%0AQi1obm5fUjdQQlc0MG5ZVzZNK3BmcEd4Si1UeHI3OHpUZ0BtYWlsLmdtYWlsLmNv%0D%0AbTs4NjA1NjYxNzg%3D>
 
-[**Re: screaming**](x-apple-reminderkit://REMCDReminder/08D236C2-6F93-4A0D-AC1E-F2CA5839ACC7)
+[\*\*Re: screaming\*\*](x-apple-reminderkit://REMCDReminder/08D236C2-6F93-4A0D-AC1E-F2CA5839ACC7)
 ``
 [Link]()
 Created: Apr 1, 2022 at 13:23
 Due: Apr 2, 2022 at 13:23
 
-readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25mVnNQYThtS3h0%0D%0AYmpkVEtKN1VBd25yNXMteW55WnFPTzFaaVFBcmNnWjFZUUBtYWlsLmdtYWlsLmNv%0D%0AbTsxOTUxNDQwMjky
+<readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25mVnNQYThtS3h0%0D%0AYmpkVEtKN1VBd25yNXMteW55WnFPTzFaaVFBcmNnWjFZUUBtYWlsLmdtYWlsLmNv%0D%0AbTsxOTUxNDQwMjky>
 
-[**Test PodQueue Shortcut**](x-apple-reminderkit://REMCDReminder/DA3C37DD-DA55-4D1F-8046-C1E461A1E7AE)
+[\*\*Test PodQueue Shortcut\*\*](x-apple-reminderkit://REMCDReminder/DA3C37DD-DA55-4D1F-8046-C1E461A1E7AE)
 ``
 [Link](https://podqueue.fm/pages/help/siri?s=09)
 Created: Apr 1, 2022 at 13:25
 Due: Apr 1, 2022 at 19:25
 
-04912022-132544
+[04912022-132544](tel:04912022-132544)
 
-[**Push (to phone) from Widget Notes and Jinx Developer**](x-apple-reminderkit://REMCDReminder/617DF0B6-E281-4C5C-B9C2-7E354292F28B)
+[\*\*Push (to phone) from Widget Notes and Jinx Developer\*\*](x-apple-reminderkit://REMCDReminder/617DF0B6-E281-4C5C-B9C2-7E354292F28B)
 ``
-- https://apps.apple.com/us/app/push-to-your-phone/id1502796482
+- <https://apps.apple.com/us/app/push-to-your-phone/id1502796482>
 - Created: Jan 17, 2022 at 22:57
 - Due: 
 Monday, 17 Jan 2022 22:56:25.png
 2022-01-17T22:57:24-06:00
 
-[**Sophia track ID in Instagram post.**](x-apple-reminderkit://REMCDReminder/F2044711-B8E9-4DFA-A984-5C48AD2FE99D)
+[\*\*Sophia track ID in Instagram post.\*\*](x-apple-reminderkit://REMCDReminder/F2044711-B8E9-4DFA-A984-5C48AD2FE99D)
 `Social`
-- https://www.instagram.com/p/CZPF24TKPNk/
+- <https://www.instagram.com/p/CZPF24TKPNk/>
 - Created: Feb 16, 2022 at 13:00
 - Due: Feb 16, 2022 at 19:00
-IMG_2583.heic
-02472022-130027
+IMG\_2583.heic
+[02472022-130027](tel:02472022-130027)
 
-[**Tilde Whirl Podcast**](x-apple-reminderkit://REMCDReminder/85EFCAC2-2D11-4611-8803-074C765D6672)
+[\*\*Tilde Whirl Podcast\*\*](x-apple-reminderkit://REMCDReminder/85EFCAC2-2D11-4611-8803-074C765D6672)
 `Social`
-- http://tilde.town/~dozens/
+- <http://tilde.town/~dozens/>
 - Created: Mar 13, 2022 at 20:21
 - Due: Mar 14, 2022 at 02:21
 03722022-202041.png
-03722022-202115
+[03722022-202115](tel:03722022-202115)
 
-[**Message from r w**](x-apple-reminderkit://REMCDReminder/7A8CBAD1-11E2-4C1E-9201-03352072BB6D)
+[\*\*Message from r w\*\*](x-apple-reminderkit://REMCDReminder/7A8CBAD1-11E2-4C1E-9201-03352072BB6D)
 ``
 - 
 - Created: Mar 31, 2022 at 14:38
 - Due: 
 
-readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25jZzJhNytSRS13%0D%0AQi1obm5fUjdQQlc0MG5ZVzZNK3BmcEd4Si1UeHI3OHpUZ0BtYWlsLmdtYWlsLmNv%0D%0AbTs4NjA1NjYxNzg%3D
+<readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25jZzJhNytSRS13%0D%0AQi1obm5fUjdQQlc0MG5ZVzZNK3BmcEd4Si1UeHI3OHpUZ0BtYWlsLmdtYWlsLmNv%0D%0AbTs4NjA1NjYxNzg%3D>
 
-[**Re: screaming**](x-apple-reminderkit://REMCDReminder/08D236C2-6F93-4A0D-AC1E-F2CA5839ACC7)
+[\*\*Re: screaming\*\*](x-apple-reminderkit://REMCDReminder/08D236C2-6F93-4A0D-AC1E-F2CA5839ACC7)
 ``
 - 
 - Created: Apr 1, 2022 at 13:23
 - Due: Apr 2, 2022 at 13:23
 
-readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25mVnNQYThtS3h0%0D%0AYmpkVEtKN1VBd25yNXMteW55WnFPTzFaaVFBcmNnWjFZUUBtYWlsLmdtYWlsLmNv%0D%0AbTsxOTUxNDQwMjky
+<readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25mVnNQYThtS3h0%0D%0AYmpkVEtKN1VBd25yNXMteW55WnFPTzFaaVFBcmNnWjFZUUBtYWlsLmdtYWlsLmNv%0D%0AbTsxOTUxNDQwMjky>
 
-[**Test PodQueue Shortcut**](x-apple-reminderkit://REMCDReminder/DA3C37DD-DA55-4D1F-8046-C1E461A1E7AE)
+[\*\*Test PodQueue Shortcut\*\*](x-apple-reminderkit://REMCDReminder/DA3C37DD-DA55-4D1F-8046-C1E461A1E7AE)
 ``
-- https://podqueue.fm/pages/help/siri?s=09
+- <https://podqueue.fm/pages/help/siri?s=09>
 - Created: Apr 1, 2022 at 13:25
 - Due: Apr 1, 2022 at 19:25
-IMG_4533.png
-04912022-132544
+IMG\_4533.png
+[04912022-132544](tel:04912022-132544)
 
 
 ---
@@ -797,7 +801,7 @@ long1950-5G
 - RPM: 551
 - Type: wifi
 - [Shortcuts](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/837A7069-BE1B-4844-8AFB-CE151BFBBD11/File%20Provider%20Storage/Shortcuts.sqlite)
-# 04932022-191309
+# [04932022-191309](tel:04932022-191309)
 
 - [The Psalms Action Group](drafts://open?uuid=7580294A-E97B-4614-AAF6-4E4A63358E6E)
 - [Action Group Index](drafts://open?uuid=411D556C-2ABF-4181-8D43-C6E46559BBEA)
@@ -809,28 +813,28 @@ long1950-5G
 - [Notes-Siri Shortcuts and More for Tot](drafts://open?uuid=E6D127B8-B5CE-45F5-8D6A-0BC5CE12A149)
 - [Siri Shortcuts and More for Tot](drafts://open?uuid=9DAFE8FC-3655-4FBD-BA16-7439BAC109FA)
 - [Re: screaming](drafts://open?uuid=2DFBD718-8845-49CF-A343-8BA3B639B7B3)
-- [David Blue’s WORLD FAMOUS Fast n’ Loose™ Siri Shortcuts for 𝚂𝙲𝚁𝚄𝙱𝚂](drafts://open?uuid=68F049EC-59AF-4A49-885F-698BB9653400)
+- [David Blue’s WORLD FAMOUS Fast n’ Loose™ Siri Shortcuts for](drafts://open?uuid=68F049EC-59AF-4A49-885F-698BB9653400) [𝚂𝙲𝚁𝚄𝙱𝚂](drafts://open?uuid=68F049EC-59AF-4A49-885F-698BB9653400)
 - [Dots](drafts://open?uuid=6CB89F33-7463-4201-89E4-F1D850008D8A)
 - [End User Episode 9](drafts://open?uuid=69EA3CC6-7081-47B4-B4AB-C16E5C7E8417)
 - [Drafts Keyboard Shortcuts to Re-Emphasize](drafts://open?uuid=55EDFC80-8307-4197-9A8F-754C1656A43F)
 - [A Good Place: Periscope Magic](drafts://open?uuid=4B149084-B41C-4C82-8FD2-0FB7CCF67B6B)
 - [Notes-Periscope Magic](drafts://open?uuid=480EF899-1228-4751-BFA2-1F197BF1B71A)
-- [[Jayson](https://apps.apple.com/us/app/jayson/id1468691718) App Store Review](drafts://open?uuid=A953A625-CB34-47B7-B944-FAD0B617966D)
+- [[Jayson](https://apps.apple.com/us/app/jayson/id1468691718) App Store Review](<drafts://open?uuid=A953A625-CB34-47B7-B944-FAD0B617966D>)
 - [Birthday: Table of Contents](drafts://open?uuid=A5AEEC73-21C7-4ECA-B214-F459EF12AAC5)
 - [gas station robbery https://t.co/TKZ20Ze9oh](drafts://open?uuid=A3881C9D-A11E-4367-BEA9-5F1E53C0FB57)
-- [I.... have a PhD position? This is so cool! 🥳🥳](drafts://open?uuid=C42778FB-2D9A-48B9-8195-248616062DC4)
+- [I.... have a PhD position? This is so cool!](drafts://open?uuid=C42778FB-2D9A-48B9-8195-248616062DC4) [🥳🥳](drafts://open?uuid=C42778FB-2D9A-48B9-8195-248616062DC4)
 - [Twitter Search: @neoyokel](drafts://open?uuid=45F41B98-3F9F-473E-A1E1-6B44E1B7B729)
 - [NeoCities/WebDAV Action Group](drafts://open?uuid=871D7EF0-8BAF-438B-8A5A-E3978B659FD1)
 - [Hold Your Clipboard Managers Close](drafts://open?uuid=A7A3A08D-3C07-49E3-A6D0-A2DEF40DF974)
 - [Please Fuck With This License](drafts://open?uuid=A61AB9CD-1756-4E05-B50B-5AB6AE693BE7)
-- [David Blue’s WORLD FAMOUS Fast n’ Loose™ Siri Shortcuts for 𝚂𝙲𝚁𝚄𝙱𝚂](drafts://open?uuid=DD9ED498-1B00-45F7-B610-86E4570DB9E2)
-- [@BrianMueller333 ❤ 🫂](drafts://open?uuid=82E0B364-962F-4711-AE16-701D0EED2234)
+- [David Blue’s WORLD FAMOUS Fast n’ Loose™ Siri Shortcuts for](drafts://open?uuid=DD9ED498-1B00-45F7-B610-86E4570DB9E2) [𝚂𝙲𝚁𝚄𝙱𝚂](drafts://open?uuid=DD9ED498-1B00-45F7-B610-86E4570DB9E2)
+- [@BrianMueller333](drafts://open?uuid=82E0B364-962F-4711-AE16-701D0EED2234) [❤](drafts://open?uuid=82E0B364-962F-4711-AE16-701D0EED2234) [🫂](drafts://open?uuid=82E0B364-962F-4711-AE16-701D0EED2234)
 - [Twitter Search: neoyokel](drafts://open?uuid=58D83DD4-3C0D-4BCD-97A6-F3447BF8C93A)
 - [TextExpander touch SDK](drafts://open?uuid=A40970A6-8EF9-4388-AA28-C6AD4A1DF15E)
 - [Friends Twitter List Export 12-15-2021](drafts://open?uuid=E18E5F6F-15A2-4A72-A823-BBFDA20751D1)
 - [Index/Welcome](drafts://open?uuid=6BE78CAC-6238-4797-894D-59FDDB9E3CD7)
 - [The Agony & The Ecstasy of the iPhone 12 Pro Max](drafts://open?uuid=07B641B2-6692-4FA9-9E7C-79D7EED5F803)
-- [- [Shortcuts](https://www.icloud.com/shortcuts/a2ef3a327a0b4c32854cbe55e9a63080)](drafts://open?uuid=6203D523-0B68-443B-BADE-F4A5D441FE86)
+- [- [Shortcuts](https://www.icloud.com/shortcuts/a2ef3a327a0b4c32854cbe55e9a63080)](<drafts://open?uuid=6203D523-0B68-443B-BADE-F4A5D441FE86>)
 - [contiguity](drafts://open?uuid=CAADDDDA-E504-4F17-9E72-09BEAD2905A3)
 - [zachary7829‘s Blog](drafts://open?uuid=0AB593FC-8486-4FCE-AA8A-2F27438894A9)
 - [David Blue’s Siri Shortcuts Repository](drafts://open?uuid=7998F086-4951-4DAB-995F-FE698FACFF78)
@@ -844,9 +848,9 @@ long1950-5G
 - [Shortcuts Repo Index](drafts://open?uuid=031F557C-E046-48B3-832B-C91CAD466701)
 - [David Blue on Tilde.Town](drafts://open?uuid=53D80A72-BE50-48E3-A25C-0799764CE4F2)
 - [hacknorris Shortcuts](drafts://open?uuid=ABB5765F-EE2F-44D9-A384-9FBDB7277FCA)
-- [unique_fucks Shortcut](drafts://open?uuid=267A745A-49FC-4A7E-BD6C-5A26F64E14F7)
+- [unique\_fucks Shortcut](drafts://open?uuid=267A745A-49FC-4A7E-BD6C-5A26F64E14F7)
 - [Howdy.txt](drafts://open?uuid=9C248F97-F061-44D3-A3A0-EE991C553123)
-- [Tot ⇨ Apple Notes Shortcut](drafts://open?uuid=10EFCF5F-AAD4-4A4B-830A-9C02BDC766D0)
+- [Tot](drafts://open?uuid=10EFCF5F-AAD4-4A4B-830A-9C02BDC766D0) [⇨](drafts://open?uuid=10EFCF5F-AAD4-4A4B-830A-9C02BDC766D0) [Apple Notes Shortcut](drafts://open?uuid=10EFCF5F-AAD4-4A4B-830A-9C02BDC766D0)
 - [Run Shell Command Shortcut (Drafts)](drafts://open?uuid=EE9510FC-2EFB-409D-928F-A2E5C777B4C2)
 - [Mac Menu Bar Shortcuts](drafts://open?uuid=68489605-5A2E-4250-8B8C-EC651CAEA449)
 - [Automation April](drafts://open?uuid=114E449F-7518-4158-87EB-C817F633FBF2)
@@ -878,10 +882,10 @@ long1950-5G
 - [List .md Drafts Open Links by Tag Shortcut](drafts://open?uuid=0E0613E7-9C1F-48DE-8AF8-ABA5E9619066)
 - [Index Drafts Workspace Shortcut](drafts://open?uuid=BF7242C0-6E4E-4BD8-B01C-110A5F2BC26A)
 - [Index by Tag with Drafts Open Links via Siri Shortcuts](drafts://open?uuid=225ED750-53C3-455C-9CAD-6CEBA0184ACC)
-- [[[w:keys]] Index  - 03832022-144011](drafts://open?uuid=C9DEA2D3-DD7E-424D-A284-FA6513B5BE2F)
-- [[[w:correspondence]] Index  - 03832022-142351](drafts://open?uuid=D3E7A55F-91F0-41AF-88F6-59A233AA1E80)
+- [[[w:keys]] Index  - [03832022-144011](tel:03832022-144011)](<drafts://open?uuid=C9DEA2D3-DD7E-424D-A284-FA6513B5BE2F>)
+- [[[w:correspondence]] Index  - [03832022-142351](tel:03832022-142351)](<drafts://open?uuid=D3E7A55F-91F0-41AF-88F6-59A233AA1E80>)
 - [Vocabulary Index](drafts://open?uuid=F6B952AF-A7F8-4B2D-B310-8800099CF282)
-- [[[w:Dev]] Index  - 03832022-140156](drafts://open?uuid=782F9576-D3B3-42CE-AAEB-00F2327EFAB1)
+- [[[w:Dev]] Index  - [03832022-140156](tel:03832022-140156)](<drafts://open?uuid=782F9576-D3B3-42CE-AAEB-00F2327EFAB1>)
 - [placate](drafts://open?uuid=53543872-FBA2-4874-BE01-3D0243733507)
 - [Shortcuts Actions are coming to Tot](drafts://open?uuid=DE4A4195-9D96-4CF0-922A-DB642CB6838F)
 - [Drafts Autocompletes](drafts://open?uuid=D7135FD0-C2C5-4AB4-B0DD-DAAE7E70BA64)
@@ -901,3 +905,145 @@ long1950-5G
 - [Testing](drafts://open?uuid=C27A0B52-1B51-45D3-8641-0BD32AD72D4F)
 - [gyaru moji - Google Search](https://www.google.com/search?q=gyaru%20moji)
 - [Introducing Automation April: A Month-Long Community Event About Automation, Featuring Shortcuts, Interviews, Discord Workshops, and a Shortcut Contest](https://www.macstories.net/stories/introducing-automation-april/)
+# David Blue’s WORLD FAMOUS Fast n’ Loose™ Siri Shortcuts for 𝚂𝙲𝚁𝚄𝙱𝚂
+Updated `04022022-163836`
+- [David Blue’s WORLD FAMOUS Fast n’ Loose™ Siri Shortcuts for](https://github.com/extratone/bilge/wiki/David-Blue%E2%80%99s-WORLD-FAMOUS-Fast-n%E2%80%99-Loose%E2%84%A2-Siri-Shortcuts-for-%F0%9D%9A%82%F0%9D%99%B2%F0%9D%9A%81%F0%9D%9A%84%F0%9D%99%B1%F0%9D%9A%82) [𝚂𝙲𝚁𝚄𝙱𝚂](https://github.com/extratone/bilge/wiki/David-Blue%E2%80%99s-WORLD-FAMOUS-Fast-n%E2%80%99-Loose%E2%84%A2-Siri-Shortcuts-for-%F0%9D%9A%82%F0%9D%99%B2%F0%9D%9A%81%F0%9D%9A%84%F0%9D%99%B1%F0%9D%9A%82) [· extratone/bilge Wiki](https://github.com/extratone/bilge/wiki/David-Blue%E2%80%99s-WORLD-FAMOUS-Fast-n%E2%80%99-Loose%E2%84%A2-Siri-Shortcuts-for-%F0%9D%9A%82%F0%9D%99%B2%F0%9D%9A%81%F0%9D%9A%84%F0%9D%99%B1%F0%9D%9A%82)
+- [Shortlink](https://bit.ly/gitscrubs) - `[https://bit.ly/gitscrubs`](https://bit.ly/gitscrubs%60)
+- [Pastery](https://www.pastery.net/eujzmz/#eujzmz)
+- [WTF](https://davidblue.wtf/scrubs/)
+- [WTF2](https://davidblue.wtf/drafts/68F049EC-59AF-4A49-885F-698BB9653400.html)
+- [~](https://tilde.town/~extratone/scrubs/)
+- [r/davidblue](https://reddit.com/r/davidblue/comments/sir6pm/david_blues_world_famous_fast_n_loose_siri/)
+- [Siri Shortcut](https://routinehub.co/shortcut/10978/)
+- [Siri Shortcut iCloud Direct Link](https://www.icloud.com/shortcuts/83c7c4ec1fcf4b359f520d5124899e9d)
+- [Gist](https://gist.github.com/3f3748f2ee1cd0820ba099cb05809054)
+- [Telegram](https://t.me/extratone/10927)
+
+![OMNIMEMOJI](https://i.snap.as/p8U6kW1g.png)
+
+**All** of the Siri Shortcuts I’ve created or modified over the years and thought worthy of sharing, prioritizing those which I have not shared on either my [RoutineHub](https://routinehub.co/user/blue) or [ShareShortcuts](https://shareshortcuts.com/u/blue/) profiles. You shouldn’t encounter share URLS from _any_ Shortcuts or File Shariing services, here - I thought a commitment to generating fresh `[icloud.com/shortcuts`](http://icloud.com/shortcuts%60)  URLs exclusively for this project would be in its best interest - I haven’t exactly been dilligently keeping track of them throughout the history of Siri Shortcuts as they’ve been exclusively shared this way…
+
+## Most Utilitarian (In Theory…)
+
+- [\*\*screen\*\*](https://www.icloud.com/shortcuts/6fa16145d1a649ceb878f141b8e595b7) - `[https://www.icloud.com/shortcuts/6fa16145d1a649ceb878f141b8e595b7`](https://www.icloud.com/shortcuts/6fa16145d1a649ceb878f141b8e595b7%60) 
+- [undercovered](https://www.icloud.com/shortcuts/18eb1e77ab0b455f82da4c4c6e521368) (define)
+- [style](https://www.icloud.com/shortcuts/3a2d212cc2614202be37b0beb8276e9b) (personal styleguide reference)
+- [Text Replacement](https://www.icloud.com/shortcuts/e6d56b3fe8bc40639a60f166315f255b)
+- [gps](https://www.icloud.com/shortcuts/c22c676ab4ee4b98b5a49b6112957b3c)
+- [sl](https://www.icloud.com/shortcuts/7c3946b289a846cb9e63f0bdade93fa5) (The best Odesli quick share automation in history.)
+- [Unpaywall](https://www.icloud.com/shortcuts/5ba5aa17593e4524843d69866800adb2)
+- [TrippleTap Reminders](https://www.icloud.com/shortcuts/d17211cfac484c7f87ebd16b164ebce3)
+- [fuckaudio](https://www.icloud.com/shortcuts/726eb2a7877446f8a8dc681947ee8f48)
+- [Speedy Home Screen](https://www.icloud.com/shortcuts/4576d20841194a2e8c82569e7eecc9ec)
+- [update](https://www.icloud.com/shortcuts/f9f53f99f16647f295e03e532d897965)
+- [Markdown Capture (Comprehensive)](https://www.icloud.com/shortcuts/102f5ddb913f46239db48712d3e8115e)
+- [Strip Image Metadata](https://www.icloud.com/shortcuts/e6121cf89ecf42ceba831251bbb4edef)
+- [Jorts Device Report](https://www.icloud.com/shortcuts/a9fb15a922124770b8060fc19b8a9722)
+- [Store Page URLS](https://www.icloud.com/shortcuts/9a60b0f4e03d440e8eefce7fefe51f8a) (Drafts)
+- [Comprehensive Markdown Capture](https://www.icloud.com/shortcuts/94fe8ab9b16045068f23ec6c724cdec9)
+- [temp](https://www.icloud.com/shortcuts/45030559a4864674b46634cecbc4bfc0) (Requires [Toolbox Pro](https://apps.apple.com/us/app/toolbox-pro-for-shortcuts/id1476205977) and [Data Jar](https://apps.apple.com/us/app/data-jar/id1453273600).)
+- [Base64 Demo](https://www.icloud.com/shortcuts/6b9ed9e479a347438a1edbc95bee9b4c)
+- [Base64 Photo](https://www.icloud.com/shortcuts/359624798fe046da83c01ec499aba67c)
+- [cut](https://www.icloud.com/shortcuts/6418f65c0153408086cf15a5378c2e04)
+- [Auto-Lock](https://www.icloud.com/shortcuts/28971c99d58145ebba88312fca59175c)
+- [Add to LookUp Collection](https://www.icloud.com/shortcuts/09609fefe91340e0b4f07df5b332cafc)
+- [DraftsImage](https://www.icloud.com/shortcuts/09d229c3b5064480a30ac784b7edd3ef)
+- [DraftsImageSmall](https://www.icloud.com/shortcuts/fa3b63050cde48e4933bac6d9b1545df)
+- [DATAFRUITS](https://www.icloud.com/shortcuts/bf26a791fe1a483fbf2ede5c47ae1d87)
+- [O P E N](https://www.icloud.com/shortcuts/52e6c820f965488b91ca4b76c99434af)
+- [DOWNLOAD](https://www.icloud.com/shortcuts/af5a886c9b044bf194dd52127a3939c3)
+- [Hex Encode](https://www.icloud.com/shortcuts/2b2d578f53d94c139f112b381f1642cb)
+- [NOW](https://www.icloud.com/shortcuts/c080b6245128491694875419160faec2)
+- [unique\_fucks](https://www.icloud.com/shortcuts/0c654131c77240738a8a92073940f9d2)
+- [Save to PodQueue](https://www.icloud.com/shortcuts/2665e5d29eed4096a122c4e8492e8bc9)
+
+## Music/Audio Delights
+
+- [\*\*Fondren & Main\*\*](https://www.icloud.com/shortcuts/fc846ff0e9094e088a7af4c5c11c3a23)
+- [\*\*SHOW ME\*\*](https://www.icloud.com/shortcuts/029dea6d90f84223ac65be98fc803e7a) - `[https://bit.ly/showmesiri`](https://bit.ly/showmesiri%60)
+- [RIDE THE STORM](https://www.icloud.com/shortcuts/50ea8b3e026f41668f9a2a88c702a4c4)
+- [BREAKDALAW](https://www.icloud.com/shortcuts/0e175407850d4fcb83c64ea04c0c284f)
+- [Frank Ocean - Street Fighter](https://www.icloud.com/shortcuts/ce89a2fe4f444e9c973436922640a33a)
+- [HER](https://www.icloud.com/shortcuts/c6ab99cbc3d9430d87d4abbdf7714d16)
+- [GOGO](https://www.icloud.com/shortcuts/80fa232621df4112bd1a92a5ace8e088)
+- [FALTER](https://www.icloud.com/shortcuts/3f4efb0207ab4b0ca91606f160612273)
+- [KEEPIN LIVE](https://www.icloud.com/shortcuts/f9a1161ae7da41ac8dd772010be5a049)
+- [TKO](https://www.icloud.com/shortcuts/351c2593d3a2405691685fa6caf869aa)
+- [FUTURELAND](https://www.icloud.com/shortcuts/3da59e509709437d90927ba65860fc3a) 
+- [WITNESS](https://www.icloud.com/shortcuts/62afd3c029da456aa62d593de28145c4)
+- [Meow](https://www.icloud.com/shortcuts/a32e7771f97c43feb5e228dc2c94a868)
+- [Honk!](https://www.icloud.com/shortcuts/4dd2b2bf7110408b9fcde3f5811e5a02)
+- [IKNOW](https://www.icloud.com/shortcuts/bed4693885b3425daa96deabf1d12e53)
+- [SOS](https://www.icloud.com/shortcuts/bf3b733662144541ae4ab8fd317680a2)
+- [AMEN](https://www.icloud.com/shortcuts/551499f76c774333956d678950971196)
+- [Generation Rx](https://www.icloud.com/shortcuts/1d9d1bc51d3844b8a86510f224d9293a)
+- [Angel](https://www.icloud.com/shortcuts/24d7c6dc0214495cb6303509575472d1)
+- [Dinkus](https://www.icloud.com/shortcuts/5a86dd533fc34e1193a7fec67fdf0b63)
+- [OSHA](https://www.icloud.com/shortcuts/c53b8e2f3d794da58445fa2806034f4b)
+
+## Personal/Brand
+
+- [The Psalms Ebook](https://www.icloud.com/shortcuts/eff33d5e122449deb190c70992022c97)
+- [DavodTime](https://www.icloud.com/shortcuts/5a4ebd4ed057415b8915c535951c1059)
+- [gurgle](https://www.icloud.com/shortcuts/21ffd45ece1d4443823a583ab722f4a9)
+
+## Legacy/Drywall Media
+
+- [trent](https://www.icloud.com/shortcuts/7a319d5b68b84fabb8e0c0bea441bb24)
+- [birthday](https://www.icloud.com/shortcuts/4c2c7fd58aa84208bce08b69936aafbf)
+- [WYGD](https://www.icloud.com/shortcuts/fd519a1a72c34a3d8559779826b23353)
+- [Minecraft Flying Tutorial](https://www.icloud.com/shortcuts/a1c368c909c741a2864d0dd747115354)
+- [Minecraft Flying Tutorial Ringtone](https://www.icloud.com/shortcuts/5f6570320d2c4097b815b56ba3df53f2)
+- [homedepot](https://www.icloud.com/shortcuts/3409ec23198c4f34a82f08a8b680bd1e)
+
+## Okay
+
+- [NILLA](https://www.icloud.com/shortcuts/d0ed337c304f430993f2c8d8953d5e69)
+- [BIG WORDLE](https://www.icloud.com/shortcuts/965dd56d81684881954be591303a962d)
+- [COURDEROYED](https://www.icloud.com/shortcuts/75dc92926bed47af9a62faa83f2540d2)
+- [Pappy](https://www.icloud.com/shortcuts/d797e3104318490aaa93c94361a3bbe0)
+- [BIG COAT](https://www.icloud.com/shortcuts/0df2ab02738a4f46af70e0d16db79e56)
+
+## Motion Pictures
+
+- [I Hate This](https://www.icloud.com/shortcuts/de9514d4fb9343debc73331d813acecc)
+- [come tweet](https://www.icloud.com/shortcuts/85b4f548c00644b8bc6728e2e130e1da)
+- [NewGroove](https://www.icloud.com/shortcuts/069a37c98a224561a657f59660a006a1)
+- [GeorgeStar](https://www.icloud.com/shortcuts/ce0caff9e2f747a189e89ce250ddb280)
+- [OBAMNA](https://www.icloud.com/shortcuts/531cff2cf8234c239a241a60c9392eeb)
+- [TEETH](https://www.icloud.com/shortcuts/76cd68a3e30a413da0dc86e9b1c40aa7)
+- [Wii Shop Wednesday](https://www.icloud.com/shortcuts/37c4830c57c74a6a8980316dc14843dc)
+- [HEAT WAVE](https://www.icloud.com/shortcuts/ba35c18707a44601b198a938a54291c6)
+
+## Text Fuck
+
+- [Random Characters](https://www.icloud.com/shortcuts/ed9216202df4481d9ae001b0531384c2) [⇨](https://www.icloud.com/shortcuts/ed9216202df4481d9ae001b0531384c2) [Clipboard](https://www.icloud.com/shortcuts/ed9216202df4481d9ae001b0531384c2)
+- [Random Characters](https://www.icloud.com/shortcuts/af64b43604334d21ad5a6668471b828f) [⇨](https://www.icloud.com/shortcuts/af64b43604334d21ad5a6668471b828f) [Mastodon](https://www.icloud.com/shortcuts/af64b43604334d21ad5a6668471b828f)
+- [Random Characters](https://www.icloud.com/shortcuts/399a857145e34d8b94b994fa3f9ca300) [⇨](https://www.icloud.com/shortcuts/399a857145e34d8b94b994fa3f9ca300) [Tumblr](https://www.icloud.com/shortcuts/399a857145e34d8b94b994fa3f9ca300)
+- [Random Text](https://www.icloud.com/shortcuts/0873152dee3e4d32828cd28bcbc1be06) [⇨](https://www.icloud.com/shortcuts/0873152dee3e4d32828cd28bcbc1be06) [Twitter](https://www.icloud.com/shortcuts/0873152dee3e4d32828cd28bcbc1be06) ([Tweetbot](https://apps.apple.com/us/app/tweetbot-6-for-twitter/id1527500834))
+- [Random Text](https://www.icloud.com/shortcuts/21ab008699ce44dabc9f9a249fc6f881) [⇨](https://www.icloud.com/shortcuts/21ab008699ce44dabc9f9a249fc6f881) [Twitter II](https://www.icloud.com/shortcuts/21ab008699ce44dabc9f9a249fc6f881)
+- [Random Text](https://www.icloud.com/shortcuts/3bfc10474a254aec8a0f8f89da96d198) [⇨](https://www.icloud.com/shortcuts/3bfc10474a254aec8a0f8f89da96d198) [Clipboard](https://www.icloud.com/shortcuts/3bfc10474a254aec8a0f8f89da96d198)
+- [Random Text](https://www.icloud.com/shortcuts/f550febfa39b465b88217e1717f37548) [⇨](https://www.icloud.com/shortcuts/f550febfa39b465b88217e1717f37548) [Drafts](https://www.icloud.com/shortcuts/f550febfa39b465b88217e1717f37548)
+- [Random Text](https://www.icloud.com/shortcuts/0e517d1438b44d3d980c8afb9891a724) [⇨](https://www.icloud.com/shortcuts/0e517d1438b44d3d980c8afb9891a724) [Mastodon](https://www.icloud.com/shortcuts/0e517d1438b44d3d980c8afb9891a724)
+- [Random Text](https://www.icloud.com/shortcuts/3c38ca0a7ec9413f9c9a6f6328fb1b09) [⇨](https://www.icloud.com/shortcuts/3c38ca0a7ec9413f9c9a6f6328fb1b09) [Tumblr](https://www.icloud.com/shortcuts/3c38ca0a7ec9413f9c9a6f6328fb1b09)
+- [Random Text](https://www.icloud.com/shortcuts/07668aacd5ce4e59b76dd54ffc255209) [⇨](https://www.icloud.com/shortcuts/07668aacd5ce4e59b76dd54ffc255209) [WordPress](https://www.icloud.com/shortcuts/07668aacd5ce4e59b76dd54ffc255209)
+- [Fuck](https://www.icloud.com/shortcuts/edcc737ed7304a17bb3b4d8897aae29c)
+- [Tweet Symbol Images](https://www.icloud.com/shortcuts/a328611ebcab4f8ba271c0f89e3a7025)
+- [Tweet Color Images](https://www.icloud.com/shortcuts/192008f53ad74860b1de1d7adccedb69)
+- [Tweet Vocabulary Images](https://www.icloud.com/shortcuts/7417bf83a7a349099e1a50b1b091285b)
+- [cowsay](https://www.icloud.com/shortcuts/4226e16277a849e29c9b94779e8a6f3e)
+
+[Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs)
+- [Retrieve User's Posts – Write.as API Documentation](https://developers.write.as/docs/api/#retrieve-user-39-s-posts)
+
+```html
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Consultation</title>
+      <meta http-equiv = “refresh” content = “0; url = <https://fantastical.app/davidblue/general-consultation>” />
+   </head>
+   <body>
+   </body>
+</html>
+```
