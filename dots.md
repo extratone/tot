@@ -1,7 +1,7 @@
 **_Constraints can be powerful._**
 T       O       T               L       E       A       R       N    
 
-[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - [DraftsKeys Update](shortcuts://run-shortcut?name=DraftsKeys%20Update) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - [Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames) - [dREADME](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - [Tot Git iOS](shortcuts://run-shortcut?name=Tot%20Git%20iOS) - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss)
+[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - [DraftsKeys Update](shortcuts://run-shortcut?name=DraftsKeys%20Update) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - [Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames) - [dREADME](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - [Tot Git iOS](shortcuts://run-shortcut?name=Tot%20Git%20iOS) - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List)
 
 [symbol](shortcuts://run-shortcut?name=symbol)
 
@@ -124,7 +124,8 @@ _Documentation_
 
 **Tot Shortcuts Ideas**
 - Reminders ⇨ Tot
-- Finish Tot ↓ Drafts---**Tot Keys**
+- Finish Tot ↓ Drafts
+- Share Sheet-based Markdown List to Tot Dot---**Tot Keys**
 - **⌘/** = Show/Hide Status Bar
 - **⇧⌘T** = Switch to Plain Text View
 - **⌘,** = Preferences
@@ -184,7 +185,8 @@ _Documentation_
 
 **Tot Shortcuts Ideas**
 - Reminders ⇨ Tot
-- Finish Tot ↓ Drafts---**Tot Keys**
+- Finish Tot ↓ Drafts
+- Share Sheet-based Markdown List to Tot Dot---**Tot Keys**
 - **⌘/** = Show/Hide Status Bar
 - **⇧⌘T** = Switch to Plain Text View
 - **⌘,** = Preferences
@@ -307,7 +309,9 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 
 - [Re  screaming](drafts://open?uuid=2DFBD718-8845-49CF-A343-8BA3B639B7B3)
 
-- [Introducing Automation April  A Month-Long Community Event About Automation, Featuring Shortcuts, Interviews, Discord Workshops, and a Shortcut Contest](drafts://open?uuid=ECDF27E4-A224-4A9C-BDCD-3B3F9CA8B927)---**URL Schemes Learning**
+- [Introducing Automation April  A Month-Long Community Event About Automation, Featuring Shortcuts, Interviews, Discord Workshops, and a Shortcut Contest](drafts://open?uuid=ECDF27E4-A224-4A9C-BDCD-3B3F9CA8B927)
+
+- [WTF Drafts Index](drafts://open?uuid=8C4596E3-0397-468C-A579-CF56CB7CFE06)---**URL Schemes Learning**
 
 _Links_
 - [Drafts](https://docs.getdrafts.com/docs/automation/urlschemes)
@@ -895,3 +899,4 @@ long1950-5G
 - [JSON Speedtest Shortcut (macOS)](drafts://open?uuid=159CAD15-02B6-4429-AFA2-B06018E9A8CF)
 - [Tot Version History](drafts://open?uuid=BADF99AB-3478-49C3-BF73-704C16C9E154)
 - [Testing](drafts://open?uuid=C27A0B52-1B51-45D3-8641-0BD32AD72D4F)
+- [gyaru moji - Google Search](https://www.google.com/search?q=gyaru%20moji)
