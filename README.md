@@ -2,19 +2,19 @@
 
 An experiment in cross-platform git tracking with [**Tot**](https://apps.apple.com/us/app/tot/id1491071483) and [**Tot Pocket**](https://apps.apple.com/us/app/tot-pocket/id1498235191).
 
-[ONE](tot://1)
+[**ONE**](https://github.com/extratone/tot/blob/main/1.md)
 
-[TWO](tot://2)
+[**TWO**](https://github.com/extratone/tot/blob/main/2.md)
 
-[THREE](tot://3)
+[**THREE**](https://github.com/extratone/tot/blob/main/3.md)
 
-[FOUR](tot://4)
+[**FOUR**](https://github.com/extratone/tot/blob/main/4.md)
 
-[FIVE](tot://5)
+[**FIVE**](https://github.com/extratone/tot/blob/main/5.md)
 
-[SIX](tot://6)
+[**SIX**](https://github.com/extratone/tot/blob/main/6.md)
 
-[SEVEN](tot://7)
+[**SEVEN**](https://github.com/extratone/tot/blob/main/7.md)
 
 ## Siri Shortcuts for Tot
 
