@@ -1,7 +1,7 @@
 **_Constraints can be powerful._**
 T       O       T               L       E       A       R       N    
 
-[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - [DraftsKeys Update](shortcuts://run-shortcut?name=DraftsKeys%20Update) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - [Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames) - [dREADME](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - [Tot Git iOS](shortcuts://run-shortcut?name=Tot%20Git%20iOS) - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT)
+[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - [DraftsKeys Update](shortcuts://run-shortcut?name=DraftsKeys%20Update) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - [Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames) - [dREADME](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - [Tot Git iOS](shortcuts://run-shortcut?name=Tot%20Git%20iOS) - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss)
 
 [symbol](shortcuts://run-shortcut?name=symbol)
 
@@ -47,6 +47,7 @@ _Social/Family_
 - [Underdocumented iOS Manuevers Thread](https://www.reddit.com/r/ios/comments/l5p7ly/underdocumented_ios_functions_stuff_you_wish/)
 - [Recommended Apps](drafts://open?uuid=C11B9C28-5584-414B-8C22-D0ACFCA339D0)
 - [Tilde Guide Tweet](https://twitter.com/NeoYokel/status/1503187276444098560)
+- [Introducing Automation April  A Month-Long Community Event About Automation, Featuring Shortcuts, Interviews, Discord Workshops, and a Shortcut Contest](drafts://open?uuid=ECDF27E4-A224-4A9C-BDCD-3B3F9CA8B927)
 
 _Documentation_
 - [Siri Shortcuts for Telegram](drafts://open?uuid=3260C6BA-1CA8-4ADB-9888-98601FADD82F)
@@ -183,103 +184,70 @@ _Documentation_
 
 **Tot Shortcuts Ideas**
 - Reminders ⇨ Tot
-- Finish Tot ↓ Drafts---**Tot Shortcuts**
-- [Append Drafts Tag Index to Tot](https://www.icloud.com/shortcuts/d23d57ac8bb04c77a12f274ede4e9656) 
-- [Tot Action Showcase](https://www.icloud.com/shortcuts/471dddd770e84e93a687f87d580ab3a3)
-- [Tot Consolidated Backup](https://www.icloud.com/shortcuts/b40c48899fd84941b7e5342c16d52fd2)
-- [Tot Individual Backup](https://www.icloud.com/shortcuts/b24a0ad1c5b14831bfe36b6dbb97a97b)
+- Finish Tot ↓ Drafts---**Tot Keys**
+- **⌘/** = Show/Hide Status Bar
+- **⇧⌘T** = Switch to Plain Text View
+- **⌘,** = Preferences
+- **⌘⌥,** = Theme Preferences
+- **⌘⌥⇦⇨** = Tot Switch
+- **⌘0** = Empty Tot
+- **⇧⌘S** = Save File
+- **⌘S** = Save Version
+- **⌥⌘S** = Save Backup
+- **⌥⌘R** = Restore Backup
 
-- [r/Shortcuts Thread](https://www.reddit.com/r/shortcuts/comments/tej1is/shortcuts_actions_are_coming_to_tot)
+**Todo**
+- [Write.as Siri Shortcuts](drafts://open?uuid=C616958C-BFDE-4B6C-A7E9-05CBAF394E08)
+- [Generate Shortcuts x-callback Links (macOS)](drafts://open?uuid=400D3AE6-CBA9-4272-B681-92B9131ED7B3)
+- WhatCMS API tools
+- AppWishIDs
+- Batch rename image files by sampling from an Extract Text from Image Action, intelligently truncated.
+- Post to Write.as Blog (iOS) - with a-Shell?
+- Taio & Drafts Integration with [URL Schemes](https://docs.taio.app/#/integration/url-schemes)
+- Drafts Themes inspired by [Mineshaft Gold](https://t.me/addtheme/mineshaftgold2022) and [Japan Serenity](https://t.me/addtheme/japanserenity2022)
+- Big Complex [iOS System Sounds](https://github.com/extratone/iOSSystemSounds) shortcut
+- SSH with Working Copy
+- Learning to use the Snap.as CLI/Snap.as Siri Shortcuts
+- Shortcuts Horn Buttons
+- Bear links to Tot?
+- Figure out Zalgo Shortcuts
+- Figure out how GitHub Wikis actually work and organize [The Psalms’ Wiki](https://github.com/extratone/bilge/wiki)
+- WriteFreely community Telegram Group?
+- Learn [Paste Stacks](https://pasteapp.io/help/paste-stack-51)
+- Update [NeoCities Homepage Text](drafts://open?uuid=D1E2EEA4-95BC-4837-BE96-387BC11E0037)
+- LookUp Collection ⇨ Spoken Audio File
+- [Submit to](https://www.earratmag.com/p/submissions.html) _[Ear Rat](https://www.earratmag.com/p/submissions.html)_[’s 90s Issue by March 31st](https://www.earratmag.com/p/submissions.html)
+- A Safari Extension for iOS that cleans links
+- Bear Siri Shortcuts
+- Bear Keyboard Shortcuts
+- Bear URL Schemes
+- More extensive Panda testing?
+- Services/Shortcuts in macOS
+- 
+⌦ ⌦ ⌦ ⌦ 
 
-I was delighted to discover by way of the macOS Beta that shortcuts actions are coming to [Tot](https://apps.apple.com/us/app/tot/id1491071483) and [Tot Pocket](https://apps.apple.com/us/app/tot-pocket/id1498235191)! 
-
-![Release Notes](https://user-images.githubusercontent.com/43663476/158322995-ee16014c-e293-4cf4-9b4b-fcffe9794e35.png)
-
-From the Tot version 1.3 Testflight notes:
-
-> • Added support for Shortcuts:
-> - Commands to get, set, or show text from any dot
-> - Works great as scratchpad to collect input for a Shortcut
-> - Also a convenient way to save text that has been processed
-> - Same actions on macOS and iOS, allowing shared workflows
-
-
-![Tot Shortcuts Actions](https://user-images.githubusercontent.com/43663476/158322998-bc6ffd1b-9ab9-4c7c-bc9d-6df1dc0ea36d.png)
-
-### Actions
-
-- \*\*Add to Dot\*\* - “Adds text to a dot by prepending or appending”
-- \*\*Get Dot\*\* - “Gets all the text from a dot”
-- \*\*Set Dot\*\* - “Sets all the text in a dot”
--  \*\*Show Dot\*\* - “Shows the specified dot”
+**Reading**
+- [Toolbox Pro Review: A Must-Have Companion Utility for Shortcuts Power Users](https://www.macstories.net/reviews/toolbox-pro-review-a-must-have-companion-utility-for-shortcuts-power-users/)
+- [Drafts 15 Review: Multiwindow, Shortcuts, and More](https://www.macstories.net/reviews/drafts-15-review-multiwindow-shortcuts-and-more/)
+- “[Automating iOS: A Comprehensive Guide to URL Schemes and Drafts Actions](drafts://open?uuid=A944CF95-DE24-47AA-BC50-CB03E1A20396)”
 - 
 
-[Tot Individual Backup](shortcuts://run-shortcut?name=Tot%20Individual%20Backup)b
+**$**
+- [Congrats, you're now a patron of The Iconfactory](message:%3C20220403203619.aae4cb3cfe00b974@mailgun.patreon.com%3E)
 
-I would like to say thanks to /u/Aprilhoomie and /u/Neskire for posting useful information at <https://redd.it/jecdyn>
+**Tools**
+- [ColorHound](http://colorhound.net)
+- [HTML HOUSE](https://html.house)
 
-I wanted to write a summary how I work out with torrenting on iOS, here is my approach.
+[Silicon Valley Buzz: Apple Paid More Than $200 Million For Siri To Get Into Mobile Search | TechCrunch](https://techcrunch.com/2010/04/28/apple-siri-200-million/)
 
-First you will need iSH Shell app from <https://apps.apple.com/us/app/ish-shell/id1436902243>
+<https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334>
 
-Second, you will need to have a way to view page source to copy the “magnet:” magnet link address, because apparently somehow we couldn’t simply copy the magnet address as link without special workarounds, it could very well be Apple imposing this limitation.
+<https://web.archive.org/web/*/https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334>
 
-I have the text editor I developed with Shortcuts I can use to view page source, if you’re interested:
-
-	Have Shortcuts app installed, then grab New Text (and Save Text if you want save support) from <https://redd.it/ho37cs>
-
-	If it said this shortcut is untrusted: Settings app > Shortcuts > Allow untrusted shortcuts
-
-	If grayed out: Open Shortcuts app, create a random shortcut, the button will become available afterwards
-
-	Visit a webpage, open share sheet and choose New Text, your clipboard will be updated, paste into the text editor, then use Safari’s address to find “magnet:” in the page. For difficult magnet link, try select around it on the normal page then open New Text, the source will shrink to there.
-
-Finally open iSH, type and enter
-
-first time:
-
-	apk add –upgrade transmission-cli
-
-every session (to enable running torrent in background for this session):
-
-	cat /dev/location > /dev/null &
-
-every torrent:
-
-	transmission-cli (paste magnet link)
-
-So you know, you can use Files app to access recently torrented files in /root/Downloads/
-
-That’s it!
-
-
-
-
-UPDATE 2022/01/15 (bit late but never too late): way to stop seeding upon completion. Create a kill file into /root/ dir containing
-
-	#!/bin/sh
-
-	killall transmission-cli
-
-Open iSH, type and enter to change permission for the kill file
-
-	chmod +x /root/kill
-
-Then for next torrent do this
-
-	transmission-cli -f /root/kill (paste magnet link)
-
-Permanently delete non-empty directories:
-
-rm -rf [directory]
-
-cd Library/Mobile\\ Documents
-
-ls -1 -d "$PWD/shortcutsrepo/signed/"\*
-
-zip -0 -r mydir.zip mydir
-
-curl -F shorten= <https://ttm.sh>---[Hot Tot Dot Swap](shortcuts://run-shortcut?name=Hot%20Tot%20Dot%20Swap)
+**Tot Shortcuts Ideas**
+- Reminders ⇨ Tot
+- Finish Tot ↓ Drafts---[Hot Tot Dot Swap](shortcuts://run-shortcut?name=Hot%20Tot%20Dot%20Swap)
 
 
 
@@ -337,7 +305,9 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 
 - [NeoCities Homepage (WTF) 2.0](drafts://open?uuid=C2B1C951-518F-43FA-AEED-020CD5102A7B)
 
-- [Re  screaming](drafts://open?uuid=2DFBD718-8845-49CF-A343-8BA3B639B7B3)---**URL Schemes Learning**
+- [Re  screaming](drafts://open?uuid=2DFBD718-8845-49CF-A343-8BA3B639B7B3)
+
+- [Introducing Automation April  A Month-Long Community Event About Automation, Featuring Shortcuts, Interviews, Discord Workshops, and a Shortcut Contest](drafts://open?uuid=ECDF27E4-A224-4A9C-BDCD-3B3F9CA8B927)---**URL Schemes Learning**
 
 _Links_
 - [Drafts](https://docs.getdrafts.com/docs/automation/urlschemes)
@@ -773,3 +743,155 @@ ls -1 -d "$PWD/shortcutsrepo/signed/"\*
 I modified Federico’s Shortcut Injector to sign multiple shortcuts at a time (by folder.) I was even able to get [an over-ssh version](https://routinehub.co/shortcut/11467) working, though actually getting the resulting files back to the device is (at the moment, at least) beyond me. <https://routinehub.co/shortcut/11467>
 - Batch Shortcuts Signer (iOS): <https://routinehub.co/shortcut/11467>
 - Batch Shortcuts Signer (macOS): <https://routinehub.co/shortcut/11401>
+
+
+long1950-5G
+`04932022-132932`
+- Down: 191
+- Up: 70
+- Ping: 35
+- RPM: 112
+- Type: wifi
+
+long1950-5G
+`04932022-142931`
+- Down: 271
+- Up: 72
+- Ping: 39
+- RPM: 614
+- Type: wifi
+
+long1950-5G
+`04932022-152935`
+- Down: 151
+- Up: 63
+- Ping: 35
+- RPM: 256
+- Type: wifi
+
+long1950-5G
+`04932022-162935`
+- Down: 242
+- Up: 71
+- Ping: 35
+- RPM: 549
+- Type: wifi
+
+long1950-5G
+`04932022-172929`
+- Down: 262
+- Up: 71
+- Ping: 32
+- RPM: 640
+- Type: wifi
+
+long1950-5G
+`04932022-173001`
+- Down: 263
+- Up: 72
+- Ping: 38
+- RPM: 551
+- Type: wifi
+- [Shortcuts](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/837A7069-BE1B-4844-8AFB-CE151BFBBD11/File%20Provider%20Storage/Shortcuts.sqlite)
+# 04932022-191309
+
+- [The Psalms Action Group](drafts://open?uuid=7580294A-E97B-4614-AAF6-4E4A63358E6E)
+- [Action Group Index](drafts://open?uuid=411D556C-2ABF-4181-8D43-C6E46559BBEA)
+- [Drafts Keyboard Shortcuts (iOS Export)](drafts://open?uuid=880E8C09-09D6-4712-B33F-D0D1630DDC3C)
+- [Please Fuck With This License](drafts://open?uuid=FAFFA333-34A5-4412-B46C-3D216C09FD8E)
+- [App Store Reviews](drafts://open?uuid=25628140-FC0A-4DBF-96BE-1E7624E9F50A)
+- [Fantastical Learning](drafts://open?uuid=494AA9DA-843D-4A05-9F8D-EB126FB85EED)
+- [David Blue‘s Drafts Configs](drafts://open?uuid=38A942A2-33C4-4630-9CDE-B005989F4E3A)
+- [Notes-Siri Shortcuts and More for Tot](drafts://open?uuid=E6D127B8-B5CE-45F5-8D6A-0BC5CE12A149)
+- [Siri Shortcuts and More for Tot](drafts://open?uuid=9DAFE8FC-3655-4FBD-BA16-7439BAC109FA)
+- [Re: screaming](drafts://open?uuid=2DFBD718-8845-49CF-A343-8BA3B639B7B3)
+- [David Blue’s WORLD FAMOUS Fast n’ Loose™ Siri Shortcuts for 𝚂𝙲𝚁𝚄𝙱𝚂](drafts://open?uuid=68F049EC-59AF-4A49-885F-698BB9653400)
+- [Dots](drafts://open?uuid=6CB89F33-7463-4201-89E4-F1D850008D8A)
+- [End User Episode 9](drafts://open?uuid=69EA3CC6-7081-47B4-B4AB-C16E5C7E8417)
+- [Drafts Keyboard Shortcuts to Re-Emphasize](drafts://open?uuid=55EDFC80-8307-4197-9A8F-754C1656A43F)
+- [A Good Place: Periscope Magic](drafts://open?uuid=4B149084-B41C-4C82-8FD2-0FB7CCF67B6B)
+- [Notes-Periscope Magic](drafts://open?uuid=480EF899-1228-4751-BFA2-1F197BF1B71A)
+- [[Jayson](https://apps.apple.com/us/app/jayson/id1468691718) App Store Review](drafts://open?uuid=A953A625-CB34-47B7-B944-FAD0B617966D)
+- [Birthday: Table of Contents](drafts://open?uuid=A5AEEC73-21C7-4ECA-B214-F459EF12AAC5)
+- [gas station robbery https://t.co/TKZ20Ze9oh](drafts://open?uuid=A3881C9D-A11E-4367-BEA9-5F1E53C0FB57)
+- [I.... have a PhD position? This is so cool! 🥳🥳](drafts://open?uuid=C42778FB-2D9A-48B9-8195-248616062DC4)
+- [Twitter Search: @neoyokel](drafts://open?uuid=45F41B98-3F9F-473E-A1E1-6B44E1B7B729)
+- [NeoCities/WebDAV Action Group](drafts://open?uuid=871D7EF0-8BAF-438B-8A5A-E3978B659FD1)
+- [Hold Your Clipboard Managers Close](drafts://open?uuid=A7A3A08D-3C07-49E3-A6D0-A2DEF40DF974)
+- [Please Fuck With This License](drafts://open?uuid=A61AB9CD-1756-4E05-B50B-5AB6AE693BE7)
+- [David Blue’s WORLD FAMOUS Fast n’ Loose™ Siri Shortcuts for 𝚂𝙲𝚁𝚄𝙱𝚂](drafts://open?uuid=DD9ED498-1B00-45F7-B610-86E4570DB9E2)
+- [@BrianMueller333 ❤ 🫂](drafts://open?uuid=82E0B364-962F-4711-AE16-701D0EED2234)
+- [Twitter Search: neoyokel](drafts://open?uuid=58D83DD4-3C0D-4BCD-97A6-F3447BF8C93A)
+- [TextExpander touch SDK](drafts://open?uuid=A40970A6-8EF9-4388-AA28-C6AD4A1DF15E)
+- [Friends Twitter List Export 12-15-2021](drafts://open?uuid=E18E5F6F-15A2-4A72-A823-BBFDA20751D1)
+- [Index/Welcome](drafts://open?uuid=6BE78CAC-6238-4797-894D-59FDDB9E3CD7)
+- [The Agony & The Ecstasy of the iPhone 12 Pro Max](drafts://open?uuid=07B641B2-6692-4FA9-9E7C-79D7EED5F803)
+- [- [Shortcuts](https://www.icloud.com/shortcuts/a2ef3a327a0b4c32854cbe55e9a63080)](drafts://open?uuid=6203D523-0B68-443B-BADE-F4A5D441FE86)
+- [contiguity](drafts://open?uuid=CAADDDDA-E504-4F17-9E72-09BEAD2905A3)
+- [zachary7829‘s Blog](drafts://open?uuid=0AB593FC-8486-4FCE-AA8A-2F27438894A9)
+- [David Blue’s Siri Shortcuts Repository](drafts://open?uuid=7998F086-4951-4DAB-995F-FE698FACFF78)
+- [Tot Jar Shortcut](drafts://open?uuid=7A7DCF8B-BAE7-40B4-96E8-311BFC769722)
+- [Hot Tot Dot Swap Shortcut](drafts://open?uuid=1E11D78E-134E-4583-A6E1-414855E66312)
+- [Tot Markdown Backup](drafts://open?uuid=F145474F-4CD1-4053-BA14-5CFF16857362)
+- [Dot Info Shortcut](drafts://open?uuid=5C07CFF1-1F28-4AA0-9704-FF52939536D3)
+- [Batch Shortcuts Signer (iOS) Shortcut](drafts://open?uuid=03AEAC14-EB74-44F0-8010-9844B15E5DE3)
+- [ThreadReaderApp Shortcut](drafts://open?uuid=FB1DCEEA-070E-4BD3-A1DD-113173F2B61D)
+- [Producing a Reusable Signature on Apple Platforms with Siri Shortcuts](drafts://open?uuid=E11A8D6B-4CF4-4FC0-AE60-77C984DCB2AD)
+- [Shortcuts Repo Index](drafts://open?uuid=031F557C-E046-48B3-832B-C91CAD466701)
+- [David Blue on Tilde.Town](drafts://open?uuid=53D80A72-BE50-48E3-A25C-0799764CE4F2)
+- [hacknorris Shortcuts](drafts://open?uuid=ABB5765F-EE2F-44D9-A384-9FBDB7277FCA)
+- [unique_fucks Shortcut](drafts://open?uuid=267A745A-49FC-4A7E-BD6C-5A26F64E14F7)
+- [Howdy.txt](drafts://open?uuid=9C248F97-F061-44D3-A3A0-EE991C553123)
+- [Tot ⇨ Apple Notes Shortcut](drafts://open?uuid=10EFCF5F-AAD4-4A4B-830A-9C02BDC766D0)
+- [Run Shell Command Shortcut (Drafts)](drafts://open?uuid=EE9510FC-2EFB-409D-928F-A2E5C777B4C2)
+- [Mac Menu Bar Shortcuts](drafts://open?uuid=68489605-5A2E-4250-8B8C-EC651CAEA449)
+- [Automation April](drafts://open?uuid=114E449F-7518-4158-87EB-C817F633FBF2)
+- [shortcutsshare.json](drafts://open?uuid=F8125570-2B56-4B08-A4B8-0428D25755F6)
+- [WTF Drafts Index](drafts://open?uuid=8C4596E3-0397-468C-A579-CF56CB7CFE06)
+- [7](drafts://open?uuid=5D709EBE-3738-4436-B24D-3EF10914EC60)
+- [6](drafts://open?uuid=80F40208-15F0-4B84-9711-707E70D7D8A5)
+- [5](drafts://open?uuid=6FB07C7A-41B6-4E40-8942-D82707E514B2)
+- [4](drafts://open?uuid=3F5439FD-8587-4F98-A6ED-598810B393D5)
+- [3](drafts://open?uuid=2734FEC9-9F48-431C-9EAA-0C9D79A29D03)
+- [2](drafts://open?uuid=C4E91F15-95BC-4858-8922-86FE9F8FD303)
+- [1](drafts://open?uuid=57AD10ED-5A99-438A-88E7-68C5F41D1564)
+- [Notes-Drafts vs. Obsidian](drafts://open?uuid=C300D6BD-07A2-44E2-9231-54ADA771F952)
+- [obsequious](drafts://open?uuid=825708FD-7DE8-4F5F-B087-B9664D26DCB8)
+- [Notes-TildeTown on iPhone with Blink Shell](drafts://open?uuid=31122181-5565-4F1C-BEA3-C22DA140619A)
+- [iOS System Sounds (WTF) Index](drafts://open?uuid=930C8B20-5C2F-4ECC-A311-4DFBF609AFD8)
+- [WTF Vocabulary Index](drafts://open?uuid=49B2C528-FC99-4BBA-8C24-01E2525B1D0B)
+- [NeoCities Homepage (WTF) 2.0](drafts://open?uuid=C2B1C951-518F-43FA-AEED-020CD5102A7B)
+- [solipsism](drafts://open?uuid=CE388164-A884-40DF-BDC0-4F5E42D56286)
+- [iOS System Sounds Raindrop Collection](drafts://open?uuid=72105F57-ADE2-44C0-A7F1-5C83F324E6CE)
+- [tetchy](drafts://open?uuid=437B9FDD-7649-4512-973F-303CE3EB500A)
+- [Kouki Izumi-Returning Nature to God](drafts://open?uuid=704E1607-1CE9-4CE2-BD04-E875A631AD32)
+- [metaphor](drafts://open?uuid=D9D1D2B3-F0C2-47B6-A713-AAB487F6CC3C)
+- [Shortcuts Man Page](drafts://open?uuid=1E60A236-6323-4EFF-9A4D-85C8B20907B9)
+- [Shortcuts File Format Documentation](drafts://open?uuid=25521DC9-C40D-4E89-9FBD-0E8E0D157DCC)
+- [Extract Archive Arbitrary Write bug](drafts://open?uuid=69A25067-94D3-48C3-8D46-6598A5C00380)
+- [Testing Tot’s Shortcuts Actions Cross-Platform](drafts://open?uuid=452AC87B-E3DD-4BAF-8850-61FF6B51EC13)
+- [Merriam-Webster API General Documentation](drafts://open?uuid=DD22C41E-6D86-4912-AC08-2CD3F83C0328)
+- [List .md Drafts Open Links by Tag Shortcut](drafts://open?uuid=0E0613E7-9C1F-48DE-8AF8-ABA5E9619066)
+- [Index Drafts Workspace Shortcut](drafts://open?uuid=BF7242C0-6E4E-4BD8-B01C-110A5F2BC26A)
+- [Index by Tag with Drafts Open Links via Siri Shortcuts](drafts://open?uuid=225ED750-53C3-455C-9CAD-6CEBA0184ACC)
+- [[[w:keys]] Index  - 03832022-144011](drafts://open?uuid=C9DEA2D3-DD7E-424D-A284-FA6513B5BE2F)
+- [[[w:correspondence]] Index  - 03832022-142351](drafts://open?uuid=D3E7A55F-91F0-41AF-88F6-59A233AA1E80)
+- [Vocabulary Index](drafts://open?uuid=F6B952AF-A7F8-4B2D-B310-8800099CF282)
+- [[[w:Dev]] Index  - 03832022-140156](drafts://open?uuid=782F9576-D3B3-42CE-AAEB-00F2327EFAB1)
+- [placate](drafts://open?uuid=53543872-FBA2-4874-BE01-3D0243733507)
+- [Shortcuts Actions are coming to Tot](drafts://open?uuid=DE4A4195-9D96-4CF0-922A-DB642CB6838F)
+- [Drafts Autocompletes](drafts://open?uuid=D7135FD0-C2C5-4AB4-B0DD-DAAE7E70BA64)
+- [Notes-Personal Twitter History](drafts://open?uuid=37B865E1-4372-4AF7-BB77-3979836130D4)
+- [Curl Manual](drafts://open?uuid=EB2E0657-6F48-4759-8358-CCA486A7BD4D)
+- [obloquy](drafts://open?uuid=AD7836E2-B6EE-420F-8FBA-4682D24C0830)
+- [Tot Help, Merged](drafts://open?uuid=E4E1326D-7FF8-4E5D-9E91-8509D2789259)
+- [WIFI:S:long1950;T:WPA;P:blue1950;;](drafts://open?uuid=4B746633-D89E-4201-996C-185D919DEA68)
+- [bombastic](drafts://open?uuid=D1C34CD2-332C-4E19-869D-10D7191802E0)
+- [recoup](drafts://open?uuid=63155184-4EE7-4DC5-80F4-000F206FB71F)
+- [iconographic cannibalism](drafts://open?uuid=BAB523E3-840E-4456-9E03-C971C86EE214)
+- [Thermal State Response | r/Shortcuts](drafts://open?uuid=C46229D3-83CF-4DE2-9230-346BB9D59E27)
+- [macOS System Sounds Index](drafts://open?uuid=55B87318-A881-491D-8285-6D68456A144A)
+- [Notes-Fresh Eyes on macOS](drafts://open?uuid=6C76EDBD-025D-40BA-9381-9AE95AD70F36)
+- [JSON Speedtest Shortcut (macOS)](drafts://open?uuid=159CAD15-02B6-4429-AFA2-B06018E9A8CF)
+- [Tot Version History](drafts://open?uuid=BADF99AB-3478-49C3-BF73-704C16C9E154)
+- [Testing](drafts://open?uuid=C27A0B52-1B51-45D3-8641-0BD32AD72D4F)
