@@ -900,3 +900,4 @@ long1950-5G
 - [Tot Version History](drafts://open?uuid=BADF99AB-3478-49C3-BF73-704C16C9E154)
 - [Testing](drafts://open?uuid=C27A0B52-1B51-45D3-8641-0BD32AD72D4F)
 - [gyaru moji - Google Search](https://www.google.com/search?q=gyaru%20moji)
+- [Introducing Automation April: A Month-Long Community Event About Automation, Featuring Shortcuts, Interviews, Discord Workshops, and a Shortcut Contest](https://www.macstories.net/stories/introducing-automation-april/)
