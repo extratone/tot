@@ -1,12 +1,12 @@
 **_Constraints can be powerful._**
 T       O       T               L       E       A       R       N    
 
-[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - [DraftsKeys Update](shortcuts://run-shortcut?name=DraftsKeys%20Update) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - [Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames) - [dREADME](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - [Tot Git iOS](shortcuts://run-shortcut?name=Tot%20Git%20iOS) - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List)
+[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - [DraftsKeys Update](shortcuts://run-shortcut?name=DraftsKeys%20Update) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - [Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames) - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - [Tot Git iOS](shortcuts://run-shortcut?name=Tot%20Git%20iOS) - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List)
 
 [symbol](shortcuts://run-shortcut?name=symbol)
 
 [RoutinePub](shortcuts://run-shortcut?name=RoutinePub)
-[Shortcut Source Tool](shortcuts://run-shortcut?name=Shortcut%20Source%20Tool)
+[Shortcut Source](shortcuts://run-shortcut?name=Shortcut%20Source%20Tool)
 [Action Directory](shortcuts://run-shortcut?name=Action%20Directory)
 
 [RoutineHub - Create Shortcut](https://routinehub.co/shortcut/create)
@@ -63,6 +63,7 @@ _Documentation_
 - [Shortcuts x-callback URLs](drafts://open?uuid=B47A3F69-12B7-4EA7-BBFA-ABB0FFBABCB8)
 - [David Blue’s Drafts Action Directory Contributions](drafts://open?uuid=C70FF15A-5B48-407C-9587-0DC4E9536102)
 - [TextExpander Snippet Groups](drafts://open?uuid=00ED31D1-18B9-4A61-ADF9-3128DD0C2688)
+- [WordCloudjs API](https://github.com/timdream/wordcloud2.js/blob/gh-pages/API.md)
 
 [New Draft with Clipboard](drafts://x-callback-url/create?text=%7C%7Cclipboard%7C%7C)
 
@@ -112,6 +113,7 @@ _Documentation_
 - [Toolbox Pro Review: A Must-Have Companion Utility for Shortcuts Power Users](https://www.macstories.net/reviews/toolbox-pro-review-a-must-have-companion-utility-for-shortcuts-power-users/)
 - [Drafts 15 Review: Multiwindow, Shortcuts, and More](https://www.macstories.net/reviews/drafts-15-review-multiwindow-shortcuts-and-more/)
 - “[Automating iOS: A Comprehensive Guide to URL Schemes and Drafts Actions](drafts://open?uuid=A944CF95-DE24-47AA-BC50-CB03E1A20396)”
+- [Best way to learn regular expressions : shortcuts](https://www.reddit.com/r/shortcuts/comments/tv4o6b/tip_best_way_to_learn_regular_expressions/)
 
 
 **Tools**
@@ -124,10 +126,7 @@ _Documentation_
 
 <https://web.archive.org/web/*/https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334>
 
-**Tot Shortcuts Ideas**
-- Reminders ⇨ Tot
-- Finish Tot ↓ Drafts
-- Share Sheet-based Markdown List to Tot Dot---**Tot Keys**
+---**Tot Keys**
 - **⌘/** = Show/Hide Status Bar
 - **⇧⌘T** = Switch to Plain Text View
 - **⌘,** = Preferences
@@ -173,6 +172,7 @@ _Documentation_
 - [Toolbox Pro Review: A Must-Have Companion Utility for Shortcuts Power Users](https://www.macstories.net/reviews/toolbox-pro-review-a-must-have-companion-utility-for-shortcuts-power-users/)
 - [Drafts 15 Review: Multiwindow, Shortcuts, and More](https://www.macstories.net/reviews/drafts-15-review-multiwindow-shortcuts-and-more/)
 - “[Automating iOS: A Comprehensive Guide to URL Schemes and Drafts Actions](drafts://open?uuid=A944CF95-DE24-47AA-BC50-CB03E1A20396)”
+- [Best way to learn regular expressions : shortcuts](https://www.reddit.com/r/shortcuts/comments/tv4o6b/tip_best_way_to_learn_regular_expressions/)
 
 
 **Tools**
@@ -185,10 +185,7 @@ _Documentation_
 
 <https://web.archive.org/web/*/https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334>
 
-**Tot Shortcuts Ideas**
-- Reminders ⇨ Tot
-- Finish Tot ↓ Drafts
-- Share Sheet-based Markdown List to Tot Dot---**Siri Shortcuts for Tot**
+---**Siri Shortcuts for Tot**
 
 _RoutineHub_
 - [RoutineHub • Tot Jar](https://routinehub.co/shortcut/11456/)
@@ -199,6 +196,8 @@ _RoutineHub_
 - [RoutineHub • Markdown Link](https://routinehub.co/shortcut/11504/) [⇨](https://routinehub.co/shortcut/11504/) [Tot Dot](https://routinehub.co/shortcut/11504/)
 - [RoutineHub • Reminders List](https://routinehub.co/shortcut/11539/) [⇨](https://routinehub.co/shortcut/11539/) [Tot](https://routinehub.co/shortcut/11539/)
 - [RoutineHub • Clear Dot](https://routinehub.co/shortcut/11540/)
+- [RoutineHub • Dot to New Draft](https://routinehub.co/shortcut/11541)
+- [RoutineHub • Dots Summary](https://routinehub.co/shortcut/11542/)
 
 _Drafts_
 - [Tot Jar Shortcut](drafts://open?uuid=7A7DCF8B-BAE7-40B4-96E8-311BFC769722)
@@ -209,10 +208,29 @@ _Drafts_
 - [Markdown Link](drafts://open?uuid=706A5C55-1E97-47A3-AA25-CB1DD29C821D) [⇨](drafts://open?uuid=706A5C55-1E97-47A3-AA25-CB1DD29C821D) [Dot Shortcut](drafts://open?uuid=706A5C55-1E97-47A3-AA25-CB1DD29C821D)
 - [Reminders List](drafts://open?uuid=B5C542E5-CDDA-48CE-909A-8A2B028B9368) [⇨](drafts://open?uuid=B5C542E5-CDDA-48CE-909A-8A2B028B9368) [Tot Shortcut](drafts://open?uuid=B5C542E5-CDDA-48CE-909A-8A2B028B9368)
 - [Clear Dot Shortcut](drafts://open?uuid=F4F062E4-F265-40A3-B101-03413D7996F8)
+- [Dots Summary Shortcut](drafts://open?uuid=7EB80DE5-1074-43E6-B2D3-213A2CD35D5B)
 - [Tot Git-iOS](https://www.icloud.com/shortcuts/69aa72b435b94d5f82106e4309303072)
 - [Tot Git-macOS](https://www.icloud.com/shortcuts/2597158919384c3eb706230b025abe16)
 - [Tot Git Restore-macOS](https://www.icloud.com/shortcuts/0196edc014534e61bcb3f8b372c314d7)
-- [Tot Actions Showcase](https://www.icloud.com/shortcuts/06b41c1e86b8485bbfa7f8aafa82b127)---[Hot Tot Dot Swap](shortcuts://run-shortcut?name=Hot%20Tot%20Dot%20Swap)
+- [Tot Actions Showcase](https://www.icloud.com/shortcuts/06b41c1e86b8485bbfa7f8aafa82b127)
+- [Dot to New Draft Shortcut](https://davidblue.wtf/drafts/D20C28B8-6BCA-465F-9F4E-30F4EDA4D0E2.html)
+- [Tot ⇦⇨ Drafts Sync Shortcuts](drafts://open?uuid=CA6CA860-67E8-45F8-865E-DF530E4D7F36)
+- 
+
+- [The Psalms Tot Theme](drafts://open?uuid=5156ED3A-7C1C-4B3B-9F03-6B977526D5DA)
+
+
+- [Siri Shortcuts and More for Tot](drafts://open?uuid=9DAFE8FC-3655-4FBD-BA16-7439BAC109FA)
+
+- [Notes-Siri Shortcuts and More for Tot](drafts://open?uuid=E6D127B8-B5CE-45F5-8D6A-0BC5CE12A149)
+- 
+
+**Tot Shortcuts Ideas**
+- Finish Tot ↓ Drafts
+Your Tot Dots summed:
+- Lines: 1156
+- Words: 9635
+- Characters: 76078---[Hot Tot Dot Swap](shortcuts://run-shortcut?name=Hot%20Tot%20Dot%20Swap)
 
 
 
@@ -259,7 +277,7 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 
 [MASTODON](https://mastodon.social/@DavidBlue) **//** [TWITTER](https://twitter.com/NeoYokel) **//** [DISCORD](https://discord.gg/4hdQcVd)
 **Site Stuff**
-※ [Z҉̳͕̗͖͕͈͡](https://davidblue.wtf/zalgo/) [̶̡͏̟͙A̧̠͈̝̣̺ ̣̳͖̬̺͔̬̜L̻̪͔͚̀ ̨͇̦̕G̸̸͍͕̹̠̳̟͙̬͞ ̛̬̣̱̮͈͚̬ͅO̡̨̦̪̺̯̹͔̙͡ͅ](<https://davidblue.wtf/zalgo/>)' ' ' ※ [ＭＥＧＡ](https://davidblue.wtf/cool/) [ＣＯＯＬ](https://davidblue.wtf/cool/) [ＴＥＸＴ](https://davidblue.wtf/cool/) [UNI1PG](https://davidblue.wtf/tools/unicode.pdf)
+※ [Z](https://davidblue.wtf/zalgo/)[҉̳͕̗͖͕͈͡](https://davidblue.wtf/zalgo/) [̶̡͏̟͙A̧̠͈̝̣̺ ̣̳͖̬̺͔̬̜L̻̪͔͚̀ ̨͇̦̕G̸̸͍͕̹̠̳̟͙̬͞ ̛̬̣̱̮͈͚̬ͅO̡̨̦̪̺̯̹͔̙͡ͅ](<https://davidblue.wtf/zalgo/>)' ' ' ※ [ＭＥＧＡ](https://davidblue.wtf/cool/) [ＣＯＯＬ](https://davidblue.wtf/cool/) [ＴＥＸＴ](https://davidblue.wtf/cool/) [UNI1PG](https://davidblue.wtf/tools/unicode.pdf)
 ⎃⎃⎃⎃⎃⎃⎃⎃ d i n k u s ⎃⎃⎃⎃⎃⎃⎃⎃
 	•	Hosted on [Neocities](https://neocities.org/site/davidblue). View website source code on [GitHub](https://github.com/extratone/xyz).
 
@@ -282,7 +300,14 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 
 
 - [Marco! Shortcut Documentation](drafts://open?uuid=AD8A1DEF-DB4E-491D-B680-23323228D2D5)
----**URL Schemes Learning**
+
+https://ttm.sh/btA.MP4
+https://ttm.sh/tI5
+https://ttm.sh/btS.02.png
+<https://ttm.sh/bFm.11.png>
+
+
+- [gh2md README](drafts://open?uuid=F571E936-9BF5-42F9-B757-2EF52012F90B)---**URL Schemes Learning**
 
 _Links_
 - [Drafts](https://docs.getdrafts.com/docs/automation/urlschemes)
