@@ -18,10 +18,14 @@ An experiment in cross-platform git tracking with [**Tot**](https://apps.apple.c
 
 ## Siri Shortcuts for Tot
 
-- [RoutineHub • Tot Jar](https://routinehub.co/shortcut/11456)
-- [RoutineHub • Hot Tot Dot Swap](https://routinehub.co/shortcut/11457)
-- [RoutineHub • Tot Markdown Backup](https://routinehub.co/shortcut/11458)
-- [RoutineHub • Dot Info](https://routinehub.co/shortcut/11459)
+- [RoutineHub • Tot Jar](https://routinehub.co/shortcut/11456/)
+- [RoutineHub • Hot Tot Dot Swap](https://routinehub.co/shortcut/11457/)
+- [RoutineHub • Dot Info](https://routinehub.co/shortcut/11459/)
+- [RoutineHub • Tot ⇨ Apple Notes](https://routinehub.co/shortcut/11500/)
+- [RoutineHub • Tot Markdown Backup](https://routinehub.co/shortcut/11458/)
+- [RoutineHub • Markdown Link ⇨ Tot Dot](https://routinehub.co/shortcut/11504/)
+- [RoutineHub • Reminders List ⇨ Tot](https://routinehub.co/shortcut/11539/)
+- [RoutineHub • Clear Dot](https://routinehub.co/shortcut/11540/)
 
 ## Drafts
 
