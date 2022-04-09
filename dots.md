@@ -194,7 +194,7 @@ _Documentation_
 - **⌘,** = Preferences
 - **⌘⌥,** = Theme Preferences
 - **⌘⌥⇦⇨** = Tot Switch
-- **⌘0** = Empty Tot
+- **⌘0** = Empty Tote
 - **⇧⌘S** = Save File
 - **⌘S** = Save Version
 - **⌥⌘S** = Save Backup
@@ -227,17 +227,14 @@ _Documentation_
 - Bear URL Schemes
 - More extensive Panda testing?
 - Services/Shortcuts in macOS
-- [Doug's AppleScripts » dougscripts.com](https://dougscripts.com/itunes/index.php)
+- 
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
 - [Toolbox Pro Review: A Must-Have Companion Utility for Shortcuts Power Users](https://www.macstories.net/reviews/toolbox-pro-review-a-must-have-companion-utility-for-shortcuts-power-users/)
 - [Drafts 15 Review: Multiwindow, Shortcuts, and More](https://www.macstories.net/reviews/drafts-15-review-multiwindow-shortcuts-and-more/)
 - “[Automating iOS: A Comprehensive Guide to URL Schemes and Drafts Actions](drafts://open?uuid=A944CF95-DE24-47AA-BC50-CB03E1A20396)”
-- 
 
-**$**
-- [Congrats, you're now a patron of The Iconfactory](message:%3C20220403203619.aae4cb3cfe00b974@mailgun.patreon.com%3E)
 
 **Tools**
 - [ColorHound](http://colorhound.net)
@@ -251,7 +248,8 @@ _Documentation_
 
 **Tot Shortcuts Ideas**
 - Reminders ⇨ Tot
-- Finish Tot ↓ Drafts---[Hot Tot Dot Swap](shortcuts://run-shortcut?name=Hot%20Tot%20Dot%20Swap)
+- Finish Tot ↓ Drafts
+- Share Sheet-based Markdown List to Tot Dot---[Hot Tot Dot Swap](shortcuts://run-shortcut?name=Hot%20Tot%20Dot%20Swap)
 
 
 
@@ -363,149 +361,308 @@ _Links_
 - [David Blue‘s Drafts Configs](drafts://open?uuid=38A942A2-33C4-4630-9CDE-B005989F4E3A)
 - 
 
----**[Push (to phone) from Widget Notes and Jinx Developer](x-apple-reminderkit://REMCDReminder/617DF0B6-E281-4C5C-B9C2-7E354292F28B)**
-``
-[Link](https://apps.apple.com/us/app/push-to-your-phone/id1502796482)
-Created: Jan 17, 2022 at 22:57
+---**[Dark and Light Shortcuts pair.](x-apple-reminderkit://REMCDReminder/4EEEFAAA-88AB-4925-BD37-F9D8D9BF4D4C)**
+`Todoist
+Family`
+[Link]()
+Created: Dec 7, 2021 at 22:44
 Due: 
 
-2022-01-17T22:57:24-06:00
 
-**[Sophia track ID in Instagram post.](x-apple-reminderkit://REMCDReminder/F2044711-B8E9-4DFA-A984-5C48AD2FE99D)**
-`Social`
-[Link](https://www.instagram.com/p/CZPF24TKPNk/)
-Created: Feb 16, 2022 at 13:00
-Due: Feb 16, 2022 at 19:00
 
-[02472022-130027](tel:02472022-130027)
-
-**[Tilde Whirl Podcast](x-apple-reminderkit://REMCDReminder/85EFCAC2-2D11-4611-8803-074C765D6672)**
-`Social`
-[Link](http://tilde.town/~dozens/)
-Created: Mar 13, 2022 at 20:21
-Due: Mar 14, 2022 at 02:21
-
-[03722022-202115](tel:03722022-202115)
-
-**[Message from r w](x-apple-reminderkit://REMCDReminder/7A8CBAD1-11E2-4C1E-9201-03352072BB6D)**
-``
+**[Music Quiz Siri Shortcut](x-apple-reminderkit://REMCDReminder/AF1796EF-ED39-4E56-970E-7C328EC17659)**
+`Family
+Todoist`
 [Link]()
-Created: Mar 31, 2022 at 14:38
+Created: Dec 7, 2021 at 22:44
 Due: 
 
-<readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25jZzJhNytSRS13%0D%0AQi1obm5fUjdQQlc0MG5ZVzZNK3BmcEd4Si1UeHI3OHpUZ0BtYWlsLmdtYWlsLmNv%0D%0AbTs4NjA1NjYxNzg%3D>
 
-**[Re: screaming](x-apple-reminderkit://REMCDReminder/08D236C2-6F93-4A0D-AC1E-F2CA5839ACC7)**
-``
+
+**[iMessage Group Chat Backup Thu, 05:49:44](x-apple-reminderkit://REMCDReminder/FBB4884F-E6C4-4AFF-A178-89E448028F27)**
+`Todoist
+Family`
 [Link]()
-Created: Apr 1, 2022 at 13:23
-Due: Apr 2, 2022 at 13:23
-
-<readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25mVnNQYThtS3h0%0D%0AYmpkVEtKN1VBd25yNXMteW55WnFPTzFaaVFBcmNnWjFZUUBtYWlsLmdtYWlsLmNv%0D%0AbTsxOTUxNDQwMjky>
-
-**[Test PodQueue Shortcut](x-apple-reminderkit://REMCDReminder/DA3C37DD-DA55-4D1F-8046-C1E461A1E7AE)**
-``
-[Link](https://podqueue.fm/pages/help/siri?s=09)
-Created: Apr 1, 2022 at 13:25
-Due: Apr 1, 2022 at 19:25
-
-[04912022-132544](tel:04912022-132544)
-
-[\*\*Push (to phone) from Widget Notes and Jinx Developer\*\*](x-apple-reminderkit://REMCDReminder/617DF0B6-E281-4C5C-B9C2-7E354292F28B)
-``
-[Link](https://apps.apple.com/us/app/push-to-your-phone/id1502796482)
-Created: Jan 17, 2022 at 22:57
+Created: Dec 7, 2021 at 22:44
 Due: 
 
-2022-01-17T22:57:24-06:00
 
-[\*\*Sophia track ID in Instagram post.\*\*](x-apple-reminderkit://REMCDReminder/F2044711-B8E9-4DFA-A984-5C48AD2FE99D)
-`Social`
-[Link](https://www.instagram.com/p/CZPF24TKPNk/)
-Created: Feb 16, 2022 at 13:00
-Due: Feb 16, 2022 at 19:00
 
-[02472022-130027](tel:02472022-130027)
-
-[\*\*Tilde Whirl Podcast\*\*](x-apple-reminderkit://REMCDReminder/85EFCAC2-2D11-4611-8803-074C765D6672)
-`Social`
-[Link](http://tilde.town/~dozens/)
-Created: Mar 13, 2022 at 20:21
-Due: Mar 14, 2022 at 02:21
-
-[03722022-202115](tel:03722022-202115)
-
-[\*\*Message from r w\*\*](x-apple-reminderkit://REMCDReminder/7A8CBAD1-11E2-4C1E-9201-03352072BB6D)
-``
+**[Siri Shortcuts for Scrubs](x-apple-reminderkit://REMCDReminder/DF11C6E6-B27B-411C-A78B-646AFBB88586)**
+`Todoist
+Family`
 [Link]()
-Created: Mar 31, 2022 at 14:38
+Created: Dec 7, 2021 at 22:44
 Due: 
 
-<readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25jZzJhNytSRS13%0D%0AQi1obm5fUjdQQlc0MG5ZVzZNK3BmcEd4Si1UeHI3OHpUZ0BtYWlsLmdtYWlsLmNv%0D%0AbTs4NjA1NjYxNzg%3D>
 
-[\*\*Re: screaming\*\*](x-apple-reminderkit://REMCDReminder/08D236C2-6F93-4A0D-AC1E-F2CA5839ACC7)
+
+**[Type to Siri](x-apple-reminderkit://REMCDReminder/4262C028-5650-48F8-AA06-A9C227D5F6F8)**
+`Family
+Todoist`
+[Link]()
+Created: Dec 7, 2021 at 22:44
+Due: 
+
+
+
+**[“DefenderShield”](x-apple-reminderkit://REMCDReminder/FEDA0145-4E60-465D-9285-CC28125F63C4)**
+`Todoist
+Family`
+[Link]()
+Created: Dec 7, 2021 at 22:44
+Due: 
+
+
+
+**[Legacy Contacts](x-apple-reminderkit://REMCDReminder/ADA4BD51-51D5-49BE-BB81-739E02827620)**
+`Family
+Todoist`
+[Link]()
+Created: Dec 7, 2021 at 22:44
+Due: 
+
+
+
+**[[iPhone 13 Pro vs Pixel 6 Pro: 2000 Photos Later ](x-apple-reminderkit://REMCDReminder/63CCAC7C-2D1E-4B97-9FD7-DCEB28F048E8)**
+`Todoist
+Family`
+[Link]()
+Created: Dec 7, 2021 at 22:44
+Due: 
+
+ Full Frame Ep. 5 - YouTube](https://m.youtube.com/watch?v=eAxbBbi_Mmw)
+
+**[Installing Custom Ringtones](x-apple-reminderkit://REMCDReminder/DEB30FA5-7E58-40CC-8836-ECA455369390)**
+`Todoist
+Family`
+[Link]()
+Created: Dec 7, 2021 at 22:44
+Due: 
+
+
+
+**[[Apple’s Anti-Sexting Tool for iOS Will Warn Kids About Nudes—but Won’t Notify Parents ](https://www.wsj.com/articles/apples-anti-sexting-tool-for-ios-will-warn-kids-about-nudesbut-wont-notify-parents-11638626402)](x-apple-reminderkit://REMCDReminder/3295A823-B167-43F3-809B-8F3848ED1E17)**
+`Family
+Todoist`
+[Link]()
+Created: Dec 7, 2021 at 22:44
+Due: 
+
+
+
+**[Light/Dark Shortcuts](x-apple-reminderkit://REMCDReminder/8E61CFCF-FCB7-41FF-A3B7-CAB1063A9D39)**
+`Family
+Todoist`
+[Link]()
+Created: Dec 7, 2021 at 22:44
+Due: 
+
+
+
+**[iOS 15.2 Update](x-apple-reminderkit://REMCDReminder/14A7208F-632D-4EC0-BA3E-407E0A0A9AFF)**
+`Family
+Todoist`
+[Link]()
+Created: Dec 7, 2021 at 22:44
+Due: 
+
+
+
+**[How to share notes from Mac to work together](x-apple-reminderkit://REMCDReminder/3CFF2336-83D3-412D-AA4B-DCE8C3630373)**
+``
+[Link](https://setapp.com/how-to/share-notes-on-mac)
+Created: Dec 17, 2021 at 01:17
+Due: 
+
+
+
+**[On Noir](x-apple-reminderkit://REMCDReminder/549414E1-7238-41DA-ADA3-4A6EA08318E3)**
+`Curation
+Style
+iOS
+Family`
+[Link](https://tools.applemediaservices.com/app/:appId)
+Created: Jan 8, 2022 at 10:06
+Due: 
+
+
+
+**[Native Apps Poll](x-apple-reminderkit://REMCDReminder/4D6EC62B-80B6-4605-8511-5FA02B413A52)**
 ``
 [Link]()
-Created: Apr 1, 2022 at 13:23
-Due: Apr 2, 2022 at 13:23
+Created: Jan 8, 2022 at 17:36
+Due: 
 
-<readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25mVnNQYThtS3h0%0D%0AYmpkVEtKN1VBd25yNXMteW55WnFPTzFaaVFBcmNnWjFZUUBtYWlsLmdtYWlsLmNv%0D%0AbTsxOTUxNDQwMjky>
 
-[\*\*Test PodQueue Shortcut\*\*](x-apple-reminderkit://REMCDReminder/DA3C37DD-DA55-4D1F-8046-C1E461A1E7AE)
+
+**[iOS Custom Pronunciation](x-apple-reminderkit://REMCDReminder/16BBA3BE-4D30-4725-B38D-CF4F5532E9F1)**
+`TTS
+Guide
+Accessibility
+Documentation
+Audio
+Family`
+[Link]()
+Created: Jan 28, 2022 at 18:28
+Due: 
+
+
+
+**[REVIEW THE IPHONE USER GUIDE](x-apple-reminderkit://REMCDReminder/ECA5DAC7-AC53-406A-8383-F32399D52AB3)**
+`Keys
+Configuration
+iOS
+Documentation
+Correspondence`
+[Link](https://books.apple.com/us/book/iphone-user-guide/id1515995528)
+Created: Sep 21, 2021 at 20:48
+Due: 
+
+
+
+**[🅵🆄🅻🅻](x-apple-reminderkit://REMCDReminder/B493DA90-3D09-402B-8845-9E14DDE707FF) [🅺🅴🆈🅱🅾🅰🆁🅳](x-apple-reminderkit://REMCDReminder/B493DA90-3D09-402B-8845-9E14DDE707FF) [🅰🅲🅲🅴🆂🆂](x-apple-reminderkit://REMCDReminder/B493DA90-3D09-402B-8845-9E14DDE707FF)**
+`Configuration
+FUCK
+Dev
+Keys
+Documentation
+iOS`
+[Link]()
+Created: Sep 24, 2021 at 17:38
+Due: 
+
+
+
+**[Add Telegram Widget to Landing Page](x-apple-reminderkit://REMCDReminder/4049EA4A-ABCE-4430-B167-B04CC9378F59)**
+`Web
+Social
+Dev`
+[Link](https://t.me/uikeycommand/6)
+Created: Sep 27, 2021 at 16:25
+Due: 
+
+```
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="uikeycommand/6" data-width="100%" data-color="DA2573" data-dark="1"></script>
+```
+
+**[Keyboard shortcuts + quick jumps | Voters | Raindrop.io](x-apple-reminderkit://REMCDReminder/23987143-AD9F-4551-B746-A7321EAED17B)**
+`Beta
+Dev
+Keys
+Curation
+Hardware
+iOS`
+[Link](https://raindropio.canny.io/feature-requests/p/keyboard-shortcuts--quick-jumps)
+Created: Dec 11, 2021 at 17:03
+Due: 
+
+
+
+**[1 Image](x-apple-reminderkit://REMCDReminder/3C4EF9E7-112A-44E5-81B9-F798A3B44955)**
 ``
-[Link](https://podqueue.fm/pages/help/siri?s=09)
-Created: Apr 1, 2022 at 13:25
-Due: Apr 1, 2022 at 19:25
+[Link]()
+Created: Dec 17, 2021 at 04:35
+Due: 
 
-[04912022-132544](tel:04912022-132544)
 
-[\*\*Push (to phone) from Widget Notes and Jinx Developer\*\*](x-apple-reminderkit://REMCDReminder/617DF0B6-E281-4C5C-B9C2-7E354292F28B)
+
+**[Messages for MacOS Keys Documentation](x-apple-reminderkit://REMCDReminder/EDDA21BE-EC7F-46E6-98F7-D265ADE34F05)**
+`Shortcuts
+Documentation
+MacOS
+Keys`
+[Link](https://www.icloud.com/numbers/0254dhW3rpt8C_NBx7e0L9Vjw#Messages_for_MacOS)
+Created: Dec 25, 2021 at 21:40
+Due: 
+
+
+
+**[Keyboard shortcuts on iPad? - General Discussion - Drafts Community](x-apple-reminderkit://REMCDReminder/91E8357F-8449-4E5B-AB5D-0CDFC6D01C32)**
 ``
-- <https://apps.apple.com/us/app/push-to-your-phone/id1502796482>
-- Created: Jan 17, 2022 at 22:57
-- Due: 
-Monday, 17 Jan 2022 22:56:25.png
-2022-01-17T22:57:24-06:00
+[Link](https://forums.getdrafts.com/t/keyboard-shortcuts-on-ipad/10389/9)
+Created: Jan 8, 2022 at 22:48
+Due: 
 
-[\*\*Sophia track ID in Instagram post.\*\*](x-apple-reminderkit://REMCDReminder/F2044711-B8E9-4DFA-A984-5C48AD2FE99D)
-`Social`
-- <https://www.instagram.com/p/CZPF24TKPNk/>
-- Created: Feb 16, 2022 at 13:00
-- Due: Feb 16, 2022 at 19:00
-IMG\_2583.heic
-[02472022-130027](tel:02472022-130027)
 
-[\*\*Tilde Whirl Podcast\*\*](x-apple-reminderkit://REMCDReminder/85EFCAC2-2D11-4611-8803-074C765D6672)
-`Social`
-- <http://tilde.town/~dozens/>
-- Created: Mar 13, 2022 at 20:21
-- Due: Mar 14, 2022 at 02:21
-03722022-202041.png
-[03722022-202115](tel:03722022-202115)
 
-[\*\*Message from r w\*\*](x-apple-reminderkit://REMCDReminder/7A8CBAD1-11E2-4C1E-9201-03352072BB6D)
+**[iOS Keyboard Suggestions - Software - MPU Talk](x-apple-reminderkit://REMCDReminder/E3A27221-D71A-4882-A6D3-6C774C8750E1)**
 ``
-- 
-- Created: Mar 31, 2022 at 14:38
-- Due: 
+[Link](https://talk.macpowerusers.com/t/ios-keyboard-suggestions/26922)
+Created: Jan 10, 2022 at 03:55
+Due: 
 
-<readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25jZzJhNytSRS13%0D%0AQi1obm5fUjdQQlc0MG5ZVzZNK3BmcEd4Si1UeHI3OHpUZ0BtYWlsLmdtYWlsLmNv%0D%0AbTs4NjA1NjYxNzg%3D>
 
-[\*\*Re: screaming\*\*](x-apple-reminderkit://REMCDReminder/08D236C2-6F93-4A0D-AC1E-F2CA5839ACC7)
+
+**[Full Keyboard Access in #MacOS](x-apple-reminderkit://REMCDReminder/869E2B56-BC0A-4642-9A83-1C6B40C0375E)**
+`MacOS`
+[Link]()
+Created: Jan 10, 2022 at 22:44
+Due: 
+
+
+
+**[Typeeto: remote BT keyboard](x-apple-reminderkit://REMCDReminder/48D968FB-73E1-4DCF-AC4C-581FA74AA7C8)**
 ``
-- 
-- Created: Apr 1, 2022 at 13:23
-- Due: Apr 2, 2022 at 13:23
+[Link](https://apps.apple.com/us/app/typeeto-remote-bt-keyboard/id970502923?mt=12)
+Created: Jan 12, 2022 at 03:11
+Due: 
 
-<readdle-spark://bl=QTphc3BoYWx0YXBvc3RsZUBpY2xvdWQuY29tO0lEOkNBSnhHZ25mVnNQYThtS3h0%0D%0AYmpkVEtKN1VBd25yNXMteW55WnFPTzFaaVFBcmNnWjFZUUBtYWlsLmdtYWlsLmNv%0D%0AbTsxOTUxNDQwMjky>
 
-[\*\*Test PodQueue Shortcut\*\*](x-apple-reminderkit://REMCDReminder/DA3C37DD-DA55-4D1F-8046-C1E461A1E7AE)
+
+**[Register a new account | Hackage](x-apple-reminderkit://REMCDReminder/9D9075D7-E296-4DC4-AE8D-1A40BA46EE12)**
+`Dev`
+[Link](https://hackage.haskell.org/users/register-request)
+Created: Jan 18, 2022 at 23:39
+Due: 
+
+
+
+**[Announcing Windows 11 Insider Preview Build 22543 | Windows Insider Blog](x-apple-reminderkit://REMCDReminder/21FCF5DC-56BB-4573-9A4E-AA046D4A79EA)**
+`Accessibility
+Windows
+Audio`
+[Link](https://blogs.windows.com/windows-insider/2022/01/27/announcing-windows-11-insider-preview-build-22543/)
+Created: Jan 27, 2022 at 18:41
+Due: 
+
+
+
+**[Keyboard Access Broken in IOS 15 | AppleVis](x-apple-reminderkit://REMCDReminder/7840BB0C-2324-48C5-9539-48E5DC1E2B06)**
 ``
-- <https://podqueue.fm/pages/help/siri?s=09>
-- Created: Apr 1, 2022 at 13:25
-- Due: Apr 1, 2022 at 19:25
-IMG\_4533.png
-[04912022-132544](tel:04912022-132544)
+[Link](https://www.applevis.com/forum/ios-ipados/keyboard-access-broken-ios-15)
+Created: Mar 25, 2022 at 10:47
+Due: 
+
+
+
+**[Editorial Considerations List](x-apple-reminderkit://REMCDReminder/D6D53132-BB53-487B-A367-5BF41D090AE8)**
+``
+[Link](https://twitter.com/NeoYokel/status/1477105624978755584)
+Created: Dec 31, 2021 at 20:36
+Due: 
+
+
+
+**[Tot Snippet Group Public Sharing](x-apple-reminderkit://REMCDReminder/1C2AF6F6-8E19-4D9C-A439-BCD9F62BFC6C)**
+`MacOS
+Configuration
+Tot
+Dev`
+[Link](https://app.textexpander.com/group/171AB572-12EC-4CD9-A14F-B62927C3AD7D/sharing)
+Created: Feb 2, 2022 at 01:41
+Due: Mar 28, 2022 at 00:00
+
+
+
+**[Development Progress: Remark.as](x-apple-reminderkit://REMCDReminder/37F318E8-18C3-4031-8002-0B21A46FD7FE)**
+``
+[Link](https://discuss.write.as/t/development-progress-remark-as/4031)
+Created: Feb 12, 2022 at 14:09
+Due: 
+
+
+
 
 
 ---
@@ -619,7 +776,7 @@ IMG\_4533.png
 - [Notion Library](drafts://open?uuid=AD37EA0F-230F-4ADD-AEA0-A5666C7677D5)
 - [Views of The News on HTML Parsons](drafts://open?uuid=B96B0977-794E-4B86-9084-80D1B5FFE879)
 - [FUTURELAND (Newsletter Revival) Documentation](drafts://open?uuid=36320115-76E1-46C2-BDEA-CD904BE5C9E4)
-- [Siri Shortcuts for Scrubs](drafts://open?uuid=329BC931-CADD-4381-9D42-A2C03D7B1047)
+- [Siri Shortcuts for Scrub     s](drafts://open?uuid=329BC931-CADD-4381-9D42-A2C03D7B1047)
 - [Easily Converting Apple News Links to Their Original URLs](drafts://open?uuid=CA641427-0757-4D54-AAF2-CF2FB8EFDFA3)
 - [I Trust Telegram](drafts://open?uuid=7C27AD95-762F-4A9B-9D3B-6FBD98FEA237)
 - [SI on Discord Regarding Objective-C and Swift](drafts://open?uuid=BBDCD568-C0AF-4561-9652-CA32F449DFE5)
@@ -645,7 +802,7 @@ IMG\_4533.png
 - [iOS 15’s Last Bullets](drafts://open?uuid=8757F54B-420D-491C-BCD2-A33FFD6F99F3)
 - [Drafts 28 Bluetooth Keyboard Considerations](drafts://open?uuid=F74B3E82-8A13-445D-B0DD-0EF2ED52773E)
 - [Drafts 28.0 Release Notes](drafts://open?uuid=A7AA40AC-664F-49ED-9381-D6ABEB1C6681)
-- [Embed <audio> Element: ⇧⌃A](drafts://open?uuid=E3D8E967-1822-4D60-8CC0-BCA31A1861F4)
+- [Embed <audio> Element:](drafts://open?uuid=E3D8E967-1822-4D60-8CC0-BCA31A1861F4) [⇧⌃](drafts://open?uuid=E3D8E967-1822-4D60-8CC0-BCA31A1861F4)[A](drafts://open?uuid=E3D8E967-1822-4D60-8CC0-BCA31A1861F4)
 - [NOTES: Underdocumented Maneuvers in iOS](drafts://open?uuid=464F92D4-5A63-4447-BBF7-CB1B0D885568)
 - [Twitter Thread:](drafts://open?uuid=101762F8-538A-454D-9049-F6E391483EC7)
 - [Shortcuts User Group Transcript](drafts://open?uuid=7FD1C728-9A20-4993-8D35-C1837A49BC62)
@@ -1053,3 +1210,8 @@ Updated `04022022-163836`
    </body>
 </html>
 ```
+**Dot: 7**
+- Lines: 691
+- Words: 6329
+- Characters: 51264
+- Modified: Apr 8, 2022 at 18:41
