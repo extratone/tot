@@ -16,6 +16,8 @@ T       O       T               L       E       A       R       N
 **Drafts Instrument Panel**
 _[Master Index](https://tilde.town/~extratone/drafts/big/)_
 
+**[Automation April](drafts://open?uuid=114E449F-7518-4158-87EB-C817F633FBF2)**
+
 _Drafts_
 - [End User Episode 9](drafts://open?uuid=69EA3CC6-7081-47B4-B4AB-C16E5C7E8417)
 - [Fresh Eyes on macOS](drafts://open?uuid=944F772C-CC9D-47F2-BD98-F4E435E40227)
@@ -52,6 +54,7 @@ _Social/Family/Support_
 - [Mattcito Help-MacStories Discord](drafts://open?uuid=424FFFE3-0335-4398-8588-A9149CD0A208)
 
 _Documentation_
+- [Distributed Index](drafts://open?uuid=2BE147C7-D5E2-41E0-91B1-F65EBEFAA81A)
 - [Siri Shortcuts for Telegram](drafts://open?uuid=3260C6BA-1CA8-4ADB-9888-98601FADD82F)
 - **[David Blue’s RoutineHub Library](drafts://open?uuid=2145B3D6-2DE4-43E9-A305-3C879D7027DD)**
 - [Scrubs Shortcuts Library](drafts://open?uuid=68F049EC-59AF-4A49-885F-698BB9653400)
@@ -64,12 +67,13 @@ _Documentation_
 - [David Blue’s Drafts Action Directory Contributions](drafts://open?uuid=C70FF15A-5B48-407C-9587-0DC4E9536102)
 - [TextExpander Snippet Groups](drafts://open?uuid=00ED31D1-18B9-4A61-ADF9-3128DD0C2688)
 - [WordCloudjs API](https://github.com/timdream/wordcloud2.js/blob/gh-pages/API.md)
+- [internetarchive CLI Docs](bear://x-callback-url/open-note?id=2A87D668-F2F8-4634-93FC-194EA2393D03-35818-0000034E74468AE3)
 
 [New Draft with Clipboard](drafts://x-callback-url/create?text=%7C%7Cclipboard%7C%7C)
 
 [Keyboard Shortcuts Export](drafts://runAction?test=&action=Keyboard%20Shortcuts%20Export)
 
-*!!!*
+_!!!_
 - [Neil Harrison Rave Library: 1990s Rave Mixes : Free Audio : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/neilharrisonravelibrary)---**Tot Keys**
 - **⌘/** = Show/Hide Status Bar
 - **⇧⌘T** = Switch to Plain Text View
@@ -277,7 +281,7 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 
 [MASTODON](https://mastodon.social/@DavidBlue) **//** [TWITTER](https://twitter.com/NeoYokel) **//** [DISCORD](https://discord.gg/4hdQcVd)
 **Site Stuff**
-※ [Z](https://davidblue.wtf/zalgo/)[҉̳͕̗͖͕͈͡](https://davidblue.wtf/zalgo/) [̶̡͏̟͙A̧̠͈̝̣̺ ̣̳͖̬̺͔̬̜L̻̪͔͚̀ ̨͇̦̕G̸̸͍͕̹̠̳̟͙̬͞ ̛̬̣̱̮͈͚̬ͅO̡̨̦̪̺̯̹͔̙͡ͅ](<https://davidblue.wtf/zalgo/>)' ' ' ※ [ＭＥＧＡ](https://davidblue.wtf/cool/) [ＣＯＯＬ](https://davidblue.wtf/cool/) [ＴＥＸＴ](https://davidblue.wtf/cool/) [UNI1PG](https://davidblue.wtf/tools/unicode.pdf)
+※ [Z](https://davidblue.wtf/zalgo/)[҉̳͕̗͖͕͈͡](<https://davidblue.wtf/zalgo/>) [̶̡͏̟͙A̧̠͈̝̣̺ ̣̳͖̬̺͔̬̜L̻̪͔͚̀ ̨͇̦̕G̸̸͍͕̹̠̳̟͙̬͞ ̛̬̣̱̮͈͚̬ͅO̡̨̦̪̺̯̹͔̙͡ͅ](<https://davidblue.wtf/zalgo/>)' ' ' ※ [ＭＥＧＡ](https://davidblue.wtf/cool/) [ＣＯＯＬ](https://davidblue.wtf/cool/) [ＴＥＸＴ](https://davidblue.wtf/cool/) [UNI1PG](https://davidblue.wtf/tools/unicode.pdf)
 ⎃⎃⎃⎃⎃⎃⎃⎃ d i n k u s ⎃⎃⎃⎃⎃⎃⎃⎃
 	•	Hosted on [Neocities](https://neocities.org/site/davidblue). View website source code on [GitHub](https://github.com/extratone/xyz).
 
@@ -301,9 +305,9 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 
 - [Marco! Shortcut Documentation](drafts://open?uuid=AD8A1DEF-DB4E-491D-B680-23323228D2D5)
 
-https://ttm.sh/btA.MP4
-https://ttm.sh/tI5
-https://ttm.sh/btS.02.png
+<https://ttm.sh/btA.MP4>
+<https://ttm.sh/tI5>
+<https://ttm.sh/btS.02.png>
 <https://ttm.sh/bFm.11.png>
 
 
@@ -535,7 +539,7 @@ Created: Sep 27, 2021 at 16:25
 Due: 
 
 ```
-<script async src="<https://telegram.org/js/telegram-widget.js?15>" data-telegram-post="uikeycommand/6" data-width="100%" data-color="DA2573" data-dark="1"></script>
+<script async src="<<https://telegram.org/js/telegram-widget.js?15>>" data-telegram-post="uikeycommand/6" data-width="100%" data-color="DA2573" data-dark="1"></script>
 ```
 
 **[Keyboard shortcuts + quick jumps | Voters | Raindrop.io](x-apple-reminderkit://REMCDReminder/23987143-AD9F-4551-B746-A7321EAED17B)**
@@ -1037,10 +1041,10 @@ long1950-5G
 - [List .md Drafts Open Links by Tag Shortcut](drafts://open?uuid=0E0613E7-9C1F-48DE-8AF8-ABA5E9619066)
 - [Index Drafts Workspace Shortcut](drafts://open?uuid=BF7242C0-6E4E-4BD8-B01C-110A5F2BC26A)
 - [Index by Tag with Drafts Open Links via Siri Shortcuts](drafts://open?uuid=225ED750-53C3-455C-9CAD-6CEBA0184ACC)
-- [[[w:keys]] Index  - [[03832022-144011](tel:03832022-144011)](<tel:03832022-144011>)](<drafts://open?uuid=C9DEA2D3-DD7E-424D-A284-FA6513B5BE2F>)
-- [[[w:correspondence]] Index  - [[03832022-142351](tel:03832022-142351)](<tel:03832022-142351>)](<drafts://open?uuid=D3E7A55F-91F0-41AF-88F6-59A233AA1E80>)
+- [[[w:keys]] Index  - [[[03832022-144011](tel:03832022-144011)](<tel:03832022-144011>)](<tel:03832022-144011>)](<drafts://open?uuid=C9DEA2D3-DD7E-424D-A284-FA6513B5BE2F>)
+- [[[w:correspondence]] Index  - [[[03832022-142351](tel:03832022-142351)](<tel:03832022-142351>)](<tel:03832022-142351>)](<drafts://open?uuid=D3E7A55F-91F0-41AF-88F6-59A233AA1E80>)
 - [Vocabulary Index](drafts://open?uuid=F6B952AF-A7F8-4B2D-B310-8800099CF282)
-- [[[w:Dev]] Index  - [[03832022-140156](tel:03832022-140156)](<tel:03832022-140156>)](<drafts://open?uuid=782F9576-D3B3-42CE-AAEB-00F2327EFAB1>)
+- [[[w:Dev]] Index  - [[[03832022-140156](tel:03832022-140156)](<tel:03832022-140156>)](<tel:03832022-140156>)](<drafts://open?uuid=782F9576-D3B3-42CE-AAEB-00F2327EFAB1>)
 - [placate](drafts://open?uuid=53543872-FBA2-4874-BE01-3D0243733507)
 - [Shortcuts Actions are coming to Tot](drafts://open?uuid=DE4A4195-9D96-4CF0-922A-DB642CB6838F)
 - [Drafts Autocompletes](drafts://open?uuid=D7135FD0-C2C5-4AB4-B0DD-DAAE7E70BA64)
@@ -1196,7 +1200,7 @@ Updated `04022022-163836`
 <html>
    <head>
       <title>Consultation</title>
-      <meta http-equiv = “refresh” content = “0; url = <<https://fantastical.app/davidblue/general-consultation>>” />
+      <meta http-equiv = “refresh” content = “0; url = <<<https://fantastical.app/davidblue/general-consultation>>>” />
    </head>
    <body>
    </body>
@@ -1207,3 +1211,5 @@ Updated `04022022-163836`
 - Words: 6329
 - Characters: 51264
 - Modified: Apr 8, 2022 at 18:41
+
+`ia download nhr_Carl_Cox --glob="\*.mp3"`
