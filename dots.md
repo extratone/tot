@@ -67,7 +67,10 @@ _Documentation_
 
 [New Draft with Clipboard](drafts://x-callback-url/create?text=%7C%7Cclipboard%7C%7C)
 
-[Keyboard Shortcuts Export](drafts://runAction?test=&action=Keyboard%20Shortcuts%20Export)---**Tot Keys**
+[Keyboard Shortcuts Export](drafts://runAction?test=&action=Keyboard%20Shortcuts%20Export)
+
+*!!!*
+- [Neil Harrison Rave Library: 1990s Rave Mixes : Free Audio : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/neilharrisonravelibrary)---**Tot Keys**
 - **⌘/** = Show/Hide Status Bar
 - **⇧⌘T** = Switch to Plain Text View
 - **⌘,** = Preferences
@@ -214,7 +217,7 @@ _Drafts_
 - [Tot Git Restore-macOS](https://www.icloud.com/shortcuts/0196edc014534e61bcb3f8b372c314d7)
 - [Tot Actions Showcase](https://www.icloud.com/shortcuts/06b41c1e86b8485bbfa7f8aafa82b127)
 - [Dot to New Draft Shortcut](https://davidblue.wtf/drafts/D20C28B8-6BCA-465F-9F4E-30F4EDA4D0E2.html)
-- [Tot ⇦⇨ Drafts Sync Shortcuts](drafts://open?uuid=CA6CA860-67E8-45F8-865E-DF530E4D7F36)
+- [Tot](drafts://open?uuid=CA6CA860-67E8-45F8-865E-DF530E4D7F36) [⇦⇨](drafts://open?uuid=CA6CA860-67E8-45F8-865E-DF530E4D7F36) [Drafts Sync Shortcuts](drafts://open?uuid=CA6CA860-67E8-45F8-865E-DF530E4D7F36)
 - 
 
 - [The Psalms Tot Theme](drafts://open?uuid=5156ED3A-7C1C-4B3B-9F03-6B977526D5DA)
@@ -227,10 +230,7 @@ _Drafts_
 
 **Tot Shortcuts Ideas**
 - Finish Tot ↓ Drafts
-Your Tot Dots summed:
-- Lines: 1156
-- Words: 9635
-- Characters: 76078---[Hot Tot Dot Swap](shortcuts://run-shortcut?name=Hot%20Tot%20Dot%20Swap)
+- 50-100 Most Recent Drafts List---[Hot Tot Dot Swap](shortcuts://run-shortcut?name=Hot%20Tot%20Dot%20Swap)
 
 
 
@@ -307,7 +307,11 @@ https://ttm.sh/btS.02.png
 <https://ttm.sh/bFm.11.png>
 
 
-- [gh2md README](drafts://open?uuid=F571E936-9BF5-42F9-B757-2EF52012F90B)---**URL Schemes Learning**
+- [gh2md README](drafts://open?uuid=F571E936-9BF5-42F9-B757-2EF52012F90B)
+
+- [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
+
+- [Feebles in Night, Second Edition](drafts://open?uuid=7C1047E5-07D2-467E-B488-00DA8EEAD8AD)---**qURL Schemes Learning**
 
 _Links_
 - [Drafts](https://docs.getdrafts.com/docs/automation/urlschemes)
@@ -412,14 +416,14 @@ Due:
 
 
 
-**[[iPhone 13 Pro vs Pixel 6 Pro: 2000 Photos Later ](x-apple-reminderkit://REMCDReminder/63CCAC7C-2D1E-4B97-9FD7-DCEB28F048E8)**
+**[[iPhone 13 Pro vs Pixel 6 Pro: 2000 Photos Later](x-apple-reminderkit://REMCDReminder/63CCAC7C-2D1E-4B97-9FD7-DCEB28F048E8)** 
 `Todoist
 Family`
 [Link]()
 Created: Dec 7, 2021 at 22:44
 Due: 
 
- Full Frame Ep. 5 - YouTube](https://m.youtube.com/watch?v=eAxbBbi_Mmw)
+ Full Frame Ep. 5 - YouTube](<https://m.youtube.com/watch?v=eAxbBbi_Mmw>)
 
 **[Installing Custom Ringtones](x-apple-reminderkit://REMCDReminder/DEB30FA5-7E58-40CC-8836-ECA455369390)**
 `Todoist
@@ -430,7 +434,7 @@ Due:
 
 
 
-**[[Apple’s Anti-Sexting Tool for iOS Will Warn Kids About Nudes—but Won’t Notify Parents ](https://www.wsj.com/articles/apples-anti-sexting-tool-for-ios-will-warn-kids-about-nudesbut-wont-notify-parents-11638626402)](x-apple-reminderkit://REMCDReminder/3295A823-B167-43F3-809B-8F3848ED1E17)**
+**[[Apple’s Anti-Sexting Tool for iOS Will Warn Kids About Nudes—but Won’t Notify Parents](https://www.wsj.com/articles/apples-anti-sexting-tool-for-ios-will-warn-kids-about-nudesbut-wont-notify-parents-11638626402) ](<x-apple-reminderkit://REMCDReminder/3295A823-B167-43F3-809B-8F3848ED1E17>)**
 `Family
 Todoist`
 [Link]()
@@ -531,7 +535,7 @@ Created: Sep 27, 2021 at 16:25
 Due: 
 
 ```
-<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="uikeycommand/6" data-width="100%" data-color="DA2573" data-dark="1"></script>
+<script async src="<https://telegram.org/js/telegram-widget.js?15>" data-telegram-post="uikeycommand/6" data-width="100%" data-color="DA2573" data-dark="1"></script>
 ```
 
 **[Keyboard shortcuts + quick jumps | Voters | Raindrop.io](x-apple-reminderkit://REMCDReminder/23987143-AD9F-4551-B746-A7321EAED17B)**
@@ -790,7 +794,7 @@ Due:
 - [iOS 15’s Last Bullets](drafts://open?uuid=8757F54B-420D-491C-BCD2-A33FFD6F99F3)
 - [Drafts 28 Bluetooth Keyboard Considerations](drafts://open?uuid=F74B3E82-8A13-445D-B0DD-0EF2ED52773E)
 - [Drafts 28.0 Release Notes](drafts://open?uuid=A7AA40AC-664F-49ED-9381-D6ABEB1C6681)
-- [Embed <audio> Element:](drafts://open?uuid=E3D8E967-1822-4D60-8CC0-BCA31A1861F4) [⇧⌃](drafts://open?uuid=E3D8E967-1822-4D60-8CC0-BCA31A1861F4)[A](drafts://open?uuid=E3D8E967-1822-4D60-8CC0-BCA31A1861F4)
+- [Embed <audio> Element:](drafts://open?uuid=E3D8E967-1822-4D60-8CC0-BCA31A1861F4) [⇧⌃A](drafts://open?uuid=E3D8E967-1822-4D60-8CC0-BCA31A1861F4)
 - [NOTES: Underdocumented Maneuvers in iOS](drafts://open?uuid=464F92D4-5A63-4447-BBF7-CB1B0D885568)
 - [Twitter Thread:](drafts://open?uuid=101762F8-538A-454D-9049-F6E391483EC7)
 - [Shortcuts User Group Transcript](drafts://open?uuid=7FD1C728-9A20-4993-8D35-C1837A49BC62)
@@ -1033,10 +1037,10 @@ long1950-5G
 - [List .md Drafts Open Links by Tag Shortcut](drafts://open?uuid=0E0613E7-9C1F-48DE-8AF8-ABA5E9619066)
 - [Index Drafts Workspace Shortcut](drafts://open?uuid=BF7242C0-6E4E-4BD8-B01C-110A5F2BC26A)
 - [Index by Tag with Drafts Open Links via Siri Shortcuts](drafts://open?uuid=225ED750-53C3-455C-9CAD-6CEBA0184ACC)
-- [[[w:keys]] Index  - [03832022-144011](tel:03832022-144011)](<drafts://open?uuid=C9DEA2D3-DD7E-424D-A284-FA6513B5BE2F>)
-- [[[w:correspondence]] Index  - [03832022-142351](tel:03832022-142351)](<drafts://open?uuid=D3E7A55F-91F0-41AF-88F6-59A233AA1E80>)
+- [[[w:keys]] Index  - [[03832022-144011](tel:03832022-144011)](<tel:03832022-144011>)](<drafts://open?uuid=C9DEA2D3-DD7E-424D-A284-FA6513B5BE2F>)
+- [[[w:correspondence]] Index  - [[03832022-142351](tel:03832022-142351)](<tel:03832022-142351>)](<drafts://open?uuid=D3E7A55F-91F0-41AF-88F6-59A233AA1E80>)
 - [Vocabulary Index](drafts://open?uuid=F6B952AF-A7F8-4B2D-B310-8800099CF282)
-- [[[w:Dev]] Index  - [03832022-140156](tel:03832022-140156)](<drafts://open?uuid=782F9576-D3B3-42CE-AAEB-00F2327EFAB1>)
+- [[[w:Dev]] Index  - [[03832022-140156](tel:03832022-140156)](<tel:03832022-140156>)](<drafts://open?uuid=782F9576-D3B3-42CE-AAEB-00F2327EFAB1>)
 - [placate](drafts://open?uuid=53543872-FBA2-4874-BE01-3D0243733507)
 - [Shortcuts Actions are coming to Tot](drafts://open?uuid=DE4A4195-9D96-4CF0-922A-DB642CB6838F)
 - [Drafts Autocompletes](drafts://open?uuid=D7135FD0-C2C5-4AB4-B0DD-DAAE7E70BA64)
@@ -1192,7 +1196,7 @@ Updated `04022022-163836`
 <html>
    <head>
       <title>Consultation</title>
-      <meta http-equiv = “refresh” content = “0; url = <https://fantastical.app/davidblue/general-consultation>” />
+      <meta http-equiv = “refresh” content = “0; url = <<https://fantastical.app/davidblue/general-consultation>>” />
    </head>
    <body>
    </body>
