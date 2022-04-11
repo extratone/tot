@@ -54,6 +54,7 @@ _Social/Family/Support_
 - [Mattcito Help-MacStories Discord](drafts://open?uuid=424FFFE3-0335-4398-8588-A9149CD0A208)
 
 _Documentation_
+- [Taio Image Uploader and Snap.as](drafts://open?uuid=DD9A7373-F763-4B84-853C-6964F4F3B39D)
 - [Distributed Index](drafts://open?uuid=2BE147C7-D5E2-41E0-91B1-F65EBEFAA81A)
 - [Siri Shortcuts for Telegram](drafts://open?uuid=3260C6BA-1CA8-4ADB-9888-98601FADD82F)
 - **[David Blue’s RoutineHub Library](drafts://open?uuid=2145B3D6-2DE4-43E9-A305-3C879D7027DD)**
@@ -68,6 +69,8 @@ _Documentation_
 - [TextExpander Snippet Groups](drafts://open?uuid=00ED31D1-18B9-4A61-ADF9-3128DD0C2688)
 - [WordCloudjs API](https://github.com/timdream/wordcloud2.js/blob/gh-pages/API.md)
 - [internetarchive CLI Docs](bear://x-callback-url/open-note?id=2A87D668-F2F8-4634-93FC-194EA2393D03-35818-0000034E74468AE3)
+- [On My Mind Action Group by FlohGro](drafts://open?uuid=C90B70B3-A594-4736-86B2-E4F1924D3096)
+- [WTF Redirection](drafts://open?uuid=218F8FAA-C0B9-4B4F-B896-3089E005E86E)
 
 [New Draft with Clipboard](drafts://x-callback-url/create?text=%7C%7Cclipboard%7C%7C)
 
