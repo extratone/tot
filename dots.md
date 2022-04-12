@@ -1,7 +1,7 @@
 **_Constraints can be powerful._**
 T       O       T               L       E       A       R       N    
 
-[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - [DraftsKeys Update](shortcuts://run-shortcut?name=DraftsKeys%20Update) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - [Tot Git iOS](shortcuts://run-shortcut?name=Tot%20Git%20iOS) - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=TrippleTap%20Reminder)
+[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - [DraftsKeys Update](shortcuts://run-shortcut?name=DraftsKeys%20Update) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - [Tot Git iOS](shortcuts://run-shortcut?name=Tot%20Git%20iOS) - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard)
 
 [symbol](shortcuts://run-shortcut?name=symbol)
 
@@ -118,7 +118,7 @@ _!!!_
 - Bear URL Schemes
 - More extensive Panda testing?
 - Services/Shortcuts in macOS
-- 
+- New Draft with current Safari tab links function on iOS via Shortcuts
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
@@ -177,7 +177,7 @@ _!!!_
 - Bear URL Schemes
 - More extensive Panda testing?
 - Services/Shortcuts in macOS
-- 
+- New Draft with current Safari tab links function on iOS via Shortcuts
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
@@ -317,15 +317,14 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 
 
 - [gh2md README](drafts://open?uuid=F571E936-9BF5-42F9-B757-2EF52012F90B)
-
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
-
 - [Feebles in Night, Second Edition](drafts://open?uuid=7C1047E5-07D2-467E-B488-00DA8EEAD8AD)
-
 - [Why I Didn’t Follow You Back](drafts://open?uuid=052A0D33-79E7-4069-86E7-3C6AAA31DA4A)
-
 - [Keyboard shortcut restrictions](drafts://open?uuid=8B069E6C-3320-43E6-89A0-9EE886C5815E)
----**qURL Schemes Learning**
+- [Query Snap.as Library Shortcut](drafts://open?uuid=A86CAE9C-8F0A-435C-A659-51E2EF92255C)
+- [Taio Image Uploader and Snap.as](drafts://open?uuid=DD9A7373-F763-4B84-853C-6964F4F3B39D)
+
+- [Gran Turismo 7 Playlist](drafts://open?uuid=557AD418-F946-495D-93F3-7A7B07E5E56E)---**qURL Schemes Learning**
 
 _Links_
 - [Drafts](https://docs.getdrafts.com/docs/automation/urlschemes)
@@ -549,7 +548,7 @@ Created: Sep 27, 2021 at 16:25
 Due: 
 
 ```
-<script async src="<<https://telegram.org/js/telegram-widget.js?15>>" data-telegram-post="uikeycommand/6" data-width="100%" data-color="DA2573" data-dark="1"></script>
+<script async src="<<<<https://telegram.org/js/telegram-widget.js?15>>>>" data-telegram-post="uikeycommand/6" data-width="100%" data-color="DA2573" data-dark="1"></script>
 ```
 
 **[Keyboard shortcuts + quick jumps | Voters | Raindrop.io](x-apple-reminderkit://REMCDReminder/23987143-AD9F-4551-B746-A7321EAED17B)**
@@ -1051,10 +1050,10 @@ long1950-5G
 - [List .md Drafts Open Links by Tag Shortcut](drafts://open?uuid=0E0613E7-9C1F-48DE-8AF8-ABA5E9619066)
 - [Index Drafts Workspace Shortcut](drafts://open?uuid=BF7242C0-6E4E-4BD8-B01C-110A5F2BC26A)
 - [Index by Tag with Drafts Open Links via Siri Shortcuts](drafts://open?uuid=225ED750-53C3-455C-9CAD-6CEBA0184ACC)
-- [[[w:keys]] Index  - [[[03832022-144011](tel:03832022-144011)](<tel:03832022-144011>)](<tel:03832022-144011>)](<drafts://open?uuid=C9DEA2D3-DD7E-424D-A284-FA6513B5BE2F>)
-- [[[w:correspondence]] Index  - [[[03832022-142351](tel:03832022-142351)](<tel:03832022-142351>)](<tel:03832022-142351>)](<drafts://open?uuid=D3E7A55F-91F0-41AF-88F6-59A233AA1E80>)
+- [[[w:keys]] Index  - [[[[[03832022-144011](tel:03832022-144011)](<tel:03832022-144011>)](<tel:03832022-144011>)](<tel:03832022-144011>)](<tel:03832022-144011>)](<drafts://open?uuid=C9DEA2D3-DD7E-424D-A284-FA6513B5BE2F>)
+- [[[w:correspondence]] Index  - [[[[[03832022-142351](tel:03832022-142351)](<tel:03832022-142351>)](<tel:03832022-142351>)](<tel:03832022-142351>)](<tel:03832022-142351>)](<drafts://open?uuid=D3E7A55F-91F0-41AF-88F6-59A233AA1E80>)
 - [Vocabulary Index](drafts://open?uuid=F6B952AF-A7F8-4B2D-B310-8800099CF282)
-- [[[w:Dev]] Index  - [[[03832022-140156](tel:03832022-140156)](<tel:03832022-140156>)](<tel:03832022-140156>)](<drafts://open?uuid=782F9576-D3B3-42CE-AAEB-00F2327EFAB1>)
+- [[[w:Dev]] Index  - [[[[[03832022-140156](tel:03832022-140156)](<tel:03832022-140156>)](<tel:03832022-140156>)](<tel:03832022-140156>)](<tel:03832022-140156>)](<drafts://open?uuid=782F9576-D3B3-42CE-AAEB-00F2327EFAB1>)
 - [placate](drafts://open?uuid=53543872-FBA2-4874-BE01-3D0243733507)
 - [Shortcuts Actions are coming to Tot](drafts://open?uuid=DE4A4195-9D96-4CF0-922A-DB642CB6838F)
 - [Drafts Autocompletes](drafts://open?uuid=D7135FD0-C2C5-4AB4-B0DD-DAAE7E70BA64)
@@ -1210,7 +1209,7 @@ Updated `04022022-163836`
 <html>
    <head>
       <title>Consultation</title>
-      <meta http-equiv = “refresh” content = “0; url = <<<https://fantastical.app/davidblue/general-consultation>>>” />
+      <meta http-equiv = “refresh” content = “0; url = <<<<<https://fantastical.app/davidblue/general-consultation>>>>>” />
    </head>
    <body>
    </body>
@@ -1227,7 +1226,7 @@ Updated `04022022-163836`
 - [GitHub Issue](https://github.com/extratone/bilge/issues/301)
 - [Drafts vs. Obsidian Stuff · Issue #22 · extratone/drafts](https://github.com/extratone/drafts/issues/22)
 - [["Compiling and Exporting Tagged Notes in Drafts 5"]]
-- [Compiling and Exporting Tagged Notes in Drafts 5](https://club.macstories.net/posts/compiling-and-exporting-tagged-notes-in-drafts-5) | *MacStories*
+- [Compiling and Exporting Tagged Notes in Drafts 5](<https://club.macstories.net/posts/compiling-and-exporting-tagged-notes-in-drafts-5>) | _MacStories_
 - [Drafts Directory: Export Review Draft](https://actions.getdrafts.com/a/1L7)
 - [SoFar SimpleNote](http://simp.ly/publish/ffZXcw)
 
@@ -1237,8 +1236,8 @@ Updated `04022022-163836`
 - [ ] The one thing Drafts cannot offer and probably never will: true cross-platform integration with Windows. That's fucking okay, though.
 - [ ] It’s not that I’m against Electron apps - as a Windows user, I cannot afford to be discriminating whatsoever when it comes to new, functional software.
 - [ ] [Native file integrations](https://docs.getdrafts.com/docs/actions/steps/services) with Twitter, Dropbox, Evernote, WordPress, Medium, Google Drive, Gmail, Google Tasks, Box, OneDrive, OneNote, Outlook, Microsoft To Do, Todoist, and any WebDAV-enabled file server, [as I’ve demonstrated](https://bilge.world/using-drafts-with-neocities).
-- [ ] I fundamentally *trust* Drafts more than any other notetaking/word living application I've ever used, and a good deal of that comes from what feels like an extremely direct line to Greg.
-- [ ] Let me see you live switch back and forth between devices editing the same documents with any coherence in Obsidian, eh? Git is wonderful, but it was built to be used like we’re using it, and we need to consider that. Indeed, what if iCloud Drive sync is mostly an advantage? *Especially* when it’s Native As Fuck.
+- [ ] I fundamentally _trust_ Drafts more than any other notetaking/word living application I've ever used, and a good deal of that comes from what feels like an extremely direct line to Greg.
+- [ ] Let me see you live switch back and forth between devices editing the same documents with any coherence in Obsidian, eh? Git is wonderful, but it was built to be used like we’re using it, and we need to consider that. Indeed, what if iCloud Drive sync is mostly an advantage? _Especially_ when it’s Native As Fuck.
 - [ ] I just a moment ago rid my main repository of Obsidian for good and it was almost 1000 files.
 - [ ] Still much much more out of the box because it is so in a different way - I keep discovering things Drafts will do for me instead of something else, but better, where I feel like Obsidian is all about finding more stuff to do.
 - [ ] Using draft_open_links and Tot, I have created my own dashboard outside of Drafts, which works especially beautifully on macOS.
@@ -1246,13 +1245,13 @@ Updated `04022022-163836`
 - [ ] In essence, I’m just worried.
 - [x] Backwards compatibility! - I was able to sync all ~1600 drafts in my library + themes + actions in around 5 minutes on an eight-year-old iPad Air.
 - [ ] Launching webpages from my Test note because of TextExpander integration.
-- [ ] How easy it was to [repair the TAD issue](https://forums.getdrafts.com/t/script-error-syntaxerror-json-parse-error-unexpected-identifier-drafts-line-number-53-column-35/12187).
+- [ ] How easy it was to [repair the TAD issue](<https://forums.getdrafts.com/t/script-error-syntaxerror-json-parse-error-unexpected-identifier-drafts-line-number-53-column-35/12187>).
 - [ ] Posting to WordPress/Medium with a single step.
 - [ ] [Taio](https://apps.apple.com/us/app/taio-markdown-text-actions/id1527036273) is perhaps even more redundant in regards to Drafts, but establishing its own identity.
-- [ ] [Actions for Obsidian in the Action Directory](https://actions.getdrafts.com/search?utf8=✓&q=obsidian).
+- [ ] [Actions for Obsidian in the Action Directory]([[https://actions.getdrafts.com/search?utf8=✓&q=obsidian](https://actions.getdrafts.com/search?utf8=%E2%9C%93&q=obsidian)](<https://actions.getdrafts.com/search?utf8=%E2%9C%93&q=obsidian>)).
 - [ ] Drafts’ absurdly high rating in the App Store.
 - [ ] [Live preview update - Obsidian Help](https://help.obsidian.md/Live+preview+update)
-- [ ] [Folding Text / Collapsable Headers - Feature Requests - Drafts Community](https://forums.getdrafts.com/t/folding-text-collapsable-headers/1034) - it looks like I may be one of few Drafts users who is *uninterested* in folding headers. In the several implementations I’ve tried them over the years, they tend to just confuse me / get me lost. 
+- [ ] [Folding Text / Collapsable Headers - Feature Requests - Drafts Community](https://forums.getdrafts.com/t/folding-text-collapsable-headers/1034) - it looks like I may be one of few Drafts users who is _uninterested_ in folding headers. In the several implementations I’ve tried them over the years, they tend to just confuse me / get me lost. 
 
 ## Misc
 
@@ -1280,7 +1279,7 @@ Updated `04022022-163836`
 
 - [ ] `![SpaceTakenbyDrafts](https://user-images.githubusercontent.com/43663476/153721368-59fbb89f-46ff-46da-8caf-8d24047e3589.png)`
 - [ ] `![BookmarksinDrafts](https://user-images.githubusercontent.com/43663476/153778986-a9a33a80-12a3-4042-8941-2e2d5e427703.png)`
-- [x] `![Black&YellowTheme](https://user-images.githubusercontent.com/43663476/153780995-5b7ac09d-4c21-4e61-b1ba-163ce106fb01.png)`
+- [x] `![Black&YellowTheme](<https://user-images.githubusercontent.com/43663476/153780995-5b7ac09d-4c21-4e61-b1ba-163ce106fb01.png>)`
 - [ ] `![FullSerifMode](https://user-images.githubusercontent.com/43663476/153918963-22bee968-92ac-441c-8535-e90c4658840c.png)`
 - [ ] `![HalfSerifMode](https://user-images.githubusercontent.com/43663476/153919115-6d34655e-ed9e-4d28-b3e4-55b136d8ba37.png)`
 - [ ] `![ArrangeMode](https://user-images.githubusercontent.com/43663476/153938891-ff5312ba-31d4-415f-88e4-e3e14925575f.png)`
@@ -1288,26 +1287,26 @@ Updated `04022022-163836`
 - [ ] `![Autocomplete](https://user-images.githubusercontent.com/43663476/153939600-e26cd8eb-b78f-4d67-a5fb-993b508830f9.png)`
 - [ ] `![TerminologyIntegration](https://user-images.githubusercontent.com/43663476/153948463-31435ed0-76e7-4b33-be9f-3089248e34f4.png)`
 - [ ] ![ReminderIntegrations](https://user-images.githubusercontent.com/43663476/153950328-e0e71931-d407-469f-a882-b9566f37399c.png)
-- [x] `![ControllingBearfromDrafts](https://user-images.githubusercontent.com/43663476/153966641-fad3a074-4938-4cef-b1c8-ed900cd8599c.png)`
+- [x] `![ControllingBearfromDrafts](<https://user-images.githubusercontent.com/43663476/153966641-fad3a074-4938-4cef-b1c8-ed900cd8599c.png>)`
 - [ ] `![TriggeringBearfromDrafts](https://user-images.githubusercontent.com/43663476/153966718-f51329cd-5928-4127-9958-42d972882521.png)`
 - [ ] `![ArrangeMode](https://user-images.githubusercontent.com/43663476/154339203-1c30713e-cb53-40c6-8e70-7f75c1dfdee2.png)`
-- [ ] `![ArrangeModeLandscape](https://user-images.githubusercontent.com/43663476/154815196-48e6535f-e740-4c6c- b40b-7db3ab190d27.png)`
+- [ ] `![ArrangeModeLandscape](<https://user-images.githubusercontent.com/43663476/154815196-48e6535f-e740-4c6c-> b40b-7db3ab190d27.png)`
 - [ ] `![ExportPsalmsActionsLandscape](https://user-images.githubusercontent.com/43663476/154817269-0713a89d-d1a0-46a1-b2ed-57a84abddff8.png)`
-- [x] `![TipCalculatorLandscape](https://user-images.githubusercontent.com/43663476/154821804-3d6d90b4-76d4-4082-a4dc-7dde5631c296.png)`
+- [x] `![TipCalculatorLandscape](<https://user-images.githubusercontent.com/43663476/154821804-3d6d90b4-76d4-4082-a4dc-7dde5631c296.png>)`
 - [ ] `![Sending Drafts from iMessage](https://user-images.githubusercontent.com/43663476/154845607-1dc5e1c5-759a-4030-84ab-d609491f7acb.png)`
 - [ ] `![Long Press to Change Editor Options](https://user-images.githubusercontent.com/43663476/154864287-4f2d21d5-d332-4e75-8c81-9fb74cde1f70.png)`
 - [ ] `![Find & Replace with Regular Expressions](https://user-images.githubusercontent.com/43663476/154865771-47d8565b-424f-477e-b664-770a1b0d2fb1.png)`
 - [ ] [[The LightRedDot Theme by jamiejenkins]]
-- [ ] `![Bellelle Dark Theme](https://user-images.githubusercontent.com/43663476/155053127-40026c08-e839-4ec3-996e-3ed0660a8a2d.png)`
+- [ ] `![Bellelle Dark Theme](<https://user-images.githubusercontent.com/43663476/155053127-40026c08-e839-4ec3-996e-3ed0660a8a2d.png>)`
 - [ ] `![Grey and Orange Theme](https://user-images.githubusercontent.com/43663476/155100185-b8270067-abb4-4735-825d-c70cd2ee4d53.png)`
 - [ ] `![Grey and Orange Theme](https://user-images.githubusercontent.com/43663476/155100214-407d1546-3ce0-46ef-b2c7-7702fc18f0f4.png)`
-- [x] `![Terminology Draft](https://user-images.githubusercontent.com/43663476/155904725-8489c896-adfc-4f43-8901-eb897ab998e4.png)`
-- [x] `![aforelinked in Terminology](https://user-images.githubusercontent.com/43663476/155905726-ffa126d6-ccb5-497f-a80c-51ba457b1330.png)`
-- [x] `![LookUp Failure](https://user-images.githubusercontent.com/43663476/155922296-4c00c372-8b79-4dfd-b421-5d718845a782.png)`
+- [x] `![Terminology Draft](<https://user-images.githubusercontent.com/43663476/155904725-8489c896-adfc-4f43-8901-eb897ab998e4.png>)`
+- [x] `![aforelinked in Terminology](<https://user-images.githubusercontent.com/43663476/155905726-ffa126d6-ccb5-497f-a80c-51ba457b1330.png>)`
+- [x] `![LookUp Failure](<https://user-images.githubusercontent.com/43663476/155922296-4c00c372-8b79-4dfd-b421-5d718845a782.png>)`
 - [ ] `![Written Folder](https://user-images.githubusercontent.com/43663476/155971770-907a90aa-c955-4928-bbad-6cd1a61216ea.png)`
 - [ ] `![Quick Navigation](https://user-images.githubusercontent.com/43663476/156029543-89c96f8f-0a23-4434-8514-a6e8349bb565.png)`
-- [x] `![Obsidian Publish Example](https://user-images.githubusercontent.com/43663476/156826733-4e596f5f-2f90-4e88-977e-fb6dc8f9c218.png)`
-- [x] `![Versioning in Drafts](https://user-images.githubusercontent.com/43663476/156828832-b8c4554f-a7b9-4ff3-997b-329e6a227e57.png)`
+- [x] `![Obsidian Publish Example](<https://user-images.githubusercontent.com/43663476/156826733-4e596f5f-2f90-4e88-977e-fb6dc8f9c218.png>)`
+- [x] `![Versioning in Drafts](<https://user-images.githubusercontent.com/43663476/156828832-b8c4554f-a7b9-4ff3-997b-329e6a227e57.png>)`
 - [ ] `![Committing Drafts in Working Copy](https://user-images.githubusercontent.com/43663476/156829737-65cf15d3-9118-4f06-8796-5097c474e7a2.png)`
 - [ ] `![Notes Organization - Drafts vs Bear](https://user-images.githubusercontent.com/43663476/158259554-5191b921-8064-4ac6-8720-f9c5fa3c67b8.png)`
 - [ ] `![A Complete Mess](https://user-images.githubusercontent.com/43663476/160045048-23b34db5-0aa3-430b-8453-c52258646115.png)`
@@ -1317,11 +1316,11 @@ Updated `04022022-163836`
 - [Everything You Need to Know about Obsidian Sync - YouTube](https://youtube.com/watch?v=XC40RgvH1D4)
 - [Terminology Integration](https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV)
 <video controls>
-  <source src="https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV">
+  <source src="<<https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV>>">
 </video>
 - [Arrange Mode Demo](https://imgur.com/gallery/6NdIiVJ)
 <video controls>
-  <source src="https://user-images.githubusercontent.com/43663476/155023319-c031aa8c-706e-442c-a5a6-59d0adf95e03.MOV">
+  <source src="<<https://user-images.githubusercontent.com/43663476/155023319-c031aa8c-706e-442c-a5a6-59d0adf95e03.MOV>>">
 </video>
 
 ## References
@@ -1343,12 +1342,12 @@ Updated `04022022-163836`
 - [ ] [Delete Your Notes](https://club.macstories.net/posts/delete-your-notes)
 - [ ] [Everything but the Text Editor](https://club.macstories.net/episodes/203)
 - [ ] [Searching for the perfect iOS Markdown writing tool](https://sixcolors.com/post/2021/03/searching-for-the-perfect-ios-markdown-writing-tool/)
-- [ ] The whole [Attributions list](https://docs.getdrafts.com/docs/misc/attributions) for Drafts is just *seven items in length*.
+- [ ] The whole [Attributions list](https://docs.getdrafts.com/docs/misc/attributions) for Drafts is just _seven items in length_.
 - [ ] [The Fall of Roam](https://every.to/superorganizers/the-fall-of-roam)
-- [ ] [Drafts 5.4: Siri Shortcuts, WordPress, and More](https://www.macstories.net/reviews/drafts-5-4-siri-shortcuts-wordpress-and-more/) | *MacStories*
+- [ ] [Drafts 5.4: Siri Shortcuts, WordPress, and More](https://www.macstories.net/reviews/drafts-5-4-siri-shortcuts-wordpress-and-more/) | _MacStories_
 - [ ] [How I Make Drafts Work for Me — HeyDingus](https://heydingus.net/blog/2021/7/how-i-make-drafts-work-for-me)
-- [x] [Setup: Drafts on iOS with Working Copy - Tips & Tricks - Drafts Community](https://forums.getdrafts.com/t/setup-drafts-on-ios-with-working-copy/9197)
-- [x] [Version History](https://docs.getdrafts.com/docs/drafts/versionhistory)
+- [x] [Setup: Drafts on iOS with Working Copy - Tips & Tricks - Drafts Community](<https://forums.getdrafts.com/t/setup-drafts-on-ios-with-working-copy/9197>)
+- [x] [Version History](<https://docs.getdrafts.com/docs/drafts/versionhistory>)
 - [ ] [Drafts 2.0: New Fonts, New Look, A Brand New Kind of Sync, And Now On iPad](https://www.macstories.net/reviews/drafts-2-0-new-fonts-new-look-a-brand-new-kind-of-sync-and-now-on-ipad/)
 - [ ] [Drafts 2.0  New Fonts, New Look, A Brand New Kind of Sync, And Now On iPad](drafts://open?uuid=C3670318-F206-4414-A6D5-17E4898CB897)
 - [ ] [Drafts Review](drafts://open?uuid=391F1351-B2B2-4E9C-B5C7-79C0F3DA4B18)
@@ -1374,6 +1373,10 @@ Updated `04022022-163836`
 - [My Favorite Obsidian Plugins for Automating the Management of Notes](drafts://open?uuid=047F0715-7D39-4178-AAA4-4627111888BA)
 
 ```
-obsidian://open?vault=Testing&file=Colophon
-obsidian://advanced-uri?vault=Testing&filepath=Colophon.md&heading=Colophon
+<obsidian://open?vault=Testing&file=Colophon>
+<obsidian://advanced-uri?vault=Testing&filepath=Colophon.md&heading=Colophon>
 ```
+
+[The Automation Myth | Clinton Williamson](https://thebaffler.com/latest/the-automation-myth-williamson)
+
+Tim Nahumck’s “**[A Decade of Drafts](https://www.nahumck.me/a-decade-of-drafts/)**” is a very special way to start off the group, I think. I thought I could at least contribute a Siri Speech Synthesis read aloud.
