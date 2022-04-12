@@ -1,84 +1,43 @@
-**Tot Shortcuts**
-- [Append Drafts Tag Index to Tot](https://www.icloud.com/shortcuts/d23d57ac8bb04c77a12f274ede4e9656) 
-- [Tot Action Showcase](https://www.icloud.com/shortcuts/471dddd770e84e93a687f87d580ab3a3)
-- [Tot Consolidated Backup](https://www.icloud.com/shortcuts/b40c48899fd84941b7e5342c16d52fd2)
-- [Tot Individual Backup](https://www.icloud.com/shortcuts/b24a0ad1c5b14831bfe36b6dbb97a97b)
+**Siri Shortcuts for Tot**
 
-- [r/Shortcuts Thread](https://www.reddit.com/r/shortcuts/comments/tej1is/shortcuts_actions_are_coming_to_tot)
+_RoutineHub_
+- [RoutineHub • Tot Jar](https://routinehub.co/shortcut/11456/)
+- [RoutineHub • Hot Tot Dot Swap](https://routinehub.co/shortcut/11457/)
+- [RoutineHub • Dot Info](https://routinehub.co/shortcut/11459/)
+- [RoutineHub • Tot](https://routinehub.co/shortcut/11500/) [⇨](https://routinehub.co/shortcut/11500/) [Apple Notes](https://routinehub.co/shortcut/11500/)
+- [RoutineHub • Tot Markdown Backup](https://routinehub.co/shortcut/11458/)
+- [RoutineHub • Markdown Link](https://routinehub.co/shortcut/11504/) [⇨](https://routinehub.co/shortcut/11504/) [Tot Dot](https://routinehub.co/shortcut/11504/)
+- [RoutineHub • Reminders List](https://routinehub.co/shortcut/11539/) [⇨](https://routinehub.co/shortcut/11539/) [Tot](https://routinehub.co/shortcut/11539/)
+- [RoutineHub • Clear Dot](https://routinehub.co/shortcut/11540/)
+- [RoutineHub • Dot to New Draft](https://routinehub.co/shortcut/11541)
+- [RoutineHub • Dots Summary](https://routinehub.co/shortcut/11542/)
 
-I was delighted to discover by way of the macOS Beta that shortcuts actions are coming to [Tot](https://apps.apple.com/us/app/tot/id1491071483) and [Tot Pocket](https://apps.apple.com/us/app/tot-pocket/id1498235191)! 
-
-![Release Notes](https://user-images.githubusercontent.com/43663476/158322995-ee16014c-e293-4cf4-9b4b-fcffe9794e35.png)
-
-From the Tot version 1.3 Testflight notes:
-
-> • Added support for Shortcuts:
-> - Commands to get, set, or show text from any dot
-> - Works great as scratchpad to collect input for a Shortcut
-> - Also a convenient way to save text that has been processed
-> - Same actions on macOS and iOS, allowing shared workflows
-
-
-![Tot Shortcuts Actions](https://user-images.githubusercontent.com/43663476/158322998-bc6ffd1b-9ab9-4c7c-bc9d-6df1dc0ea36d.png)
-
-### Actions
-
-- \*\*Add to Dot\*\* - “Adds text to a dot by prepending or appending”
-- \*\*Get Dot\*\* - “Gets all the text from a dot”
-- \*\*Set Dot\*\* - “Sets all the text in a dot”
--  \*\*Show Dot\*\* - “Shows the specified dot”
+_Drafts_
+- [Tot Jar Shortcut](drafts://open?uuid=7A7DCF8B-BAE7-40B4-96E8-311BFC769722)
+- [Hot Tot Dot Swap Shortcut](drafts://open?uuid=1E11D78E-134E-4583-A6E1-414855E66312)
+- [Tot Markdown Backup](drafts://open?uuid=F145474F-4CD1-4053-BA14-5CFF16857362)
+- [Dot Info Shortcut](drafts://open?uuid=5C07CFF1-1F28-4AA0-9704-FF52939536D3)
+- [Tot](drafts://open?uuid=10EFCF5F-AAD4-4A4B-830A-9C02BDC766D0) [⇨](drafts://open?uuid=10EFCF5F-AAD4-4A4B-830A-9C02BDC766D0) [Apple Notes Shortcut](drafts://open?uuid=10EFCF5F-AAD4-4A4B-830A-9C02BDC766D0)
+- [Markdown Link](drafts://open?uuid=706A5C55-1E97-47A3-AA25-CB1DD29C821D) [⇨](drafts://open?uuid=706A5C55-1E97-47A3-AA25-CB1DD29C821D) [Dot Shortcut](drafts://open?uuid=706A5C55-1E97-47A3-AA25-CB1DD29C821D)
+- [Reminders List](drafts://open?uuid=B5C542E5-CDDA-48CE-909A-8A2B028B9368) [⇨](drafts://open?uuid=B5C542E5-CDDA-48CE-909A-8A2B028B9368) [Tot Shortcut](drafts://open?uuid=B5C542E5-CDDA-48CE-909A-8A2B028B9368)
+- [Clear Dot Shortcut](drafts://open?uuid=F4F062E4-F265-40A3-B101-03413D7996F8)
+- [Dots Summary Shortcut](drafts://open?uuid=7EB80DE5-1074-43E6-B2D3-213A2CD35D5B)
+- [Tot Git-iOS](https://www.icloud.com/shortcuts/69aa72b435b94d5f82106e4309303072)
+- [Tot Git-macOS](https://www.icloud.com/shortcuts/2597158919384c3eb706230b025abe16)
+- [Tot Git Restore-macOS](https://www.icloud.com/shortcuts/0196edc014534e61bcb3f8b372c314d7)
+- [Tot Actions Showcase](https://www.icloud.com/shortcuts/06b41c1e86b8485bbfa7f8aafa82b127)
+- [Dot to New Draft Shortcut](https://davidblue.wtf/drafts/D20C28B8-6BCA-465F-9F4E-30F4EDA4D0E2.html)
+- [Tot](drafts://open?uuid=CA6CA860-67E8-45F8-865E-DF530E4D7F36) [⇦⇨](drafts://open?uuid=CA6CA860-67E8-45F8-865E-DF530E4D7F36) [Drafts Sync Shortcuts](drafts://open?uuid=CA6CA860-67E8-45F8-865E-DF530E4D7F36)
 - 
 
-[Tot Individual Backup](shortcuts://run-shortcut?name=Tot%20Individual%20Backup)b
-[Formatter: JSON for Xcode](https://apps.apple.com/us/app/formatter-json-for-xcode/id1190228172?mt=12)
-
-defaults write -g ApplePressAndHoldEnabled -bool false
-
-brew cleanup
-
-echo \\033OQ | xxd -r -p
-
-snippetslab://search/{query}
-snippetslab://search/[[selection\_only]] snippetslab://search/pee
-
-ssh-agent /bin/zsh
-sudo ssh-add .ssh/tilde.town
-
-ssh-agent /bin/zsh && sudo ssh-add .ssh/tilde.town
+- [The Psalms Tot Theme](drafts://open?uuid=5156ED3A-7C1C-4B3B-9F03-6B977526D5DA)
 
 
-mosh extratone@tilde.town
+- [Siri Shortcuts and More for Tot](drafts://open?uuid=9DAFE8FC-3655-4FBD-BA16-7439BAC109FA)
 
-cd public\_html && ls
+- [Notes-Siri Shortcuts and More for Tot](drafts://open?uuid=E6D127B8-B5CE-45F5-8D6A-0BC5CE12A149)
+- 
 
-zsh --emulate sh
-
-/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -f /Applications/Safari.app
-
-<textexpander://textexpander>
-
-#1c0021
-
-extratone.vivaldi.net
- 
-neocities upload -d capture \*.png
-
-networkquality
-
-/usr/local/bin/speedtest-cli --share --json
-
-sips -s format png icon\_file.icns --out png\_file.png
-
-for i in \*.icns; do sips -s format png -s "${i}" --out “${i%icns}png”; done
-
-for i in \*.icns; do sips -s format png -s formatOptions 70 "${i}" --out “${i%icns}png”; done
-
-shortcuts sign --mode anyone --input “\*.shortcut" --output “\*signed.shortcut"
-
-for i in \*.shortcut; do shortcuts sign --mode anyone --input "${i}" --output ${isigned%shortcut}shortcut; done
-
-for i in \*.m4r; do ffmpeg -i "$i" "${i%.\*}.mp3"; done
-
-file%3A///Users/blue/Library/Application%20Support/BBEdit/BBEdit%20User%20Manual%20(14.1.1).pdf
-
-file:///Users/blue/Library/Application%20Support/BBEdit/BBEdit%20User%20Manual%20(14.1.1).pdf
+**Tot Shortcuts Ideas**
+- Finish Tot ↓ Drafts
+- 50-100 Most Recent Drafts List

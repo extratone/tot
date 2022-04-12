@@ -1,14 +1,12 @@
 **_Constraints can be powerful._**
 T       O       T               L       E       A       R       N    
 
-[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - [DraftsKeys Update](shortcuts://run-shortcut?name=DraftsKeys%20Update) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - [Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames) - [sl](shortcuts://run-shortcut?name=sl) - [rss](shortcuts://run-shortcut?name=rss) - [New Repo](https://github.com/extratone/latte/generate) - [notifications](shortcuts://run-shortcut?name=notifications)
+[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - [DraftsKeys Update](shortcuts://run-shortcut?name=DraftsKeys%20Update) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - [Tot Git iOS](shortcuts://run-shortcut?name=Tot%20Git%20iOS) - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard)
 
 [symbol](shortcuts://run-shortcut?name=symbol)
 
-[cc](shortcuts://run-shortcut?name=cc)
-[hide](shortcuts://run-shortcut?name=hide)
 [RoutinePub](shortcuts://run-shortcut?name=RoutinePub)
-[Shortcut Source Tool](shortcuts://run-shortcut?name=Shortcut%20Source%20Tool)
+[Shortcut Source](shortcuts://run-shortcut?name=Shortcut%20Source%20Tool)
 [Action Directory](shortcuts://run-shortcut?name=Action%20Directory)
 
 [RoutineHub - Create Shortcut](https://routinehub.co/shortcut/create)
@@ -16,8 +14,9 @@ T       O       T               L       E       A       R       N
 [New Issue in i Repo](https://github.com/extratone/i/issues/new/choose)
 
 **Drafts Instrument Panel**
-[T E S T I N G](drafts://open?uuid=EEB5C0F0-48B4-45AF-A8A7-4FCE5DDCBE03)
 _[Master Index](https://tilde.town/~extratone/drafts/big/)_
+
+**[Automation April](drafts://open?uuid=114E449F-7518-4158-87EB-C817F633FBF2)**
 
 _Drafts_
 - [End User Episode 9](drafts://open?uuid=69EA3CC6-7081-47B4-B4AB-C16E5C7E8417)
@@ -41,7 +40,7 @@ _Notes_
 - [Remark.as Integration](drafts://open?uuid=B0C95CA5-E5DE-4478-9C09-1E30499438CE)
 - [Notes-Threema](drafts://open?uuid=994F9F9A-A333-43AA-AB54-0E9485025009)
 
-_Social/Family_
+_Social/Family/Support_
 - [Suggestions/Requests for a WebDAV (NeoCities, in my case) Action Group](https://forums.getdrafts.com/t/suggestions-requests-for-a-webdav-neocities-in-my-case-action-group/11994)
 - [RainDrop Import](https://app.raindrop.io/settings/import)
 - [Automating Write.as Posts on macOS with Siri Shortcuts calling the Writeas CLI - Development / Platform - Discuss Write.as](https://discuss.write.as/t/automating-write-as-posts-on-macos-with-siri-shortcuts-calling-the-writeas-cli/4484)
@@ -50,10 +49,17 @@ _Social/Family_
 - [Underdocumented iOS Manuevers Thread](https://www.reddit.com/r/ios/comments/l5p7ly/underdocumented_ios_functions_stuff_you_wish/)
 - [Recommended Apps](drafts://open?uuid=C11B9C28-5584-414B-8C22-D0ACFCA339D0)
 - [Tilde Guide Tweet](https://twitter.com/NeoYokel/status/1503187276444098560)
-- [about - The Tilde Whirl Podcast](http://tilde.town/~dozens/podcast/about.html)
+- [Automation April](drafts://open?uuid=114E449F-7518-4158-87EB-C817F633FBF2)
+- [Introducing Automation April  A Month-Long Community Event About Automation, Featuring Shortcuts, Interviews, Discord Workshops, and a Shortcut Contest](drafts://open?uuid=ECDF27E4-A224-4A9C-BDCD-3B3F9CA8B927)
+- [Mattcito Help-MacStories Discord](drafts://open?uuid=424FFFE3-0335-4398-8588-A9149CD0A208)
+- [Drafts Cult Telegram Group](drafts://open?uuid=388B2827-47FA-4F26-8467-F4DED3805E4D)
+- [I have too many drafts to handle!-Drafts Forums](drafts://open?uuid=B1E83A7F-9C31-4881-B608-FA1E12D3B17D)
+- [Out & About Speedtest Thread](https://twitter.com/neoyokel/status/1501949196957589506)
 
 _Documentation_
- [Siri Shortcuts for Telegram](drafts://open?uuid=3260C6BA-1CA8-4ADB-9888-98601FADD82F)
+- [Taio Image Uploader and Snap.as](drafts://open?uuid=DD9A7373-F763-4B84-853C-6964F4F3B39D)
+- [Distributed Index](drafts://open?uuid=2BE147C7-D5E2-41E0-91B1-F65EBEFAA81A)
+- [Siri Shortcuts for Telegram](drafts://open?uuid=3260C6BA-1CA8-4ADB-9888-98601FADD82F)
 - **[David Blue’s RoutineHub Library](drafts://open?uuid=2145B3D6-2DE4-43E9-A305-3C879D7027DD)**
 - [Scrubs Shortcuts Library](drafts://open?uuid=68F049EC-59AF-4A49-885F-698BB9653400)
 - [Highlights](drafts://open?uuid=98CAEC13-3E7B-425C-B389-E5E0BC06E935)
@@ -64,8 +70,14 @@ _Documentation_
 - [Shortcuts x-callback URLs](drafts://open?uuid=B47A3F69-12B7-4EA7-BBFA-ABB0FFBABCB8)
 - [David Blue’s Drafts Action Directory Contributions](drafts://open?uuid=C70FF15A-5B48-407C-9587-0DC4E9536102)
 - [TextExpander Snippet Groups](drafts://open?uuid=00ED31D1-18B9-4A61-ADF9-3128DD0C2688)
-- [ttm.sh Shortcut](drafts://open?uuid=117111D9-A508-46F3-BB14-FC999568113A)
+- [WordCloudjs API](https://github.com/timdream/wordcloud2.js/blob/gh-pages/API.md)
+- [internetarchive CLI Docs](bear://x-callback-url/open-note?id=2A87D668-F2F8-4634-93FC-194EA2393D03-35818-0000034E74468AE3)
+- [On My Mind Action Group by FlohGro](drafts://open?uuid=C90B70B3-A594-4736-86B2-E4F1924D3096)
+- [WTF Redirection](drafts://open?uuid=218F8FAA-C0B9-4B4F-B896-3089E005E86E)
 
 [New Draft with Clipboard](drafts://x-callback-url/create?text=%7C%7Cclipboard%7C%7C)
 
 [Keyboard Shortcuts Export](drafts://runAction?test=&action=Keyboard%20Shortcuts%20Export)
+
+_!!!_
+- [Neil Harrison Rave Library: 1990s Rave Mixes : Free Audio : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/neilharrisonravelibrary)

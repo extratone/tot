@@ -13,14 +13,11 @@ _[BearTest](bear://x-callback-url/open-note?id=E2DE96E8-7C98-4403-AD5B-586C2048F
 - [On Drafts and Obsidian](bear://x-callback-url/open-note?id=1370F643-9CD2-4B55-8C06-61A596AFA4C0-596-0000000E21830D7A) (Bear)
 - [How to Fuck Text](bear://x-callback-url/open-note?id=9F12813D-74E7-498B-8CC4-1B23DB6B33C7-20824-000024D69F569FB9)
 - [iPad Diaries: Working with Drag and Drop – Bear and Gladys](bear://x-callback-url/open-note?id=F5F74BDA-3884-4376-9538-0CDDDAE5E1A9-20824-000024AC62301A7C)
-- [Why I’m Considering Bear as a Notes App Replacement](bear://x-callback-url/open-note?id=ADA46854-09EE-479E-BC4E-ADD5604A62D5-20824-000024A929A0E1A7)
-- 
+- [Why I’m Considering Bear as a Notes App Replacement
+-](bear://x-callback-url/open-note?id=ADA46854-09EE-479E-BC4E-ADD5604A62D5-20824-000024A929A0E1A7) 
 
-  **“keys”** | 03202022-073249 
+- [Solar Witch](https://witch.solar)
+- Tilde friend reminded me about [Low Tech Magazine](https://solar.lowtechmagazine.com). it’s been years!! how did I lose this bookmark‽‽‽
 
-
-Noir Support
-
-Open Dictionary for me
-
-x-help-action://openApp?bundleId=com.apple.Dictionary
+**Creative Wellness**
+- Gran Turismo Sounds

@@ -54,6 +54,7 @@ _Social/Family/Support_
 - [Mattcito Help-MacStories Discord](drafts://open?uuid=424FFFE3-0335-4398-8588-A9149CD0A208)
 - [Drafts Cult Telegram Group](drafts://open?uuid=388B2827-47FA-4F26-8467-F4DED3805E4D)
 - [I have too many drafts to handle!-Drafts Forums](drafts://open?uuid=B1E83A7F-9C31-4881-B608-FA1E12D3B17D)
+- [Out & About Speedtest Thread](https://twitter.com/neoyokel/status/1501949196957589506)
 
 _Documentation_
 - [Taio Image Uploader and Snap.as](drafts://open?uuid=DD9A7373-F763-4B84-853C-6964F4F3B39D)
@@ -79,7 +80,8 @@ _Documentation_
 [Keyboard Shortcuts Export](drafts://runAction?test=&action=Keyboard%20Shortcuts%20Export)
 
 _!!!_
-- [Neil Harrison Rave Library: 1990s Rave Mixes : Free Audio : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/neilharrisonravelibrary)---**Tot Keys**
+- [Neil Harrison Rave Library: 1990s Rave Mixes : Free Audio : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/neilharrisonravelibrary)
+**Tot Keys**
 - **⌘/** = Show/Hide Status Bar
 - **⇧⌘T** = Switch to Plain Text View
 - **⌘,** = Preferences
@@ -138,66 +140,31 @@ _!!!_
 
 <https://web.archive.org/web/*/https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334>
 
----**Tot Keys**
-- **⌘/** = Show/Hide Status Bar
-- **⇧⌘T** = Switch to Plain Text View
-- **⌘,** = Preferences
-- **⌘⌥,** = Theme Preferences
-- **⌘⌥⇦⇨** = Tot Switch
-- **⌘0** = Empty Tot
-- **⇧⌘S** = Save File
-- **⌘S** = Save Version
-- **⌥⌘S** = Save Backup
-- **⌥⌘R** = Restore Backup
 
-**Todo**
-- [Write.as Siri Shortcuts](drafts://open?uuid=C616958C-BFDE-4B6C-A7E9-05CBAF394E08)
-- [Generate Shortcuts x-callback Links (macOS)](drafts://open?uuid=400D3AE6-CBA9-4272-B681-92B9131ED7B3)
-- WhatCMS API tools
-- AppWishIDs
-- Batch rename image files by sampling from an Extract Text from Image Action, intelligently truncated.
-- Post to Write.as Blog (iOS) - with a-Shell?
-- Taio & Drafts Integration with [URL Schemes](https://docs.taio.app/#/integration/url-schemes)
-- Drafts Themes inspired by [Mineshaft Gold](https://t.me/addtheme/mineshaftgold2022) and [Japan Serenity](https://t.me/addtheme/japanserenity2022)
-- Big Complex [iOS System Sounds](https://github.com/extratone/iOSSystemSounds) shortcut
-- SSH with Working Copy
-- Learning to use the Snap.as CLI/Snap.as Siri Shortcuts
-- Shortcuts Horn Buttons
-- Bear links to Tot?
-- Figure out Zalgo Shortcuts
-- Figure out how GitHub Wikis actually work and organize [The Psalms’ Wiki](https://github.com/extratone/bilge/wiki)
-- WriteFreely community Telegram Group?
-- Learn [Paste Stacks](https://pasteapp.io/help/paste-stack-51)
-- Update [NeoCities Homepage Text](drafts://open?uuid=D1E2EEA4-95BC-4837-BE96-387BC11E0037)
-- LookUp Collection ⇨ Spoken Audio File
-- [Submit to](https://www.earratmag.com/p/submissions.html) _[Ear Rat](https://www.earratmag.com/p/submissions.html)_[’s 90s Issue by March 31st](https://www.earratmag.com/p/submissions.html)
-- A Safari Extension for iOS that cleans links
-- Bear Siri Shortcuts
-- Bear Keyboard Shortcuts
-- Bear URL Schemes
-- More extensive Panda testing?
-- Services/Shortcuts in macOS
-- New Draft with current Safari tab links function on iOS via Shortcuts
-⌦ ⌦ ⌦ ⌦ 
+_No highs? 
+No lows?
+It must be Bose!_
 
-**Reading**
-- [Toolbox Pro Review: A Must-Have Companion Utility for Shortcuts Power Users](https://www.macstories.net/reviews/toolbox-pro-review-a-must-have-companion-utility-for-shortcuts-power-users/)
-- [Drafts 15 Review: Multiwindow, Shortcuts, and More](https://www.macstories.net/reviews/drafts-15-review-multiwindow-shortcuts-and-more/)
-- “[Automating iOS: A Comprehensive Guide to URL Schemes and Drafts Actions](drafts://open?uuid=A944CF95-DE24-47AA-BC50-CB03E1A20396)”
-- [Best way to learn regular expressions : shortcuts](https://www.reddit.com/r/shortcuts/comments/tv4o6b/tip_best_way_to_learn_regular_expressions/)
+[TWIT JUT](https://botsin.space/@commandandcontrol/107686912492769882)
 
+[UNDER A FULL PROCUREMENT MOON.](https://twitter.com/tomcritchlowBOT/status/1488829725606924291)
 
-**Tools**
-- [ColorHound](http://colorhound.net)
-- [HTML HOUSE](https://html.house)
+**Bear Trial**
 
-[Silicon Valley Buzz: Apple Paid More Than $200 Million For Siri To Get Into Mobile Search | TechCrunch](https://techcrunch.com/2010/04/28/apple-siri-200-million/)
+_[BearTest](bear://x-callback-url/open-note?id=E2DE96E8-7C98-4403-AD5B-586C2048FFC5-52345-000061152F43AC38)_ - [Bear Test II](bear://x-callback-url/open-note?id=E2DE96E8-7C98-4403-AD5B-586C2048FFC5-52345-000061152F43AC38&title=Testing&header=Test%20Header&exclude_trashed=no&new_window=yes&open_note=yes&pin=yes&edit=yes)
 
-<https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334>
+- [On Drafts and Obsidian](bear://x-callback-url/open-note?id=1370F643-9CD2-4B55-8C06-61A596AFA4C0-596-0000000E21830D7A) (Bear)
+- [How to Fuck Text](bear://x-callback-url/open-note?id=9F12813D-74E7-498B-8CC4-1B23DB6B33C7-20824-000024D69F569FB9)
+- [iPad Diaries: Working with Drag and Drop – Bear and Gladys](bear://x-callback-url/open-note?id=F5F74BDA-3884-4376-9538-0CDDDAE5E1A9-20824-000024AC62301A7C)
+- [Why I’m Considering Bear as a Notes App Replacement
+-](bear://x-callback-url/open-note?id=ADA46854-09EE-479E-BC4E-ADD5604A62D5-20824-000024A929A0E1A7) 
 
-<https://web.archive.org/web/*/https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334>
+- [Solar Witch](https://witch.solar)
+- Tilde friend reminded me about [Low Tech Magazine](https://solar.lowtechmagazine.com). it’s been years!! how did I lose this bookmark‽‽‽
 
----**Siri Shortcuts for Tot**
+**Creative Wellness**
+- Gran Turismo Sounds
+**Siri Shortcuts for Tot**
 
 _RoutineHub_
 - [RoutineHub • Tot Jar](https://routinehub.co/shortcut/11456/)
@@ -239,7 +206,8 @@ _Drafts_
 
 **Tot Shortcuts Ideas**
 - Finish Tot ↓ Drafts
-- 50-100 Most Recent Drafts List---[Hot Tot Dot Swap](shortcuts://run-shortcut?name=Hot%20Tot%20Dot%20Swap)
+- 50-100 Most Recent Drafts List
+[Hot Tot Dot Swap](shortcuts://run-shortcut?name=Hot%20Tot%20Dot%20Swap)
 
 
 
@@ -324,7 +292,8 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Query Snap.as Library Shortcut](drafts://open?uuid=A86CAE9C-8F0A-435C-A659-51E2EF92255C)
 - [Taio Image Uploader and Snap.as](drafts://open?uuid=DD9A7373-F763-4B84-853C-6964F4F3B39D)
 
-- [Gran Turismo 7 Playlist](drafts://open?uuid=557AD418-F946-495D-93F3-7A7B07E5E56E)---**qURL Schemes Learning**
+- [Gran Turismo 7 Playlist](drafts://open?uuid=557AD418-F946-495D-93F3-7A7B07E5E56E)
+**qURL Schemes Learning**
 
 _Links_
 - [Drafts](https://docs.getdrafts.com/docs/automation/urlschemes)
@@ -366,7 +335,8 @@ _Links_
 - [David Blue‘s Drafts Configs](drafts://open?uuid=38A942A2-33C4-4630-9CDE-B005989F4E3A)
 - 
 
----**[Dark and Light Shortcuts pair.](x-apple-reminderkit://REMCDReminder/4EEEFAAA-88AB-4925-BD37-F9D8D9BF4D4C)**
+
+**[Dark and Light Shortcuts pair.](x-apple-reminderkit://REMCDReminder/4EEEFAAA-88AB-4925-BD37-F9D8D9BF4D4C)**
 `Todoist
 Family`
 [Link]()
