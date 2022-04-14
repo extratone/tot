@@ -1,7 +1,7 @@
 **_Constraints can be powerful._**
 T       O       T               L       E       A       R       N    
 
-[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - [DraftsKeys Update](shortcuts://run-shortcut?name=DraftsKeys%20Update) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard)
+[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) [-](tg://resolve?domain=raindropiobot) [tgrainbot](tg://resolve?domain=raindropiobot) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - _[DraftsKeysUpdate](shortcuts://run-shortcut?name=DraftsKeysUpdate)_ - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard)
 
 [symbol](shortcuts://run-shortcut?name=symbol)
 
@@ -121,6 +121,7 @@ _!!!_
 - More extensive Panda testing?
 - Services/Shortcuts in macOS
 - New Draft with current Safari tab links function on iOS via Shortcuts
+- Siri Shortcuts based on the [Tumblr API](https://www.tumblr.com/docs/en/api/v2)
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
@@ -305,6 +306,21 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Drafts Raindrop Collection](drafts://open?uuid=8B5A2F0A-5FCE-4A8F-817B-AB61C7019C86)
 
 - [Current Draft Info Action](drafts://open?uuid=BBFDC458-1049-4FA3-A506-DE6C397B4C63)
+
+- [Twitter Muted Words](drafts://open?uuid=B5A34BE2-DE76-4B3E-B5D5-4D3620519218)
+
+- [Drafts Keyboard Shortcuts (iOS Export)](drafts://open?uuid=880E8C09-09D6-4712-B33F-D0D1630DDC3C)
+
+- [Drafts Keyboard Shortcuts](drafts://open?uuid=F55AB610-D9F9-49D1-9C20-1CF6063DF03E)
+
+- [Gap 1997 (Cassette Rip)](drafts://open?uuid=14774725-923B-4C82-8947-28CA651C838B)
+- [Mac Menu Bar Shortcuts](drafts://open?uuid=68489605-5A2E-4250-8B8C-EC651CAEA449)
+
+- [Mac Menu Bar Shortcuts](drafts://open?uuid=68489605-5A2E-4250-8B8C-EC651CAEA449)
+
+- [BBEdit Learning](drafts://open?uuid=816D6041-B902-4E3D-9441-39D77C3748BC)
+
+- [Drafts Twitter List](drafts://open?uuid=355A0209-6184-4FA5-B33D-F70AE50867B1)
 **qURL Schemes Learning**
 
 _Links_
@@ -356,6 +372,10 @@ Created: Dec 7, 2021 at 22:44
 Due: 
 
 
+The Nineties - Chuck Klosterman (Excerpt)
+#reading #$
+ The Nineties began on January 1 of 1990, except for the fact that of course they did not. Decades are about cultural perception, and culture can’t read a clock. The 1950s started in the 1940s. The sixties began when John Kennedy demanded we go to the moon in ’62 and ended with the shootings at Kent State in May of 1970. The seventies were conceived the morning after Altamont in 1969 and expired during the opening credits of American Gigolo, which means there were five months when the sixties and the seventies were happening at the same time. It felt like the eighties might live forever when the Berlin Wall fell in November of ’89, but that was actually the onset of the euthanasia (though it took another two years for the patient to die).  When writing about recent history, the inclination is to claim whatever we think about the past is secretly backward. “Most Americans regard the Seventies as an eminently forgettable decade,” historian Bruce J. Schulman writes in his book The Seventies. “This impression could hardly be more wrong.” In the opening sentence of The Fifties, journalist David Halberstam notes how the 1950s are inevitably recalled as a series of black-and-white photographs, in contrast to how the sixties were captured as moving images in living color. This, he argued, perpetuates the illusionary memory of the fifties being “slower, almost languid.” There’s always a disconnect between the world we seem to remember and the world that actually was. What’s complicated about the 1990s is that the central illusion is memory itself.
+[The Nineties by Chuck Klosterman: 9780735217959](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman/)
 
 **[Music Quiz Siri Shortcut](x-apple-reminderkit://REMCDReminder/AF1796EF-ED39-4E56-970E-7C328EC17659)**
 `Family
@@ -530,7 +550,7 @@ Created: Sep 27, 2021 at 16:25
 Due: 
 
 ```
-<script async src="<<<<https://telegram.org/js/telegram-widget.js?15>>>>" data-telegram-post="uikeycommand/6" data-width="100%" data-color="DA2573" data-dark="1"></script>
+<script async src="<<<<<https://telegram.org/js/telegram-widget.js?15>>>>>" data-telegram-post="uikeycommand/6" data-width="100%" data-color="DA2573" data-dark="1"></script>
 ```
 
 **[Keyboard shortcuts + quick jumps | Voters | Raindrop.io](x-apple-reminderkit://REMCDReminder/23987143-AD9F-4551-B746-A7321EAED17B)**
@@ -1032,10 +1052,10 @@ long1950-5G
 - [List .md Drafts Open Links by Tag Shortcut](drafts://open?uuid=0E0613E7-9C1F-48DE-8AF8-ABA5E9619066)
 - [Index Drafts Workspace Shortcut](drafts://open?uuid=BF7242C0-6E4E-4BD8-B01C-110A5F2BC26A)
 - [Index by Tag with Drafts Open Links via Siri Shortcuts](drafts://open?uuid=225ED750-53C3-455C-9CAD-6CEBA0184ACC)
-- [[[w:keys]] Index  - [[[[[03832022-144011](tel:03832022-144011)](<tel:03832022-144011>)](<tel:03832022-144011>)](<tel:03832022-144011>)](<tel:03832022-144011>)](<drafts://open?uuid=C9DEA2D3-DD7E-424D-A284-FA6513B5BE2F>)
-- [[[w:correspondence]] Index  - [[[[[03832022-142351](tel:03832022-142351)](<tel:03832022-142351>)](<tel:03832022-142351>)](<tel:03832022-142351>)](<tel:03832022-142351>)](<drafts://open?uuid=D3E7A55F-91F0-41AF-88F6-59A233AA1E80>)
+- [[[w:keys]] Index  - [[[[[[03832022-144011](tel:03832022-144011)](<tel:03832022-144011>)](<tel:03832022-144011>)](<tel:03832022-144011>)](<tel:03832022-144011>)](<tel:03832022-144011>)](<drafts://open?uuid=C9DEA2D3-DD7E-424D-A284-FA6513B5BE2F>)
+- [[[w:correspondence]] Index  - [[[[[[03832022-142351](tel:03832022-142351)](<tel:03832022-142351>)](<tel:03832022-142351>)](<tel:03832022-142351>)](<tel:03832022-142351>)](<tel:03832022-142351>)](<drafts://open?uuid=D3E7A55F-91F0-41AF-88F6-59A233AA1E80>)
 - [Vocabulary Index](drafts://open?uuid=F6B952AF-A7F8-4B2D-B310-8800099CF282)
-- [[[w:Dev]] Index  - [[[[[03832022-140156](tel:03832022-140156)](<tel:03832022-140156>)](<tel:03832022-140156>)](<tel:03832022-140156>)](<tel:03832022-140156>)](<drafts://open?uuid=782F9576-D3B3-42CE-AAEB-00F2327EFAB1>)
+- [[[w:Dev]] Index  - [[[[[[03832022-140156](tel:03832022-140156)](<tel:03832022-140156>)](<tel:03832022-140156>)](<tel:03832022-140156>)](<tel:03832022-140156>)](<tel:03832022-140156>)](<drafts://open?uuid=782F9576-D3B3-42CE-AAEB-00F2327EFAB1>)
 - [placate](drafts://open?uuid=53543872-FBA2-4874-BE01-3D0243733507)
 - [Shortcuts Actions are coming to Tot](drafts://open?uuid=DE4A4195-9D96-4CF0-922A-DB642CB6838F)
 - [Drafts Autocompletes](drafts://open?uuid=D7135FD0-C2C5-4AB4-B0DD-DAAE7E70BA64)
@@ -1191,7 +1211,7 @@ Updated `04022022-163836`
 <html>
    <head>
       <title>Consultation</title>
-      <meta http-equiv = “refresh” content = “0; url = <<<<<https://fantastical.app/davidblue/general-consultation>>>>>” />
+      <meta http-equiv = “refresh” content = “0; url = <<<<<<https://fantastical.app/davidblue/general-consultation>>>>>>” />
    </head>
    <body>
    </body>
@@ -1230,7 +1250,7 @@ Updated `04022022-163836`
 - [ ] How easy it was to [repair the TAD issue](<https://forums.getdrafts.com/t/script-error-syntaxerror-json-parse-error-unexpected-identifier-drafts-line-number-53-column-35/12187>).
 - [ ] Posting to WordPress/Medium with a single step.
 - [ ] [Taio](https://apps.apple.com/us/app/taio-markdown-text-actions/id1527036273) is perhaps even more redundant in regards to Drafts, but establishing its own identity.
-- [ ] [Actions for Obsidian in the Action Directory]([[https://actions.getdrafts.com/search?utf8=✓&q=obsidian](https://actions.getdrafts.com/search?utf8=%E2%9C%93&q=obsidian)](<https://actions.getdrafts.com/search?utf8=%E2%9C%93&q=obsidian>)).
+- [ ] [Actions for Obsidian in the Action Directory]([[[https://actions.getdrafts.com/search?utf8=✓&q=obsidian](https://actions.getdrafts.com/search?utf8=%E2%9C%93&q=obsidian)](<https://actions.getdrafts.com/search?utf8=%E2%9C%93&q=obsidian>)](<https://actions.getdrafts.com/search?utf8=%E2%9C%93&q=obsidian>)).
 - [ ] Drafts’ absurdly high rating in the App Store.
 - [ ] [Live preview update - Obsidian Help](https://help.obsidian.md/Live+preview+update)
 - [ ] [Folding Text / Collapsable Headers - Feature Requests - Drafts Community](https://forums.getdrafts.com/t/folding-text-collapsable-headers/1034) - it looks like I may be one of few Drafts users who is _uninterested_ in folding headers. In the several implementations I’ve tried them over the years, they tend to just confuse me / get me lost. 
@@ -1298,11 +1318,11 @@ Updated `04022022-163836`
 - [Everything You Need to Know about Obsidian Sync - YouTube](https://youtube.com/watch?v=XC40RgvH1D4)
 - [Terminology Integration](https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV)
 <video controls>
-  <source src="<<https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV>>">
+  <source src="<<<https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV>>>">
 </video>
 - [Arrange Mode Demo](https://imgur.com/gallery/6NdIiVJ)
 <video controls>
-  <source src="<<https://user-images.githubusercontent.com/43663476/155023319-c031aa8c-706e-442c-a5a6-59d0adf95e03.MOV>>">
+  <source src="<<<https://user-images.githubusercontent.com/43663476/155023319-c031aa8c-706e-442c-a5a6-59d0adf95e03.MOV>>>">
 </video>
 
 ## References

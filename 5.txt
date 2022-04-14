@@ -96,3 +96,18 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Drafts Raindrop Collection](drafts://open?uuid=8B5A2F0A-5FCE-4A8F-817B-AB61C7019C86)
 
 - [Current Draft Info Action](drafts://open?uuid=BBFDC458-1049-4FA3-A506-DE6C397B4C63)
+
+- [Twitter Muted Words](drafts://open?uuid=B5A34BE2-DE76-4B3E-B5D5-4D3620519218)
+
+- [Drafts Keyboard Shortcuts (iOS Export)](drafts://open?uuid=880E8C09-09D6-4712-B33F-D0D1630DDC3C)
+
+- [Drafts Keyboard Shortcuts](drafts://open?uuid=F55AB610-D9F9-49D1-9C20-1CF6063DF03E)
+
+- [Gap 1997 (Cassette Rip)](drafts://open?uuid=14774725-923B-4C82-8947-28CA651C838B)
+- [Mac Menu Bar Shortcuts](drafts://open?uuid=68489605-5A2E-4250-8B8C-EC651CAEA449)
+
+- [Mac Menu Bar Shortcuts](drafts://open?uuid=68489605-5A2E-4250-8B8C-EC651CAEA449)
+
+- [BBEdit Learning](drafts://open?uuid=816D6041-B902-4E3D-9441-39D77C3748BC)
+
+- [Drafts Twitter List](drafts://open?uuid=355A0209-6184-4FA5-B33D-F70AE50867B1)
