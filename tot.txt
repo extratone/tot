@@ -8,7 +8,7 @@ T       O       T               L       E       A       R       N
 [RoutinePub](shortcuts://run-shortcut?name=RoutinePub)
 [Shortcut Source](shortcuts://run-shortcut?name=Shortcut%20Source%20Tool)
 [Action Directory](shortcuts://run-shortcut?name=Action%20Directory)
-
+[iOSSystemSounds](https://extratone.github.io/iOSSystemSounds)
 [RoutineHub - Create Shortcut](https://routinehub.co/shortcut/create)
 
 [New Issue in i Repo](https://github.com/extratone/i/issues/new/choose)
@@ -122,6 +122,7 @@ _!!!_
 - Services/Shortcuts in macOS
 - New Draft with current Safari tab links function on iOS via Shortcuts
 - Siri Shortcuts based on the [Tumblr API](https://www.tumblr.com/docs/en/api/v2)
+- **Doubling the WebDAV action steps fixes everything???**
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
@@ -303,7 +304,11 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Mac Menu Bar Shortcuts](drafts://open?uuid=68489605-5A2E-4250-8B8C-EC651CAEA449)
 - [Mac Menu Bar Shortcuts](drafts://open?uuid=68489605-5A2E-4250-8B8C-EC651CAEA449)
 - [BBEdit Learning](drafts://open?uuid=816D6041-B902-4E3D-9441-39D77C3748BC)
-- [Drafts Twitter List](drafts://open?uuid=355A0209-6184-4FA5-B33D-F70AE50867B1)---**qURL Schemes Learning**
+- [Drafts Twitter List](drafts://open?uuid=355A0209-6184-4FA5-B33D-F70AE50867B1)
+
+- [iOS System Sounds (WTF) Index](drafts://open?uuid=930C8B20-5C2F-4ECC-A311-4DFBF609AFD8)
+
+- [macOS System Sounds Index](drafts://open?uuid=55B87318-A881-491D-8285-6D68456A144A)---**qURL Schemes Learning**
 
 _Links_
 - [Drafts](https://docs.getdrafts.com/docs/automation/urlschemes)
@@ -365,13 +370,12 @@ _Links_
 - [Mac Menu Bar Shortcuts](drafts://open?uuid=68489605-5A2E-4250-8B8C-EC651CAEA449)
 - [Mac Menu Bar Shortcuts](drafts://open?uuid=68489605-5A2E-4250-8B8C-EC651CAEA449)
 - [BBEdit Learning](drafts://open?uuid=816D6041-B902-4E3D-9441-39D77C3748BC)
-- [Drafts Twitter List](drafts://open?uuid=355A0209-6184-4FA5-B33D-F70AE50867B1)---**[Dark and Light Shortcuts pair.](x-apple-reminderkit://REMCDReminder/4EEEFAAA-88AB-4925-BD37-F9D8D9BF4D4C)**
-`Todoist
-Family`
-[Link]()
-Created: Dec 7, 2021 at 22:44
-Due: 
+- [Drafts Twitter List](drafts://open?uuid=355A0209-6184-4FA5-B33D-F70AE50867B1)---**_[Drafts Twitter List](drafts://open?uuid=355A0209-6184-4FA5-B33D-F70AE50867B1)_**
 
+- [Tim Nahumck](https://twitter.com/nahumck)
+- [Drafts](https://twitter.com/draftsapp)
+- [Greg Pierce](https://twitter.com/agiletortoise)
+- [Brett Terpstra is fully microchipped](https://twitter.com/ttscoff)
 
 The Nineties - Chuck Klosterman (Excerpt)
 #reading #$
@@ -810,7 +814,7 @@ Due:
 - [iOS 15’s Last Bullets](drafts://open?uuid=8757F54B-420D-491C-BCD2-A33FFD6F99F3)
 - [Drafts 28 Bluetooth Keyboard Considerations](drafts://open?uuid=F74B3E82-8A13-445D-B0DD-0EF2ED52773E)
 - [Drafts 28.0 Release Notes](drafts://open?uuid=A7AA40AC-664F-49ED-9381-D6ABEB1C6681)
-- [Embed <audio> Element:](drafts://open?uuid=E3D8E967-1822-4D60-8CC0-BCA31A1861F4) [⇧⌃A](drafts://open?uuid=E3D8E967-1822-4D60-8CC0-BCA31A1861F4)
+- [Embed <audio> Element:](drafts://open?uuid=E3D8E967-1822-4D60-8CC0-BCA31A1861F4) [⇧⌃](drafts://open?uuid=E3D8E967-1822-4D60-8CC0-BCA31A1861F4)[A](drafts://open?uuid=E3D8E967-1822-4D60-8CC0-BCA31A1861F4)
 - [NOTES: Underdocumented Maneuvers in iOS](drafts://open?uuid=464F92D4-5A63-4447-BBF7-CB1B0D885568)
 - [Twitter Thread:](drafts://open?uuid=101762F8-538A-454D-9049-F6E391483EC7)
 - [Shortcuts User Group Transcript](drafts://open?uuid=7FD1C728-9A20-4993-8D35-C1837A49BC62)
