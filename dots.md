@@ -11,7 +11,10 @@ T       O       T               L       E       A       R       N
 [iOSSystemSounds](https://extratone.github.io/iOSSystemSounds)
 [RoutineHub - Create Shortcut](https://routinehub.co/shortcut/create)
 
-[New Issue in i Repo](https://github.com/extratone/i/issues/new/choose)
+_New Issues_
+- [i](https://github.com/extratone/i/issues/new/choose)
+- [bilge](https://github.com/extratone/bilge/issues/new/choose)
+- [drafts](https://github.com/extratone/drafts/issues/new/choose)
 
 **Drafts Instrument Panel**
 _[Master Index](https://tilde.town/~extratone/drafts/big/)_
@@ -321,6 +324,12 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Titanic Day 2022](drafts://open?uuid=D26EEAE5-A1BB-4C51-8ECB-7CC2391136AC)
 
 - [tmo on Mobile Blogging](drafts://open?uuid=8902BB5A-4CB0-4CE0-BA95-D4A083DEE584)
+
+- [The Monsanto Redbubble Thing](drafts://open?uuid=4E8BDB6A-E703-40FB-9123-C033797CD038)
+
+- [NeoCities API](drafts://open?uuid=16C5D12C-162A-4AAA-AA4F-689DC7057B1E)
+
+- [Spy Kids 3 Spam (iOS) Shortcut Documentation](drafts://open?uuid=91AE0A80-CC72-4387-8545-96030CAD6338)
 **qURL Schemes Learning**
 
 _Links_
