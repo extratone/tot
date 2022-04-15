@@ -1,10 +1,9 @@
-**[Dark and Light Shortcuts pair.](x-apple-reminderkit://REMCDReminder/4EEEFAAA-88AB-4925-BD37-F9D8D9BF4D4C)**
-`Todoist
-Family`
-[Link]()
-Created: Dec 7, 2021 at 22:44
-Due: 
+**_[Drafts Twitter List](drafts://open?uuid=355A0209-6184-4FA5-B33D-F70AE50867B1)_**
 
+- [Tim Nahumck](https://twitter.com/nahumck)
+- [Drafts](https://twitter.com/draftsapp)
+- [Greg Pierce](https://twitter.com/agiletortoise)
+- [Brett Terpstra is fully microchipped](https://twitter.com/ttscoff)
 
 The Nineties - Chuck Klosterman (Excerpt)
 #reading #$
@@ -184,7 +183,7 @@ Created: Sep 27, 2021 at 16:25
 Due: 
 
 ```
-<script async src="<<<<<https://telegram.org/js/telegram-widget.js?15>>>>>" data-telegram-post="uikeycommand/6" data-width="100%" data-color="DA2573" data-dark="1"></script>
+<script async src="<<<<<<<https://telegram.org/js/telegram-widget.js?15>>>>>>>" data-telegram-post="uikeycommand/6" data-width="100%" data-color="DA2573" data-dark="1"></script>
 ```
 
 **[Keyboard shortcuts + quick jumps | Voters | Raindrop.io](x-apple-reminderkit://REMCDReminder/23987143-AD9F-4551-B746-A7321EAED17B)**
@@ -686,10 +685,10 @@ long1950-5G
 - [List .md Drafts Open Links by Tag Shortcut](drafts://open?uuid=0E0613E7-9C1F-48DE-8AF8-ABA5E9619066)
 - [Index Drafts Workspace Shortcut](drafts://open?uuid=BF7242C0-6E4E-4BD8-B01C-110A5F2BC26A)
 - [Index by Tag with Drafts Open Links via Siri Shortcuts](drafts://open?uuid=225ED750-53C3-455C-9CAD-6CEBA0184ACC)
-- [[[w:keys]] Index  - [[[[[[03832022-144011](tel:03832022-144011)](<tel:03832022-144011>)](<tel:03832022-144011>)](<tel:03832022-144011>)](<tel:03832022-144011>)](<tel:03832022-144011>)](<drafts://open?uuid=C9DEA2D3-DD7E-424D-A284-FA6513B5BE2F>)
-- [[[w:correspondence]] Index  - [[[[[[03832022-142351](tel:03832022-142351)](<tel:03832022-142351>)](<tel:03832022-142351>)](<tel:03832022-142351>)](<tel:03832022-142351>)](<tel:03832022-142351>)](<drafts://open?uuid=D3E7A55F-91F0-41AF-88F6-59A233AA1E80>)
+- [[[w:keys]] Index  - [[[[[[[[03832022-144011](tel:03832022-144011)](<tel:03832022-144011>)](<tel:03832022-144011>)](<tel:03832022-144011>)](<tel:03832022-144011>)](<tel:03832022-144011>)](<tel:03832022-144011>)](<tel:03832022-144011>)](<drafts://open?uuid=C9DEA2D3-DD7E-424D-A284-FA6513B5BE2F>)
+- [[[w:correspondence]] Index  - [[[[[[[[03832022-142351](tel:03832022-142351)](<tel:03832022-142351>)](<tel:03832022-142351>)](<tel:03832022-142351>)](<tel:03832022-142351>)](<tel:03832022-142351>)](<tel:03832022-142351>)](<tel:03832022-142351>)](<drafts://open?uuid=D3E7A55F-91F0-41AF-88F6-59A233AA1E80>)
 - [Vocabulary Index](drafts://open?uuid=F6B952AF-A7F8-4B2D-B310-8800099CF282)
-- [[[w:Dev]] Index  - [[[[[[03832022-140156](tel:03832022-140156)](<tel:03832022-140156>)](<tel:03832022-140156>)](<tel:03832022-140156>)](<tel:03832022-140156>)](<tel:03832022-140156>)](<drafts://open?uuid=782F9576-D3B3-42CE-AAEB-00F2327EFAB1>)
+- [[[w:Dev]] Index  - [[[[[[[[03832022-140156](tel:03832022-140156)](<tel:03832022-140156>)](<tel:03832022-140156>)](<tel:03832022-140156>)](<tel:03832022-140156>)](<tel:03832022-140156>)](<tel:03832022-140156>)](<tel:03832022-140156>)](<drafts://open?uuid=782F9576-D3B3-42CE-AAEB-00F2327EFAB1>)
 - [placate](drafts://open?uuid=53543872-FBA2-4874-BE01-3D0243733507)
 - [Shortcuts Actions are coming to Tot](drafts://open?uuid=DE4A4195-9D96-4CF0-922A-DB642CB6838F)
 - [Drafts Autocompletes](drafts://open?uuid=D7135FD0-C2C5-4AB4-B0DD-DAAE7E70BA64)
@@ -845,7 +844,7 @@ Updated `04022022-163836`
 <html>
    <head>
       <title>Consultation</title>
-      <meta http-equiv = “refresh” content = “0; url = <<<<<<https://fantastical.app/davidblue/general-consultation>>>>>>” />
+      <meta http-equiv = “refresh” content = “0; url = <<<<<<<<https://fantastical.app/davidblue/general-consultation>>>>>>>>” />
    </head>
    <body>
    </body>
@@ -884,7 +883,7 @@ Updated `04022022-163836`
 - [ ] How easy it was to [repair the TAD issue](<https://forums.getdrafts.com/t/script-error-syntaxerror-json-parse-error-unexpected-identifier-drafts-line-number-53-column-35/12187>).
 - [ ] Posting to WordPress/Medium with a single step.
 - [ ] [Taio](https://apps.apple.com/us/app/taio-markdown-text-actions/id1527036273) is perhaps even more redundant in regards to Drafts, but establishing its own identity.
-- [ ] [Actions for Obsidian in the Action Directory]([[[https://actions.getdrafts.com/search?utf8=✓&q=obsidian](https://actions.getdrafts.com/search?utf8=%E2%9C%93&q=obsidian)](<https://actions.getdrafts.com/search?utf8=%E2%9C%93&q=obsidian>)](<https://actions.getdrafts.com/search?utf8=%E2%9C%93&q=obsidian>)).
+- [ ] [Actions for Obsidian in the Action Directory]([[[[[https://actions.getdrafts.com/search?utf8=✓&q=obsidian](https://actions.getdrafts.com/search?utf8=%E2%9C%93&q=obsidian)](<https://actions.getdrafts.com/search?utf8=%E2%9C%93&q=obsidian>)](<https://actions.getdrafts.com/search?utf8=%E2%9C%93&q=obsidian>)](<https://actions.getdrafts.com/search?utf8=%E2%9C%93&q=obsidian>)](<https://actions.getdrafts.com/search?utf8=%E2%9C%93&q=obsidian>)).
 - [ ] Drafts’ absurdly high rating in the App Store.
 - [ ] [Live preview update - Obsidian Help](https://help.obsidian.md/Live+preview+update)
 - [ ] [Folding Text / Collapsable Headers - Feature Requests - Drafts Community](https://forums.getdrafts.com/t/folding-text-collapsable-headers/1034) - it looks like I may be one of few Drafts users who is _uninterested_ in folding headers. In the several implementations I’ve tried them over the years, they tend to just confuse me / get me lost. 
@@ -952,11 +951,11 @@ Updated `04022022-163836`
 - [Everything You Need to Know about Obsidian Sync - YouTube](https://youtube.com/watch?v=XC40RgvH1D4)
 - [Terminology Integration](https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV)
 <video controls>
-  <source src="<<<https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV>>>">
+  <source src="<<<<<https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV>>>>>">
 </video>
 - [Arrange Mode Demo](https://imgur.com/gallery/6NdIiVJ)
 <video controls>
-  <source src="<<<https://user-images.githubusercontent.com/43663476/155023319-c031aa8c-706e-442c-a5a6-59d0adf95e03.MOV>>>">
+  <source src="<<<<<https://user-images.githubusercontent.com/43663476/155023319-c031aa8c-706e-442c-a5a6-59d0adf95e03.MOV>>>>>">
 </video>
 
 ## References
