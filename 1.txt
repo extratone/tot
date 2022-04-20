@@ -59,6 +59,7 @@ _Social/Family/Support_
 - [I have too many drafts to handle!-Drafts Forums](drafts://open?uuid=B1E83A7F-9C31-4881-B608-FA1E12D3B17D)
 - [Out & About Speedtest Thread](https://twitter.com/neoyokel/status/1501949196957589506)
 - [How I Use Drafts - How Do You](drafts://open?uuid=7DA86FDD-E1B7-4EA4-91B2-689B37E10E25)
+- [Siri Shortcuts and the Suite’s APIs](drafts://open?uuid=A401E6D6-4C44-4E5D-A351-FC20E9EC3BAF)
 
 _Documentation_
 - **[Drafts Keyboard Shortcuts](drafts://open?uuid=F55AB610-D9F9-49D1-9C20-1CF6063DF03E)**

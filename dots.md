@@ -59,6 +59,7 @@ _Social/Family/Support_
 - [I have too many drafts to handle!-Drafts Forums](drafts://open?uuid=B1E83A7F-9C31-4881-B608-FA1E12D3B17D)
 - [Out & About Speedtest Thread](https://twitter.com/neoyokel/status/1501949196957589506)
 - [How I Use Drafts - How Do You](drafts://open?uuid=7DA86FDD-E1B7-4EA4-91B2-689B37E10E25)
+- [Siri Shortcuts and the Suite’s APIs](drafts://open?uuid=A401E6D6-4C44-4E5D-A351-FC20E9EC3BAF)
 
 _Documentation_
 - **[Drafts Keyboard Shortcuts](drafts://open?uuid=F55AB610-D9F9-49D1-9C20-1CF6063DF03E)**
@@ -334,6 +335,16 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Color Palettes Index](drafts://open?uuid=C3B499A6-2BA2-4EB7-8E48-5C8EB8A09A74)
 - [Drafts Universal Clacker Award](drafts://open?uuid=B8C70F5B-B7BE-4F55-BB08-AD563B05C3AC)
 - [How I Use Drafts - How Do You  (Feedback appreciated)](drafts://open?uuid=7DA86FDD-E1B7-4EA4-91B2-689B37E10E25)
+
+- [Drafts Workspace ⇨ Apple Notes Shortcut](drafts://open?uuid=C4161737-9D58-485E-B67A-C26D21B1C429)
+
+- [Facebook for iOS URL Scheme](drafts://open?uuid=50DAEBF2-2036-4CCD-80E3-F08A515683A6)
+
+- [Controlling Working Copy with URL schemes](drafts://open?uuid=77DC0B07-B5C8-447C-8B08-32A6EE80A89A)
+
+- [RoutineHub Discord Archive Index (WTF)](drafts://open?uuid=BA5A2CED-20C1-4FB3-AA69-91CEB7CB5660)
+
+- [BlinkThemes (WTF) Index](drafts://open?uuid=FE896F66-54DE-4B0B-918E-0A71456C2202)
 **qURL Schemes Learning**
 
 _Links_
@@ -462,3 +473,62 @@ Light mode
 
 find * -type f -not -name "_._" -exec mv "{}" "{}".txt \\;
 - [2A1A8F17-FA39-449A-8BB7-7047DC007987](shareddocuments:///private/var/mobile/Containers/Data/PluginKitPlugin/51A06C8C-E7AC-4002-956A-CE75C82D3739/tmp/709B51A1-1081-4D17-8B95-D68351EAE821/2A1A8F17-FA39-449A-8BB7-7047DC007987)
+# Facebook for iOS URL Scheme
+fb://
+fbauth://
+fbauth2://
+fblogin://
+fbapi://
+Open feed
+fb://feed
+Open profile page
+fb://profile
+Open notifications
+fb://notifications
+Open events
+fb://events
+Open groups
+fb://groups
+Open saved posts
+fb://saved
+Open job search
+fb://jobSearch
+Open marketplace
+fb://marketplace
+Open messages (Messenger)
+fb://messaging
+Open specific album
+fb://album?id=THEIDOFTHEALBUM
+Open specific photo
+fb://photo?id=THEIDOFTHEPICTURE
+Open specific post
+fb://profile/THEIDOFTHEPOST
+Open Watch
+fb://watch
+Open Watch watchlist
+fb://watch/watchlist
+No longer working as of May 3, 2021
+───────────────────────────────────
+fb://albums
+fb://background_location
+fb://friends
+fb://notes
+fb://requests
+Unverified as of Aug. 18, 2021
+───────────────────────────────────
+facebook-stories://
+facebook-stories-list://
+fb-broadcastextension://
+fb-creative-app-platform://
+fb-creative-platform://
+fb-creative-platform-20150615://
+fb-event-create://
+fb-messenger-mk-share-20180821://
+fb-profile-expression-platform://
+fb-profile-expression-platform-20160405://
+fb-profile-media-frame://
+fb-profile-media-platform://
+fb-profile-media-platform-20160202://
+fb-quicksilver-20170322://
+fbshareextension://
+vlc-x-callback://x-callback-url/stream?url=url
