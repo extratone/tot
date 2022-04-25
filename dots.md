@@ -31,6 +31,7 @@ _Drafts_
 - [Using Drafts with NeoCities](drafts://open?uuid=7247282E-340B-4890-A2F7-0481AF31321E)
 - [Underdocumented Maneuvers in iOS](drafts://open?uuid=6271A84E-D0F9-4881-A20D-B22E88AA9E3B)
 - [How I Manage Drafts](drafts://open?uuid=0BF34703-065D-4A2F-9F89-381A2348405E)
+- [How I Maintain a Vocabulary List in Drafts with Terminology](drafts://open?uuid=F20BB579-E235-4F04-8BCE-22AAF15A97C2)
 
 _Notes_
 - [Notes-Fresh Eyes on macOS](drafts://open?uuid=6C76EDBD-025D-40BA-9381-9AE95AD70F36)
@@ -38,7 +39,7 @@ _Notes_
 - [Notes-Personal Twitter History](drafts://open?uuid=37B865E1-4372-4AF7-BB77-3979836130D4)
 - [Notes-TextFuck](drafts://open?uuid=F0E9A527-77DE-45C6-9B24-F101565AC0BE)
 - **[Drag Safari Tab Group Links Demo](drafts://open?uuid=4FBF3BCC-2F65-4C8B-9486-839E118B4B3A)**
-- [Notes-Using Drafts with NeoCities](drafts://open?uuid=70C7C7DF-5083-411A-A397-A14479CA90BF)
+- [Notes-Using Drafts with NeoCitiesq](drafts://open?uuid=70C7C7DF-5083-411A-A397-A14479CA90BF)
 - [Notes-Drafts vs. Obsidian](drafts://open?uuid=C300D6BD-07A2-44E2-9231-54ADA771F952)
 - [Remark.as Integration](drafts://open?uuid=B0C95CA5-E5DE-4478-9C09-1E30499438CE)
 - [Notes-How I Manage Drafts](drafts://open?uuid=939FF8C4-CB56-4A5F-99E9-D88E7162BE4E)
@@ -137,6 +138,7 @@ _Workspaces_
 - Taio Drafts Actions
 - Keys Awards Page(s)
 - WhatCMS Scriptable Script!
+- Convert Tweet-to-Markdown Obsidian Plugin to Drafts Action?
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
@@ -344,6 +346,14 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Agiletortoise - Drafts Directory](drafts://open?uuid=DFB024B2-0BDA-40ED-B66D-3F51FA46CE4B)
 - [1Password 8 for iOS Beta](drafts://open?uuid=133AF208-B748-47D2-A71B-3077583D2153)
 - [DraftsCult General Correspondence](drafts://open?uuid=CB00A030-E6D1-4D48-95C5-C9B4B847ECD1)
+- [Writeas API Action](drafts://open?uuid=6E8874DD-339A-4C5C-A1EE-38C0E0658EA5)
+- [How I Maintain a Vocabulary List in Drafts with Terminology](drafts://open?uuid=F20BB579-E235-4F04-8BCE-22AAF15A97C2)
+
+- [Write.as Post Shortcut](drafts://open?uuid=19DC4088-DE55-4CD4-AABB-668F08B5EE65)
+
+- [RoutineHub Index](drafts://open?uuid=B50CB032-0FA6-44F1-8CA5-3122B722D83C)
+
+- [Post to Writeas Action](drafts://open?uuid=198CD52B-8AF9-450D-8964-B1ADEAC7BFA3)
 **qURL Schemes Learning**
 
 _Links_
@@ -532,3 +542,5 @@ fb-quicksilver-20170322://
 fbshareextension://
 vlc-x-callback://x-callback-url/stream?url=url
 [App Release Notes Are Getting Stupid – TechCrunch](bear://x-callback-url/open-note?id=06CF0589-A2B9-4632-8BE8-96C693F09DD7-12814-0000023C1848E75B)
+# Writeas API Action
+- [WTF](https://davidblue.wtf/drafts/6E8874DD-339A-4C5C-A1EE-38C0E0658EA5.html)
