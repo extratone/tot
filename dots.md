@@ -136,6 +136,7 @@ _Workspaces_
 - BT Inspector Shortcuts
 - Taio Drafts Actions
 - Keys Awards Page(s)
+- WhatCMS Scriptable Script!
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
@@ -335,16 +336,14 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Color Palettes Index](drafts://open?uuid=C3B499A6-2BA2-4EB7-8E48-5C8EB8A09A74)
 - [Drafts Universal Clacker Award](drafts://open?uuid=B8C70F5B-B7BE-4F55-BB08-AD563B05C3AC)
 - [How I Use Drafts - How Do You  (Feedback appreciated)](drafts://open?uuid=7DA86FDD-E1B7-4EA4-91B2-689B37E10E25)
-
-- [Drafts Workspace ⇨ Apple Notes Shortcut](drafts://open?uuid=C4161737-9D58-485E-B67A-C26D21B1C429)
-
+- [Drafts Workspace](drafts://open?uuid=C4161737-9D58-485E-B67A-C26D21B1C429) [⇨](drafts://open?uuid=C4161737-9D58-485E-B67A-C26D21B1C429) [Apple Notes Shortcut](drafts://open?uuid=C4161737-9D58-485E-B67A-C26D21B1C429)
 - [Facebook for iOS URL Scheme](drafts://open?uuid=50DAEBF2-2036-4CCD-80E3-F08A515683A6)
-
 - [Controlling Working Copy with URL schemes](drafts://open?uuid=77DC0B07-B5C8-447C-8B08-32A6EE80A89A)
-
 - [RoutineHub Discord Archive Index (WTF)](drafts://open?uuid=BA5A2CED-20C1-4FB3-AA69-91CEB7CB5660)
-
 - [BlinkThemes (WTF) Index](drafts://open?uuid=FE896F66-54DE-4B0B-918E-0A71456C2202)
+- [Agiletortoise - Drafts Directory](drafts://open?uuid=DFB024B2-0BDA-40ED-B66D-3F51FA46CE4B)
+- [1Password 8 for iOS Beta](drafts://open?uuid=133AF208-B748-47D2-A71B-3077583D2153)
+- [DraftsCult General Correspondence](drafts://open?uuid=CB00A030-E6D1-4D48-95C5-C9B4B847ECD1)
 **qURL Schemes Learning**
 
 _Links_
@@ -532,3 +531,4 @@ fb-profile-media-platform-20160202://
 fb-quicksilver-20170322://
 fbshareextension://
 vlc-x-callback://x-callback-url/stream?url=url
+[App Release Notes Are Getting Stupid – TechCrunch](bear://x-callback-url/open-note?id=06CF0589-A2B9-4632-8BE8-96C693F09DD7-12814-0000023C1848E75B)

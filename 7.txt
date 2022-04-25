@@ -122,3 +122,4 @@ fb-profile-media-platform-20160202://
 fb-quicksilver-20170322://
 fbshareextension://
 vlc-x-callback://x-callback-url/stream?url=url
+[App Release Notes Are Getting Stupid – TechCrunch](bear://x-callback-url/open-note?id=06CF0589-A2B9-4632-8BE8-96C693F09DD7-12814-0000023C1848E75B)
