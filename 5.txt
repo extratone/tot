@@ -121,9 +121,10 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [DraftsCult General Correspondence](drafts://open?uuid=CB00A030-E6D1-4D48-95C5-C9B4B847ECD1)
 - [Writeas API Action](drafts://open?uuid=6E8874DD-339A-4C5C-A1EE-38C0E0658EA5)
 - [How I Maintain a Vocabulary List in Drafts with Terminology](drafts://open?uuid=F20BB579-E235-4F04-8BCE-22AAF15A97C2)
-
 - [Write.as Post Shortcut](drafts://open?uuid=19DC4088-DE55-4CD4-AABB-668F08B5EE65)
-
 - [RoutineHub Index](drafts://open?uuid=B50CB032-0FA6-44F1-8CA5-3122B722D83C)
-
 - [Post to Writeas Action](drafts://open?uuid=198CD52B-8AF9-450D-8964-B1ADEAC7BFA3)
+- [Telegram Support Initiative](drafts://open?uuid=0840D53E-8991-4893-9CE6-1351B1559185)
+- [Telegram Support Force](drafts://open?uuid=0840D53E-8991-4893-9CE6-1351B1559185)
+
+- [Post to Writeas Blog Action](drafts://open?uuid=4EFC3B7E-1AC8-44D2-8A94-2764BDEA9D29)
