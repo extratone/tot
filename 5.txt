@@ -136,3 +136,9 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Post to Dev.to Action](drafts://open?uuid=1FC02C66-FE12-4CAB-A4ED-EA9C38FF6862)
 
 - [Blink Selection Action](drafts://open?uuid=58CD787C-9794-4A87-80F9-622E88B559F6)
+
+- [Notes-Periscope Magic](drafts://open?uuid=480EF899-1228-4751-BFA2-1F197BF1B71A)
+
+- [Taio Repo README](drafts://open?uuid=826C890B-58EF-4CAE-9E68-CC4486780CC6)
+
+- [Write.as Collection Post Action](drafts://open?uuid=DD7CC291-95FC-4790-B4E3-1855609771CA)
