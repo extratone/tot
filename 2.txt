@@ -49,6 +49,7 @@
 - Download Writeas library to Bear.
 - Update Typora repository.
 - [ListenNotes API](https://www.listennotes.com/api/pricing/)
+- Extract URLs Drafts Action
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**

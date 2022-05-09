@@ -60,6 +60,8 @@ _Social/Family/Support_
 - [Out & About Speedtest Thread](https://twitter.com/neoyokel/status/1501949196957589506)
 - [How I Use Drafts - How Do You](drafts://open?uuid=7DA86FDD-E1B7-4EA4-91B2-689B37E10E25)
 - [Siri Shortcuts and the Suite’s APIs](drafts://open?uuid=A401E6D6-4C44-4E5D-A351-FC20E9EC3BAF)
+- [Odette Software to Transfer Configure Highlight Learn](drafts://open?uuid=C8FCA2FB-3E48-4CAF-8CAD-884BAD53149F)
+- [Awesome Drafts integration! But also, a heads up!](drafts://open?uuid=2C7F7152-E7BD-41B8-AA07-E64B5955FCD3)
 
 _Documentation_
 - **[Drafts Keyboard Shortcuts](drafts://open?uuid=F55AB610-D9F9-49D1-9C20-1CF6063DF03E)**
@@ -142,6 +144,7 @@ _Workspaces_
 - Download Writeas library to Bear.
 - Update Typora repository.
 - [ListenNotes API](https://www.listennotes.com/api/pricing/)
+- Extract URLs Drafts Action
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
@@ -365,6 +368,12 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Taio Repo README](drafts://open?uuid=826C890B-58EF-4CAE-9E68-CC4486780CC6)
 - [Write.as Collection Post Action](drafts://open?uuid=DD7CC291-95FC-4790-B4E3-1855609771CA)
 - [Search iCloud Keychain Action](drafts://open?uuid=78E468D2-450C-46A5-A711-48171C97311E)
+
+- [Odette Software to Transfer Configure Highlight Learn](drafts://open?uuid=C8FCA2FB-3E48-4CAF-8CAD-884BAD53149F)
+
+- [Call Action](drafts://open?uuid=A21140B6-CB5E-4649-A1C8-B5BAD4592F26)
+
+- [Blink Keys](drafts://open?uuid=A70AF5BE-6301-4A0E-B2B3-90A80B9333D1)
 **qURL Schemes Learning**
 
 _Links_
