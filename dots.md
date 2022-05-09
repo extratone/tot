@@ -368,12 +368,13 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Taio Repo README](drafts://open?uuid=826C890B-58EF-4CAE-9E68-CC4486780CC6)
 - [Write.as Collection Post Action](drafts://open?uuid=DD7CC291-95FC-4790-B4E3-1855609771CA)
 - [Search iCloud Keychain Action](drafts://open?uuid=78E468D2-450C-46A5-A711-48171C97311E)
-
 - [Odette Software to Transfer Configure Highlight Learn](drafts://open?uuid=C8FCA2FB-3E48-4CAF-8CAD-884BAD53149F)
-
 - [Call Action](drafts://open?uuid=A21140B6-CB5E-4649-A1C8-B5BAD4592F26)
-
 - [Blink Keys](drafts://open?uuid=A70AF5BE-6301-4A0E-B2B3-90A80B9333D1)
+- [Tumblr URL Scheme](drafts://open?uuid=A2ECA6EF-124C-496A-97AD-0FBC0FFBB09A)
+- [Tumblr Text Post Action](drafts://open?uuid=DF6BC0EE-8027-425C-8059-BDB8D5246FA5)
+- [Telegram Bot Post Shortcut](drafts://open?uuid=46B22185-F9ED-4F5D-96FA-FA7408EE00E1)
+- [Telegram Bot Post Action](drafts://open?uuid=DD4A6807-4385-484F-8BB1-90932FD8C854)
 **qURL Schemes Learning**
 
 _Links_
@@ -564,3 +565,5 @@ fbshareextension://
 [App Release Notes Are Getting Stupid – TechCrunch](bear://x-callback-url/open-note?id=06CF0589-A2B9-4632-8BE8-96C693F09DD7-12814-0000023C1848E75B)
 # Writeas API Action
 - [WTF](https://davidblue.wtf/drafts/6E8874DD-339A-4C5C-A1EE-38C0E0658EA5.html)
+
+curl https://api.telegram.org/bot272312838:AAG1RHmtlUAFktUrN8CrD3XScjOCULyCHqQ/sendMessage?chat_id=-1001140240303&text=test%20text
