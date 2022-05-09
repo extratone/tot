@@ -70,40 +70,40 @@ fbauth2://
 fblogin://
 fbapi://
 Open feed
-fb://feed
+<fb://feed>
 Open profile page
-fb://profile
+<fb://profile>
 Open notifications
-fb://notifications
+<fb://notifications>
 Open events
-fb://events
+<fb://events>
 Open groups
-fb://groups
+<fb://groups>
 Open saved posts
-fb://saved
+<fb://saved>
 Open job search
-fb://jobSearch
+<fb://jobSearch>
 Open marketplace
-fb://marketplace
+<fb://marketplace>
 Open messages (Messenger)
-fb://messaging
+<fb://messaging>
 Open specific album
-fb://album?id=THEIDOFTHEALBUM
+<fb://album?id=THEIDOFTHEALBUM>
 Open specific photo
-fb://photo?id=THEIDOFTHEPICTURE
+<fb://photo?id=THEIDOFTHEPICTURE>
 Open specific post
-fb://profile/THEIDOFTHEPOST
+<fb://profile/THEIDOFTHEPOST>
 Open Watch
-fb://watch
+<fb://watch>
 Open Watch watchlist
-fb://watch/watchlist
+<fb://watch/watchlist>
 No longer working as of May 3, 2021
 ───────────────────────────────────
-fb://albums
-fb://background_location
-fb://friends
-fb://notes
-fb://requests
+<fb://albums>
+<fb://background_location>
+<fb://friends>
+<fb://notes>
+<fb://requests>
 Unverified as of Aug. 18, 2021
 ───────────────────────────────────
 facebook-stories://
@@ -121,7 +121,7 @@ fb-profile-media-platform://
 fb-profile-media-platform-20160202://
 fb-quicksilver-20170322://
 fbshareextension://
-vlc-x-callback://x-callback-url/stream?url=url
+<vlc-x-callback://x-callback-url/stream?url=url>
 [App Release Notes Are Getting Stupid – TechCrunch](bear://x-callback-url/open-note?id=06CF0589-A2B9-4632-8BE8-96C693F09DD7-12814-0000023C1848E75B)
 # Writeas API Action
 - [WTF](https://davidblue.wtf/drafts/6E8874DD-339A-4C5C-A1EE-38C0E0658EA5.html)

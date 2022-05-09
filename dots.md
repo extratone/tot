@@ -31,7 +31,6 @@ _Drafts_
 - [Using Drafts with NeoCities](drafts://open?uuid=7247282E-340B-4890-A2F7-0481AF31321E)
 - [Underdocumented Maneuvers in iOS](drafts://open?uuid=6271A84E-D0F9-4881-A20D-B22E88AA9E3B)
 - [How I Manage Drafts](drafts://open?uuid=0BF34703-065D-4A2F-9F89-381A2348405E)
-- [How I Maintain a Vocabulary List in Drafts with Terminology](drafts://open?uuid=F20BB579-E235-4F04-8BCE-22AAF15A97C2)
 
 _Notes_
 - [Notes-Fresh Eyes on macOS](drafts://open?uuid=6C76EDBD-025D-40BA-9381-9AE95AD70F36)
@@ -142,6 +141,7 @@ _Workspaces_
 - Ccmplete all reminders with tag.
 - Download Writeas library to Bear.
 - Update Typora repository.
+- [ListenNotes API](https://www.listennotes.com/api/pricing/)
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
@@ -356,22 +356,15 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Post to Writeas Action](drafts://open?uuid=198CD52B-8AF9-450D-8964-B1ADEAC7BFA3)
 - [Telegram Support Initiative](drafts://open?uuid=0840D53E-8991-4893-9CE6-1351B1559185)
 - [Telegram Support Force](drafts://open?uuid=0840D53E-8991-4893-9CE6-1351B1559185)
-
 - [Post to Writeas Blog Action](drafts://open?uuid=4EFC3B7E-1AC8-44D2-8A94-2764BDEA9D29)
-
 - [Homebrew Theme](drafts://open?uuid=BD5DFCED-4D9B-4217-9F41-D87582D21DE2)
-
 - [Mastodon Feature Request  Shared Collaborative User Lists](drafts://open?uuid=2A7DA9CF-229F-4B83-9968-AF89CE65AF1B)
-
 - [Post to Dev.to Action](drafts://open?uuid=1FC02C66-FE12-4CAB-A4ED-EA9C38FF6862)
-
 - [Blink Selection Action](drafts://open?uuid=58CD787C-9794-4A87-80F9-622E88B559F6)
-
 - [Notes-Periscope Magic](drafts://open?uuid=480EF899-1228-4751-BFA2-1F197BF1B71A)
-
 - [Taio Repo README](drafts://open?uuid=826C890B-58EF-4CAE-9E68-CC4486780CC6)
-
 - [Write.as Collection Post Action](drafts://open?uuid=DD7CC291-95FC-4790-B4E3-1855609771CA)
+- [Search iCloud Keychain Action](drafts://open?uuid=78E468D2-450C-46A5-A711-48171C97311E)
 **qURL Schemes Learning**
 
 _Links_
@@ -507,40 +500,40 @@ fbauth2://
 fblogin://
 fbapi://
 Open feed
-fb://feed
+<fb://feed>
 Open profile page
-fb://profile
+<fb://profile>
 Open notifications
-fb://notifications
+<fb://notifications>
 Open events
-fb://events
+<fb://events>
 Open groups
-fb://groups
+<fb://groups>
 Open saved posts
-fb://saved
+<fb://saved>
 Open job search
-fb://jobSearch
+<fb://jobSearch>
 Open marketplace
-fb://marketplace
+<fb://marketplace>
 Open messages (Messenger)
-fb://messaging
+<fb://messaging>
 Open specific album
-fb://album?id=THEIDOFTHEALBUM
+<fb://album?id=THEIDOFTHEALBUM>
 Open specific photo
-fb://photo?id=THEIDOFTHEPICTURE
+<fb://photo?id=THEIDOFTHEPICTURE>
 Open specific post
-fb://profile/THEIDOFTHEPOST
+<fb://profile/THEIDOFTHEPOST>
 Open Watch
-fb://watch
+<fb://watch>
 Open Watch watchlist
-fb://watch/watchlist
+<fb://watch/watchlist>
 No longer working as of May 3, 2021
 ───────────────────────────────────
-fb://albums
-fb://background_location
-fb://friends
-fb://notes
-fb://requests
+<fb://albums>
+<fb://background_location>
+<fb://friends>
+<fb://notes>
+<fb://requests>
 Unverified as of Aug. 18, 2021
 ───────────────────────────────────
 facebook-stories://
@@ -558,7 +551,7 @@ fb-profile-media-platform://
 fb-profile-media-platform-20160202://
 fb-quicksilver-20170322://
 fbshareextension://
-vlc-x-callback://x-callback-url/stream?url=url
+<vlc-x-callback://x-callback-url/stream?url=url>
 [App Release Notes Are Getting Stupid – TechCrunch](bear://x-callback-url/open-note?id=06CF0589-A2B9-4632-8BE8-96C693F09DD7-12814-0000023C1848E75B)
 # Writeas API Action
 - [WTF](https://davidblue.wtf/drafts/6E8874DD-339A-4C5C-A1EE-38C0E0658EA5.html)

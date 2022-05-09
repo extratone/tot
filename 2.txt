@@ -48,6 +48,7 @@
 - Ccmplete all reminders with tag.
 - Download Writeas library to Bear.
 - Update Typora repository.
+- [ListenNotes API](https://www.listennotes.com/api/pricing/)
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**

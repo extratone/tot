@@ -31,7 +31,6 @@ _Drafts_
 - [Using Drafts with NeoCities](drafts://open?uuid=7247282E-340B-4890-A2F7-0481AF31321E)
 - [Underdocumented Maneuvers in iOS](drafts://open?uuid=6271A84E-D0F9-4881-A20D-B22E88AA9E3B)
 - [How I Manage Drafts](drafts://open?uuid=0BF34703-065D-4A2F-9F89-381A2348405E)
-- [How I Maintain a Vocabulary List in Drafts with Terminology](drafts://open?uuid=F20BB579-E235-4F04-8BCE-22AAF15A97C2)
 
 _Notes_
 - [Notes-Fresh Eyes on macOS](drafts://open?uuid=6C76EDBD-025D-40BA-9381-9AE95AD70F36)
