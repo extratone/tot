@@ -1,0 +1,149 @@
+[
+  {
+    "type" : "dot 1",
+    "dark" : {
+      "accent" : "#fff4e6",
+      "status_background" : "#3e251c",
+      "text" : "#ffffff",
+      "link" : "#f3c345",
+      "background" : "#210d0b",
+      "dot" : "#f3c345",
+      "status_text" : "#f7ff85"
+    },
+    "light" : {
+      "accent" : "#625101",
+      "status_background" : "#f3e8f4",
+      "text" : "#000000",
+      "link" : "#02a416",
+      "background" : "#fff9ea",
+      "dot" : "#f3c345",
+      "status_text" : "#6c0377"
+    }
+  },
+  {
+    "type" : "dot 2",
+    "dark" : {
+      "accent" : "#fac198",
+      "status_background" : "#453222",
+      "text" : "#ffffff",
+      "link" : "#ed7e2f",
+      "background" : "#1f0903",
+      "dot" : "#ed7e2f",
+      "status_text" : "#f7ff85"
+    },
+    "light" : {
+      "accent" : "#7e3f13",
+      "status_background" : "#bdf2c2",
+      "text" : "#000000",
+      "link" : "#d56a1f",
+      "background" : "#fff2e9",
+      "dot" : "#ed7e2f",
+      "status_text" : "#22617e"
+    }
+  },
+  {
+    "type" : "dot 3",
+    "dark" : {
+      "accent" : "#ffbdc0",
+      "status_background" : "#201517",
+      "text" : "#ffffff",
+      "link" : "#db3d56",
+      "background" : "#211414",
+      "dot" : "#db3d56",
+      "status_text" : "#f7ff85"
+    },
+    "light" : {
+      "accent" : "#51802d",
+      "status_background" : "#81e6d0",
+      "text" : "#000000",
+      "link" : "#bf7f6b",
+      "background" : "#f8fff2",
+      "dot" : "#bbde9f",
+      "status_text" : "#162780"
+    }
+  },
+  {
+    "type" : "dot 4",
+    "dark" : {
+      "accent" : "#dfb5fc",
+      "status_background" : "#371143",
+      "text" : "#ffffff",
+      "link" : "#da2573",
+      "background" : "#1c0021",
+      "dot" : "#a441e8",
+      "status_text" : "#f7ff85"
+    },
+    "light" : {
+      "accent" : "#999900",
+      "status_background" : "#f2f201",
+      "text" : "#000000",
+      "link" : "#00a6b2",
+      "background" : "#fffef2",
+      "dot" : "#fef49c",
+      "status_text" : "#1c0021"
+    }
+  },
+  {
+    "type" : "dot 5",
+    "dark" : {
+      "accent" : "#bfdcff",
+      "status_background" : "#003941",
+      "text" : "#ffffff",
+      "link" : "#00c2df",
+      "background" : "#171e26",
+      "dot" : "#82b5f3",
+      "status_text" : "#f7ff85"
+    },
+    "light" : {
+      "accent" : "#3857a2",
+      "status_background" : "#f8dfc6",
+      "text" : "#000000",
+      "link" : "#c145e7",
+      "background" : "#e7eeff",
+      "dot" : "#5483f5",
+      "status_text" : "#7e30a2"
+    }
+  },
+  {
+    "type" : "dot 6",
+    "dark" : {
+      "accent" : "#b1e9fa",
+      "status_background" : "#0e1518",
+      "text" : "#ffffff",
+      "link" : "#ffc515",
+      "background" : "#140b20",
+      "dot" : "#4eb5d4",
+      "status_text" : "#f7ff85"
+    },
+    "light" : {
+      "accent" : "#2d7a80",
+      "status_background" : "#d1e650",
+      "text" : "#000000",
+      "link" : "#2cd92f",
+      "background" : "#f2feff",
+      "dot" : "#00a6b2",
+      "status_text" : "#2c4e7b"
+    }
+  },
+  {
+    "type" : "dot 7",
+    "dark" : {
+      "accent" : "#d3efac",
+      "status_background" : "#142b2f",
+      "text" : "#ffffff",
+      "link" : "#f8cb40",
+      "background" : "#10130d",
+      "dot" : "#97d144",
+      "status_text" : "#f7ff85"
+    },
+    "light" : {
+      "accent" : "#58752e",
+      "status_background" : "#9ce8d8",
+      "text" : "#000000",
+      "link" : "#d92918",
+      "background" : "#f7fff2",
+      "dot" : "#97d144",
+      "status_text" : "#58752e"
+    }
+  }
+]
