@@ -50,6 +50,12 @@
 - Update Typora repository.
 - [ListenNotes API](https://www.listennotes.com/api/pricing/)
 - Extract URLs Drafts Action
+- Raindrop Selection Drafts Action
+- Save Tweet Drafts action via [the Twitter object](https://scripting.getdrafts.com/classes/twitter)
+- [Reddit](shortcuts://run-shortcut?name=Reddit%20OP%20Test) [⇨](shortcuts://run-shortcut?name=Reddit%20OP%20Test) [Markdown Shortcuts](shortcuts://run-shortcut?name=Reddit%20OP%20Test)
+- [Action Log Actions](https://scripting.getdrafts.com/classes/actionlog#uuid)
+- Working with [the NPR One API](https://www.postman.com/extratone/workspace/extranet/request/15808119-774d2658-849f-4622-858c-e9db2ed3a0cc)
+- Hack Woof’s
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
