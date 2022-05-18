@@ -56,6 +56,8 @@
 - [Action Log Actions](https://scripting.getdrafts.com/classes/actionlog#uuid)
 - Working with [the NPR One API](https://www.postman.com/extratone/workspace/extranet/request/15808119-774d2658-849f-4622-858c-e9db2ed3a0cc)
 - Hack Woof’s
+- Add [Clippy.js](https://github.com/softwarehistorysociety/clippy.js) to NeoCities
+- Publish [Beep Hour](snippetslab://snippet/E598CB73-2CEF-4BAA-A985-2F459FD15FA1/) as a Homebrew thing
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**

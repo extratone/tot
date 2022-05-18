@@ -1,25 +1,11 @@
-G̏̽͋ͩͬ͊̈́o͌ͭ͆̂̍̈́̌oͩ͒ͩd̋̃͑ ͐ͣm̌orͬͥͤͣ̊n̋ͧͩ͐i͛̉n̔̎g̏͂̔ͦ̈!
-# Jorts Device Report - [041092022-070419](tel:041092022-070419)
-## Hardware
-#### Model
-iPhone13,4
-#### RAM
-5.0 GB
-#### Processors
-6 of 6 active
-#### Thermal State
-Nominal
-#### Biometrics
-FaceID
-#### Battery Level
-92%
-#### Battery Status
-Not charging (Not in low power mode)
-#### Orientation
-Portrait
-#### Is In Motion
-Not In Motion
 
+Will display a dialog box saying “Hello”
+osascript -e 'tell app "Finder" to make new Finder window'
+Will open a new Finder window
+osascript -e "set volume 0"
+Will mute the system volume.
+We have covered numerous short AppleScripts using the osascript command before, including [gracefully quitting applications in Mac OS from the command line](https://osxdaily.com/2014/09/05/gracefully-quit-application-command-line/), [setting Mac wallpaper from the command line](https://osxdaily.com/2015/08/28/set-wallpaper-command-line-macosx/), [ejecting all mounted volumes](https://osxdaily.com/2014/05/22/eject-all-mounted-volumes-command-line-mac/), [muting or changing system volume](https://osxdaily.com/2007/04/28/change-the-system-volume-from-the-command-line/), and more. Anyone interested in learning more about AppleScript can find a significant amount of information, syntax, commands, and helpful guides in the ‘Script Editor’ application bundled with MacOS and Mac OS X.
+Know of any particularly interesting tricks for using AppleScript from the command line? Let us know in the comments below.
 ---
 ## Screen
 
@@ -129,11 +115,15 @@ fbshareextension://
 curl <https://api.telegram.org/bot272312838:AAG1RHmtlUAFktUrN8CrD3XScjOCULyCHqQ/sendMessage?chat_id=-1001140240303&text=test%20text>
 
 
+[Toggle Spotlight Indexing](https://gist.github.com/1603a0f1713f251139931ceef0be72db) - [Snippet](snippetslab://snippet/082CC23E-4D56-4896-A699-AE2228C7F081/)
+\*Disable\* Spotlight Indexing
 
-imessage --text "Repeat Item" --contacts "Provided Input"
+`sudo mdutil -i off`
 
+\*Enable\* Spotlight indexing
 
-<file:///Users/blue/Library/Group%20Containers/X727JSJUGJ.build.bru.MacGladys/temporary/93CFDA27-31B7-4588-9DFB-60BB688E8735.rtf>
+`sudo mdutil -i on`
 
-[Pastery](https://www.pastery.net/api/) Drafts Action and Taio Action?
-Forgetting Sarah Marshall
+---
+
+`wget --recursive --page-requisites --adjust-extension --span-hosts --convert-links --restrict-file-names=windows --domains clipboard --no-parent clipboard`

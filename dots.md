@@ -1,7 +1,12 @@
 **_Constraints can be powerful._**
 T       O       T               L       E       A       R       N    
 
-[Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - _[DraftsKeysUpdate](shortcuts://run-shortcut?name=DraftsKeysUpdate)_ - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [Vocabulary Index](shortcuts://run-shortcut?name=Vocabulary%20Index) - [HighResArtwork.](shortcuts://run-shortcut?name=HighResArtwork.) - [HRAAnim](shortcuts://run-shortcut?name=HighResArtwork%20Animated) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [Clipboard](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[⇨](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[txt](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)
+[dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random  Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - _[DraftsKeysUpdate](shortcuts://run-shortcut?name=DraftsKeysUpdate)_ - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [Vocabulary Index](shortcuts://run-shortcut?name=Vocabulary%20Index) - [HighResArtwork.](shortcuts://run-shortcut?name=HighResArtwork.) - [HRAAnim](shortcuts://run-shortcut?name=HighResArtwork%20Animated) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [Clipboard](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[⇨](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[txt](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File) - [GIF](shortcuts://run-shortcut?name=Better%20Gif%20Maker) - [ReleaseNotes](shortcuts://run-shortcut?name=Retrieve%20Release%20Notes)
+
+---
+
+**Mac Shortcuts**
+[HDspace](shortcuts://run-shortcut?name=MacHD%20Space) - [Dark Odette](shortcuts://x-callback-url/run-shortcut?name=Dark%20Odette) - [Light](shortcuts://x-callback-url/run-shortcut?name=Light%20Odette) - [MacWish](shortcuts://x-callback-url/run-shortcut?name=MacWish)
 
 [symbol](shortcuts://run-shortcut?name=symbol)
 
@@ -151,6 +156,8 @@ _Workspaces_
 - [Action Log Actions](https://scripting.getdrafts.com/classes/actionlog#uuid)
 - Working with [the NPR One API](https://www.postman.com/extratone/workspace/extranet/request/15808119-774d2658-849f-4622-858c-e9db2ed3a0cc)
 - Hack Woof’s
+- Add [Clippy.js](https://github.com/softwarehistorysociety/clippy.js) to NeoCities
+- Publish [Beep Hour](snippetslab://snippet/E598CB73-2CEF-4BAA-A985-2F459FD15FA1/) as a Homebrew thing
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
@@ -192,7 +199,15 @@ _[BearTest](bear://x-callback-url/open-note?id=E2DE96E8-7C98-4403-AD5B-586C2048F
 - [Solar Witch](https://witch.solar)
 - Tilde friend reminded me about [Low Tech Magazine](https://solar.lowtechmagazine.com). it’s been years!! how did I lose this bookmark‽‽‽
 
-**Creative Wellness**
+**_Day To Do_**
+- Day One Capture Shortcut Publish
+- MacHD Space Shortcut Publish
+- Esse Scripts
+- Cheatsheets
+
+
+
+Creative Wellness**
 - Gran Turismo Sounds
 **Siri Shortcuts for Tot**
 
@@ -388,12 +403,17 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [transclusion](drafts://open?uuid=507FE5D4-4DC9-4F8D-9FEF-36CA2CFCBD9D)
 - [Editorial History](drafts://open?uuid=8E1970B0-F9CA-446F-9D5F-48CD586FD9A5) 
 - [bearsys Marked 2 Theme](drafts://open?uuid=9CC44BAE-9B47-4B39-BFA5-F65ABB87520A)
-
 - [An Index of Methods to save Web Page Content on iOS (2022)](drafts://open?uuid=91DD813F-737E-4FD8-86D2-0DFEAFFA85AD)
+- [Markdown Capture](drafts://open?uuid=190F6AEB-3138-4D8C-B766-91B7B64FF82E) [⇨](drafts://open?uuid=190F6AEB-3138-4D8C-B766-91B7B64FF82E) [Day One Shortcut](drafts://open?uuid=190F6AEB-3138-4D8C-B766-91B7B64FF82E)
+- [applescript Repository](drafts://open?uuid=F2020CE1-4ACA-434B-8F0E-F04D198FC50E)
 
-- [   Workflowy Export 05132022-190730](drafts://open?uuid=D5387E02-AFED-4F28-8C66-F26C55334D93)
+- [What's on KBIA  Shortcut](drafts://open?uuid=8BCB0692-9274-4E1F-AFE1-1AFC17BB2877)
 
-- [Markdown Capture ⇨ Day One Shortcut](drafts://open?uuid=190F6AEB-3138-4D8C-B766-91B7B64FF82E)
+- [Simplenote WordPress Post Action!](drafts://open?uuid=14D1FB63-31A9-4F07-82D7-A8A1B4DB9579)
+
+- [What's on KBIA  Shortcut](drafts://open?uuid=8BCB0692-9274-4E1F-AFE1-1AFC17BB2877)
+
+- [![Mastodon for iOS](https   i.snap.as sHTDx8AV.png)](drafts://open?uuid=502AAEF8-402B-4E32-A43B-AD997F3815CB)
 **Workflowy Export** [05132022-185428](https://davidblue.wtf/workflowy)
 
 - Outline
@@ -451,28 +471,30 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - General Speech Subject Ideas
 - Why sun worship is the most rational religion.
 - Illiteracy in American Media (ahem)
-G̏̽͋ͩͬ͊̈́o͌ͭ͆̂̍̈́̌oͩ͒ͩd̋̃͑ ͐ͣm̌orͬͥͤͣ̊n̋ͧͩ͐i͛̉n̔̎g̏͂̔ͦ̈!
-# Jorts Device Report - [041092022-070419](tel:041092022-070419)
-## Hardware
-#### Model
-iPhone13,4
-#### RAM
-5.0 GB
-#### Processors
-6 of 6 active
-#### Thermal State
-Nominal
-#### Biometrics
-FaceID
-#### Battery Level
-92%
-#### Battery Status
-Not charging (Not in low power mode)
-#### Orientation
-Portrait
-#### Is In Motion
-Not In Motion
 
+
+
+**Esse URL Scheme**
+
+The Esse app registers the custom URL scheme esse://. The following paths are currently implemented:
+
+iOS and macOS
+
+replace?text=Text - clear Input field and put Text into it
+clipboard - clear Input field and put clipboard content into it
+clear - clear Input field
+macOS
+
+copyresult - copy Result field to clipboard
+resetfunctions - reset selected functions\\transforms
+
+Will display a dialog box saying “Hello”
+osascript -e 'tell app "Finder" to make new Finder window'
+Will open a new Finder window
+osascript -e "set volume 0"
+Will mute the system volume.
+We have covered numerous short AppleScripts using the osascript command before, including [gracefully quitting applications in Mac OS from the command line](https://osxdaily.com/2014/09/05/gracefully-quit-application-command-line/), [setting Mac wallpaper from the command line](https://osxdaily.com/2015/08/28/set-wallpaper-command-line-macosx/), [ejecting all mounted volumes](https://osxdaily.com/2014/05/22/eject-all-mounted-volumes-command-line-mac/), [muting or changing system volume](https://osxdaily.com/2007/04/28/change-the-system-volume-from-the-command-line/), and more. Anyone interested in learning more about AppleScript can find a significant amount of information, syntax, commands, and helpful guides in the ‘Script Editor’ application bundled with MacOS and Mac OS X.
+Know of any particularly interesting tricks for using AppleScript from the command line? Let us know in the comments below.
 ---
 ## Screen
 
@@ -582,11 +604,15 @@ fbshareextension://
 curl <https://api.telegram.org/bot272312838:AAG1RHmtlUAFktUrN8CrD3XScjOCULyCHqQ/sendMessage?chat_id=-1001140240303&text=test%20text>
 
 
+[Toggle Spotlight Indexing](https://gist.github.com/1603a0f1713f251139931ceef0be72db) - [Snippet](snippetslab://snippet/082CC23E-4D56-4896-A699-AE2228C7F081/)
+\*Disable\* Spotlight Indexing
 
-imessage --text "Repeat Item" --contacts "Provided Input"
+`sudo mdutil -i off`
 
+\*Enable\* Spotlight indexing
 
-<file:///Users/blue/Library/Group%20Containers/X727JSJUGJ.build.bru.MacGladys/temporary/93CFDA27-31B7-4588-9DFB-60BB688E8735.rtf>
+`sudo mdutil -i on`
 
-[Pastery](https://www.pastery.net/api/) Drafts Action and Taio Action?
-Forgetting Sarah Marshall
+---
+
+`wget --recursive --page-requisites --adjust-extension --span-hosts --convert-links --restrict-file-names=windows --domains clipboard --no-parent clipboard`
