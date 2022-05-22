@@ -1,7 +1,9 @@
 **_Constraints can be powerful._**
 T       O       T               L       E       A       R       N    
 
-[dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random  Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - _[DraftsKeysUpdate](shortcuts://run-shortcut?name=DraftsKeysUpdate)_ - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [Vocabulary Index](shortcuts://run-shortcut?name=Vocabulary%20Index) - [HighResArtwork.](shortcuts://run-shortcut?name=HighResArtwork.) - [HRAAnim](shortcuts://run-shortcut?name=HighResArtwork%20Animated) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [Clipboard](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[⇨](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[txt](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File) - [GIF](shortcuts://run-shortcut?name=Better%20Gif%20Maker) - [ReleaseNotes](shortcuts://run-shortcut?name=Retrieve%20Release%20Notes)
+[dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random  Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - _[DraftsKeysUpdate](shortcuts://run-shortcut?name=DraftsKeysUpdate)_ - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [Vocabulary Index](shortcuts://run-shortcut?name=Vocabulary%20Index) - [HighResArtwork.](shortcuts://run-shortcut?name=HighResArtwork.) - [HRAAnim](shortcuts://run-shortcut?name=HighResArtwork%20Animated) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [Clipboard](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[⇨](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[txt](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File) - [GIF](shortcuts://run-shortcut?name=Better%20Gif%20Maker) - [ReleaseNotes](shortcuts://run-shortcut?name=Retrieve%20Release%20Notes) - [CombineImgs](shortcuts://run-shortcut?name=ImageCombineScratch)
+
+[Lab Dashboard](snippetslab://snippet/516E6A5A-1FC0-47CA-B67F-9B63B84C64D5/)
 
 ---
 
@@ -13,8 +15,7 @@ T       O       T               L       E       A       R       N
 [RoutinePub](shortcuts://run-shortcut?name=RoutinePub)
 [Shortcut Source](shortcuts://run-shortcut?name=Shortcut%20Source%20Tool)
 [Action Directory](shortcuts://run-shortcut?name=Action%20Directory)
-[iOSSystemSounds](https://extratone.github.io/iOSSystemSounds)
-[RoutineHub - Create Shortcut](https://routinehub.co/shortcut/create)
+[iOSSystemSounds](https://extratone.github.io/iOSSystemSounds)	[RoutineHub - Create Shortcut](https://routinehub.co/shortcut/create)
 
 _New Issues_
 - [i](https://github.com/extratone/i/issues/new/choose)
@@ -67,6 +68,7 @@ _Social/Family/Support_
 - [Siri Shortcuts and the Suite’s APIs](drafts://open?uuid=A401E6D6-4C44-4E5D-A351-FC20E9EC3BAF)
 - [Odette Software to Transfer Configure Highlight Learn](drafts://open?uuid=C8FCA2FB-3E48-4CAF-8CAD-884BAD53149F)
 - [Awesome Drafts integration! But also, a heads up!](drafts://open?uuid=2C7F7152-E7BD-41B8-AA07-E64B5955FCD3)
+- [What's on KBIA  Shortcut](drafts://open?uuid=8BCB0692-9274-4E1F-AFE1-1AFC17BB2877)
 
 _Documentation_
 - **[Drafts Keyboard Shortcuts](drafts://open?uuid=F55AB610-D9F9-49D1-9C20-1CF6063DF03E)**
@@ -87,6 +89,7 @@ _Documentation_
 - [internetarchive CLI Docs](bear://x-callback-url/open-note?id=2A87D668-F2F8-4634-93FC-194EA2393D03-35818-0000034E74468AE3)
 - [On My Mind Action Group by FlohGro](drafts://open?uuid=C90B70B3-A594-4736-86B2-E4F1924D3096)
 - [WTF Redirection](drafts://open?uuid=218F8FAA-C0B9-4B4F-B896-3089E005E86E)
+- [Mastodon for iOS](drafts://open?uuid=502AAEF8-402B-4E32-A43B-AD997F3815CB)
 
 [New Draft with Clipboard](drafts://x-callback-url/create?text=%7C%7Cclipboard%7C%7C)
 
@@ -158,6 +161,12 @@ _Workspaces_
 - Hack Woof’s
 - Add [Clippy.js](https://github.com/softwarehistorysociety/clippy.js) to NeoCities
 - Publish [Beep Hour](snippetslab://snippet/E598CB73-2CEF-4BAA-A985-2F459FD15FA1/) as a Homebrew thing
+- WhatCMS Drafts Action - Query `[https://whatcms.org/?s=nahumck.me`](https://whatcms.org/?s=nahumck.me%60)
+- Pelican Post Drafts Action
+- macOS Shortcut to Document [URLScheme Binding](drafts://open?uuid=A64BB28B-D251-4EB8-82BA-027F4A5BD1E9)
+- **[DavodKeys Action](https://directory.getdrafts.com/a/2AQ)** - perhaps even set aside a Dot to sync.
+- Searches Action Group
+- RadioLeMans in VLC Shortcut
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
@@ -166,18 +175,15 @@ _Workspaces_
 - “[Automating iOS: A Comprehensive Guide to URL Schemes and Drafts Actions](drafts://open?uuid=A944CF95-DE24-47AA-BC50-CB03E1A20396)”
 - [Best way to learn regular expressions : shortcuts](https://www.reddit.com/r/shortcuts/comments/tv4o6b/tip_best_way_to_learn_regular_expressions/)
 
+- [iOSTextEditors Wiki, Archived](message:%3C20220519183936.3D22C6620355@ci74p00im-qukt09081101.me.com%3E)
+- [Flexibits Thanks](message:%3C01000180dcd5c12d-8a339643-092f-482c-b4c2-34bea5293300-000000@email.amazonses.com%3E)
 
 **Tools**
 - [ColorHound](http://colorhound.net)
 - [HTML HOUSE](https://html.house)
 
-[Silicon Valley Buzz: Apple Paid More Than $200 Million For Siri To Get Into Mobile Search | TechCrunch](https://techcrunch.com/2010/04/28/apple-siri-200-million/)
-
-<https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334>
-
-<https://web.archive.org/web/*/https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334>
-
-
+- [Silicon Valley Buzz: Apple Paid More Than $200 Million For Siri To Get Into Mobile Search | TechCrunch](https://techcrunch.com/2010/04/28/apple-siri-200-million/)
+- [Workflow iOS App Store page, archived](https://web.archive.org/web/*/https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334)
 _No highs? 
 No lows?
 It must be Bose!_
@@ -207,7 +213,7 @@ _[BearTest](bear://x-callback-url/open-note?id=E2DE96E8-7C98-4403-AD5B-586C2048F
 
 
 
-Creative Wellness**
+Creative Wellness\*\*
 - Gran Turismo Sounds
 **Siri Shortcuts for Tot**
 
@@ -249,12 +255,18 @@ _Drafts_
 - [Notes-Siri Shortcuts and More for Tot](drafts://open?uuid=E6D127B8-B5CE-45F5-8D6A-0BC5CE12A149)
 - 
 
+- [Drafts Sync Log](file:///Users/blue/Library/Group%20Containers/GTFQ98J4YG.com.agiletortoise.Drafts/drafts-sync.log)
+- [Flexibits Support](message:%3C01000180db2631d9-d63896df-227e-4173-902b-277e1f9e4324-000000@email.amazonses.com%3E)
+
 **Tot Shortcuts Ideas**
 - Finish Tot ↓ Drafts
 - 50-100 Most Recent Drafts List
 [Hot Tot Dot Swap](shortcuts://run-shortcut?name=Hot%20Tot%20Dot%20Swap)
 
-
+[Battle Station | Drafts Directory](https://actions.getdrafts.com/t/2AJ)
+[iAWriter Dark | Drafts Directory](https://actions.getdrafts.com/t/2AG)
+[iAWriter Light | Drafts Directory](https://actions.getdrafts.com/t/2AF)
+[Obsidian copy | Drafts Directory](https://actions.getdrafts.com/t/2AD)
 
 - [Batch Shortcuts Signer (macOS) Shortcut](drafts://open?uuid=5D4D9120-69EC-4449-AB7F-35C0D97BBA7D)
 - [David Blue’s Siri Shortcuts Repository
@@ -406,213 +418,449 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [An Index of Methods to save Web Page Content on iOS (2022)](drafts://open?uuid=91DD813F-737E-4FD8-86D2-0DFEAFFA85AD)
 - [Markdown Capture](drafts://open?uuid=190F6AEB-3138-4D8C-B766-91B7B64FF82E) [⇨](drafts://open?uuid=190F6AEB-3138-4D8C-B766-91B7B64FF82E) [Day One Shortcut](drafts://open?uuid=190F6AEB-3138-4D8C-B766-91B7B64FF82E)
 - [applescript Repository](drafts://open?uuid=F2020CE1-4ACA-434B-8F0E-F04D198FC50E)
-
 - [What's on KBIA  Shortcut](drafts://open?uuid=8BCB0692-9274-4E1F-AFE1-1AFC17BB2877)
-
 - [Simplenote WordPress Post Action!](drafts://open?uuid=14D1FB63-31A9-4F07-82D7-A8A1B4DB9579)
-
 - [What's on KBIA  Shortcut](drafts://open?uuid=8BCB0692-9274-4E1F-AFE1-1AFC17BB2877)
+- [Mastodon for iOS](drafts://open?uuid=502AAEF8-402B-4E32-A43B-AD997F3815CB)
+- [Pelican Post Action](drafts://open?uuid=7B2CD8AD-AE04-47DB-829F-B8724AD8A8BB)
+- [Beep Hour](drafts://open?uuid=C3A69CD8-39ED-42C9-9EBF-7FE06A0AED15)
+- [GitHub Fetch Action(s)](drafts://open?uuid=AB4B1FFD-2FC4-4DFC-B073-B7E6AA5F4E1F)
+- [URLScheme Binding](drafts://open?uuid=A64BB28B-D251-4EB8-82BA-027F4A5BD1E9)
+- [Siri Shortcuts for Woof’s](drafts://open?uuid=F5955CEE-7A56-4753-B97E-E1A9E28C8CE5)
+- [DavodTime](drafts://open?uuid=A09BB9CE-430D-4DDF-8FB6-F17912FB1E26)
+- [Nina Loves Laying Down](drafts://open?uuid=114D25A5-5956-4734-9744-C48FC53D75D8)
+- [OBSIDIAN SMACKDOWN Video](drafts://open?uuid=BB1A3BC3-AD77-4AF2-8088-1818E05A63B5)
+- [Mastodon Bookmark (API) Shortcut](drafts://open?uuid=7597DD73-E99D-4FC0-94A3-C1E405EF2A54)
 
-- [![Mastodon for iOS](https   i.snap.as sHTDx8AV.png)](drafts://open?uuid=502AAEF8-402B-4E32-A43B-AD997F3815CB)
-**Workflowy Export** [05132022-185428](https://davidblue.wtf/workflowy)
-
-- Outline
-- Preface
-- Not necessarily directed at young men of color. (Or **definitely not** directed at them, but at white, CIS, straight young men.)
-- Describing the "real" scope of my authority.
-- While I have not traveled outside of America whatsoever, I _have_ traveled within it fairly extensively.
-- My authority is especially strong when it comes to protestant Christianity.
-- Function of the book.
-- Chapter 1: "I Don't Care What You/They Think" "Apathy's Misconceptions"
-- "Apathy Misconceived"
-- **You do not _actually_ want to attain a state of true apathy**, trust me.
-- Chris Cuomo exists.
-- Z-Ro
-- Apathy is even argued for in the Christian Bible. (The opinion of other people does not matter, only God's.)
-- [3 Bible Verses for When You Feel Judged By Others](https://blog.bible/bible-blog/entry/3-bible-verses-for-when-you-feel-judged-by-others) | _Bible Blog_ Galatians 1:10: "Am I now trying to win the approval of human beings, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a servant of Christ."
-- Chapter 2: "Music Taste Through Generations" "Boomers' Destructive Generational Tastemaking Disaster"
-- Quote From [the Bandcamp Essay](https://bilge.world/bandcamp-streaming-music) 
-- It's bewildering how content we are to abruptly abandon the substance music had to our teenage selves out of misconstrued justifications for our classic fainéance – actively choosing to subject our public ambiance to thousands of replays of “the best” records in favor of dipping even the most cowardly toe into unfamiliar waters, even when the opportunity cost is inherently halved – only to then have the audacity to evangelize our dilapidated conceptions of “good music” to our children as we demonize the music of their generation, depriving them of a very essential rite of their cognitive development. **I can think of little more reductive, repugnant, reckless, or racist crusades as a model figure than indoctrinating your child with an inherent distaste for their own culture**, and nothing more deeply alarming to hear from the mouth of someone born in the 21st century than shit like “Queen was better than any rapper will ever be,” or “real musicianship will die forever with Eric Clapton.” It’s unfair and unnatural: imagine if your high school classmates had consistently turned up their scrunched nose at the living whole of rock & roll, declaring Scott Joplin to be the last musician they could stand.
-- Consider if the industry-wide customer experience standard for the musical ambiance in 1970s American eating and drinking establishments was entirely comprised of works by John Phillip Souza, and the most prevalent cultural revolution manifested itself something like the following: In countless popular films set in the time (and the stories told today by your parents of their youths that informs them,) a group of popular high school boys – generally three longtime childhood friends and a single addition from the previous summer with an Army Dad and a moderate bad boy aura that’s made him one of the school’s notoriously attractive students and the somewhat-abusive leader in the pack. After spending some time trying to convince the other three (the crucial moment for his case being the bad kid’s rare moment of sincerity trope) of its guaranteed social, sexual and financial ROI, they seal their agreement to start a band with a four-way saliva slap. Imagine if in the progression of this exhausted old tale, it remained entirely classic (and boring) when it faded to a “THREE MONTHS LATER...” ceiling shot of the four the in full, gleaming, performance-spec get-up of the presidential marching band in their garage, and it was revealed that they’d they practiced “The Star Spangled Banner” every night just to make the girls swoon in the film’s resolution with an encore of “America the Beautiful” at an unsanctioned (and very patriotic!) house party. Would you have made out on your first date with someone in your 80s high school Chemistry class after they’d was about but suffice it to say that it’s absolutely fucking bonkers how often I encounter “Sweet Home Alabama” (and other tunes I’ve already heard hundreds of times throughout the first third of my existence, conservatively) dripping down from the overhead speakers in all manner of big retail stores, where it’s inappropriate and unwelcome. Even from the generous assumption that every single one of them is an objective masterwork of composition, the amount of affection the American music listening audience has for the same 500 singles is on par with our rampant gun violence in terms of our unanimous tolerance for ridiculously illogical habits. I’ve been sitting in a cute, moderately trendy coffee shop on the corner of the major avenue of access to my cute, moderately trendy Portland neighborhood for an hour now, and I’ve recognized every single one of the tracks played just a bit too loudly on the stereo. I’ve been sick of them all since Middle School. That one Bow Bow Chicka Chicka thing… How very charming. _“The 70s, the 80s… the one-hit wonder channel!”_
-- Contrary to the popular hipster narrative we’ve just defeated, it’s not the popularity of the lineup that makes these experiences so distasteful, but their **_regularity_**. It doesn’t take a doctor of psychology to observe that tireless exposure to any given work of art inevitably erodes its value, yet we continue to expend resources saturating most mundane spaces in our society with an unyielding regurgitation of the same brackish pop culture symbols as if we’re trying to either induce a canonical vomit, intentionally obliterate the Yelp! reviews for a distant future museum’s “North America Enters the 21st Century” exhibit, or _both_.
-- This issue is not unique to American society nor to men, really, but is entirely the sickness of white boomers and gen Xers. It is an anomaly that has genuinely and profoundly perturbed me for virtually the entirety of my existence as a culturally literate entity - certainly longer than any of the other disturbances addressed in this volume.
-- The process of jazz becoming mainstream (which I think it had definitely by the 1940s.)
-- "[Boomers' Destructive Generational Tastemaking Disaster](https://www.davidblue.wtf/boomers-destructive-generational-tastemaking-disaster/)"
-- Catcalling
-- Clothes
-- Stuff we should **keep to ourselves**
-- Credits
-- "I'm laughing at you and the best part is you won't truly understand why, in any deep and meaningful way, for another 20 years." - [JustSomeGuy on Mastodon](https://mastodon.online/@JustSomeGuy/104689299479520224) 
-- Little Reviews
-- WorkFlowy
-- "[WorkFlowy Web Clipper: a smoother way to research](https://blog.workflowy.com/2020/07/20/workflowy-web-clipper-a-smoother-way-to-research/)" | WorkFlowy Blog
-- [My notes for this post on WorkFlowy](https://workflowy.com/s/workflowy/wwjjGNdHacP4nPz8) 
-- I wish I could use **Ctrl+K** for hyperlinking instead of quick navigation - this is a complaint I have that spreads across _a lot_ of different apps these days including Discord, Atom. The process of hyperlinking is inevitably reversed by the lack of a dedicated keyboard shortcut.
-- "Digital Composition Utopia" - "Typed Eden" - "Digital Composition Zion" - "Document Zero"
-- It took _far_ too long for me to discover that a [desktop app exists](https://workflowy.com/downloads?utm_source=product_message) for all three major platforms.
-- In fact, I'm pretty sure the banner only appeared on the web app when I lost network connection in the middle of editing.
-- The use of the shortcuts **Ctrl+**↑&↓ and **Alt+**←&→ is one of those genuinely unique components.
-- SoundCloud Go+
-- Even [Keith Jarrett](https://soundcloud.com/keithjarrettofficial) has an official account (minus any brand images, of course.)
-- I was also surprised to find that I could listen to [the Dixie Chicks' new album](https://soundcloud.com/dixiechicks/sets/gaslighter-2) on SoundCloud, though hardly anyone else has.
-- With the seemingly ever-widening disparity in the experiences of free vs. premium users, SoundCloud appears to be moving actively away from the former.
-- SoundCloud's castability with Google Chromecast.
-- In encouraging more use, SoundCloud Go+ encourages more curation, which is - in theory - good for SoundCloud. I'm doing work for them.
-- You can make your [Weekly "Discover" Playlists](https://soundcloud.com/discover/sets/weekly::chordoslut) publicly linkable for some reason.
-- Adobe InDesign
-- A notable lack of competition in the space - most Adobe apps have at least one somewhat legitimate freeware or open source competitor.
-- Reference
-- Farhad Manjoo on Writing Software
-- "[Bringing Order to the Chaos of Notes](https://www.nytimes.com/2009/05/28/technology/personaltech/28basics.html)" | _The New York Times_ (2009) - Regarding Evernote. 
-- "[Everything Is a List](https://slate.com/technology/2012/08/workflowy-the-note-taking-app-that-changed-the-way-i-organize-my-life.html)" | _Slate_ (2012) - Regarding WorkFlowy. He was still using WorkFlowy [as of 2015](https://lifehacker.com/im-farhad-manjoo-tech-columnist-at-the-new-york-times-1726188586).
-- "[I Didn’t Write This Column. I Spoke It.](https://www.nytimes.com/2019/04/10/opinion/screenless-internet.html)" | _The New York Times_ (2019) - Regarding RecUp and Descript. 
-- Academia
-- Public Speaking
-- General Speech Subject Ideas
-- Why sun worship is the most rational religion.
-- Illiteracy in American Media (ahem)
+- [Mastoot](drafts://open?uuid=9842804D-42D5-4433-8C71-F8432D08EC6C)
+# Drafts Tag List
+`20220521-103511`
 
 
+- $
+- 2021
+- academia
+- accessibility
+- actions
+- admin
+- amanda
+- anecdote
+- annotation
+- api
+- app store
+- archive
+- audio
+- authentication
+- auto
+- automation
+- bbedit
+- bear
+- beta
+- bilge
+- bio
+- birthday
+- blink
+- blog
+- bookmarked
+- bot
+- brand
+- ~~bumble~~
+- capture
+- chaff
+- cheatsheets
+- cinema
+- citation
+- cli
+- cms
+- code
+- color
+- columbia
+- compaq
+- configuration
+- correspondence
+- css
+- curation
+- data
+- dbi
+- debug
+- design
+- dev
+- discord
+- discourse
+- discussions
+- distributed
+- divison
+- dm
+- documentation
+- dots
+- drafts
+- dry
+- duplicate
+- ed
+- editorial
+- email
+- embed
+- end user
+- engagement
+- essay
+- event
+- evernote
+- exclusive
+- exported2obsidian
+- extratone
+- facebook
+- family
+- fantastical
+- federated
+- feebles
+- feedback
+- files
+- film
+- forums
+- freq
+- friends
+- gist
+- git
+- goss
+- guide
+- h
+- handset
+- hardware
+- hex
+- hildur
+- home
+- honk
+- html
+- i
+- images
+- import
+- inbox
+- index
+- instagram
+- ios
+- javascript
+- jfa
+- jorts
+- js
+- juegos
+- kernal
+- keys
+- krusemark
+- learn
+- legacy
+- legal
+- library
+- list
+- live
+- local
+- log
+- macos
+- macstories
+- martin
+- mastodon
+- mazcos
+- md
+- media
+- meta
+- mickey
+- motorsport
+- music
+- neocities
+- nina
+- notes
+- notion
+- obsidian
+- odette
+- open
+- os
+- pages
+- philip roth
+- ~~piss~~****
+- places
+- podcasts
+- policy
+- power
+- practice
+- print
+- priority
+- prompt
+- prose
+- psalms
+- quote
+- raindrop
+- reading
+- reddit
+- reference
+- review
+- rh
+- rolodex
+- scrape
+- script
+- sent2obsidian
+- shared
+- shell
+- shortcut
+- shortcuts
+- shs
+- sms
+- snippets
+- social
+- software
+- sol
+- spaces
+- spectacle
+- style
+- support
+- swift
+- tabs
+- tagset
+- taio
+- telegram
+- template
+- test
+- ~~testing  documentation~~
+- text
+- text manipulation
+- textexpander
+- theme
+- time
+- todo
+- todoist
+- tot
+- transcript
+- tts
+- tweet
+- twitter
+- ~~ulysses~~
+- verge
+- video
+- vocabulary
+- web
+- wiki
+- windows
+- wish
+- writeas
+- wtf
+- x
+- youtube
+- ~
 
-**Esse URL Scheme**
-
-The Esse app registers the custom URL scheme esse://. The following paths are currently implemented:
-
-iOS and macOS
-
-replace?text=Text - clear Input field and put Text into it
-clipboard - clear Input field and put clipboard content into it
-clear - clear Input field
-macOS
-
-copyresult - copy Result field to clipboard
-resetfunctions - reset selected functions\\transforms
-
-Will display a dialog box saying “Hello”
-osascript -e 'tell app "Finder" to make new Finder window'
-Will open a new Finder window
-osascript -e "set volume 0"
-Will mute the system volume.
-We have covered numerous short AppleScripts using the osascript command before, including [gracefully quitting applications in Mac OS from the command line](https://osxdaily.com/2014/09/05/gracefully-quit-application-command-line/), [setting Mac wallpaper from the command line](https://osxdaily.com/2015/08/28/set-wallpaper-command-line-macosx/), [ejecting all mounted volumes](https://osxdaily.com/2014/05/22/eject-all-mounted-volumes-command-line-mac/), [muting or changing system volume](https://osxdaily.com/2007/04/28/change-the-system-volume-from-the-command-line/), and more. Anyone interested in learning more about AppleScript can find a significant amount of information, syntax, commands, and helpful guides in the ‘Script Editor’ application bundled with MacOS and Mac OS X.
-Know of any particularly interesting tricks for using AppleScript from the command line? Let us know in the comments below.
----
-## Screen
-
-#### Diagonal Size
--1.0 in
-#### Resolution
-428x926
-#### Pixel Density
-Couldn't determine pixels per inch
-#### Ratio
--1.0:-1.0
-
----
-## Software
-#### Name
-Jorts
-#### Hostname
-jorts.local
-#### Operating System
-Version 15.5 (Build 19F5047e)
-#### Uptime
-90 hours
-#### Volume
-0.375
-#### Preferred Language
-en-US
-#### Primary Locale
-en
-#### System Style
-Light mode
-
----
-
-## Storage
-^^ Total
-255.88 GB
-^^ Used
-206.32 GB (81%)
-^^ Remaining
-49.56 GB (19%)
-
-find * -type f -not -name "_._" -exec mv "{}" "{}".txt \\;
-- [2A1A8F17-FA39-449A-8BB7-7047DC007987](shareddocuments:///private/var/mobile/Containers/Data/PluginKitPlugin/51A06C8C-E7AC-4002-956A-CE75C82D3739/tmp/709B51A1-1081-4D17-8B95-D68351EAE821/2A1A8F17-FA39-449A-8BB7-7047DC007987)
-# Facebook for iOS URL Scheme
-fb://
-fbauth://
-fbauth2://
-fblogin://
-fbapi://
-Open feed
-<fb://feed>
-Open profile page
-<fb://profile>
-Open notifications
-<fb://notifications>
-Open events
-<fb://events>
-Open groups
-<fb://groups>
-Open saved posts
-<fb://saved>
-Open job search
-<fb://jobSearch>
-Open marketplace
-<fb://marketplace>
-Open messages (Messenger)
-<fb://messaging>
-Open specific album
-<fb://album?id=THEIDOFTHEALBUM>
-Open specific photo
-<fb://photo?id=THEIDOFTHEPICTURE>
-Open specific post
-<fb://profile/THEIDOFTHEPOST>
-Open Watch
-<fb://watch>
-Open Watch watchlist
-<fb://watch/watchlist>
-No longer working as of May 3, 2021
-───────────────────────────────────
-<fb://albums>
-<fb://background_location>
-<fb://friends>
-<fb://notes>
-<fb://requests>
-Unverified as of Aug. 18, 2021
-───────────────────────────────────
-facebook-stories://
-facebook-stories-list://
-fb-broadcastextension://
-fb-creative-app-platform://
-fb-creative-platform://
-fb-creative-platform-20150615://
-fb-event-create://
-fb-messenger-mk-share-20180821://
-fb-profile-expression-platform://
-fb-profile-expression-platform-20160405://
-fb-profile-media-frame://
-fb-profile-media-platform://
-fb-profile-media-platform-20160202://
-fb-quicksilver-20170322://
-fbshareextension://
-<vlc-x-callback://x-callback-url/stream?url=url>
-[App Release Notes Are Getting Stupid – TechCrunch](bear://x-callback-url/open-note?id=06CF0589-A2B9-4632-8BE8-96C693F09DD7-12814-0000023C1848E75B)
-# Writeas API Action
-- [WTF](https://davidblue.wtf/drafts/6E8874DD-339A-4C5C-A1EE-38C0E0658EA5.html)
-
-curl <https://api.telegram.org/bot272312838:AAG1RHmtlUAFktUrN8CrD3XScjOCULyCHqQ/sendMessage?chat_id=-1001140240303&text=test%20text>
+# Drafts Tag List
+`20220521-103511`
 
 
-[Toggle Spotlight Indexing](https://gist.github.com/1603a0f1713f251139931ceef0be72db) - [Snippet](snippetslab://snippet/082CC23E-4D56-4896-A699-AE2228C7F081/)
-\*Disable\* Spotlight Indexing
+- $
+- 2021
+- academia
+- accessibility
+- actions
+- admin
+- amanda
+- anecdote
+- annotation
+- api
+- app store
+- archive
+- audio
+- authentication
+- auto
+- automation
+- bbedit
+- bear
+- beta
+- bilge
+- bio
+- birthday
+- blink
+- blog
+- bookmarked
+- bot
+- brand
+- ~~bumble~~
+- capture
+- chaff
+- cheatsheets
+- cinema
+- citation
+- cli
+- cms
+- code
+- color
+- columbia
+- compaq
+- configuration
+- correspondence
+- css
+- curation
+- data
+- dbi
+- debug
+- design
+- dev
+- discord
+- discourse
+- discussions
+- distributed
+- divison
+- dm
+- documentation
+- dots
+- drafts
+- dry
+- duplicate
+- ed
+- editorial
+- email
+- embed
+- end user
+- engagement
+- essay
+- event
+- evernote
+- exclusive
+- exported2obsidian
+- extratone
+- facebook
+- family
+- fantastical
+- federated
+- feebles
+- feedback
+- files
+- film
+- forums
+- freq
+- friends
+- gist
+- git
+- goss
+- guide
+- h
+- handset
+- hardware
+- hex
+- hildur
+- home
+- honk
+- html
+- i
+- images
+- import
+- inbox
+- index
+- instagram
+- ios
+- javascript
+- jfa
+- jorts
+- js
+- juegos
+- kernal
+- keys
+- krusemark
+- learn
+- legacy
+- legal
+- library
+- list
+- live
+- local
+- log
+- macos
+- macstories
+- martin
+- mastodon
+- mazcos
+- md
+- media
+- meta
+- mickey
+- motorsport
+- music
+- neocities
+- nina
+- notes
+- notion
+- obsidian
+- odette
+- open
+- os
+- pages
+- philip roth
+- ~~piss~~\*\*\*\*
+- places
+- podcasts
+- policy
+- power
+- practice
+- print
+- priority
+- prompt
+- prose
+- psalms
+- quote
+- raindrop
+- reading
+- reddit
+- reference
+- review
+- rh
+- rolodex
+- scrape
+- script
+- sent2obsidian
+- shared
+- shell
+- shortcut
+- shortcuts
+- shs
+- sms
+- snippets
+- social
+- software
+- sol
+- spaces
+- spectacle
+- style
+- support
+- swift
+- tabs
+- tagset
+- taio
+- telegram
+- template
+- test
+- ~~testing  documentation~~
+- text
+- text manipulation
+- textexpander
+- theme
+- time
+- todo
+- todoist
+- tot
+- transcript
+- tts
+- tweet
+- twitter
+- ~~ulysses~~
+- verge
+- video
+- vocabulary
+- web
+- wiki
+- windows
+- wish
+- writeas
+- wtf
+- x
+- youtube
+- ~
+- 
 
-`sudo mdutil -i off`
+**SCOPE: Pitching our ingenious youth-targeted car brand**
+ya know, at the time (December 11th, 2015,) this was really funny. never did we think it would ACTUALLY HAPPEN and worse. 
 
-\*Enable\* Spotlight indexing
+this is just another example of the bizarre reality i live in - the melon man has stolen my sense of humor from me, literally.  
 
-`sudo mdutil -i on`
-
----
-
-`wget --recursive --page-requisites --adjust-extension --span-hosts --convert-links --restrict-file-names=windows --domains clipboard --no-parent clipboard`
+“Fuck (patent pending) is the property of Drywall Media, Inc. Any and all theft of this property will result in execution.”
