@@ -1,7 +1,7 @@
 **_Constraints can be powerful._**
 T       O       T               L       E       A       R       N    
 
-[dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random  Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - _[DraftsKeysUpdate](shortcuts://run-shortcut?name=DraftsKeysUpdate)_ - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [Vocabulary Index](shortcuts://run-shortcut?name=Vocabulary%20Index) - [HighResArtwork.](shortcuts://run-shortcut?name=HighResArtwork.) - [HRAAnim](shortcuts://run-shortcut?name=HighResArtwork%20Animated) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [Clipboard](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[⇨](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[txt](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File) - [GIF](shortcuts://run-shortcut?name=Better%20Gif%20Maker) - [ReleaseNotes](shortcuts://run-shortcut?name=Retrieve%20Release%20Notes) - [CombineImgs](shortcuts://run-shortcut?name=ImageCombineScratch)
+[dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [Swing Updater](shortcuts://run-shortcut?name=Swing%20Updater) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random  Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - _[DraftsKeysUpdate](shortcuts://run-shortcut?name=DraftsKeysUpdate)_ - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [Vocabulary Index](shortcuts://run-shortcut?name=Vocabulary%20Index) - [HighResArtwork.](shortcuts://run-shortcut?name=HighResArtwork.) - [HRAAnim](shortcuts://run-shortcut?name=HighResArtwork%20Animated) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [Clipboard](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[⇨](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[txt](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File) - [GIF](shortcuts://run-shortcut?name=Better%20Gif%20Maker) - [ReleaseNotes](shortcuts://run-shortcut?name=Retrieve%20Release%20Notes) - [CombineImgs](shortcuts://run-shortcut?name=ImageCombineScratch) - [PATHS](shortcuts://run-shortcut?name=PATHS)
 
 [Lab Dashboard](snippetslab://snippet/516E6A5A-1FC0-47CA-B67F-9B63B84C64D5/)
 
@@ -15,7 +15,8 @@ T       O       T               L       E       A       R       N
 [RoutinePub](shortcuts://run-shortcut?name=RoutinePub)
 [Shortcut Source](shortcuts://run-shortcut?name=Shortcut%20Source%20Tool)
 [Action Directory](shortcuts://run-shortcut?name=Action%20Directory)
-[iOSSystemSounds](https://extratone.github.io/iOSSystemSounds)	[RoutineHub - Create Shortcut](https://routinehub.co/shortcut/create)
+[iOSSystemSounds](https://extratone.github.io/iOSSystemSounds)	
+[RoutineHub - Create Shortcut](https://routinehub.co/shortcut/create)
 
 _New Issues_
 - [i](https://github.com/extratone/i/issues/new/choose)
@@ -167,6 +168,7 @@ _Workspaces_
 - **[DavodKeys Action](https://directory.getdrafts.com/a/2AQ)** - perhaps even set aside a Dot to sync.
 - Searches Action Group
 - RadioLeMans in VLC Shortcut
+- Learn Morse Code
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
@@ -431,8 +433,19 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Nina Loves Laying Down](drafts://open?uuid=114D25A5-5956-4734-9744-C48FC53D75D8)
 - [OBSIDIAN SMACKDOWN Video](drafts://open?uuid=BB1A3BC3-AD77-4AF2-8088-1818E05A63B5)
 - [Mastodon Bookmark (API) Shortcut](drafts://open?uuid=7597DD73-E99D-4FC0-94A3-C1E405EF2A54)
-
 - [Mastoot](drafts://open?uuid=9842804D-42D5-4433-8C71-F8432D08EC6C)
+
+- [Tootoise](drafts://open?uuid=30163968-D73D-4DA8-BC3E-F285037209A9)
+
+- [The State of Mastodon iOS Apps](drafts://open?uuid=70A6D4C2-9D45-4FDC-954A-BE092DACD3EF)
+
+- [Mastodon for iPhone Review](drafts://open?uuid=DA75ADDA-0265-40B3-9CE4-71CBA2AC9774)
+
+- [Write to Working Copy Taio Action](drafts://open?uuid=96E02CFC-8954-44D6-AF7D-C42800209975)
+
+- [iTextEditors Submission Template](drafts://open?uuid=C68B96F5-801A-4C58-BFDA-35FC720E10D4)
+
+- [Represent Nothing (null) in Actions](drafts://open?uuid=823477CD-26E1-4CCA-A34B-D3EF3B7A5AD0)
 # Drafts Tag List
 `20220521-103511`
 
@@ -645,222 +658,3 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - youtube
 - ~
 
-# Drafts Tag List
-`20220521-103511`
-
-
-- $
-- 2021
-- academia
-- accessibility
-- actions
-- admin
-- amanda
-- anecdote
-- annotation
-- api
-- app store
-- archive
-- audio
-- authentication
-- auto
-- automation
-- bbedit
-- bear
-- beta
-- bilge
-- bio
-- birthday
-- blink
-- blog
-- bookmarked
-- bot
-- brand
-- ~~bumble~~
-- capture
-- chaff
-- cheatsheets
-- cinema
-- citation
-- cli
-- cms
-- code
-- color
-- columbia
-- compaq
-- configuration
-- correspondence
-- css
-- curation
-- data
-- dbi
-- debug
-- design
-- dev
-- discord
-- discourse
-- discussions
-- distributed
-- divison
-- dm
-- documentation
-- dots
-- drafts
-- dry
-- duplicate
-- ed
-- editorial
-- email
-- embed
-- end user
-- engagement
-- essay
-- event
-- evernote
-- exclusive
-- exported2obsidian
-- extratone
-- facebook
-- family
-- fantastical
-- federated
-- feebles
-- feedback
-- files
-- film
-- forums
-- freq
-- friends
-- gist
-- git
-- goss
-- guide
-- h
-- handset
-- hardware
-- hex
-- hildur
-- home
-- honk
-- html
-- i
-- images
-- import
-- inbox
-- index
-- instagram
-- ios
-- javascript
-- jfa
-- jorts
-- js
-- juegos
-- kernal
-- keys
-- krusemark
-- learn
-- legacy
-- legal
-- library
-- list
-- live
-- local
-- log
-- macos
-- macstories
-- martin
-- mastodon
-- mazcos
-- md
-- media
-- meta
-- mickey
-- motorsport
-- music
-- neocities
-- nina
-- notes
-- notion
-- obsidian
-- odette
-- open
-- os
-- pages
-- philip roth
-- ~~piss~~\*\*\*\*
-- places
-- podcasts
-- policy
-- power
-- practice
-- print
-- priority
-- prompt
-- prose
-- psalms
-- quote
-- raindrop
-- reading
-- reddit
-- reference
-- review
-- rh
-- rolodex
-- scrape
-- script
-- sent2obsidian
-- shared
-- shell
-- shortcut
-- shortcuts
-- shs
-- sms
-- snippets
-- social
-- software
-- sol
-- spaces
-- spectacle
-- style
-- support
-- swift
-- tabs
-- tagset
-- taio
-- telegram
-- template
-- test
-- ~~testing  documentation~~
-- text
-- text manipulation
-- textexpander
-- theme
-- time
-- todo
-- todoist
-- tot
-- transcript
-- tts
-- tweet
-- twitter
-- ~~ulysses~~
-- verge
-- video
-- vocabulary
-- web
-- wiki
-- windows
-- wish
-- writeas
-- wtf
-- x
-- youtube
-- ~
-- 
-
-**SCOPE: Pitching our ingenious youth-targeted car brand**
-ya know, at the time (December 11th, 2015,) this was really funny. never did we think it would ACTUALLY HAPPEN and worse. 
-
-this is just another example of the bizarre reality i live in - the melon man has stolen my sense of humor from me, literally.  
-
-“Fuck (patent pending) is the property of Drywall Media, Inc. Any and all theft of this property will result in execution.”
