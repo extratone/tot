@@ -169,15 +169,12 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [OBSIDIAN SMACKDOWN Video](drafts://open?uuid=BB1A3BC3-AD77-4AF2-8088-1818E05A63B5)
 - [Mastodon Bookmark (API) Shortcut](drafts://open?uuid=7597DD73-E99D-4FC0-94A3-C1E405EF2A54)
 - [Mastoot](drafts://open?uuid=9842804D-42D5-4433-8C71-F8432D08EC6C)
-
 - [Tootoise](drafts://open?uuid=30163968-D73D-4DA8-BC3E-F285037209A9)
-
 - [The State of Mastodon iOS Apps](drafts://open?uuid=70A6D4C2-9D45-4FDC-954A-BE092DACD3EF)
-
 - [Mastodon for iPhone Review](drafts://open?uuid=DA75ADDA-0265-40B3-9CE4-71CBA2AC9774)
-
 - [Write to Working Copy Taio Action](drafts://open?uuid=96E02CFC-8954-44D6-AF7D-C42800209975)
-
 - [iTextEditors Submission Template](drafts://open?uuid=C68B96F5-801A-4C58-BFDA-35FC720E10D4)
-
 - [Represent Nothing (null) in Actions](drafts://open?uuid=823477CD-26E1-4CCA-A34B-D3EF3B7A5AD0)
+- [iOS Settings Bookmarks](drafts://open?uuid=2BCBA7B2-9F74-4615-8638-61C1A297C95C)
+- [Telegram Guides](drafts://open?uuid=FA94A2CE-CCF5-4FA0-850E-C4FAE9102E8B)
+- [ACQUIRE](drafts://open?uuid=56018F10-2667-45C6-BCD4-FE37FA02F7F2)

@@ -1,3 +1,9 @@
+**_SnippetsLab**
+-_ [General Terminal Bookmarks](snippetslab://snippet/4B6F1AD4-4A13-439D-92E7-D64D3E7501A7/)
+- ⇧ [Gist](https://gist.github.com/fdc905bbe098e1d7172c3d619d00e808)
+- [Export TextExpander Groups](snippetslab://snippet/D5A1809B-FD3C-4C5C-A6D5-9FEF986439CF/)
+_-_ 
+
 _No highs? 
 No lows?
 It must be Bose!_
