@@ -460,6 +460,11 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [iOS Settings Bookmarks](drafts://open?uuid=2BCBA7B2-9F74-4615-8638-61C1A297C95C)
 - [Telegram Guides](drafts://open?uuid=FA94A2CE-CCF5-4FA0-850E-C4FAE9102E8B)
 - [ACQUIRE](drafts://open?uuid=56018F10-2667-45C6-BCD4-FE37FA02F7F2)
+- [Had a great time hanging out in the Remark.as chat room today! Thanks to...](drafts://open?uuid=B630BDE8-93CC-4B57-B511-06811809E4DB)
+- [Retrieve Live NPR Program Information with Siri Shortcuts](drafts://open?uuid=32965B91-A784-4651-9F9E-EE02C9548DE2)
+- [Notes - Retrieve Live NPR Program Information with Siri Shortcuts](drafts://open?uuid=32965B91-A784-4651-9F9E-EE02C9548DE2)
+- [What's on NPR? Shortcut](drafts://open?uuid=50A1DB96-8ADD-42F1-8909-AFFDD3F4086F)
+- [VLC media player for iOS x-callback-url](drafts://open?uuid=70DDE595-3AD9-4D64-87FB-4919E8ABF529)
 # Drafts Tag List
 `20220521-103511`
 
