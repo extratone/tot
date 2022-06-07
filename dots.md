@@ -291,8 +291,8 @@ _Drafts_
 - [David Blue’s Siri Shortcuts Repository
 -](drafts://open?uuid=7998F086-4951-4DAB-995F-FE698FACFF78) 
 
-**※ G o o d M o r n i n g ※
-**[David Blue](https://davidblue.wtf/)
+**※ G o o d M o r n i n g ※**
+[David Blue](https://davidblue.wtf/)
 ￼
 **I'm David Blue - an automotive journalist on sabbatical and self-described _Software Historian_.**
 
@@ -465,6 +465,10 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Notes - Retrieve Live NPR Program Information with Siri Shortcuts](drafts://open?uuid=32965B91-A784-4651-9F9E-EE02C9548DE2)
 - [What's on NPR? Shortcut](drafts://open?uuid=50A1DB96-8ADD-42F1-8909-AFFDD3F4086F)
 - [VLC media player for iOS x-callback-url](drafts://open?uuid=70DDE595-3AD9-4D64-87FB-4919E8ABF529)
+- [WWDC 2022](drafts://open?uuid=57D5E99D-EF49-4085-8BB5-FAE3275BCB30)
+- [WWDC 2022 Commentary](drafts://open?uuid=57D5E99D-EF49-4085-8BB5-FAE3275BCB30)
+- [Notes-A Week with an iPad Pro](drafts://open?uuid=3862CF0D-843C-4BDE-996A-054F901FBE16)
+- [A Week with an iPad Pro](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
 # Drafts Tag List
 `20220521-103511`
 
