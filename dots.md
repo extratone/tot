@@ -188,6 +188,7 @@ _ACQUIRE_
 - Searches Action Group
 - RadioLeMans in VLC Shortcut
 - Learn Morse Code
+- Pitch: Visual Storytelling exclusively [with Apple marketing images](https://twitter.com/NeoYokel/status/1538213690746585092)
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
@@ -208,7 +209,7 @@ _ACQUIRE_
 **_SnippetsLab**
 -_ [General Terminal Bookmarks](snippetslab://snippet/4B6F1AD4-4A13-439D-92E7-D64D3E7501A7/)
 - ⇧ [Gist](https://gist.github.com/fdc905bbe098e1d7172c3d619d00e808)
-- [Export TextExpander Groups](snippetslab://snippet/D5A1809B-FD3C-4C5C-A6D5-9FEF986439CF/)
+- [Export TextExpander Groups](snippetslab://snippet/D5A1809B-FD3C-4C5C-A6D5-9FEF986439CF/)<message:%3Ccm.2308278116099.fideil.tkuiuhhylu.d@cmail20.com%3E>
 _-_ 
 
 _No highs? 
@@ -493,6 +494,24 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [The Davod Tripod](drafts://open?uuid=FAC07FF1-7D5E-43B8-A524-E5AAB3854075)
 
 - [iCloud Mail Addresses and Aliases](drafts://open?uuid=B3C09F60-9564-4F0B-8E60-A5410909A3BF)
+
+- [MacStories  Annotation](drafts://open?uuid=127EC7E6-8C52-4DCE-A466-AFD0788E7923)
+
+- [FloGro](drafts://open?uuid=745961AC-FE53-4924-A56D-79FBB943E51F)
+
+- [The  Apple Music  Channel in Apple News (lol)](drafts://open?uuid=EF2BF174-72D8-4979-ACA0-3A6CFB9DF07D)
+
+- [The  Apple Music  Channel in Apple News (lol)](drafts://open?uuid=EF2BF174-72D8-4979-ACA0-3A6CFB9DF07D)
+
+- [Mattcito Help   MacStories Discord](drafts://open?uuid=424FFFE3-0335-4398-8588-A9149CD0A208)
+
+- [Mattcito Help   MacStories Discord](drafts://open?uuid=424FFFE3-0335-4398-8588-A9149CD0A208)
+
+- [Twitter Publish Tool Action](drafts://open?uuid=9D00D881-F9FA-4613-A58C-18F97690C60A)
+
+- [maneuver](drafts://open?uuid=96BBD706-BF95-40B2-AE70-473893539F41)
+
+- [Video - Realtime Drafts Sync from Scratch](drafts://open?uuid=3654868A-C962-4E0F-8E97-4675469416A9)
 # Drafts Tag List
 `20220521-103511`
 
@@ -705,38 +724,46 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - youtube
 - ~
 
-James Rath
-[#Accessibility #iOS](https://www.google.com/search?q=james+rath&client=safari&hl=en-us&sxsrf=ALiCzsYxNdHDx7oxFxUjEAsBoK4RNursAA%3A1655193423184&ei=Tz-oYrHuCqmD9PwP8-uuiAQ&ved=0ahUKEwjx0ZeAvKz4AhWpAZ0JHfO1C0EQ4dUDCA0&uact=5&oq=james+rath&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgUIABCABDIKCAAQgAQQhwIQFDIFCC4QgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQguEIAEMgUIABCABDoHCAAQRxCwAzoFCC4QkQI6CwgAELEDEIMBEJECOg0ILhCABBCHAhCxAxAUOgsILhCxAxCDARCRAjoICAAQgAQQsQM6CAguEIAEELEDOhAILhCABBCHAhCxAxDUAhAUOggILhDUAhCRAjoFCAAQkQI6CwguEIAEELEDEIMBOg0ILhCABBCHAhDUAhAUOgoILhCABBCHAhAUSgQIQRgASgQIRhgAUIEvWI8yYKA0aANwAXgAgAGfAYgBngSSAQMwLjSYAQCgAQHIAQjAAQE&sclient=gws-wiz) #film #media [
-](https://www.google.com/search?q=james+rath&client=safari&hl=en-us&sxsrf=ALiCzsYxNdHDx7oxFxUjEAsBoK4RNursAA%3A1655193423184&ei=Tz-oYrHuCqmD9PwP8-uuiAQ&ved=0ahUKEwjx0ZeAvKz4AhWpAZ0JHfO1C0EQ4dUDCA0&uact=5&oq=james+rath&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgUIABCABDIKCAAQgAQQhwIQFDIFCC4QgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQguEIAEMgUIABCABDoHCAAQRxCwAzoFCC4QkQI6CwgAELEDEIMBEJECOg0ILhCABBCHAhCxAxAUOgsILhCxAxCDARCRAjoICAAQgAQQsQM6CAguEIAEELEDOhAILhCABBCHAhCxAxDUAhAUOggILhDUAhCRAjoFCAAQkQI6CwguEIAEELEDEIMBOg0ILhCABBCHAhDUAhAUOgoILhCABBCHAhAUSgQIQRgASgQIRhgAUIEvWI8yYKA0aANwAXgAgAGfAYgBngSSAQMwLjSYAQCgAQHIAQjAAQE&sclient=gws-wiz)	•	
-	•	[james rath - Google Search](https://www.google.com/search?q=james+rath&client=safari&hl=en-us&sxsrf=ALiCzsYxNdHDx7oxFxUjEAsBoK4RNursAA%3A1655193423184&ei=Tz-oYrHuCqmD9PwP8-uuiAQ&ved=0ahUKEwjx0ZeAvKz4AhWpAZ0JHfO1C0EQ4dUDCA0&uact=5&oq=james+rath&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgUIABCABDIKCAAQgAQQhwIQFDIFCC4QgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQguEIAEMgUIABCABDoHCAAQRxCwAzoFCC4QkQI6CwgAELEDEIMBEJECOg0ILhCABBCHAhCxAxAUOgsILhCxAxCDARCRAjoICAAQgAQQsQM6CAguEIAEELEDOhAILhCABBCHAhCxAxDUAhAUOggILhDUAhCRAjoFCAAQkQI6CwguEIAEELEDEIMBOg0ILhCABBCHAhDUAhAUOgoILhCABBCHAhAUSgQIQRgASgQIRhgAUIEvWI8yYKA0aANwAXgAgAGfAYgBngSSAQMwLjSYAQCgAQHIAQjAAQE&sclient=gws-wiz)
-	•	[James Rath](https://jamesrath.la/)
-	•	[James Rath - YouTube](https://www.youtube.com/channel/UC2SRfQNdF3puBVA1uIAsNxg)
-	•	[James Rath (@jamesrath) • Instagram photos and videos](https://www.instagram.com/jamesrath/?hl=en)
-	•	[twitter.com](https://twitter.com/JamesRath?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-	•	[James Rath - IMDb](https://www.imdb.com/name/nm5537155/)
+# Couples Posing in Front of Aircraft They’ve Just Crashed - Photo Collection
+- [WTF](https://davidblue.wtf/drafts/EEA1046E-273B-495C-9DC2-B01E5531FD95.html)
+- [Notion Page](https://rotund.notion.site/Couples-Posing-in-Front-of-Aircraft-They-ve-Just-Crashed-8e5d3bb14b784bf881558c2047ed57e8)
+- [My Facebook Cover Photos Album](https://www.facebook.com/media/set/?set=a.2979252158429)
+- [Sierra Lund](drafts://open?uuid=8B00EB65-8025-4223-A58E-F4227BFE067F)
 
 
+## Flickr
+
+- [Album URL](https://www.flickr.com/photos/dieselgoth/sets/72177720299891632/)
+- [Album Shortlink](https://flic.kr/s/aHBqjzULXs) - `https://flic.kr/s/aHBqjzULXs`
+
+
+```
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/dieselgoth/albums/72177720299891632" title="Couples Posing in Front of Aircraft They’ve Just Crashed"><img src="https://live.staticflickr.com/65535/52155304631_a4c077e54d_z.jpg" width="640" height="480" alt="Couples Posing in Front of Aircraft They’ve Just Crashed"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+```
+
+
+```
+https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane1.jpeg
+https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane2.jpeg
+https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane3.jpeg
+```
 
 ---
 
-**malvarma**
-￼
-[\*\*neverheardof.me\*\*](https://neverheardof.me)
-i'm normal, and you're not.
-_email: <info@neverheardof.me>
-masto: [@malvarma@tiny.tilde.website](https://tiny.tilde.website/@malvarma)
-tilde: [tilde.town/~malvarma](http://tilde.town/~malvarma/)
-_**Works**
-	◦	[Videos](https://yewtu.be/channel/UCI6yn1ZJjoWAxb46iRSEGVQ) [[mirror]](<https://vimeo.com/user1738838>)
-	◦	[Music](https://soundcloud.com/normal_if/)
-	◦	[Images](https://rasterburn.neverheardof.me/)
-	◦	[Constructed Language](https://idioma.neverheardof.me/)
-**Free Stuff**
-	◦	[Free Sounds](https://freesound.org/people/neverheardof.me/) You Can Sample
-	◦	[Drum Kit](https://www.neverheardof.me/hydrogen) for Hydrogen
-**Other People & Places**
-	◦	[Friends](https://www.neverheardof.me/friends) of [neverheardof.me](http://neverheardof.me)
-	◦	[Poke](http://poke.neverheardof.me/) (Co-created by Vigs)
-	◦	[New Bird Landowner](https://archive.org/details/brennan-worldwide)
-	◦	[Box & Slime Planet](https://slimebox.neverheardof.me/)
-	◦	[neverheardof.me](http://neverheardof.me) [en Español](https://www.neverheardof.me/es)
+![1](https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane1.jpeg)
+
+- [Original Cover Photo](https://www.facebook.com/photo/?fbid=10219844116911435&set=a.2979252158429&__tn__=%2CO*F)
+
+![2](https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane2.jpeg)
+
+- [Sierra Lund](drafts://open?uuid=8B00EB65-8025-4223-A58E-F4227BFE067F)
+- [Sierra Lund WTF Page](https://davidblue.wtf/drafts/8B00EB65-8025-4223-A58E-F4227BFE067F.html)
+- [Sierra Lund Notion Page](https://rotund.notion.site/Sierra-Lund-fd735824b5a346d4affa47b253791e44)
+- [Original Cover Photo](https://www.facebook.com/photo/?fbid=10219844116911435&set=a.2979252158429&__tn__=%2CO*F)
+
+![3](https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane3.jpeg)
+
+- [Original Cover Photo](https://www.facebook.com/photo/?fbid=10207889087043160&set=a.2979252158429&__tn__=%2CO*F)
+
+---
+
