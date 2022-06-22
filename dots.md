@@ -133,6 +133,11 @@ _ACQUIRE_
 - **⌥⌘S** = Save Backup
 - **⌥⌘R** = Restore Backup
 
+**Mail**
+
+
+- [KOPN Newsletter, June 2022](message:%3C1138917676972.1135849712953.1690315610.0.730530JL.2002@scheduler.constantcontact.com%3E)
+
 **Todo**
 - [Write.as Siri Shortcuts](drafts://open?uuid=C616958C-BFDE-4B6C-A7E9-05CBAF394E08)
 - [Generate Shortcuts x-callback Links (macOS)](drafts://open?uuid=400D3AE6-CBA9-4272-B681-92B9131ED7B3)
@@ -239,7 +244,14 @@ _[BearTest](bear://x-callback-url/open-note?id=E2DE96E8-7C98-4403-AD5B-586C2048F
 - Esse Scripts
 - Cheatsheets
 
-
+**iPad Pro**
+- Hypothesis on homescreen
+- Doof
+- Tmux
+- The homescreens MacStories section	
+- Complain about the widdle keyboard button
+- Add friend's music via iTunes for Windows
+- SimpleNote as cross-platform snippet manager.
 
 Creative Wellness\*\*
 - Gran Turismo Sounds
@@ -489,29 +501,30 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [The Social Web & You-A Proposed Reflection](drafts://open?uuid=BCA4DDCF-9D45-4923-BB76-448473111393)
 - [Portland Litter Brigade Slavery](drafts://open?uuid=F2BE03B4-A9DD-4541-99EF-6AD25AE97DF2)
 - [Comment on Sam Sheffer's Humane video](drafts://open?uuid=4C392DA2-1778-4A32-9864-EF8FC487458D)
-- [Comment on Sam Sheffer's Humane video](drafts://open?uuid=4C392DA2-1778-4A32-9864-EF8FC487458D)
+- [Comm on Sam Sheffer's Humane video](drafts://open?uuid=4C392DA2-1778-4A32-9864-EF8FC487458D)
 - [James Rath](drafts://open?uuid=7AC9D388-A91B-4ED1-B256-71C0304C81E3)
 - [The Davod Tripod](drafts://open?uuid=FAC07FF1-7D5E-43B8-A524-E5AAB3854075)
-
 - [iCloud Mail Addresses and Aliases](drafts://open?uuid=B3C09F60-9564-4F0B-8E60-A5410909A3BF)
-
-- [MacStories  Annotation](drafts://open?uuid=127EC7E6-8C52-4DCE-A466-AFD0788E7923)
-
+- [MacStories Annotation](drafts://open?uuid=127EC7E6-8C52-4DCE-A466-AFD0788E7923)
 - [FloGro](drafts://open?uuid=745961AC-FE53-4924-A56D-79FBB943E51F)
-
 - [The  Apple Music  Channel in Apple News (lol)](drafts://open?uuid=EF2BF174-72D8-4979-ACA0-3A6CFB9DF07D)
-
 - [The  Apple Music  Channel in Apple News (lol)](drafts://open?uuid=EF2BF174-72D8-4979-ACA0-3A6CFB9DF07D)
-
-- [Mattcito Help   MacStories Discord](drafts://open?uuid=424FFFE3-0335-4398-8588-A9149CD0A208)
-
-- [Mattcito Help   MacStories Discord](drafts://open?uuid=424FFFE3-0335-4398-8588-A9149CD0A208)
-
+- [Mattcito Help](drafts://open?uuid=424FFFE3-0335-4398-8588-A9149CD0A208)
 - [Twitter Publish Tool Action](drafts://open?uuid=9D00D881-F9FA-4613-A58C-18F97690C60A)
-
 - [maneuver](drafts://open?uuid=96BBD706-BF95-40B2-AE70-473893539F41)
-
 - [Video - Realtime Drafts Sync from Scratch](drafts://open?uuid=3654868A-C962-4E0F-8E97-4675469416A9)
+- [Val](drafts://open?uuid=85804431-F569-428D-87BC-6B4FB8C26318)
+- [Notes-Val](drafts://open?uuid=EEDD0E16-411F-4B52-95C9-CF5366AAD72D)
+
+- [Internet History Social Web History and Mastodon](drafts://open?uuid=6A5C5D6A-CA02-4804-9612-AE5013FB30E6)
+
+- [TinyLetter Archive](drafts://open?uuid=6651E343-CDCC-4753-B975-F66B9F5FD852)
+
+- [Denk Alexandru](drafts://open?uuid=23C763EB-9A56-4ACB-BF9B-7E58583D0D61)
+
+- [iOS 14 Review Notes](drafts://open?uuid=B8EA581C-57AA-47ED-9A80-A65B5824BE47)
+
+- [DraftsCult General Correspondence](drafts://open?uuid=CB00A030-E6D1-4D48-95C5-C9B4B847ECD1)
 # Drafts Tag List
 `20220521-103511`
 
@@ -724,6 +737,20 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - youtube
 - ~
 
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/516A48EB-91B6-42F5-A602-72BF3D20A9A6/TinyLetter_LogoGuidelines.pdf>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/AA2284D4-F694-48D5-88AC-1827D1ED4784/TinyLetter_SignupForm.jpg>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/97042C4C-9FEF-4F5B-B48C-EE8592CB4454/TinyLetter_Compose.jpg>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/A92CD6DC-76C5-4BD4-BAB6-A1F7BB153476/TinyLetter_ComposeDevice.jpg>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/653210FB-6360-415E-8567-30F97A85A40A/TinyLetter_Email_Device.jpg>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/93EAD1C1-D155-41CC-AB56-1D3551DACD4D/TinyLetter_SignupForm_Device.jpg>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/D2D0E57F-E48A-418D-922C-4EE2A33C82BC/TinyLetter_Wordmark_White.png>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/D995CCAF-D86B-4AAC-9DCF-4F12C72A6CA6/TinyLetter_Wordmark_Black.png>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/70884008-83FD-415C-A97A-5E37E35903A8/TinyLetter_Wordmark.png>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/6B0C0C7F-05FD-45EC-B34E-05B77C2D8241/TinyLetter_Logo.png>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/9DAF43F2-B4A8-4F54-BF02-2129788E3452/TinyLetter_BrandColors.ase>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/E9412DED-1443-4E75-919E-5FB9893FAB5D/TinyLetter_Logo.eps>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/DFD666E7-E9F7-4655-BAA3-3252CA970A20/TinyLetter_Wordmark.eps>
+
 # Couples Posing in Front of Aircraft They’ve Just Crashed - Photo Collection
 - [WTF](https://davidblue.wtf/drafts/EEA1046E-273B-495C-9DC2-B01E5531FD95.html)
 - [Notion Page](https://rotund.notion.site/Couples-Posing-in-Front-of-Aircraft-They-ve-Just-Crashed-8e5d3bb14b784bf881558c2047ed57e8)
@@ -734,18 +761,18 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 ## Flickr
 
 - [Album URL](https://www.flickr.com/photos/dieselgoth/sets/72177720299891632/)
-- [Album Shortlink](https://flic.kr/s/aHBqjzULXs) - `https://flic.kr/s/aHBqjzULXs`
+- [Album Shortlink](https://flic.kr/s/aHBqjzULXs) - `[https://flic.kr/s/aHBqjzULXs`](https://flic.kr/s/aHBqjzULXs%60)
 
 
 ```
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/dieselgoth/albums/72177720299891632" title="Couples Posing in Front of Aircraft They’ve Just Crashed"><img src="https://live.staticflickr.com/65535/52155304631_a4c077e54d_z.jpg" width="640" height="480" alt="Couples Posing in Front of Aircraft They’ve Just Crashed"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true" href="<https://www.flickr.com/photos/dieselgoth/albums/72177720299891632>" title="Couples Posing in Front of Aircraft They’ve Just Crashed"><img src="[https://live.staticflickr.com/65535/52155304631](https://live.staticflickr.com/65535/52155304631a4c077e54dz.jpg)_[a4c077e54d](https://live.staticflickr.com/65535/52155304631a4c077e54dz.jpg)_[z.jpg](https://live.staticflickr.com/65535/52155304631a4c077e54dz.jpg)" width="640" height="480" alt="Couples Posing in Front of Aircraft They’ve Just Crashed"></a><script async src="//[embedr.flickr.com/assets/client-code.js](http://embedr.flickr.com/assets/client-code.js)" charset="utf-8"></script>
 ```
 
 
 ```
-https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane1.jpeg
-https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane2.jpeg
-https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane3.jpeg
+<https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane1.jpeg>
+<https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane2.jpeg>
+<https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane3.jpeg>
 ```
 
 ---
@@ -767,3 +794,10 @@ https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane3.jp
 
 ---
 
+
+Val (2021) - Amazon Prime Video
+<https://www.amazon.com/Val-Kilmer/dp/B09888KKZK>
+<https://davidblue.wtf/val2021>
+
+
+<https://www.icloud.com/iclouddrive/012kYyHVKiY7o1IlR7J5SUpOw#GuerillaMaab-Resurrected>

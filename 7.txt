@@ -1,3 +1,17 @@
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/516A48EB-91B6-42F5-A602-72BF3D20A9A6/TinyLetter_LogoGuidelines.pdf>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/AA2284D4-F694-48D5-88AC-1827D1ED4784/TinyLetter_SignupForm.jpg>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/97042C4C-9FEF-4F5B-B48C-EE8592CB4454/TinyLetter_Compose.jpg>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/A92CD6DC-76C5-4BD4-BAB6-A1F7BB153476/TinyLetter_ComposeDevice.jpg>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/653210FB-6360-415E-8567-30F97A85A40A/TinyLetter_Email_Device.jpg>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/93EAD1C1-D155-41CC-AB56-1D3551DACD4D/TinyLetter_SignupForm_Device.jpg>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/D2D0E57F-E48A-418D-922C-4EE2A33C82BC/TinyLetter_Wordmark_White.png>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/D995CCAF-D86B-4AAC-9DCF-4F12C72A6CA6/TinyLetter_Wordmark_Black.png>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/70884008-83FD-415C-A97A-5E37E35903A8/TinyLetter_Wordmark.png>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/6B0C0C7F-05FD-45EC-B34E-05B77C2D8241/TinyLetter_Logo.png>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/9DAF43F2-B4A8-4F54-BF02-2129788E3452/TinyLetter_BrandColors.ase>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/E9412DED-1443-4E75-919E-5FB9893FAB5D/TinyLetter_Logo.eps>
+- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/DFD666E7-E9F7-4655-BAA3-3252CA970A20/TinyLetter_Wordmark.eps>
+
 # Couples Posing in Front of Aircraft They’ve Just Crashed - Photo Collection
 - [WTF](https://davidblue.wtf/drafts/EEA1046E-273B-495C-9DC2-B01E5531FD95.html)
 - [Notion Page](https://rotund.notion.site/Couples-Posing-in-Front-of-Aircraft-They-ve-Just-Crashed-8e5d3bb14b784bf881558c2047ed57e8)
@@ -8,18 +22,18 @@
 ## Flickr
 
 - [Album URL](https://www.flickr.com/photos/dieselgoth/sets/72177720299891632/)
-- [Album Shortlink](https://flic.kr/s/aHBqjzULXs) - `https://flic.kr/s/aHBqjzULXs`
+- [Album Shortlink](https://flic.kr/s/aHBqjzULXs) - `[https://flic.kr/s/aHBqjzULXs`](https://flic.kr/s/aHBqjzULXs%60)
 
 
 ```
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/dieselgoth/albums/72177720299891632" title="Couples Posing in Front of Aircraft They’ve Just Crashed"><img src="https://live.staticflickr.com/65535/52155304631_a4c077e54d_z.jpg" width="640" height="480" alt="Couples Posing in Front of Aircraft They’ve Just Crashed"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true" href="<https://www.flickr.com/photos/dieselgoth/albums/72177720299891632>" title="Couples Posing in Front of Aircraft They’ve Just Crashed"><img src="[https://live.staticflickr.com/65535/52155304631](https://live.staticflickr.com/65535/52155304631a4c077e54dz.jpg)_[a4c077e54d](https://live.staticflickr.com/65535/52155304631a4c077e54dz.jpg)_[z.jpg](https://live.staticflickr.com/65535/52155304631a4c077e54dz.jpg)" width="640" height="480" alt="Couples Posing in Front of Aircraft They’ve Just Crashed"></a><script async src="//[embedr.flickr.com/assets/client-code.js](http://embedr.flickr.com/assets/client-code.js)" charset="utf-8"></script>
 ```
 
 
 ```
-https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane1.jpeg
-https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane2.jpeg
-https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane3.jpeg
+<https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane1.jpeg>
+<https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane2.jpeg>
+<https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane3.jpeg>
 ```
 
 ---
@@ -41,3 +55,10 @@ https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane3.jp
 
 ---
 
+
+Val (2021) - Amazon Prime Video
+<https://www.amazon.com/Val-Kilmer/dp/B09888KKZK>
+<https://davidblue.wtf/val2021>
+
+
+<https://www.icloud.com/iclouddrive/012kYyHVKiY7o1IlR7J5SUpOw#GuerillaMaab-Resurrected>

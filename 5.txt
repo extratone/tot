@@ -198,26 +198,27 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [The Social Web & You-A Proposed Reflection](drafts://open?uuid=BCA4DDCF-9D45-4923-BB76-448473111393)
 - [Portland Litter Brigade Slavery](drafts://open?uuid=F2BE03B4-A9DD-4541-99EF-6AD25AE97DF2)
 - [Comment on Sam Sheffer's Humane video](drafts://open?uuid=4C392DA2-1778-4A32-9864-EF8FC487458D)
-- [Comment on Sam Sheffer's Humane video](drafts://open?uuid=4C392DA2-1778-4A32-9864-EF8FC487458D)
+- [Comm on Sam Sheffer's Humane video](drafts://open?uuid=4C392DA2-1778-4A32-9864-EF8FC487458D)
 - [James Rath](drafts://open?uuid=7AC9D388-A91B-4ED1-B256-71C0304C81E3)
 - [The Davod Tripod](drafts://open?uuid=FAC07FF1-7D5E-43B8-A524-E5AAB3854075)
-
 - [iCloud Mail Addresses and Aliases](drafts://open?uuid=B3C09F60-9564-4F0B-8E60-A5410909A3BF)
-
-- [MacStories  Annotation](drafts://open?uuid=127EC7E6-8C52-4DCE-A466-AFD0788E7923)
-
+- [MacStories Annotation](drafts://open?uuid=127EC7E6-8C52-4DCE-A466-AFD0788E7923)
 - [FloGro](drafts://open?uuid=745961AC-FE53-4924-A56D-79FBB943E51F)
-
 - [The  Apple Music  Channel in Apple News (lol)](drafts://open?uuid=EF2BF174-72D8-4979-ACA0-3A6CFB9DF07D)
-
 - [The  Apple Music  Channel in Apple News (lol)](drafts://open?uuid=EF2BF174-72D8-4979-ACA0-3A6CFB9DF07D)
-
-- [Mattcito Help   MacStories Discord](drafts://open?uuid=424FFFE3-0335-4398-8588-A9149CD0A208)
-
-- [Mattcito Help   MacStories Discord](drafts://open?uuid=424FFFE3-0335-4398-8588-A9149CD0A208)
-
+- [Mattcito Help](drafts://open?uuid=424FFFE3-0335-4398-8588-A9149CD0A208)
 - [Twitter Publish Tool Action](drafts://open?uuid=9D00D881-F9FA-4613-A58C-18F97690C60A)
-
 - [maneuver](drafts://open?uuid=96BBD706-BF95-40B2-AE70-473893539F41)
-
 - [Video - Realtime Drafts Sync from Scratch](drafts://open?uuid=3654868A-C962-4E0F-8E97-4675469416A9)
+- [Val](drafts://open?uuid=85804431-F569-428D-87BC-6B4FB8C26318)
+- [Notes-Val](drafts://open?uuid=EEDD0E16-411F-4B52-95C9-CF5366AAD72D)
+
+- [Internet History Social Web History and Mastodon](drafts://open?uuid=6A5C5D6A-CA02-4804-9612-AE5013FB30E6)
+
+- [TinyLetter Archive](drafts://open?uuid=6651E343-CDCC-4753-B975-F66B9F5FD852)
+
+- [Denk Alexandru](drafts://open?uuid=23C763EB-9A56-4ACB-BF9B-7E58583D0D61)
+
+- [iOS 14 Review Notes](drafts://open?uuid=B8EA581C-57AA-47ED-9A80-A65B5824BE47)
+
+- [DraftsCult General Correspondence](drafts://open?uuid=CB00A030-E6D1-4D48-95C5-C9B4B847ECD1)
