@@ -1,64 +1,40 @@
-- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/516A48EB-91B6-42F5-A602-72BF3D20A9A6/TinyLetter_LogoGuidelines.pdf>
-- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/AA2284D4-F694-48D5-88AC-1827D1ED4784/TinyLetter_SignupForm.jpg>
-- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/97042C4C-9FEF-4F5B-B48C-EE8592CB4454/TinyLetter_Compose.jpg>
-- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/A92CD6DC-76C5-4BD4-BAB6-A1F7BB153476/TinyLetter_ComposeDevice.jpg>
-- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/653210FB-6360-415E-8567-30F97A85A40A/TinyLetter_Email_Device.jpg>
-- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/93EAD1C1-D155-41CC-AB56-1D3551DACD4D/TinyLetter_SignupForm_Device.jpg>
-- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/D2D0E57F-E48A-418D-922C-4EE2A33C82BC/TinyLetter_Wordmark_White.png>
-- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/D995CCAF-D86B-4AAC-9DCF-4F12C72A6CA6/TinyLetter_Wordmark_Black.png>
-- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/70884008-83FD-415C-A97A-5E37E35903A8/TinyLetter_Wordmark.png>
-- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/6B0C0C7F-05FD-45EC-B34E-05B77C2D8241/TinyLetter_Logo.png>
-- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/9DAF43F2-B4A8-4F54-BF02-2129788E3452/TinyLetter_BrandColors.ase>
-- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/E9412DED-1443-4E75-919E-5FB9893FAB5D/TinyLetter_Logo.eps>
-- <file:///private/var/mobile/Containers/Data/PluginKitPlugin/09F78F37-B468-4E82-AB12-C37FB2D3DF28/tmp/DFD666E7-E9F7-4655-BAA3-3252CA970A20/TinyLetter_Wordmark.eps>
+Shortcuts User Guide 2
 
-# Couples Posing in Front of Aircraft They’ve Just Crashed - Photo Collection
-- [WTF](https://davidblue.wtf/drafts/EEA1046E-273B-495C-9DC2-B01E5531FD95.html)
-- [Notion Page](https://rotund.notion.site/Couples-Posing-in-Front-of-Aircraft-They-ve-Just-Crashed-8e5d3bb14b784bf881558c2047ed57e8)
-- [My Facebook Cover Photos Album](https://www.facebook.com/media/set/?set=a.2979252158429)
-- [Sierra Lund](drafts://open?uuid=8B00EB65-8025-4223-A58E-F4227BFE067F)
-
-
-## Flickr
-
-- [Album URL](https://www.flickr.com/photos/dieselgoth/sets/72177720299891632/)
-- [Album Shortlink](https://flic.kr/s/aHBqjzULXs) - `[https://flic.kr/s/aHBqjzULXs`](https://flic.kr/s/aHBqjzULXs%60)
-
-
-```
-<a data-flickr-embed="true" data-footer="true" href="<https://www.flickr.com/photos/dieselgoth/albums/72177720299891632>" title="Couples Posing in Front of Aircraft They’ve Just Crashed"><img src="[https://live.staticflickr.com/65535/52155304631](https://live.staticflickr.com/65535/52155304631a4c077e54dz.jpg)_[a4c077e54d](https://live.staticflickr.com/65535/52155304631a4c077e54dz.jpg)_[z.jpg](https://live.staticflickr.com/65535/52155304631a4c077e54dz.jpg)" width="640" height="480" alt="Couples Posing in Front of Aircraft They’ve Just Crashed"></a><script async src="//[embedr.flickr.com/assets/client-code.js](http://embedr.flickr.com/assets/client-code.js)" charset="utf-8"></script>
-```
-
-
-```
-<https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane1.jpeg>
-<https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane2.jpeg>
-<https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane3.jpeg>
-```
-
----
-
-![1](https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane1.jpeg)
-
-- [Original Cover Photo](https://www.facebook.com/photo/?fbid=10219844116911435&set=a.2979252158429&__tn__=%2CO*F)
-
-![2](https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane2.jpeg)
-
-- [Sierra Lund](drafts://open?uuid=8B00EB65-8025-4223-A58E-F4227BFE067F)
-- [Sierra Lund WTF Page](https://davidblue.wtf/drafts/8B00EB65-8025-4223-A58E-F4227BFE067F.html)
-- [Sierra Lund Notion Page](https://rotund.notion.site/Sierra-Lund-fd735824b5a346d4affa47b253791e44)
-- [Original Cover Photo](https://www.facebook.com/photo/?fbid=10219844116911435&set=a.2979252158429&__tn__=%2CO*F)
-
-![3](https://davidblue.wtf/images/smilingcouplesinfrontoftheirjustcrashedairplane3.jpeg)
-
-- [Original Cover Photo](https://www.facebook.com/photo/?fbid=10207889087043160&set=a.2979252158429&__tn__=%2CO*F)
-
----
-
-
-Val (2021) - Amazon Prime Video
-<https://www.amazon.com/Val-Kilmer/dp/B09888KKZK>
-<https://davidblue.wtf/val2021>
-
-
-<https://www.icloud.com/iclouddrive/012kYyHVKiY7o1IlR7J5SUpOw#GuerillaMaab-Resurrected>
+	•			[Welcome ](https://support.apple.com/guide/shortcuts/welcome/ios)
+	•			What’s new in Shortcuts 
+	•	[What’s new in Shortcuts 15.5 ](https://support.apple.com/guide/shortcuts/whats-new-in-shortcuts-155-apd6f00fefa5/ios) [What’s new in Shortcuts 15.4 ](https://support.apple.com/guide/shortcuts/whats-new-in-shortcuts-154-apd50c7a01d3/ios)
+	•			Shortcuts basics 
+	•	[Intro to Shortcuts ](https://support.apple.com/guide/shortcuts/intro-to-shortcuts-apdf22b0444c/ios) [Discover shortcuts in the Gallery ](https://support.apple.com/guide/shortcuts/discover-shortcuts-in-the-gallery-apdd018638ca/ios) Run shortcuts 
+	•	[Run a shortcut from the app ](https://support.apple.com/guide/shortcuts/run-a-shortcut-from-the-app-apd5ba077760/ios) [Run shortcuts with Siri ](https://support.apple.com/guide/shortcuts/run-shortcuts-with-siri-apd07c25bb38/ios) [Run suggested shortcuts ](https://support.apple.com/guide/shortcuts/run-suggested-shortcuts-apde986cdd3c/ios) [Run shortcuts from the Home Screen widget ](https://support.apple.com/guide/shortcuts/run-shortcuts-from-the-home-screen-widget-apd029b36d05/ios) [Run shortcuts from the Search screen ](https://support.apple.com/guide/shortcuts/run-shortcuts-from-the-search-screen-apd8a8ffb4ac/ios) [Add a shortcut to the Home Screen ](https://support.apple.com/guide/shortcuts/add-a-shortcut-to-the-home-screen-apd735880972/ios) [Run shortcuts when Sleep Focus is active ](https://support.apple.com/guide/shortcuts/run-shortcuts-when-sleep-focus-is-active-apd33e6b4bfd/ios) [Launch a shortcut from another app ](https://support.apple.com/guide/shortcuts/launch-a-shortcut-from-another-app-apd163eb9f95/ios) [Run shortcuts from Apple Watch ](https://support.apple.com/guide/shortcuts/run-shortcuts-from-apple-watch-apd5888b0858/ios) [Run shortcuts by tapping the back of your iPhone ](https://support.apple.com/guide/shortcuts/run-shortcuts-tapping-iphone-apd897693606/ios)
+	•	[Adjust privacy settings ](https://support.apple.com/guide/shortcuts/adjust-privacy-settings-apd961a4fc65/ios) How shortcuts work 
+	•	[Intro to how shortcuts work ](https://support.apple.com/guide/shortcuts/intro-to-how-shortcuts-work-apdad3cbabfc/ios) [The flow of content ](https://support.apple.com/guide/shortcuts/the-flow-of-content-apd33c8d5c6d/ios) [Action connections ](https://support.apple.com/guide/shortcuts/action-connections-apda850ab0e1/ios) [Control the flow of actions ](https://support.apple.com/guide/shortcuts/control-the-flow-of-actions-apd25a01237e/ios) [Shortcut completion ](https://support.apple.com/guide/shortcuts/shortcut-completion-apda9578f70f/ios) [The Content Graph engine ](https://support.apple.com/guide/shortcuts/the-content-graph-engine-apd4618db957/ios)
+	•			Create custom shortcuts 
+	•	[Create a custom shortcut ](https://support.apple.com/guide/shortcuts/create-a-custom-shortcut-apd84c576f8c/ios) [Ideas for custom shortcuts ](https://support.apple.com/guide/shortcuts/ideas-for-custom-shortcuts-apdb272b27ec/ios) Work with actions in Shortcuts 
+	•	[Navigate the action list ](https://support.apple.com/guide/shortcuts/navigate-the-action-list-apdc33e4f4da/ios) [Order of actions ](https://support.apple.com/guide/shortcuts/order-of-actions-apde53ab0903/ios) [Get actions ](https://support.apple.com/guide/shortcuts/get-actions-apd5c2bd430f/ios) [Transform actions ](https://support.apple.com/guide/shortcuts/transform-actions-apd1d9413cfb/ios) [Share actions ](https://support.apple.com/guide/shortcuts/share-actions-apdaf74d75a5/ios) [Test your actions ](https://support.apple.com/guide/shortcuts/test-your-actions-apda75604f37/ios) [About actions in complicated shortcuts ](https://support.apple.com/guide/shortcuts/about-actions-in-complicated-shortcuts-apd081d9d61f/ios)
+	•			Edit shortcuts 
+	•	[Intro to editing shortcuts ](https://support.apple.com/guide/shortcuts/intro-to-editing-shortcuts-apd5b1537ca0/ios) [Organize shortcuts in folders ](https://support.apple.com/guide/shortcuts/organize-shortcuts-in-folders-apd113493874/ios) [Reorder shortcuts ](https://support.apple.com/guide/shortcuts/reorder-shortcuts-apd052072d68/ios) [Rename shortcuts ](https://support.apple.com/guide/shortcuts/rename-shortcuts-apdd57094696/ios) [Modify shortcut icons ](https://support.apple.com/guide/shortcuts/modify-shortcut-icons-apd5ad5a2128/ios) [Duplicate shortcuts ](https://support.apple.com/guide/shortcuts/duplicate-shortcuts-apd6b467942c/ios) [Delete shortcuts ](https://support.apple.com/guide/shortcuts/delete-shortcuts-apd096cd65c6/ios) [Sync shortcuts ](https://support.apple.com/guide/shortcuts/sync-shortcuts-apdb3a4240b0/ios) [Share shortcuts ](https://support.apple.com/guide/shortcuts/share-shortcuts-apdf01f8c054/ios) [Add import questions to shared shortcuts ](https://support.apple.com/guide/shortcuts/add-import-questions-to-shared-shortcuts-apdf330fd3a0/ios) [Add a shortcut to Reminders using Siri ](https://support.apple.com/guide/shortcuts/add-a-shortcut-to-reminders-using-siri-apdacfdf1802/ios)
+	•			Personal automation 
+	•	[Intro to personal automation ](https://support.apple.com/guide/shortcuts/intro-to-personal-automation-apd690170742/ios) [Create a new personal automation ](https://support.apple.com/guide/shortcuts/create-a-new-personal-automation-apdfbdbd7123/ios) [Enable or disable a personal automation ](https://support.apple.com/guide/shortcuts/enable-or-disable-a-personal-automation-apd602971e63/ios) [Delete a personal automation ](https://support.apple.com/guide/shortcuts/delete-a-personal-automation-apda15fe2281/ios) Personal automation triggers 
+	•	[Event triggers ](https://support.apple.com/guide/shortcuts/event-triggers-apd932ff833f/ios) [Travel triggers ](https://support.apple.com/guide/shortcuts/travel-triggers-apd8ebfc4e8e/ios) [Communication triggers ](https://support.apple.com/guide/shortcuts/communication-triggers-apdd711f9dff/ios) [Setting triggers ](https://support.apple.com/guide/shortcuts/setting-triggers-apde31e9638b/ios)
+	•			Home automation 
+	•	[Intro to home automation ](https://support.apple.com/guide/shortcuts/intro-to-home-automation-apddb94c7489/ios) [Create a new home automation ](https://support.apple.com/guide/shortcuts/create-a-new-home-automation-apd2a290f633/ios) [Enable or disable a home automation ](https://support.apple.com/guide/shortcuts/enable-or-disable-a-home-automation-apd95fa97c85/ios) [Delete a home automation ](https://support.apple.com/guide/shortcuts/delete-a-home-automation-apd5a2baf4ee/ios) [Home automation triggers ](https://support.apple.com/guide/shortcuts/home-automation-triggers-apdb450f6291/ios)
+	•			Advanced shortcuts 
+	•	Use variables 
+	•	[Intro to variables ](https://support.apple.com/guide/shortcuts/intro-to-variables-apdb5506f698/ios) [Variable types ](https://support.apple.com/guide/shortcuts/variable-types-apdd2b316022/ios) [Use variables ](https://support.apple.com/guide/shortcuts/use-variables-apdd02c2780c/ios) [Adjust variables ](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)
+	•	[Use list actions ](https://support.apple.com/guide/shortcuts/use-list-actions-apd4dcacc115/ios) [Use the Choose from Menu action ](https://support.apple.com/guide/shortcuts/use-the-choose-from-menu-action-apdd7bf369da/ios) [Use If actions ](https://support.apple.com/guide/shortcuts/use-if-actions-apd83dcd1b51/ios) [Use Repeat actions ](https://support.apple.com/guide/shortcuts/use-repeat-actions-apdc11deb2c1/ios) Use Find and Filter actions 
+	•	[Intro to Find and Filter actions ](https://support.apple.com/guide/shortcuts/intro-to-find-and-filter-actions-apd3c845e881/ios) [Add filter parameters ](https://support.apple.com/guide/shortcuts/add-filter-parameters-apdbdab3433f/ios)
+	•	Show prompts in a shortcut  
+	•	[Intro to using prompts ](https://support.apple.com/guide/shortcuts/intro-to-using-prompts-apd8efa49a70/ios) [Use the Ask for Input action ](https://support.apple.com/guide/shortcuts/use-the-ask-for-input-action-apd68b5c9161/ios) [Use the Ask Each Time variable ](https://support.apple.com/guide/shortcuts/use-the-ask-each-time-variable-apd8b28e2166/ios) [Use the Show Alert action  ](https://support.apple.com/guide/shortcuts/use-the-show-alert-action-apdb9661c761/ios) [Use the Show Notification action ](https://support.apple.com/guide/shortcuts/use-the-show-notification-action-apd2175adcab/ios)
+	•	[Input types ](https://support.apple.com/guide/shortcuts/input-types-apd7644168e1/ios) [Limit the input for a shortcut ](https://support.apple.com/guide/shortcuts/limit-the-input-for-a-shortcut-apd8195f96d6/ios) [Receive what’s onscreen ](https://support.apple.com/guide/shortcuts/receive-whats-onscreen-apd350ce757a/ios) [Advanced Shortcuts settings ](https://support.apple.com/guide/shortcuts/advanced-shortcuts-settings-apdfeb05586f/ios) Run JavaScript on a webpage 
+	•	[Intro to the Run JavaScript on Webpage action ](https://support.apple.com/guide/shortcuts/intro-to-the-run-javascript-on-webpage-action-apd218e2187d/ios) [Use the Run JavaScript on Webpage action ](https://support.apple.com/guide/shortcuts/use-the-run-javascript-on-webpage-action-apdb71a01d93/ios)
+	•	Use URL schemes 
+	•	[Intro to URL schemes  ](https://support.apple.com/guide/shortcuts/intro-to-url-schemes-apd621a1ad7a/ios) [Open, create, and run a shortcut ](https://support.apple.com/guide/shortcuts/open-create-and-run-a-shortcut-apda283236d7/ios) [Run a shortcut from a URL ](https://support.apple.com/guide/shortcuts/run-a-shortcut-from-a-url-apd624386f42/ios) [Open or search the Gallery from a URL ](https://support.apple.com/guide/shortcuts/open-or-search-the-gallery-from-a-url-apd9c112ca23/ios) [Use x-callback-url ](https://support.apple.com/guide/shortcuts/use-x-callback-url-apdcd7f20a6f/ios) [Use another app’s URL scheme ](https://support.apple.com/guide/shortcuts/use-another-apps-url-scheme-apd68802640c/ios)
+	•	Use Web APIs in Shortcuts 
+	•	[Intro to web APIs ](https://support.apple.com/guide/shortcuts/intro-to-web-apis-apd2d448b2de/ios) Get started with web APIs 
+	•	[What’s an API?](https://support.apple.com/guide/shortcuts/whats-an-api-apd2e30c9d45/ios)[ ](https://support.apple.com/guide/shortcuts/whats-an-api-apd2e30c9d45/ios) [Request your first API ](https://support.apple.com/guide/shortcuts/request-your-first-api-apd58d46713f/ios)
+	•	Work with JSON 
+	•	[Intro to using JSON ](https://support.apple.com/guide/shortcuts/intro-to-using-json-apd0f2e057df/ios) [Parsing JSON ](https://support.apple.com/guide/shortcuts/parsing-json-apdde2dfe749/ios) [Handling lists ](https://support.apple.com/guide/shortcuts/handling-lists-apd9ba41d21b/ios) [Get Dictionary Value action ](https://support.apple.com/guide/shortcuts/get-dictionary-value-action-apdf01294032/ios) [Create contacts ](https://support.apple.com/guide/shortcuts/create-contacts-apd9cf19a736/ios)
+	•	Further exploration with APIs 
+	•	[API limitations ](https://support.apple.com/guide/shortcuts/api-limitations-apd891a6c84e/ios) [Format Date timestamps ](https://support.apple.com/guide/shortcuts/format-date-timestamps-apdfb33b0e17/ios) [Dictionaries ](https://support.apple.com/guide/shortcuts/dictionaries-apd43b69f337/ios)
+	•	Date and time formatting 
+	•	[About date and time formatting  ](https://support.apple.com/guide/shortcuts/about-date-and-time-formatting-apd71b0ac246/ios) [Date and time formats ](https://support.apple.com/guide/shortcuts/date-and-time-formats-apdfbad418ca/ios) [Dates as written language ](https://support.apple.com/guide/shortcuts/dates-as-written-language-apdc6348bca9/ios) [Technical standards ](https://support.apple.com/guide/shortcuts/technical-standards-apdfd459e13d/ios) [Custom date formats](https://support.apple.com/guide/shortcuts/custom-date-formats-apd8d9b19184/ios)
