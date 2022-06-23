@@ -5,6 +5,7 @@ T       O       T               L       E       A       R       N
 
 [Lab Dashboard](snippetslab://snippet/516E6A5A-1FC0-47CA-B67F-9B63B84C64D5/)
 
+[Order Shipped](message:%3C0.0.2.3FC.1D886B3D6547D2A.7880@vmta188.84.lstrk.net%3E)
 ---
 
 **Mac Shortcuts**
@@ -22,9 +23,8 @@ _New Issues_
 - [i](https://github.com/extratone/i/issues/new/choose)
 - [bilge](https://github.com/extratone/bilge/issues/new/choose)
 - [drafts](https://github.com/extratone/drafts/issues/new/choose)
-- 
 
-*Radio*
+_Radio_
 [kbia](shortcuts://run-shortcut?name=kbia) - [kcou](shortcuts://run-shortcut?name=kcou) - [kopn](shortcuts://run-shortcut?name=kopn) - [datafruits](shortcuts://run-shortcut?name=datafruits)
 
 **Drafts Instrument Panel**
@@ -521,26 +521,26 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [iOS 14 Review Notes](drafts://open?uuid=B8EA581C-57AA-47ED-9A80-A65B5824BE47)
 - [DraftsCult General Correspondence](drafts://open?uuid=CB00A030-E6D1-4D48-95C5-C9B4B847ECD1)
 - [Notes-Simplenote as Cross-Platform Snippets Manager](drafts://open?uuid=D463E0D4-0617-4972-8484-7521C466B2C0)
-
 - [Runestone iTextEditors Submission](drafts://open?uuid=D2697A00-6C9F-4B4F-B186-0211819C59E2)
-
 - [MusicHarbor Artist List](drafts://open?uuid=0A15EC25-668E-4763-8700-DFA6482EC886)
-
 - [Video - Realtime Drafts Sync from Scratch](drafts://open?uuid=3654868A-C962-4E0F-8E97-4675469416A9)
-
 - [Bible API Shortcut](drafts://open?uuid=FD4DA622-352F-4B3C-94B7-5FDDB1D6A9EB)
-
 - [ALL Extratone Emails](drafts://open?uuid=B96E8239-B58E-4538-B492-1FD7F6E15582)
-
 - [The Tone Archive](drafts://open?uuid=DF894E8C-FFF7-4127-8023-C7C89E0F97F6)
+- [Shortcuts User Guide](drafts://open?uuid=C05463A0-FA36-4EA7-A540-5E737A49ED4D)
+- [Get Write.as Post Text Shortcut](drafts://open?uuid=DE5008EA-9584-4226-8F02-8A8E7F174321)
 
 - [Shortcuts User Guide](drafts://open?uuid=C05463A0-FA36-4EA7-A540-5E737A49ED4D)
 
-- [Get Write.as Post Text Shortcut](drafts://open?uuid=DE5008EA-9584-4226-8F02-8A8E7F174321)
+- [Harley Hicks](drafts://open?uuid=847ABCDB-7827-4DD0-9722-EF468CFAADFF)
+
+- [Uncle Google (Periscope Archive)](drafts://open?uuid=8E4B1058-94EF-439D-9C7F-BFB43E40B103)
 # Drafts Tag List
 `20220521-103511`
 
-
+Wolfram Alpha about Flights Overhead
+6/6/22, 15:57
+[061572022-095748](tel:061572022-095748)
 - $
 - 2021
 - academia
@@ -679,7 +679,7 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - os
 - pages
 - philip roth
-- ~~piss~~****
+- ~~piss~~\*\*\*\*
 - places
 - podcasts
 - policy
@@ -789,3 +789,7 @@ Shortcuts User Guide 2
 	•	[API limitations ](https://support.apple.com/guide/shortcuts/api-limitations-apd891a6c84e/ios) [Format Date timestamps ](https://support.apple.com/guide/shortcuts/format-date-timestamps-apdfb33b0e17/ios) [Dictionaries ](https://support.apple.com/guide/shortcuts/dictionaries-apd43b69f337/ios)
 	•	Date and time formatting 
 	•	[About date and time formatting  ](https://support.apple.com/guide/shortcuts/about-date-and-time-formatting-apd71b0ac246/ios) [Date and time formats ](https://support.apple.com/guide/shortcuts/date-and-time-formats-apdfbad418ca/ios) [Dates as written language ](https://support.apple.com/guide/shortcuts/dates-as-written-language-apdc6348bca9/ios) [Technical standards ](https://support.apple.com/guide/shortcuts/technical-standards-apdfd459e13d/ios) [Custom date formats](https://support.apple.com/guide/shortcuts/custom-date-formats-apd8d9b19184/ios)
+
+David Blue's Co-Star Profile
+https://www.costarastrology.com/neoyokel
+https://davidblue.wtf/costar
