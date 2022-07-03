@@ -63,14 +63,14 @@
 - Hack Woof’s
 - Add [Clippy.js](https://github.com/softwarehistorysociety/clippy.js) to NeoCities
 - Publish [Beep Hour](snippetslab://snippet/E598CB73-2CEF-4BAA-A985-2F459FD15FA1/) as a Homebrew thing
-- WhatCMS Drafts Action - Query `[https://whatcms.org/?s=nahumck.me`](https://whatcms.org/?s=nahumck.me%60)
-- Pelican Post Drafts Action
 - macOS Shortcut to Document [URLScheme Binding](drafts://open?uuid=A64BB28B-D251-4EB8-82BA-027F4A5BD1E9)
 - **[DavodKeys Action](https://directory.getdrafts.com/a/2AQ)** - perhaps even set aside a Dot to sync.
 - Searches Action Group
 - RadioLeMans in VLC Shortcut
 - Learn Morse Code
 - Pitch: Visual Storytelling exclusively [with Apple marketing images](https://twitter.com/NeoYokel/status/1538213690746585092)
+- Siri Shortcut using [ksc](https://github.com/kotfu/ksc) in a-Shell.
+- Selected Text - Siri TTS - Overcast/PocketCasts(?)
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**

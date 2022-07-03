@@ -5,7 +5,8 @@ T       O       T               L       E       A       R       N
 
 [Lab Dashboard](snippetslab://snippet/516E6A5A-1FC0-47CA-B67F-9B63B84C64D5/)
 
-[Order Shipped](message:%3C0.0.2.3FC.1D886B3D6547D2A.7880@vmta188.84.lstrk.net%3E)
+**[Git Merge Submission](message:%3C01020181c498ae22-af615e4f-cd8a-45be-b5ed-fd8bcef42031-000000@eu-west-1.amazonses.com%3E)**
+
 ---
 
 **Mac Shortcuts**
@@ -42,6 +43,7 @@ _Drafts_
 - [Using Drafts with NeoCities](drafts://open?uuid=7247282E-340B-4890-A2F7-0481AF31321E)
 - [Underdocumented Maneuvers in iOS](drafts://open?uuid=6271A84E-D0F9-4881-A20D-B22E88AA9E3B)
 - [How I Manage Drafts](drafts://open?uuid=0BF34703-065D-4A2F-9F89-381A2348405E)
+- [Simplenote as Cross-Platform Snippets Manager](drafts://open?uuid=2000267B-6381-42E8-BACF-59166C5467A5)
 
 _Notes_
 - [Notes-Fresh Eyes on macOS](drafts://open?uuid=6C76EDBD-025D-40BA-9381-9AE95AD70F36)
@@ -53,6 +55,7 @@ _Notes_
 - [Notes-Drafts vs. Obsidian](drafts://open?uuid=C300D6BD-07A2-44E2-9231-54ADA771F952)
 - [Remark.as Integration](drafts://open?uuid=B0C95CA5-E5DE-4478-9C09-1E30499438CE)
 - [Notes-How I Manage Drafts](drafts://open?uuid=939FF8C4-CB56-4A5F-99E9-D88E7162BE4E)
+- [Notes-Simplenote as Cross-Platform Snippets Manager](drafts://open?uuid=D463E0D4-0617-4972-8484-7521C466B2C0)
 
 _Social/Family/Support_
 - [Suggestions/Requests for a WebDAV (NeoCities, in my case) Action Group](https://forums.getdrafts.com/t/suggestions-requests-for-a-webdav-neocities-in-my-case-action-group/11994)
@@ -95,6 +98,7 @@ _Documentation_
 - [On My Mind Action Group by FlohGro](drafts://open?uuid=C90B70B3-A594-4736-86B2-E4F1924D3096)
 - [WTF Redirection](drafts://open?uuid=218F8FAA-C0B9-4B4F-B896-3089E005E86E)
 - [Mastodon for iOS](drafts://open?uuid=502AAEF8-402B-4E32-A43B-AD997F3815CB)
+- [iOS Settings URLs](drafts://open?uuid=18CC7D32-2D50-40A2-82FF-DCBBE1BC87AA)
 
 [New Draft with Clipboard](drafts://x-callback-url/create?text=%7C%7Cclipboard%7C%7C)
 
@@ -186,14 +190,14 @@ _ACQUIRE_
 - Hack Woof’s
 - Add [Clippy.js](https://github.com/softwarehistorysociety/clippy.js) to NeoCities
 - Publish [Beep Hour](snippetslab://snippet/E598CB73-2CEF-4BAA-A985-2F459FD15FA1/) as a Homebrew thing
-- WhatCMS Drafts Action - Query `[https://whatcms.org/?s=nahumck.me`](https://whatcms.org/?s=nahumck.me%60)
-- Pelican Post Drafts Action
 - macOS Shortcut to Document [URLScheme Binding](drafts://open?uuid=A64BB28B-D251-4EB8-82BA-027F4A5BD1E9)
 - **[DavodKeys Action](https://directory.getdrafts.com/a/2AQ)** - perhaps even set aside a Dot to sync.
 - Searches Action Group
 - RadioLeMans in VLC Shortcut
 - Learn Morse Code
 - Pitch: Visual Storytelling exclusively [with Apple marketing images](https://twitter.com/NeoYokel/status/1538213690746585092)
+- Siri Shortcut using [ksc](https://github.com/kotfu/ksc) in a-Shell.
+- Selected Text - Siri TTS - Overcast/PocketCasts(?)
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
@@ -520,7 +524,7 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Denk Alexandru](drafts://open?uuid=23C763EB-9A56-4ACB-BF9B-7E58583D0D61)
 - [iOS 14 Review Notes](drafts://open?uuid=B8EA581C-57AA-47ED-9A80-A65B5824BE47)
 - [DraftsCult General Correspondence](drafts://open?uuid=CB00A030-E6D1-4D48-95C5-C9B4B847ECD1)
-- [Notes-Simplenote as Cross-Platform Snippets Manager](drafts://open?uuid=D463E0D4-0617-4972-8484-7521C466B2C0)
+
 - [Runestone iTextEditors Submission](drafts://open?uuid=D2697A00-6C9F-4B4F-B186-0211819C59E2)
 - [MusicHarbor Artist List](drafts://open?uuid=0A15EC25-668E-4763-8700-DFA6482EC886)
 - [Video - Realtime Drafts Sync from Scratch](drafts://open?uuid=3654868A-C962-4E0F-8E97-4675469416A9)
@@ -529,12 +533,27 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [The Tone Archive](drafts://open?uuid=DF894E8C-FFF7-4127-8023-C7C89E0F97F6)
 - [Shortcuts User Guide](drafts://open?uuid=C05463A0-FA36-4EA7-A540-5E737A49ED4D)
 - [Get Write.as Post Text Shortcut](drafts://open?uuid=DE5008EA-9584-4226-8F02-8A8E7F174321)
-
 - [Shortcuts User Guide](drafts://open?uuid=C05463A0-FA36-4EA7-A540-5E737A49ED4D)
-
 - [Harley Hicks](drafts://open?uuid=847ABCDB-7827-4DD0-9722-EF468CFAADFF)
-
 - [Uncle Google (Periscope Archive)](drafts://open?uuid=8E4B1058-94EF-439D-9C7F-BFB43E40B103)
+- [ksc](drafts://open?uuid=2D1A9889-18AD-4052-B34D-D74ECE4D1629)
+- [Notes-Beams](drafts://open?uuid=48C8CDB6-21E4-4246-9F7D-791C45C21426)
+
+
+
+- [Some suggestions for remark.as](drafts://open?uuid=A7FE91A0-0EFF-45FE-A05A-261707220411)
+
+- [Odette Software to Transfer Configure Highlight Learn](drafts://open?uuid=C8FCA2FB-3E48-4CAF-8CAD-884BAD53149F)
+
+- [Regarding External Keyboard Use with iPhone in iOS 16 - AppleVis Forums](drafts://open?uuid=B9227D3E-BDD6-48E0-A7C1-58B0BEA07BBF)
+
+- [Whyp Blossoms](drafts://open?uuid=EEC136D5-08DC-465C-89A6-26EB96E4E640)
+
+- [Whyp Blossoms](drafts://open?uuid=EEC136D5-08DC-465C-89A6-26EB96E4E640)
+
+- [Notes-Whyp Blossoms](drafts://open?uuid=E239CB27-D9C6-4026-BF19-60820235EEAE)
+
+- [Using TextExpander with Drafts](drafts://open?uuid=3E362EFF-002E-41F5-8C30-A5D603181CE9)
 # Drafts Tag List
 `20220521-103511`
 
@@ -793,3 +812,5 @@ Shortcuts User Guide 2
 David Blue's Co-Star Profile
 https://www.costarastrology.com/neoyokel
 https://davidblue.wtf/costar
+https://www.icloud.com/shortcuts/37c4830c57c74a6a8980316dc14843dc
+https://actions.getdrafts.com/theme_definitions?order=updated
