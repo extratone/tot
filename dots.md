@@ -205,9 +205,9 @@ _ACQUIRE_
 - [Drafts 15 Review: Multiwindow, Shortcuts, and More](https://www.macstories.net/reviews/drafts-15-review-multiwindow-shortcuts-and-more/)
 - “[Automating iOS: A Comprehensive Guide to URL Schemes and Drafts Actions](drafts://open?uuid=A944CF95-DE24-47AA-BC50-CB03E1A20396)”
 - [Best way to learn regular expressions : shortcuts](https://www.reddit.com/r/shortcuts/comments/tv4o6b/tip_best_way_to_learn_regular_expressions/)
-
 - [iOSTextEditors Wiki, Archived](message:%3C20220519183936.3D22C6620355@ci74p00im-qukt09081101.me.com%3E)
 - [Flexibits Thanks](message:%3C01000180dcd5c12d-8a339643-092f-482c-b4c2-34bea5293300-000000@email.amazonses.com%3E)
+- [MacStories Weekly Issue 328](message:%3C9f4b80a35728f7271fe3ea6ff.1211774273.20220708190844.111c35d50b.5ee0cdcc@mail118.suw15.mcsv.net%3E)
 
 **Tools**
 - [ColorHound](http://colorhound.net)
@@ -538,24 +538,15 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Uncle Google (Periscope Archive)](drafts://open?uuid=8E4B1058-94EF-439D-9C7F-BFB43E40B103)
 - [ksc](drafts://open?uuid=2D1A9889-18AD-4052-B34D-D74ECE4D1629)
 - [Notes-Beams](drafts://open?uuid=48C8CDB6-21E4-4246-9F7D-791C45C21426)
-
-
-
 - [Some suggestions for remark.as](drafts://open?uuid=A7FE91A0-0EFF-45FE-A05A-261707220411)
-
 - [Odette Software to Transfer Configure Highlight Learn](drafts://open?uuid=C8FCA2FB-3E48-4CAF-8CAD-884BAD53149F)
-
 - [Regarding External Keyboard Use with iPhone in iOS 16 - AppleVis Forums](drafts://open?uuid=B9227D3E-BDD6-48E0-A7C1-58B0BEA07BBF)
-
 - [Whyp Blossoms](drafts://open?uuid=EEC136D5-08DC-465C-89A6-26EB96E4E640)
-
 - [Whyp Blossoms](drafts://open?uuid=EEC136D5-08DC-465C-89A6-26EB96E4E640)
-
 - [Notes-Whyp Blossoms](drafts://open?uuid=E239CB27-D9C6-4026-BF19-60820235EEAE)
-
 - [Using TextExpander with Drafts](drafts://open?uuid=3E362EFF-002E-41F5-8C30-A5D603181CE9)
-
 - [Custom Tags - Drafts User Guide](drafts://open?uuid=F03C8BD2-30FC-4E98-9898-BEEC7E31FC4A)
+- [Multiple Save Export Actions Trial (Save Version) - Drafts Config](drafts://open?uuid=68590619-3C5C-4010-B3CA-B3B08049F97B)
 # Drafts Tag List
 `20220521-103511`
 
