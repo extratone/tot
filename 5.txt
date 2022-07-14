@@ -240,3 +240,6 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Using TextExpander with Drafts](drafts://open?uuid=3E362EFF-002E-41F5-8C30-A5D603181CE9)
 - [Custom Tags - Drafts User Guide](drafts://open?uuid=F03C8BD2-30FC-4E98-9898-BEEC7E31FC4A)
 - [Multiple Save Export Actions Trial (Save Version) - Drafts Config](drafts://open?uuid=68590619-3C5C-4010-B3CA-B3B08049F97B)
+- [Microsoft Office Personal Trial](drafts://open?uuid=26F035DC-27E9-4111-8DE5-39552C4B2E21)
+- [David Blue Draws](drafts://open?uuid=09989698-11AE-485E-82E1-93910AC008E3)
+- [Unofficial RoutineHub API](drafts://open?uuid=D7B33212-7CBB-428F-ABDF-AB2628EE073E)

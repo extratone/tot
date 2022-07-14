@@ -71,6 +71,7 @@
 - Pitch: Visual Storytelling exclusively [with Apple marketing images](https://twitter.com/NeoYokel/status/1538213690746585092)
 - Siri Shortcut using [ksc](https://github.com/kotfu/ksc) in a-Shell.
 - Selected Text - Siri TTS - Overcast/PocketCasts(?)
+- [ttm Sharesheet Shortcut](https://i.snap.as/sNRzBjPj.png)
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
