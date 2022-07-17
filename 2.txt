@@ -72,6 +72,7 @@
 - Siri Shortcut using [ksc](https://github.com/kotfu/ksc) in a-Shell.
 - Selected Text - Siri TTS - Overcast/PocketCasts(?)
 - [ttm Sharesheet Shortcut](https://i.snap.as/sNRzBjPj.png)
+- [Discourse API Siri Shortcuts](https://docs.discourse.org)
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**

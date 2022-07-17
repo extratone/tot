@@ -1,7 +1,7 @@
 **_Constraints can be powerful._**
 T       O       T               L       E       A       R       N    
 
-[dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [ARTISTS](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random  Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - _[DraftsKeysUpdate](shortcuts://run-shortcut?name=DraftsKeysUpdate)_ - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [Vocabulary Index](shortcuts://run-shortcut?name=Vocabulary%20Index) - [HighResArtwork.](shortcuts://run-shortcut?name=HighResArtwork.) - [HRAAnim](shortcuts://run-shortcut?name=HighResArtwork%20Animated) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [Clipboard](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[⇨](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[txt](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File) - [GIF](shortcuts://run-shortcut?name=Better%20Gif%20Maker) - [ReleaseNotes](shortcuts://run-shortcut?name=Retrieve%20Release%20Notes) - [CombineImgs](shortcuts://run-shortcut?name=ImageCombineScratch) - [PATHS](shortcuts://run-shortcut?name=PATHS) - [Autolock](shortcuts://run-shortcut?name=Autolock) - [PersonalHotspot](shortcuts://run-shortcut?name=PersonalHotspot) - [TabGrouptoDrafts](shortcuts://run-shortcut?name=TabGrouptoDrafts)
+[dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [ARTISTS](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random  Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - _[DraftsKeysUpdate](shortcuts://run-shortcut?name=DraftsKeysUpdate)_ - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [Vocabulary Index](shortcuts://run-shortcut?name=Vocabulary%20Index) - [HighResArtwork.](shortcuts://run-shortcut?name=HighResArtwork.) - [HRAAnim](shortcuts://run-shortcut?name=HighResArtwork%20Animated) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [Clipboard⇨txt](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File) - [GIF](shortcuts://run-shortcut?name=Better%20Gif%20Maker) - [ReleaseNotes](shortcuts://run-shortcut?name=Retrieve%20Release%20Notes) - [CombineImgs](shortcuts://run-shortcut?name=ImageCombineScratch) - [PATHS](shortcuts://run-shortcut?name=PATHS) - [Autolock](shortcuts://run-shortcut?name=Autolock) - [PersonalHotspot](shortcuts://run-shortcut?name=PersonalHotspot) - [TabGrouptoDrafts](shortcuts://run-shortcut?name=TabGrouptoDrafts)
 
 [Lab Dashboard](snippetslab://snippet/516E6A5A-1FC0-47CA-B67F-9B63B84C64D5/)
 
@@ -44,6 +44,7 @@ _Drafts_
 - [Underdocumented Maneuvers in iOS](drafts://open?uuid=6271A84E-D0F9-4881-A20D-B22E88AA9E3B)
 - [How I Manage Drafts](drafts://open?uuid=0BF34703-065D-4A2F-9F89-381A2348405E)
 - [Simplenote as Cross-Platform Snippets Manager](drafts://open?uuid=2000267B-6381-42E8-BACF-59166C5467A5)
+- [iOS iPadOS 16](drafts://open?uuid=886C9F8B-3919-489A-AA62-D0558C7C7FC9)
 
 _Notes_
 - [Notes-Fresh Eyes on macOS](drafts://open?uuid=6C76EDBD-025D-40BA-9381-9AE95AD70F36)
@@ -56,6 +57,7 @@ _Notes_
 - [Remark.as Integration](drafts://open?uuid=B0C95CA5-E5DE-4478-9C09-1E30499438CE)
 - [Notes-How I Manage Drafts](drafts://open?uuid=939FF8C4-CB56-4A5F-99E9-D88E7162BE4E)
 - [Notes-Simplenote as Cross-Platform Snippets Manager](drafts://open?uuid=D463E0D4-0617-4972-8484-7521C466B2C0)
+- [Notes-iOS](drafts://open?uuid=5F41FE18-2741-40E2-B078-D48E517E766C) [&](drafts://open?uuid=5F41FE18-2741-40E2-B078-D48E517E766C) [iPadOS 16](drafts://open?uuid=5F41FE18-2741-40E2-B078-D48E517E766C)
 
 _Social/Family/Support_
 - [Suggestions/Requests for a WebDAV (NeoCities, in my case) Action Group](https://forums.getdrafts.com/t/suggestions-requests-for-a-webdav-neocities-in-my-case-action-group/11994)
@@ -201,6 +203,7 @@ _ACQUIRE_
 - Siri Shortcut using [ksc](https://github.com/kotfu/ksc) in a-Shell.
 - Selected Text - Siri TTS - Overcast/PocketCasts(?)
 - [ttm Sharesheet Shortcut](https://i.snap.as/sNRzBjPj.png)
+- [Discourse API Siri Shortcuts](https://docs.discourse.org)
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
@@ -553,6 +556,13 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Microsoft Office Personal Trial](drafts://open?uuid=26F035DC-27E9-4111-8DE5-39552C4B2E21)
 - [David Blue Draws](drafts://open?uuid=09989698-11AE-485E-82E1-93910AC008E3)
 - [Unofficial RoutineHub API](drafts://open?uuid=D7B33212-7CBB-428F-ABDF-AB2628EE073E)
+- [Alexis Queue](drafts://open?uuid=4FC395AC-ACC4-4AF0-A55D-3E9589856276)
+- [Driving Focus Auto-Reply](drafts://open?uuid=52783B5A-7A4F-43CF-B0ED-B36823F881F2)
+- [Things Learning](drafts://open?uuid=30711DC3-D67C-40A6-84B2-5FA43F33502B)
+- [Zendesk Trial](drafts://open?uuid=C1718D1A-22C9-46DF-ACA2-F78C1CA0A5C3)
+- [a-Shell README](drafts://open?uuid=278DA94D-63CA-4F9D-A68E-45AF990FBBBC)
+- [Notes-iOS iPadOS 16](drafts://open?uuid=5F41FE18-2741-40E2-B078-D48E517E766C)
+- [iOS iPadOS 16](drafts://open?uuid=886C9F8B-3919-489A-AA62-D0558C7C7FC9)
 # Drafts Tag List
 `20220521-103511`
 
@@ -767,367 +777,19 @@ Wolfram Alpha about Flights Overhead
 - youtube
 - ~
 
-Shortcuts User Guide 2
-
-	•			[Welcome ](https://support.apple.com/guide/shortcuts/welcome/ios)
-	•			What’s new in Shortcuts 
-	•	[What’s new in Shortcuts 15.5 ](https://support.apple.com/guide/shortcuts/whats-new-in-shortcuts-155-apd6f00fefa5/ios) [What’s new in Shortcuts 15.4 ](https://support.apple.com/guide/shortcuts/whats-new-in-shortcuts-154-apd50c7a01d3/ios)
-	•			Shortcuts basics 
-	•	[Intro to Shortcuts ](https://support.apple.com/guide/shortcuts/intro-to-shortcuts-apdf22b0444c/ios) [Discover shortcuts in the Gallery ](https://support.apple.com/guide/shortcuts/discover-shortcuts-in-the-gallery-apdd018638ca/ios) Run shortcuts 
-	•	[Run a shortcut from the app ](https://support.apple.com/guide/shortcuts/run-a-shortcut-from-the-app-apd5ba077760/ios) [Run shortcuts with Siri ](https://support.apple.com/guide/shortcuts/run-shortcuts-with-siri-apd07c25bb38/ios) [Run suggested shortcuts ](https://support.apple.com/guide/shortcuts/run-suggested-shortcuts-apde986cdd3c/ios) [Run shortcuts from the Home Screen widget ](https://support.apple.com/guide/shortcuts/run-shortcuts-from-the-home-screen-widget-apd029b36d05/ios) [Run shortcuts from the Search screen ](https://support.apple.com/guide/shortcuts/run-shortcuts-from-the-search-screen-apd8a8ffb4ac/ios) [Add a shortcut to the Home Screen ](https://support.apple.com/guide/shortcuts/add-a-shortcut-to-the-home-screen-apd735880972/ios) [Run shortcuts when Sleep Focus is active ](https://support.apple.com/guide/shortcuts/run-shortcuts-when-sleep-focus-is-active-apd33e6b4bfd/ios) [Launch a shortcut from another app ](https://support.apple.com/guide/shortcuts/launch-a-shortcut-from-another-app-apd163eb9f95/ios) [Run shortcuts from Apple Watch ](https://support.apple.com/guide/shortcuts/run-shortcuts-from-apple-watch-apd5888b0858/ios) [Run shortcuts by tapping the back of your iPhone ](https://support.apple.com/guide/shortcuts/run-shortcuts-tapping-iphone-apd897693606/ios)
-	•	[Adjust privacy settings ](https://support.apple.com/guide/shortcuts/adjust-privacy-settings-apd961a4fc65/ios) How shortcuts work 
-	•	[Intro to how shortcuts work ](https://support.apple.com/guide/shortcuts/intro-to-how-shortcuts-work-apdad3cbabfc/ios) [The flow of content ](https://support.apple.com/guide/shortcuts/the-flow-of-content-apd33c8d5c6d/ios) [Action connections ](https://support.apple.com/guide/shortcuts/action-connections-apda850ab0e1/ios) [Control the flow of actions ](https://support.apple.com/guide/shortcuts/control-the-flow-of-actions-apd25a01237e/ios) [Shortcut completion ](https://support.apple.com/guide/shortcuts/shortcut-completion-apda9578f70f/ios) [The Content Graph engine ](https://support.apple.com/guide/shortcuts/the-content-graph-engine-apd4618db957/ios)
-	•			Create custom shortcuts 
-	•	[Create a custom shortcut ](https://support.apple.com/guide/shortcuts/create-a-custom-shortcut-apd84c576f8c/ios) [Ideas for custom shortcuts ](https://support.apple.com/guide/shortcuts/ideas-for-custom-shortcuts-apdb272b27ec/ios) Work with actions in Shortcuts 
-	•	[Navigate the action list ](https://support.apple.com/guide/shortcuts/navigate-the-action-list-apdc33e4f4da/ios) [Order of actions ](https://support.apple.com/guide/shortcuts/order-of-actions-apde53ab0903/ios) [Get actions ](https://support.apple.com/guide/shortcuts/get-actions-apd5c2bd430f/ios) [Transform actions ](https://support.apple.com/guide/shortcuts/transform-actions-apd1d9413cfb/ios) [Share actions ](https://support.apple.com/guide/shortcuts/share-actions-apdaf74d75a5/ios) [Test your actions ](https://support.apple.com/guide/shortcuts/test-your-actions-apda75604f37/ios) [About actions in complicated shortcuts ](https://support.apple.com/guide/shortcuts/about-actions-in-complicated-shortcuts-apd081d9d61f/ios)
-	•			Edit shortcuts 
-	•	[Intro to editing shortcuts ](https://support.apple.com/guide/shortcuts/intro-to-editing-shortcuts-apd5b1537ca0/ios) [Organize shortcuts in folders ](https://support.apple.com/guide/shortcuts/organize-shortcuts-in-folders-apd113493874/ios) [Reorder shortcuts ](https://support.apple.com/guide/shortcuts/reorder-shortcuts-apd052072d68/ios) [Rename shortcuts ](https://support.apple.com/guide/shortcuts/rename-shortcuts-apdd57094696/ios) [Modify shortcut icons ](https://support.apple.com/guide/shortcuts/modify-shortcut-icons-apd5ad5a2128/ios) [Duplicate shortcuts ](https://support.apple.com/guide/shortcuts/duplicate-shortcuts-apd6b467942c/ios) [Delete shortcuts ](https://support.apple.com/guide/shortcuts/delete-shortcuts-apd096cd65c6/ios) [Sync shortcuts ](https://support.apple.com/guide/shortcuts/sync-shortcuts-apdb3a4240b0/ios) [Share shortcuts ](https://support.apple.com/guide/shortcuts/share-shortcuts-apdf01f8c054/ios) [Add import questions to shared shortcuts ](https://support.apple.com/guide/shortcuts/add-import-questions-to-shared-shortcuts-apdf330fd3a0/ios) [Add a shortcut to Reminders using Siri ](https://support.apple.com/guide/shortcuts/add-a-shortcut-to-reminders-using-siri-apdacfdf1802/ios)
-	•			Personal automation 
-	•	[Intro to personal automation ](https://support.apple.com/guide/shortcuts/intro-to-personal-automation-apd690170742/ios) [Create a new personal automation ](https://support.apple.com/guide/shortcuts/create-a-new-personal-automation-apdfbdbd7123/ios) [Enable or disable a personal automation ](https://support.apple.com/guide/shortcuts/enable-or-disable-a-personal-automation-apd602971e63/ios) [Delete a personal automation ](https://support.apple.com/guide/shortcuts/delete-a-personal-automation-apda15fe2281/ios) Personal automation triggers 
-	•	[Event triggers ](https://support.apple.com/guide/shortcuts/event-triggers-apd932ff833f/ios) [Travel triggers ](https://support.apple.com/guide/shortcuts/travel-triggers-apd8ebfc4e8e/ios) [Communication triggers ](https://support.apple.com/guide/shortcuts/communication-triggers-apdd711f9dff/ios) [Setting triggers ](https://support.apple.com/guide/shortcuts/setting-triggers-apde31e9638b/ios)
-	•			Home automation 
-	•	[Intro to home automation ](https://support.apple.com/guide/shortcuts/intro-to-home-automation-apddb94c7489/ios) [Create a new home automation ](https://support.apple.com/guide/shortcuts/create-a-new-home-automation-apd2a290f633/ios) [Enable or disable a home automation ](https://support.apple.com/guide/shortcuts/enable-or-disable-a-home-automation-apd95fa97c85/ios) [Delete a home automation ](https://support.apple.com/guide/shortcuts/delete-a-home-automation-apd5a2baf4ee/ios) [Home automation triggers ](https://support.apple.com/guide/shortcuts/home-automation-triggers-apdb450f6291/ios)
-	•			Advanced shortcuts 
-	•	Use variables 
-	•	[Intro to variables ](https://support.apple.com/guide/shortcuts/intro-to-variables-apdb5506f698/ios) [Variable types ](https://support.apple.com/guide/shortcuts/variable-types-apdd2b316022/ios) [Use variables ](https://support.apple.com/guide/shortcuts/use-variables-apdd02c2780c/ios) [Adjust variables ](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)
-	•	[Use list actions ](https://support.apple.com/guide/shortcuts/use-list-actions-apd4dcacc115/ios) [Use the Choose from Menu action ](https://support.apple.com/guide/shortcuts/use-the-choose-from-menu-action-apdd7bf369da/ios) [Use If actions ](https://support.apple.com/guide/shortcuts/use-if-actions-apd83dcd1b51/ios) [Use Repeat actions ](https://support.apple.com/guide/shortcuts/use-repeat-actions-apdc11deb2c1/ios) Use Find and Filter actions 
-	•	[Intro to Find and Filter actions ](https://support.apple.com/guide/shortcuts/intro-to-find-and-filter-actions-apd3c845e881/ios) [Add filter parameters ](https://support.apple.com/guide/shortcuts/add-filter-parameters-apdbdab3433f/ios)
-	•	Show prompts in a shortcut  
-	•	[Intro to using prompts ](https://support.apple.com/guide/shortcuts/intro-to-using-prompts-apd8efa49a70/ios) [Use the Ask for Input action ](https://support.apple.com/guide/shortcuts/use-the-ask-for-input-action-apd68b5c9161/ios) [Use the Ask Each Time variable ](https://support.apple.com/guide/shortcuts/use-the-ask-each-time-variable-apd8b28e2166/ios) [Use the Show Alert action  ](https://support.apple.com/guide/shortcuts/use-the-show-alert-action-apdb9661c761/ios) [Use the Show Notification action ](https://support.apple.com/guide/shortcuts/use-the-show-notification-action-apd2175adcab/ios)
-	•	[Input types ](https://support.apple.com/guide/shortcuts/input-types-apd7644168e1/ios) [Limit the input for a shortcut ](https://support.apple.com/guide/shortcuts/limit-the-input-for-a-shortcut-apd8195f96d6/ios) [Receive what’s onscreen ](https://support.apple.com/guide/shortcuts/receive-whats-onscreen-apd350ce757a/ios) [Advanced Shortcuts settings ](https://support.apple.com/guide/shortcuts/advanced-shortcuts-settings-apdfeb05586f/ios) Run JavaScript on a webpage 
-	•	[Intro to the Run JavaScript on Webpage action ](https://support.apple.com/guide/shortcuts/intro-to-the-run-javascript-on-webpage-action-apd218e2187d/ios) [Use the Run JavaScript on Webpage action ](https://support.apple.com/guide/shortcuts/use-the-run-javascript-on-webpage-action-apdb71a01d93/ios)
-	•	Use URL schemes 
-	•	[Intro to URL schemes  ](https://support.apple.com/guide/shortcuts/intro-to-url-schemes-apd621a1ad7a/ios) [Open, create, and run a shortcut ](https://support.apple.com/guide/shortcuts/open-create-and-run-a-shortcut-apda283236d7/ios) [Run a shortcut from a URL ](https://support.apple.com/guide/shortcuts/run-a-shortcut-from-a-url-apd624386f42/ios) [Open or search the Gallery from a URL ](https://support.apple.com/guide/shortcuts/open-or-search-the-gallery-from-a-url-apd9c112ca23/ios) [Use x-callback-url ](https://support.apple.com/guide/shortcuts/use-x-callback-url-apdcd7f20a6f/ios) [Use another app’s URL scheme ](https://support.apple.com/guide/shortcuts/use-another-apps-url-scheme-apd68802640c/ios)
-	•	Use Web APIs in Shortcuts 
-	•	[Intro to web APIs ](https://support.apple.com/guide/shortcuts/intro-to-web-apis-apd2d448b2de/ios) Get started with web APIs 
-	•	[What’s an API?](https://support.apple.com/guide/shortcuts/whats-an-api-apd2e30c9d45/ios)[ ](https://support.apple.com/guide/shortcuts/whats-an-api-apd2e30c9d45/ios) [Request your first API ](https://support.apple.com/guide/shortcuts/request-your-first-api-apd58d46713f/ios)
-	•	Work with JSON 
-	•	[Intro to using JSON ](https://support.apple.com/guide/shortcuts/intro-to-using-json-apd0f2e057df/ios) [Parsing JSON ](https://support.apple.com/guide/shortcuts/parsing-json-apdde2dfe749/ios) [Handling lists ](https://support.apple.com/guide/shortcuts/handling-lists-apd9ba41d21b/ios) [Get Dictionary Value action ](https://support.apple.com/guide/shortcuts/get-dictionary-value-action-apdf01294032/ios) [Create contacts ](https://support.apple.com/guide/shortcuts/create-contacts-apd9cf19a736/ios)
-	•	Further exploration with APIs 
-	•	[API limitations ](https://support.apple.com/guide/shortcuts/api-limitations-apd891a6c84e/ios) [Format Date timestamps ](https://support.apple.com/guide/shortcuts/format-date-timestamps-apdfb33b0e17/ios) [Dictionaries ](https://support.apple.com/guide/shortcuts/dictionaries-apd43b69f337/ios)
-	•	Date and time formatting 
-	•	[About date and time formatting  ](https://support.apple.com/guide/shortcuts/about-date-and-time-formatting-apd71b0ac246/ios) [Date and time formats ](https://support.apple.com/guide/shortcuts/date-and-time-formats-apdfbad418ca/ios) [Dates as written language ](https://support.apple.com/guide/shortcuts/dates-as-written-language-apdc6348bca9/ios) [Technical standards ](https://support.apple.com/guide/shortcuts/technical-standards-apdfd459e13d/ios) [Custom date formats](https://support.apple.com/guide/shortcuts/custom-date-formats-apd8d9b19184/ios)
-
-David Blue's Co-Star Profile
-https://www.costarastrology.com/neoyokel
-https://davidblue.wtf/costar
-https://www.icloud.com/shortcuts/37c4830c57c74a6a8980316dc14843dc
-https://actions.getdrafts.com/theme_definitions?order=updated
-ddscheme
-https://docs.getdrafts.com/docs/automation/urlschemes
-
-[ddscheme(drafts://x-callback-url/runAction?text=TEXT&action=%ddscheme%)
-[ddscheme](drafts://x-callback-url/runAction?text=TEXT&action=ddscheme)
-Drafts Count
-
-[Drafts Count](drafts://x-callback-url/runAction?text=TEXT&action=Drafts%20Count)Counted 2343553 words in 2427 drafts. It's 966 words per draft in average.Counted 2343553 words in 2427 drafts. It's 966 words per draft in average.
-Drafts Autocompletes
-https://davidblue.wtf/drafts/D7135FD0-C2C5-4AB4-B0DD-DAAE7E70BA64.html
-https://davidblue.wtf/autocompletes
-# Notes-Regarding the iPad Professional
-
-- [**GitHub Issue**](https://github.com/extratone/bilge/issues/334)
-- [A Week with an iPad Pro](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
-- [WTF](https://davidblue.wtf/drafts/3862CF0D-843C-4BDE-996A-054F901FBE16.html) 
-- [Amanda Shared Apple Notes folder](https://www.icloud.com/notes/02b_42E6OkqYpzcVn2fV_gX_A#Amanda) (which doesn't really mean much, no.)
-- [Notes-A Week with an iPad Pro](https://chaff.writeas.com/notes-a-week-with-an-ipad-pro)
-- [MacTracker Page](mactracker://F82451D8-8D83-40C4-98FE-E73FD0F1A3E0)
-- [Amanda (iPad Pro) Geekbench](drafts://open?uuid=766CD93A-4DCA-4212-80E4-DCAD04C6D523)
-- [Regarding the iPad Professional](https://chaff.writeas.com/regarding-the-ipad-professional)
-- [iOS Settings URLs](drafts://open?uuid=18CC7D32-2D50-40A2-82FF-DCBBE1BC87AA)
-- [**Shared iCloud Photos Album**](https://www.icloud.com/sharedalbum/#B0eGgZLKuQ6jVn) - [Shortlink](https://bit.ly/bigboypad) - `https://bit.ly/bigboypad`
-- [AmandaFrame Siri Shortcut](https://www.icloud.com/shortcuts/0147edbe4be044bb8ed34b4dd0a96216)
-
----
-
-## Social
-
-- [Twitter Collection](https://twitter.com/NeoYokel/timelines/1534046796611211264)
-- [Heat UP](https://twitter.com/NeoYokel/status/1543011466332327937)
-- [Tethered Privilege Tweet](https://twitter.com/NeoYokel/status/1544807873166950400)
-- [Primary DAW Tweet](https://twitter.com/NeoYokel/status/1545555812285906947)
-
-### Embed
-
-```
-<a class="twitter-timeline" href="https://twitter.com/NeoYokel/timelines/1534046796611211264?ref_src=twsrc%5Etfw">One Week of iPad Pro - Curated tweets by NeoYokel</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
-
-## General
-
-- Class Traitor
-- Toilet Computer??
-- I could have sworn the duration of holding `⌘` to prompt the keyboard shortcuts guide used to be configurable on iPadOS... perhaps it was just a dream...
-- some handy BS I inevitably noodled into being: you could argue that this is as close as computers will ever get to Divine Form, given that the only physical media God ever delivered to man was in tablet format. - [Tweet](https://twitter.com/NeoYokel/status/1538013665806340096)
-- The incentivized use of Quick Notes should be... further incentivized by changes coming in iOS/iPadOS 16.
-- The globe key.
-- How I changed the cursor color/size?
-- [The iPhone x Bluetooth Keyboard Issue is a Class Issue](https://whyp.it/t/the-iphone-x-bluetooth-keyboard-issue-is-a-class-issue-45467¸) - Whyp
-- [Odette MacTracker Page](mactracker://FD04AF70-0032-4062-8694-970EB9FF7634)
-- The Calculator app is just inexplicably missing from iPadOS? lol
-- ⇧ [Why the iPad has never shipped with a calculator app](https://www.cultofmac.com/421893/why-the-ipad-has-never-shipped-with-a-calculator-app/)
-- [iPad Pro esc key on the keyboard missing? - Apple Community](https://discussions.apple.com/thread/250052054)
-
-### The Little Fucking *Show Keyboard* Idiot
-
-![Show Keyboard Idiot-iMessage](https://i.snap.as/OL4CcbP3.png)
-
-- Covers a whole portion of the last bit of the compose window in iMessage.
-- COMPOSING IN TWEETBOT
-- [iMessage Tweet](https://twitter.com/NeoYokel/status/1544451365384200192)
-
-### Regarding Multitasking
-
-- imo, Split View/Slideover/Whatever is really most useful only to address situations in which the OS would otherwise be killing background processes. stuff you would not have to worry about on a PC. like uploading files of any size anywhere, for instance.
-- [r/shortcuts - PopMenu - folders for iOS 15+ (launch apps, shortcuts, links, files, photos, contacts, notes)](https://reddit.com/r/shortcuts/comments/vuj5wg/popmenu_folders_for_ios_15_launch_apps_shortcuts/)
-- [Shortcuts in Split View Tweet](https://twitter.com/NeoYokel/status/1545557672170242048)
-
-
-## Hardware
-
-- You will definitely experience *weekly* (at least) connectivity issues with the keyboard/keypad, but probably less than a reasonable person would assume from such a fundamentally grafted-on prosthetic.
-
----
-
-## Social
-
-- [r/iPadPro - How can I be so good at iPhone home screens and yet *this* useless on the iPad?](https://reddit.com/r/iPadPro/comments/vbo0za/how_can_i_be_so_good_at_iphone_home_screens_and/)
-
-this the closest I've ever come to a homescreen in this device's layout which I'm at least *comfortable seeing every now and then*. idk why I"m so bad or why I even waste my time - the rational thing would be to just duplicate whatever homescreens I can find of Federico Viticci's lol.
-
-- [Files in Split View Revelations Tweet](https://twitter.com/NeoYokel/status/1536883851083104258)
-- [idiotic iMessage photo filters Tweet](https://twitter.com/NeoYokel/status/1544417244528140291)
-
----
-
-## Reading
-
-- [iOS and iPadOS 16: The MacStories Overview](https://www.macstories.net/stories/ios-and-ipados-16-the-macstories-overview/)
-- [11 Tips for Working on the iPad](https://www.macstories.net/ios/11-tips-for-working-on-the-ipad/)
-- [iPad Pro 2021 Review](https://www.macstories.net/stories/ipad-pro-2021-review/) | *MacStories* [Bear](bear://x-callback-url/open-note?id=ACA9A2BB-7866-46C2-B22D-566015E9F476-4467-000003D32DF54119)
-
----
-
-![Where I Started](https://i.snap.as/udlv0Ln9.png)
-
-### Where I started
-
-[Jorts](https://github.com/extratone/jorts), iPhone 12 Pro Max, iOS 16 Developer Beta 1, 06062022-220822.
-
-## Reference
-
-- [iPad Pro Full Technical Specifications](https://www.apple.com/ipad-pro/specs/)
-- [Apple iPad Pro 12.9 (2021) - Full tablet specifications](https://www.gsmarena.com/apple_ipad_pro_12_9_(2021)-10864.php)
-- [Supporting desktop-class features in your iPad app | Apple Developer Documentation](https://developer.apple.com/documentation/uikit/app_and_environment/supporting_desktop-class_features_in_your_ipad_app?language=objc)
-
-
-OVERVIEW
-
-Introduced	May 2021
-Discontinued	--
-Model Identifier	iPad13,8 (128, 256, or 512 GB storage) iPad13,9 (1 or 2 TB storage)
-Model Number	A2378
-EMC	3689
-Order Number	MHNF3LL/A (128 GB Space Gray) MHNH3LL/A (256 GB Space Gray) MHNK3LL/A (512 GB Space Gray) MHNM3LL/A (1 TB Space Gray) MHNP3LL/A (2 TB Space Gray) MHNG3LL/A (128 GB Silver) MHNJ3LL/A (256 GB Silver) MHNL3LL/A (512 GB Silver) MHNN3LL/A (1 TB Silver) MHNQ3LL/A (2 TB Silver)
-Initial Price	$1,099 (128 GB) $1,199 (256 GB) $1,399 (512 GB) $1,799 (1 TB) $2,199 (2 TB)
-Support Status	Supported
-Colors	Space Gray or Silver
-Weight and Dimensions	1.5 lbs., 11.04 H x 8.46 W x 0.25 D inches
-DISPLAY
-
-Display Size	12.9-inch (diagonal) widescreen
-Display Resolution2732-by-2048 resolution
-Refresh Rate	24 - 120Hz ProMotion
-Brightness	600 cd/m2 max, 1000 cd/m2 max full-screen, 1600 cd/m2 peak (HDR)
-Pixel Density	264 ppi
-Color Gamut	Wide color gamut (P3)
-STORAGE
-
-Capacity	128, 256, 512 GB, 1, or 2 TB
-INPUT
-
-Input Method	Multi-Touch, Apple Pencil (2nd Generation)
-Face ID	Enabled by TrueDepth camera for facial recognition
-
----
-
-## Initial Task List
-
-- [ ] Update Hell
-- [ ] Authentication Hell
-- [x] Is Tot gonna work? If not, replace with widgets? ANSWER: TOT WORKS - See [Twitter Video](https://twitter.com/NeoYokel/status/1538105518882963459)
-- [ ] Swift Playgrounds
-
-### Bad Ideas List
-
-- Assess how difficult it would actually be to build a simple application in Swift Playgrounds to act as the keyboard shortcuts guide for iPhone. See: [KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - [Tweet](https://twitter.com/NeoYokel/status/1534133062715547648)
-
-## Hardware Notes
-
-- Default, in-box charger struggling to keep up regardless of whether or not it's plugged directly into the device or into the Magic Keyboard Fucker Stand
-- Turns out, the Magic Keyboard Fucker Stand does not seem to mean I would no longer need my iPhone Suspension Hell Tripod Contraption, but rather that I need a MUCH more stout one.
-- Inevitably, one of the biggest components of the iPad Pro's overwhelming power in *my* life (probably *the* biggest, realistically,) is what it reveals of the operating system that is truly broken and what obstacles are literally just a resource issue that need only require brute Booty.
-- THE BLACKS. (In the display.) You know me to be a superficial user but my god!
-- I can almost see how one needn't miss the function keys, but *I* continuously encountered situations (which I'd before configured myself into with set keyboard shortcuts on iPhone) where I did not know how to proceed without keys missing from my Full Beauty Board. I love page up and down! Home and end! I don't want to fucking *read* a webpage, I just want to see the top or the bottom!
-
-## General Software Notes
-
-- The background persistence really is uncanny... like stumbling upon the fact that I was still logged in to TildeTown IRC in Blink (mosh tho) after like TWO DAYS without opening  Blink even though I had *not* enabled `geo track`.
-- Put simply, this device (versus any iPhone) makes Safari's native Reading List/Bookmarks functionalities *actually worthwile to use*.
-- There are glimpses of desktop-like window management throughout iPadOS (yet another one is coming with Stage Manager in iPadOS 16,) but frankly - as someone who has used this operating system very extensively under the assumption I would never have to deal with windowing - they have all come across as awkward and problematic. The funniest one - I was wondering why multiple windows kept showing up for Mail - just like its macOS counterpart, Mail's behavior when it comes to open new drafts is baffling and problematic.
-- On that windowing note, I frankly like Drafts' tried and true solutions addressing the single-window-only limitations of before (callable sidebars, fixed toolbars) *far* more than how it behaves in Split View. Again, I'm sure I could configure my way out of this, but fuck.
-
-## General Keyboarding Notes
-
-- I must confesss, I was *completely unaware* of the existence of iPadOS' "Floating Keyboard" view and when I inexplicably managed to trigger it for the fist time, I was treated to a pretty severe laughing fit because... well.
-
----
-
-## Questions Answered
-
-- [ ] *Does iPad/iPadOS respond to multiple connected keyboards at once?* - Yes! Thank God.
-
----
-
-## Videos
-
-- [Tot Works!! (Twitter)](https://twitter.com/NeoYokel/status/1538105518882963459)
-- [Video-A Magic Pain in My Ass](drafts://open?uuid=DAA80BF3-BB3F-4E89-976D-94E9D85C7B5A)
-- [Big Boy; Infinitely Bigger Phone](https://youtu.be/ZEWZ34eeboM)
-- "[What iPadOS 16 means for iPad Users](https://youtu.be/W3iEQoNMftk)" - Christopher Lawly
-- [Brandon Butch's First Things](https://youtu.be/uLFvvP3LNuw)
-- [Shirtless Application Closing - TikTok](https://www.tiktok.com/t/ZTdE3wUPn)
-- [Mission Impossible Application Closing - TikTok](https://www.tiktok.com/t/ZTdETLtea)
-- [Exploring Windows XP Tablet PC's Experience Pack!](https://youtu.be/mV0yeC7haxM)
-- [Trying to Take A Goddamned Photograph](https://user-images.githubusercontent.com/43663476/178081658-46702ef2-a622-4cfc-ad9d-70571d8858f1.MOV)
-
-### Keyboard Access on the Homescreen
-
-- [GitHub Issue raw file](https://user-images.githubusercontent.com/43663476/174433233-bcf5ec8d-a56b-4b59-bdd2-a31d7e4903b8.MOV) - `https://user-images.githubusercontent.com/43663476/174433233-bcf5ec8d-a56b-4b59-bdd2-a31d7e4903b8.MOV`
-
-<video controls>
-  <source src="https://user-images.githubusercontent.com/43663476/174433233-bcf5ec8d-a56b-4b59-bdd2-a31d7e4903b8.MOV">
-</video>
-
-## Audio
-
-- [Federico's 2021 iPad Pro Review: Step into the Capture Zone](https://appstories.net/episodes/219)
-
-
----
-
-## WWDC 2022
-
-[What's new in UIKit - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10059/)
-
-
-- [Introducing Private Click Measurement, PCM | WebKit](https://webkit.org/blog/11529/introducing-private-click-measurement-pcm/)
-- [wwdc21-10059 | Apple Developer Forums](https://developer.apple.com/forums/tags/wwdc21-10059)
-- [Apple Developer Documentation](https://developer.apple.com/documentation/uikit)
-- [https://devstreaming-cdn.apple.com/videos/wwdc/2021/10059/5/A2B84844-AAFE-437F-B1A2-7D4CC79957E2/downloads/wwdc2021-10059_hd.mp4?dl=1](https://devstreaming-cdn.apple.com/videos/wwdc/2021/10059/5/A2B84844-AAFE-437F-B1A2-7D4CC79957E2/downloads/wwdc2021-10059_hd.mp4?dl=1)
-- [https://devstreaming-cdn.apple.com/videos/wwdc/2021/10059/5/A2B84844-AAFE-437F-B1A2-7D4CC79957E2/downloads/wwdc2021-10059_sd.mp4?dl=1](https://devstreaming-cdn.apple.com/videos/wwdc/2021/10059/5/A2B84844-AAFE-437F-B1A2-7D4CC79957E2/downloads/wwdc2021-10059_sd.mp4?dl=1)
-- [Apple’s privacy pillars in focus - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10085)
-- [Design great actions for Shortcuts, Siri, and Suggestions - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10283)
-- [Focus on iPad keyboard navigation - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10260)
-- [Make blazing fast lists and collection views - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10252)
-- [Meet privacy-preserving ad attribution - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10033)
-- [Meet TextKit 2 - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10061)
-- [Meet the Location Button - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10102)
-- [Meet the UIKit button system - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10064)
-- [Qualities of a great Mac Catalyst app - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10053)
-- [SF Symbols in UIKit and AppKit - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10251)
-- [Take your iPad apps to the next level - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10057)
-- [What's new in Mac Catalyst - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10052)
-
----
-
-## Images (External)
-
-- ![Blink Glow](https://i.snap.as/ghjnlzTJ.png)
-- ![iPad Pro Portrait with Desktop Keyboard 1](https://i.snap.as/lfz77IGN.jpeg)
-
-## Screens
-
-- ![Distinctly, this is the first moment 06102022-190201 I've looked at the homescreen and not gagged.](https://i.snap.as/AbOIIQHr.png)
-- ![Raindrop on iPad Pro](https://i.snap.as/5c7dKuMe.png)
-- ![TildeTown Login in Blink](https://i.snap.as/wB5N2QWr.png)
-- ![Last Reported Homepage-06182022-041206](https://i.snap.as/wLVOsO1z.png)
-- ![Lightroom for iPad Keyboard Shortcuts Preview](https://i.snap.as/.png)
-- ![Telegram Saved Messages](https://i.snap.as/irkboLz4.png)
-- ![Telegram Channel Details](https://i.snap.as/JcHw1IZY.png)
-- ![Data Jar Unsynced](https://i.snap.as/rVNr0oqw.png)
-- ![Big Widgets](https://i.snap.as/UcoxUQ0C.png)
-- ![Peak Games](https://i.snap.as/NLFWOziH.png)
-- ![Snapchat](https://i.snap.as/B91t0avN.png)
-- ![Share to Telegram from Files](https://i.snap.as/HI3aAKED.png)
-- ![Todoist](https://i.snap.as/6wAvH6zw.png)
-- ![LookUp](https://i.snap.as/W7HspuZ4.png)
-- ![Mastodon Grid](https://davidblue.wtf/frames/mastodonipadpro.png) 
-- ![FE File Explorer Split View](https://i.snap.as/g5DMIoz0.png)
-- ![Refined GitHub in Safari](https://i.snap.as/urZ32DCF.png)
-- ![Nano](https://i.snap.as/BMpxOfGY.png)
-- ![Telegraph](https://i.snap.as/J0ZBfeys.png)
-- ![Twitch PIP](https://i.snap.as/vxyVylSy.png)
-- ![Cheatsheet](https://i.snap.as/C7ZrEyZE.png)
-- ![Microsoft Teams 1](https://i.snap.as/KnlUfUkk.png)
-- ![Microsoft Teams 2](https://i.snap.as/wqRGMgqh.png)
-- ![Microsoft Teams 3](https://i.snap.as/Htw91jfn.png)
-- ![Chrome Remote Desktop](https://i.snap.as/UhkxTcbS.png)
-- ![Super Agent for Safari-Consent Trail](https://i.snap.as/WgW6GMB8.png)
-- ![Pocket Casts](https://i.snap.as/fPHd5Iqp.png)
-- ![Slack](https://i.snap.as/6duLH0HO.png)
-- ![Stopwatch](https://i.snap.as/ap7FG1Xs.png)
-- ![LookUp](https://i.snap.as/YTtGU57p.png) 
-- ![UniChar](https://i.snap.as/bifofq3N.png)
-- ![GitHub](https://i.snap.as/LHiuGslp.png)
-- ![Apple Music](https://i.snap.as/7qu1T3ya.png)
-- ![Apple Mail](https://i.snap.as/C3Wt0AWt.png)
-- ![Apple Notes](https://i.snap.as/RilraxJp.png)
-- ![Apple News](https://i.snap.as/HHWpbquR.png)
-- ![Apple Reminders](https://i.snap.as/h7y08A43.png)
-- ![Shortcuts](https://i.snap.as/VOnSoo8F.png)
-- ![Discord](https://i.snap.as/InBxDGjF.png)
-- ![Evernote](https://i.snap.as/p0VlTSSs.png)
-- ![Apollo](https://i.snap.as/w0S4U6Lo.png)
-- ![MusicHarbor](https://i.snap.as/zKMr6iRC.png)
-- ![MusicHarbor Artists List](https://i.snap.as/Xy844LVc.png)
-- ![Cardhop](https://i.snap.as/quTDXE5t.png)
-- ![Fantastical](https://i.snap.as/LMqGPtIJ.png)
-- ![Bear](https://i.snap.as/IFEse7r4.png)
-- ![TextExpander](https://i.snap.as/pRuXQEsG.png)
-- ![Working Copy](https://i.snap.as/2mXt0Q4g.png)
-- ![Gladys-Split View](https://i.snap.as/5W4Zw3Go.png)
-- ![Gmail](https://i.snap.as/PsQxs38n.png)
-- ![Day One](https://i.snap.as/0pdzxP1X.png)
-- ![Night Sky 1](https://i.snap.as/W6w6aeAt.png)
-- ![Night Sky 2](https://i.snap.as/ug9AOq50.png)
-- ![NotePlan](https://i.snap.as/P18e9SS4.png)
-- ![Craft Dark](https://i.snap.as/GVSO3biH.png)
-- ![Craft Light](https://i.snap.as/3chSY37l.png)
-- ![Fig](https://i.snap.as/jNaDL4hO.png)
-- ![Vectornator](https://i.snap.as/wDxg28hD.png)
-- ![Accessibility ⇨ Pointer Control](https://i.snap.as/BGHBtuIs.png)
-- ![Homeland Vertical 1](https://i.snap.as/dM9mC650.png)
-- ![Homeland Vertical 2](https://i.snap.as/8QoeCFE6.png)
-- ![Homeland Vertical 3](https://i.snap.as/BlQJ2dot.png)
-- ![Homeland Vertical 4](https://i.snap.as/YQTMyTqi.png)
-- ![Calling using iPhone](https://i.snap.as/8qt7bc4D.png)
-
----
-
-## App-Specific Notes
-
-- Raindrop works *so* much better on iPad than on iPhone. ![Raindrop on iPad Pro](https://i.snap.as/5c7dKuMe.png)
-
-## Testing
-
-### Battery
-
-- ![Revival `07052022-180020`](https://i.snap.as/ucWBs6dh.png)
-- 10% - 1737
-- ![Check In - 1734](https://i.snap.as/YqSNQWu7.png)
-- ![Start - 1422](https://i.snap.as/6f1qvDM0.png)
-- I was mostly texting during this time...
-define: meme
-https://davidblue.wtf/drafts/16DEC6B7-2C5A-4420-8520-E7A5E22AD4CB.html
-https://davidblue.wtf/meme
+- [WTF Drafts Docs](https://davidblue.wtf/drafts/20BFE4EB-DA75-4013-8F46-350B89DBE326.html)
+- [Home - Drafts User Guide](https://davidblue.wtf/draftsdocs)
+- [Actions - Drafts User Guide](https://davidblue.wtf/draftsdocs/actions)
+- [Automation - Drafts User Guide](https://davidblue.wtf/draftsdocs/automation)
+- [Managing Drafts - Drafts User Guide](https://davidblue.wtf/draftsdocs/drafts)
+- [Editor - Drafts User Guide](https://davidblue.wtf/draftsdocs/editor)
+- [Extensions - Drafts User Guide](https://davidblue.wtf/draftsdocs/extensions)
+- [Getting Started - Drafts User Guide](https://davidblue.wtf/draftsdocs/gettingstarted)
+- [Home - Drafts User Guide](https://davidblue.wtf/draftsdocs/index.html)
+- [Managing Drafts - Drafts User Guide](https://davidblue.wtf/draftsdocs/drafts)
+- [Miscellaneous - Drafts User Guide](https://davidblue.wtf/draftsdocs/misc)
+- [Press Kit - Drafts User Guide](https://davidblue.wtf/draftsdocs/press-kit.html)
+- [Release Notes - Drafts User Guide](https://davidblue.wtf/draftsdocs/changelog)
+- [Release Notes - Drafts User Guide](https://davidblue.wtf/draftsdocs/changelog)
+- [Settings - Drafts User Guide](https://davidblue.wtf/draftsdocs/settings)
+- [Syntaxes & Themes - Drafts User Guide](https://davidblue.wtf/draftsdocs/extending)
