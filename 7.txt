@@ -14,3 +14,4 @@
 - [Release Notes - Drafts User Guide](https://davidblue.wtf/draftsdocs/changelog)
 - [Settings - Drafts User Guide](https://davidblue.wtf/draftsdocs/settings)
 - [Syntaxes & Themes - Drafts User Guide](https://davidblue.wtf/draftsdocs/extending)
+- [Dictionary.com | Meanings and Definitions of Words at Dictionary.com](http://Dictionary.com)
