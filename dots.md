@@ -563,6 +563,24 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [a-Shell README](drafts://open?uuid=278DA94D-63CA-4F9D-A68E-45AF990FBBBC)
 - [Notes-iOS iPadOS 16](drafts://open?uuid=5F41FE18-2741-40E2-B078-D48E517E766C)
 - [iOS iPadOS 16](drafts://open?uuid=886C9F8B-3919-489A-AA62-D0558C7C7FC9)
+- **[BETAUPDATES](things:///show?
+    id=R6S7GU7NdQPdVPHeTw9htc)**
+
+- [Apple Notes Index](drafts://open?uuid=3A18B85E-2AA2-4738-B400-14E8F72DA7D0)
+
+- [Elytra Trial](drafts://open?uuid=2B185EFC-ED48-4E18-9B8A-0F410816AF57)
+
+- [NeoCities Press](drafts://open?uuid=427BDA4E-8295-4E85-BADA-D5FAAD4D6CC5)
+- **[BETAUPDATES](things:///show?
+    id=LEmmAZKNbJBaTU2gUXy8jC)**
+
+- [Distributed Index](drafts://open?uuid=3B7930BE-07BC-4DB9-A591-4254BEE42A82)
+
+- [Brandfolder](drafts://open?uuid=4BEECFB1-3541-4ACB-AB15-27467CEB64B2)
+
+- [Sophie Sell](drafts://open?uuid=914350E6-A5EC-4AF5-8377-50EC07A7992A)
+
+- [enpass-to-1password](drafts://open?uuid=E747B224-7611-4ACB-9535-0904030C17FC)
 # Drafts Tag List
 `20220521-103511`
 
