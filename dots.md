@@ -581,6 +581,14 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Sophie Sell](drafts://open?uuid=914350E6-A5EC-4AF5-8377-50EC07A7992A)
 
 - [enpass-to-1password](drafts://open?uuid=E747B224-7611-4ACB-9535-0904030C17FC)
+
+- [pseudometa - Drafts Directory](drafts://open?uuid=F1635478-1AE5-447F-9CA9-79D5F4B7D634)
+
+- [2.6 Git Basics - Tagging](drafts://open?uuid=58670698-D610-4195-82AE-89BD142EEC27)
+
+- [Reddit Talk](drafts://open?uuid=AB192ADA-8464-444A-AE83-75A274729830)
+
+- [Drafts Themes Showcase](drafts://open?uuid=273B02DB-74E7-4613-B619-44452D2EBB69)
 # Drafts Tag List
 `20220521-103511`
 
@@ -795,20 +803,3 @@ Wolfram Alpha about Flights Overhead
 - youtube
 - ~
 
-- [WTF Drafts Docs](https://davidblue.wtf/drafts/20BFE4EB-DA75-4013-8F46-350B89DBE326.html)
-- [Home - Drafts User Guide](https://davidblue.wtf/draftsdocs)
-- [Actions - Drafts User Guide](https://davidblue.wtf/draftsdocs/actions)
-- [Automation - Drafts User Guide](https://davidblue.wtf/draftsdocs/automation)
-- [Managing Drafts - Drafts User Guide](https://davidblue.wtf/draftsdocs/drafts)
-- [Editor - Drafts User Guide](https://davidblue.wtf/draftsdocs/editor)
-- [Extensions - Drafts User Guide](https://davidblue.wtf/draftsdocs/extensions)
-- [Getting Started - Drafts User Guide](https://davidblue.wtf/draftsdocs/gettingstarted)
-- [Home - Drafts User Guide](https://davidblue.wtf/draftsdocs/index.html)
-- [Managing Drafts - Drafts User Guide](https://davidblue.wtf/draftsdocs/drafts)
-- [Miscellaneous - Drafts User Guide](https://davidblue.wtf/draftsdocs/misc)
-- [Press Kit - Drafts User Guide](https://davidblue.wtf/draftsdocs/press-kit.html)
-- [Release Notes - Drafts User Guide](https://davidblue.wtf/draftsdocs/changelog)
-- [Release Notes - Drafts User Guide](https://davidblue.wtf/draftsdocs/changelog)
-- [Settings - Drafts User Guide](https://davidblue.wtf/draftsdocs/settings)
-- [Syntaxes & Themes - Drafts User Guide](https://davidblue.wtf/draftsdocs/extending)
-- [Dictionary.com | Meanings and Definitions of Words at Dictionary.com](http://Dictionary.com)
