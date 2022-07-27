@@ -1,7 +1,7 @@
 **_Constraints can be powerful._**
 T       O       T               L       E       A       R       N    
 
-[dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [ARTISTS](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random  Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - _[DraftsKeysUpdate](shortcuts://run-shortcut?name=DraftsKeysUpdate)_ - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [Vocabulary Index](shortcuts://run-shortcut?name=Vocabulary%20Index) - [HighResArtwork.](shortcuts://run-shortcut?name=HighResArtwork.) - [HRAAnim](shortcuts://run-shortcut?name=HighResArtwork%20Animated) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [Clipboard⇨txt](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File) - [GIF](shortcuts://run-shortcut?name=Better%20Gif%20Maker) - [ReleaseNotes](shortcuts://run-shortcut?name=Retrieve%20Release%20Notes) - [CombineImgs](shortcuts://run-shortcut?name=ImageCombineScratch) - [PATHS](shortcuts://run-shortcut?name=PATHS) - [Autolock](shortcuts://run-shortcut?name=Autolock) - [PersonalHotspot](shortcuts://run-shortcut?name=PersonalHotspot) - [TabGrouptoDrafts](shortcuts://run-shortcut?name=TabGrouptoDrafts) - [rhUsers](shortcuts://run-shortcut?name=rh-api%20Users) - [DavodTime](shortcuts://run-shortcut?name=DavodTime%20Conversion)
+[dark](shortcuts://x-callback-url/run-shortcut?name=dark) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [ARTISTS](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random  Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [ScriptBitch](scriptable:///run/ScriptDude) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [a](shortcuts://run-shortcut?name=a) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - _[DraftsKeysUpdate](shortcuts://run-shortcut?name=DraftsKeysUpdate)_ - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [macspeeds](shortcuts://run-shortcut?name=macspeeds) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [ttr](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=TrippleTap%20Reminder) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [Vocabulary Index](shortcuts://run-shortcut?name=Vocabulary%20Index) - [HighResArtwork.](shortcuts://run-shortcut?name=HighResArtwork.) - [HRAAnim](shortcuts://run-shortcut?name=HighResArtwork%20Animated) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [Clipboard⇨txt](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File) - [GIF](shortcuts://run-shortcut?name=Better%20Gif%20Maker) - [ReleaseNotes](shortcuts://run-shortcut?name=Retrieve%20Release%20Notes) - [CombineImgs](shortcuts://run-shortcut?name=ImageCombineScratch) - [PATHS](shortcuts://run-shortcut?name=PATHS) - [Autolock](shortcuts://run-shortcut?name=Autolock) - [PersonalHotspot](shortcuts://run-shortcut?name=PersonalHotspot) - [TabGrouptoDrafts](shortcuts://run-shortcut?name=TabGrouptoDrafts) - [rhUsers](shortcuts://run-shortcut?name=rh-api%20Users) - [DavodTime](shortcuts://run-shortcut?name=DavodTime%20Conversion) - [TabstoNote](shortcuts://run-shortcut?name=Tab%20Group%20%E2%87%A8%20Apple%20Note) - [AmandaBatteryLog](shortcuts://run-shortcut?name=AmandaBatteryLog) - [SoundcloudDL](shortcuts://run-shortcut?name=SoundcloudDownloader) - [TitledLinks](shortcuts://run-shortcut?name=Titled%20Markdown%20Links) - [RECURSE](shortcuts://run-shortcut?name=Recursively%20Eliminate%20Directories) - [rh-Shortcut](shortcuts://run-shortcut?name=rh-Shortcut)
 
 [Lab Dashboard](snippetslab://snippet/516E6A5A-1FC0-47CA-B67F-9B63B84C64D5/)
 
@@ -78,7 +78,7 @@ _Social/Family/Support_
 - [Siri Shortcuts and the Suite’s APIs](drafts://open?uuid=A401E6D6-4C44-4E5D-A351-FC20E9EC3BAF)
 - [Odette Software to Transfer Configure Highlight Learn](drafts://open?uuid=C8FCA2FB-3E48-4CAF-8CAD-884BAD53149F)
 - [Awesome Drafts integration! But also, a heads up!](drafts://open?uuid=2C7F7152-E7BD-41B8-AA07-E64B5955FCD3)
-- [What's on KBIA  Shortcut](drafts://open?uuid=8BCB0692-9274-4E1F-AFE1-1AFC17BB2877)
+- [Best of RoutineHub](drafts://open?uuid=8602E1E5-7597-412B-82F2-78CDBDEE9008)
 
 _Documentation_
 - **[Drafts Keyboard Shortcuts](drafts://open?uuid=F55AB610-D9F9-49D1-9C20-1CF6063DF03E)**
@@ -563,32 +563,18 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [a-Shell README](drafts://open?uuid=278DA94D-63CA-4F9D-A68E-45AF990FBBBC)
 - [Notes-iOS iPadOS 16](drafts://open?uuid=5F41FE18-2741-40E2-B078-D48E517E766C)
 - [iOS iPadOS 16](drafts://open?uuid=886C9F8B-3919-489A-AA62-D0558C7C7FC9)
-- **[BETAUPDATES](things:///show?
-    id=R6S7GU7NdQPdVPHeTw9htc)**
-
 - [Apple Notes Index](drafts://open?uuid=3A18B85E-2AA2-4738-B400-14E8F72DA7D0)
-
 - [Elytra Trial](drafts://open?uuid=2B185EFC-ED48-4E18-9B8A-0F410816AF57)
-
 - [NeoCities Press](drafts://open?uuid=427BDA4E-8295-4E85-BADA-D5FAAD4D6CC5)
-- **[BETAUPDATES](things:///show?
-    id=LEmmAZKNbJBaTU2gUXy8jC)**
-
 - [Distributed Index](drafts://open?uuid=3B7930BE-07BC-4DB9-A591-4254BEE42A82)
-
 - [Brandfolder](drafts://open?uuid=4BEECFB1-3541-4ACB-AB15-27467CEB64B2)
-
 - [Sophie Sell](drafts://open?uuid=914350E6-A5EC-4AF5-8377-50EC07A7992A)
-
 - [enpass-to-1password](drafts://open?uuid=E747B224-7611-4ACB-9535-0904030C17FC)
-
 - [pseudometa - Drafts Directory](drafts://open?uuid=F1635478-1AE5-447F-9CA9-79D5F4B7D634)
-
 - [2.6 Git Basics - Tagging](drafts://open?uuid=58670698-D610-4195-82AE-89BD142EEC27)
-
 - [Reddit Talk](drafts://open?uuid=AB192ADA-8464-444A-AE83-75A274729830)
-
 - [Drafts Themes Showcase](drafts://open?uuid=273B02DB-74E7-4613-B619-44452D2EBB69)
+- [RoutineHub Discord Feedback](drafts://open?uuid=CB7943A2-D417-4C19-BF09-A31E93E03A55)
 # Drafts Tag List
 `20220521-103511`
 
@@ -803,3 +789,60 @@ Wolfram Alpha about Flights Overhead
 - youtube
 - ~
 
+---
+
+- [Open Safari Bookmarks](https://www.icloud.com/shortcuts/88c82f6c5f7b4eb8b12912d3d888b7f5)
+- [Open Safari History](https://www.icloud.com/shortcuts/18ed7e4ffff94321a403eb7a264ae218)
+- [Open Reading List](https://www.icloud.com/shortcuts/36828022f8a14050bf0bdb4d4c67574d)
+- [Open Shared With You](https://www.icloud.com/shortcuts/7485e22257674c239220e471655b78fa)
+- [Open Safari start page](https://www.icloud.com/shortcuts/2cd28ed5cc464ad2a45cd48ddfadf3b7)
+- [Open Safari sidebar](https://www.icloud.com/shortcuts/204786c74bcd4f8293245acfa90ec313)
+- [Open Tab Overview](https://www.icloud.com/shortcuts/b6a00b4e3b654efba843a7c591a682e4)
+- [Open new tab](https://www.icloud.com/shortcuts/c0ec9c87f1294038af9d0eb9de74eaf1)
+- [Open new private tab](https://www.icloud.com/shortcuts/e1143cbdd8c647cba69b275eed0fe422)
+- [Open Default tabs](https://www.icloud.com/shortcuts/32eeeb87116b492abac4eb597ab4f48e)
+- [Open Private tabs](https://www.icloud.com/shortcuts/0d3afb83a63a496cbfa6c9ce5659da02)
+- [Create Tab Group](https://www.icloud.com/shortcuts/9bceab8204b34d02b7dbe32d77ce4bcc)
+- [Open Safari Tab Group](https://www.icloud.com/shortcuts/692dc1de9e8446919ac58c79813bd05e)
+- [Set Safari Focus Filter](https://www.icloud.com/shortcuts/7e43f53a534f44e5bc670b7abbadd598)
+
+
+
+- [Open Apple Support page](https://www.icloud.com/shortcuts/f6b6ada06a574c319658cfdc0843820d)
+- [Open Apple Support app](https://www.icloud.com/shortcuts/c878c0a72cf94a9fa7a6fd48e5c19d96)
+- [Search Apple Support](https://www.icloud.com/shortcuts/bd89665ef1434c74afed4f19d10f5c0a)
+- [Make a Genius Bar reservation](https://www.icloud.com/shortcuts/66039f04f90a44009e7f708a6487b29a)
+- [Call Apple Support](https://www.icloud.com/shortcuts/59e66abef8fb4ac1a232b298ebebe2a3)
+- [Call AppleCare](https://www.icloud.com/shortcuts/314268b02a5c4b29b5ccd46befd039e2)
+- [Open Apple Support on Twitter](https://www.icloud.com/shortcuts/04f8e4d8f6c74f538d4653ed630368fb)
+- [Open Apple Support on YouTube](https://www.icloud.com/shortcuts/3a9df64692d34013819ea15ab0210f31)
+ 
+- [Open WWDC sessions](https://www.icloud.com/shortcuts/48d5a69cb59645c1b79e0d8652cd2c23)
+- [Search WWDC sessions](https://www.icloud.com/shortcuts/288c7929307c415496b7677b8d21c18b)
+- [Browse WWDC sessions](https://www.icloud.com/shortcuts/3ef9a6682ad64b228a0b0e3bc3e688f2)
+- [Open the Developer app](https://www.icloud.com/shortcuts/901b24b548134c17855962418380e4fe)
+- [Developer TV](https://www.icloud.com/shortcuts/c5eff4cb755e4f6eb3d1e8f581d89e30)
+- [Full-screen session](https://www.icloud.com/shortcuts/ff0449ddd96f4b498ed9d1d73fa28534)
+- [Process transcript](https://www.icloud.com/shortcuts/a4f12e437047427b953a63a9312b5d12)
+- 
+		**Pages**
+		[Open Pages document](https://www.icloud.com/shortcuts/e542b3d4739841ffbed89413581beeae)
+		[Open Pages documents](https://www.icloud.com/shortcuts/5f6156c85503423b8fc4d121d7ad99c9)
+		[Create Dark Mode document](https://www.icloud.com/shortcuts/57d585723df04f4f9a4e564e5053163d)
+		[Create document from template](https://www.icloud.com/shortcuts/c988287ce1624917bb170f58de3009b0)
+		
+		**Keynote**
+		[Open my presentation](https://www.icloud.com/shortcuts/7b6a62df8c574c4190dec616ca0dfb08)
+		[Open Keynote doc](https://www.icloud.com/shortcuts/22d44f66c5d045ceaf1a01cff778c163)
+		[Open protected presentation](https://www.icloud.com/shortcuts/70a7a64818c2488b9cb40656833e8a60)
+		[Rehearse presentation](https://www.icloud.com/shortcuts/4ee623c621384e39b6c18c23307c66a1)
+		[Start presentation](https://www.icloud.com/shortcuts/47b0b3b6a9ff48a9a0f6fa433c363941)
+		
+		**Numbers**
+		[Open my spreadsheet](https://www.icloud.com/shortcuts/9177e7e2060e4e539de91ef293bf0008)
+		[Open my Numbers spreadsheets](https://www.icloud.com/shortcuts/1ae4baaa2bb14c5f8c0dabcf6ff98bc9)
+		[Create pivot table](https://www.icloud.com/shortcuts/5de41f69f4ae45c0a237a0b2a99a5c5b)
+		[Create table and chart](https://www.icloud.com/shortcuts/754f552aa205460090343b0f3239b020)
+		[Pick from a Numbers template](https://www.icloud.com/shortcuts/0526281f56fb403c9a89784d678c1228)
+		[Add to spreadsheet](https://www.icloud.com/shortcuts/dcb9e48a39ea4d589c9f51c12680ff8a)
+		
