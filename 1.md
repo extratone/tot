@@ -34,6 +34,8 @@ _[Master Index](https://tilde.town/~extratone/drafts/big/)_
 **[Automation April](drafts://open?uuid=114E449F-7518-4158-87EB-C817F633FBF2)**
 
 _Drafts_
+- [Regarding the iPad Professional](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
+- [Achieving Indexed File Share with iCloud Drive](drafts://open?uuid=3DB9B5E2-45FA-41FC-AB60-1AEAD7E516F8)
 - [End User Episode 9](drafts://open?uuid=69EA3CC6-7081-47B4-B4AB-C16E5C7E8417)
 - [Fresh Eyes on macOS](drafts://open?uuid=944F772C-CC9D-47F2-BD98-F4E435E40227)
 - [Hold Your Clipboard Mangers Close](drafts://open?uuid=81CC3D50-BC7A-471F-B247-DBE0ACC54C6B)
@@ -47,6 +49,8 @@ _Drafts_
 - [iOS iPadOS 16](drafts://open?uuid=886C9F8B-3919-489A-AA62-D0558C7C7FC9)
 
 _Notes_
+- [Notes-Regarding the iPad Professional](drafts://open?uuid=3862CF0D-843C-4BDE-996A-054F901FBE16)
+- [Notes-Achieving Indexed File Share with iCloud Drive](drafts://open?uuid=01EBA27E-AD8D-4660-9CE5-14EC3A4E52D4)
 - [Notes-Fresh Eyes on macOS](drafts://open?uuid=6C76EDBD-025D-40BA-9381-9AE95AD70F36)
 - [Notes-Hold Your Clipboard Managers Close](drafts://open?uuid=65AC8211-F3F9-419D-A7B3-EBF82E4944F1)
 - [Notes-Personal Twitter History](drafts://open?uuid=37B865E1-4372-4AF7-BB77-3979836130D4)
