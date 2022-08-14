@@ -8,3 +8,4 @@
 - [writeasjson](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/writeas.json)
 - [vcf](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/David%20Blue.vcf)
 - [doof](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/Audio/doof.mp3)
+- [ReflectingOnOurPlatformRelationships](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Essayist/ReflectingOnOurPlatformReleationships.essay)
