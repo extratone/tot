@@ -48,6 +48,7 @@ _Drafts_
 - [How I Manage Drafts](drafts://open?uuid=0BF34703-065D-4A2F-9F89-381A2348405E)
 - [Simplenote as Cross-Platform Snippets Manager](drafts://open?uuid=2000267B-6381-42E8-BACF-59166C5467A5)
 - [iOS iPadOS 16](drafts://open?uuid=886C9F8B-3919-489A-AA62-D0558C7C7FC9)
+- [Drafts as a Static Site Generator](drafts://open?uuid=26A9B32D-5C73-4CBD-A9D7-A18C2CBE5B74)
 
 _Notes_
 
@@ -63,6 +64,7 @@ _Notes_
 - [Notes-How I Manage Drafts](drafts://open?uuid=939FF8C4-CB56-4A5F-99E9-D88E7162BE4E)
 - [Notes-Simplenote as Cross-Platform Snippets Manager](drafts://open?uuid=D463E0D4-0617-4972-8484-7521C466B2C0)
 - [Notes-iOS](drafts://open?uuid=5F41FE18-2741-40E2-B078-D48E517E766C) [&](drafts://open?uuid=5F41FE18-2741-40E2-B078-D48E517E766C) [iPadOS 16](drafts://open?uuid=5F41FE18-2741-40E2-B078-D48E517E766C)
+- [Notes-Drafts as a Static Site Generator](drafts://open?uuid=873E5A04-7A16-4E22-A66A-0A1CA88BE582)
 
 _Social/Family/Support_
 
@@ -563,6 +565,8 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [Reddit Talk](drafts://open?uuid=AB192ADA-8464-444A-AE83-75A274729830)
 - [Drafts Themes Showcase](drafts://open?uuid=273B02DB-74E7-4613-B619-44452D2EBB69)
 - [RoutineHub Discord Feedback](drafts://open?uuid=CB7943A2-D417-4C19-BF09-A31E93E03A55)
+
+- [Attach to Process Write.as Theme](drafts://open?uuid=A9A8E5BA-A7BB-4DDB-A62F-018A84C93B8B)
 # Drafts Tag List
 `20220521-103511`
 
@@ -788,3 +792,5 @@ Wolfram Alpha about Flights Overhead
 - [vcf](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/David%20Blue.vcf)
 - [doof](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/Audio/doof.mp3)
 - [ReflectingOnOurPlatformRelationships](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Essayist/ReflectingOnOurPlatformReleationships.essay)
+- [venturalight](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/Configuration/venturalight.jpg)
+- [venturadark](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/Configuration/venturadark.jpg)
