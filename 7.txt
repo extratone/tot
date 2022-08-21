@@ -11,3 +11,6 @@
 - [ReflectingOnOurPlatformRelationships](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Essayist/ReflectingOnOurPlatformReleationships.essay)
 - [venturalight](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/Configuration/venturalight.jpg)
 - [venturadark](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/Configuration/venturadark.jpg)
+- [ThisisYourBrainoniPhone-BigTechnologyPodcast](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Citation/Audio/ThisisYourBrainoniPhone-BigTechnologyPodcast.mp3)
+- [DraftsHTMLTemplate](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~com~agiletortoise~Drafts5/Documents/Library/Templates/NeoCities.html)
+- [LocalIndex](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/index.md)
