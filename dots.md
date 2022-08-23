@@ -17,6 +17,7 @@ T       O       T               L       E       A       R       N
 
 [RoutinePub](shortcuts://run-shortcut?name=RoutinePub)
 [Shortcut Source](shortcuts://run-shortcut?name=Shortcut%20Source%20Tool)
+[JellycutsHelper](shortcuts://run-shortcut?name=JellycutsHelper)
 [Action Directory](shortcuts://run-shortcut?name=Action%20Directory)
 [iOSSystemSounds](https://extratone.github.io/iOSSystemSounds)	
 [RoutineHub - Create Shortcut](https://routinehub.co/shortcut/create)
@@ -374,6 +375,7 @@ Creative Wellness\*\*
 - [Tot Markdown Backup](https://routinehub.co/shortcut/11458)
 - [TrippleTap Reminders](https://routinehub.co/shortcut/11038)
 - [ttm.sh (macOS)](https://routinehub.co/shortcut/11377)
+- [ttm.sh File](https://routinehub.co/shortcut/12854)
 - [Twitter Jail (macOS)](https://routinehub.co/shortcut/11135)
 - [Twitter Jail](https://routinehub.co/shortcut/11086)
 - [URL List ⇨ Telegram](https://routinehub.co/shortcut/10926)
