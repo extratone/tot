@@ -21,7 +21,8 @@ T       O       T               L       E       A       R       N
 [Shortcut Source](shortcuts://run-shortcut?name=Shortcut%20Source%20Tool)
 [JellycutsHelper](shortcuts://run-shortcut?name=JellycutsHelper)
 [Action Directory](shortcuts://run-shortcut?name=Action%20Directory)
-[iOSSystemSounds](https://extratone.github.io/iOSSystemSounds)	
+[iOSSystemSounds](https://extratone.github.io/iOSSystemSounds)
+[Routinehub Report](shortcuts://run-shortcut?name=Routinehub%20Report)
 [RoutineHub - Create Shortcut](https://routinehub.co/shortcut/create)
 
 _New Issues_
