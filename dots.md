@@ -655,10 +655,55 @@ I'm not just horsing around when I say **feel free to <email me> about literally
 - [RoutineHub Discord Feedback](drafts://open?uuid=CB7943A2-D417-4C19-BF09-A31E93E03A55)
 
 - [Attach to Process Write.as Theme](drafts://open?uuid=A9A8E5BA-A7BB-4DDB-A62F-018A84C93B8B)
-# Drafts Tag List
-`20220521-103511`
+**Flagged Drafts**
+Updated 09072022-195203
 
-<airmail://message?mail=davidkrusemark%40gmail.com&messageid=AC3D6D2F-5691-46B8-AB77-51BE28A22B70%40gmail.com>
+---
+
+- [Notes-iOS & iPadOS 16](drafts://open?uuid=5F41FE18-2741-40E2-B078-D48E517E766C)
+- [09042022-143050 Index](drafts://open?uuid=AE7AC1E1-EAAF-44AB-B227-DD9B6DA31B93)
+- [App Store Reviews](drafts://open?uuid=25628140-FC0A-4DBF-96BE-1E7624E9F50A)
+- [David Blue’s WORLD FAMOUS Fast n’ Loose™ Siri Shortcuts for 𝚂𝙲𝚁𝚄𝙱𝚂](drafts://open?uuid=68F049EC-59AF-4A49-885F-698BB9653400)
+- ["How to Automate PowerShell Scripts with Task Scheduler"](drafts://open?uuid=375071B3-800A-45E1-AD13-BCA24C15933B)
+- [David Blue‘s Drafts Configs](drafts://open?uuid=38A942A2-33C4-4630-9CDE-B005989F4E3A)
+- [End User Episode 9](drafts://open?uuid=69EA3CC6-7081-47B4-B4AB-C16E5C7E8417)
+- [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
+- [Odette Software to Transfer/Configure/Highlight/Learn](drafts://open?uuid=C8FCA2FB-3E48-4CAF-8CAD-884BAD53149F)
+- [Notes-Siri Shortcuts and More for Tot](drafts://open?uuid=E6D127B8-B5CE-45F5-8D6A-0BC5CE12A149)
+- [iCloud Mail Addresses and Aliases](drafts://open?uuid=B3C09F60-9564-4F0B-8E60-A5410909A3BF)
+- [Le Mans 2022](drafts://open?uuid=BC35FA7F-3595-4612-8A84-9DF247E20418)
+- [What's on KBIA? Shortcut](drafts://open?uuid=8BCB0692-9274-4E1F-AFE1-1AFC17BB2877)
+- [TextExpander touch SDK](drafts://open?uuid=A40970A6-8EF9-4388-AA28-C6AD4A1DF15E)
+- [Jayson App Store Review](drafts://open?uuid=A953A625-CB34-47B7-B944-FAD0B617966D)
+- [URLSchemeBinding](drafts://open?uuid=A64BB28B-D251-4EB8-82BA-027F4A5BD1E9)
+- [Along for the Ride](drafts://open?uuid=20A08941-14C6-4533-9DBA-8BD198C4A2BF)
+- [Siri Shortcuts and More for Tot](drafts://open?uuid=9DAFE8FC-3655-4FBD-BA16-7439BAC109FA)
+- [Notes-Periscope Magic](drafts://open?uuid=480EF899-1228-4751-BFA2-1F197BF1B71A)
+- [A Good Place-Periscope Magic](drafts://open?uuid=4B149084-B41C-4C82-8FD2-0FB7CCF67B6B)
+- [Please Fuck With This License](drafts://open?uuid=FAFFA333-34A5-4412-B46C-3D216C09FD8E)
+- [Probably the same as it is now. complaining about laptops with a 16:9 aspect ratio https://t.co/HkU0c58A8t](drafts://open?uuid=B6DF208A-F25A-48A2-B852-E99DD478E622)
+- [Siri Shortcuts and the Suite’s APIs | Write.as Forum](drafts://open?uuid=A401E6D6-4C44-4E5D-A351-FC20E9EC3BAF)
+- [I have too many drafts to handle! | Drafts Forums](drafts://open?uuid=B1E83A7F-9C31-4881-B608-FA1E12D3B17D)
+- [Drafts Cult Telegram Group](drafts://open?uuid=388B2827-47FA-4F26-8467-F4DED3805E4D)
+- [The Psalms Action Group](drafts://open?uuid=7580294A-E97B-4614-AAF6-4E4A63358E6E)
+- [Action Group Index](drafts://open?uuid=411D556C-2ABF-4181-8D43-C6E46559BBEA)
+- [Drafts Keyboard Shortcuts (iOS Export)](drafts://open?uuid=880E8C09-09D6-4712-B33F-D0D1630DDC3C)
+- [Dots](drafts://open?uuid=6CB89F33-7463-4201-89E4-F1D850008D8A)
+- [Drafts Keyboard Shortcuts to Re-Emphasize](drafts://open?uuid=55EDFC80-8307-4197-9A8F-754C1656A43F)
+- [Birthday: Table of Contents](drafts://open?uuid=A5AEEC73-21C7-4ECA-B214-F459EF12AAC5)
+- [gas station robbery https://t.co/TKZ20Ze9oh](drafts://open?uuid=A3881C9D-A11E-4367-BEA9-5F1E53C0FB57)
+- [I.... have a PhD position? This is so cool! 🥳🥳](drafts://open?uuid=C42778FB-2D9A-48B9-8195-248616062DC4)
+- [Twitter Search: @neoyokel](drafts://open?uuid=45F41B98-3F9F-473E-A1E1-6B44E1B7B729)
+- [NeoCities/WebDAV Action Group](drafts://open?uuid=871D7EF0-8BAF-438B-8A5A-E3978B659FD1)
+- [Hold Your Clipboard Managers Close](drafts://open?uuid=A7A3A08D-3C07-49E3-A6D0-A2DEF40DF974)
+- [Please Fuck With This License](drafts://open?uuid=A61AB9CD-1756-4E05-B50B-5AB6AE693BE7)
+- [David Blue’s WORLD FAMOUS Fast n’ Loose™ Siri Shortcuts for 𝚂𝙲𝚁𝚄𝙱𝚂](drafts://open?uuid=DD9ED498-1B00-45F7-B610-86E4570DB9E2)
+- [@BrianMueller333 ❤ 🫂](drafts://open?uuid=82E0B364-962F-4711-AE16-701D0EED2234)
+- [Twitter Search: neoyokel](drafts://open?uuid=58D83DD4-3C0D-4BCD-97A6-F3447BF8C93A)
+- [Friends Twitter List Export 12-15-2021](drafts://open?uuid=E18E5F6F-15A2-4A72-A823-BBFDA20751D1)
+- [Index/Welcome](drafts://open?uuid=6BE78CAC-6238-4797-894D-59FDDB9E3CD7)
+- [The Agony & The Ecstasy of the iPhone 12 Pro Max](drafts://open?uuid=07B641B2-6692-4FA9-9E7C-79D7EED5F803)
+- [- [Shortcuts](https://www.icloud.com/shortcuts/a2ef3a327a0b4c32854cbe55e9a63080)](drafts://open?uuid=6203D523-0B68-443B-BADE-F4A5D441FE86)
 **File Bookmarks**
 
 - [cloudclipboard](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Clipboard.txt)
