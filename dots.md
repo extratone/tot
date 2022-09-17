@@ -140,67 +140,8 @@ _ACQUIRE_
 
 **Mail**
 
+- [Editors' Choice: Highlights of the recent literature](message://%3Cbaa42342-c6ec-4331-81f2-8c3c0d4cd364@atl1s07mta2191.xt.local%3E)
 
-- [KOPN Newsletter, June 2022](message:%3C1138917676972.1135849712953.1690315610.0.730530JL.2002@scheduler.constantcontact.com%3E)
-
-**Todo**
-- [Write.as Siri Shortcuts](drafts://open?uuid=C616958C-BFDE-4B6C-A7E9-05CBAF394E08)
-- [Generate Shortcuts x-callback Links (macOS)](drafts://open?uuid=400D3AE6-CBA9-4272-B681-92B9131ED7B3)
-- WhatCMS API tools
-- AppWishIDs
-- Batch rename image files by sampling from an Extract Text from Image Action, intelligently truncated.
-- Post to Write.as Blog (iOS) - with a-Shell?
-- Taio & Drafts Integration with [URL Schemes](https://docs.taio.app/#/integration/url-schemes)
-- Drafts Themes inspired by [Mineshaft Gold](https://t.me/addtheme/mineshaftgold2022) and [Japan Serenity](https://t.me/addtheme/japanserenity2022)
-- Big Complex [iOS System Sounds](https://github.com/extratone/iOSSystemSounds) shortcut
-- SSH with Working Copy
-- Learning to use the Snap.as CLI/Snap.as Siri Shortcuts
-- Shortcuts Horn Buttons
-- Bear links to Tot?
-- Figure out Zalgo Shortcuts
-- Figure out how GitHub Wikis actually work and organize [The Psalms’ Wiki](https://github.com/extratone/bilge/wiki)
-- WriteFreely community Telegram Group?
-- Learn [Paste Stacks](https://pasteapp.io/help/paste-stack-51)
-- Update [NeoCities Homepage Text](drafts://open?uuid=D1E2EEA4-95BC-4837-BE96-387BC11E0037)
-- LookUp Collection ⇨ Spoken Audio File
-- [Submit to](https://www.earratmag.com/p/submissions.html) _[Ear Rat](https://www.earratmag.com/p/submissions.html)_[’s 90s Issue by March 31st](https://www.earratmag.com/p/submissions.html)
-- A Safari Extension for iOS that cleans links
-- Bear Siri Shortcuts
-- Bear Keyboard Shortcuts
-- Bear URL Schemes
-- More extensive Panda testing?
-- Services/Shortcuts in macOS
-- New Draft with current Safari tab links function on iOS via Shortcuts
-- Siri Shortcuts based on the [Tumblr API](https://www.tumblr.com/docs/en/api/v2)
-- **Doubling the WebDAV action steps fixes everything???**
-- BT Inspector Shortcuts
-- Taio Drafts Actions
-- Keys Awards Page(s)
-- WhatCMS Scriptable Script!
-- Convert Tweet-to-Markdown Obsidian Plugin to Drafts Action?
-- Ccmplete all reminders with tag.
-- Download Writeas library to Bear.
-- Update Typora repository.
-- [ListenNotes API](https://www.listennotes.com/api/pricing/)
-- Extract URLs Drafts Action
-- Raindrop Selection Drafts Action
-- Save Tweet Drafts action via [the Twitter object](https://scripting.getdrafts.com/classes/twitter)
-- [Reddit](shortcuts://run-shortcut?name=Reddit%20OP%20Test) [⇨](shortcuts://run-shortcut?name=Reddit%20OP%20Test) [Markdown Shortcuts](shortcuts://run-shortcut?name=Reddit%20OP%20Test)
-- [Action Log Actions](https://scripting.getdrafts.com/classes/actionlog#uuid)
-- Working with [the NPR One API](https://www.postman.com/extratone/workspace/extranet/request/15808119-774d2658-849f-4622-858c-e9db2ed3a0cc)
-- Hack Woof’s
-- Add [Clippy.js](https://github.com/softwarehistorysociety/clippy.js) to NeoCities
-- Publish [Beep Hour](snippetslab://snippet/E598CB73-2CEF-4BAA-A985-2F459FD15FA1/) as a Homebrew thing
-- macOS Shortcut to Document [URLScheme Binding](drafts://open?uuid=A64BB28B-D251-4EB8-82BA-027F4A5BD1E9)
-- **[DavodKeys Action](https://directory.getdrafts.com/a/2AQ)** - perhaps even set aside a Dot to sync.
-- Searches Action Group
-- RadioLeMans in VLC Shortcut
-- Learn Morse Code
-- Pitch: Visual Storytelling exclusively [with Apple marketing images](https://twitter.com/NeoYokel/status/1538213690746585092)
-- Siri Shortcut using [ksc](https://github.com/kotfu/ksc) in a-Shell.
-- Selected Text - Siri TTS - Overcast/PocketCasts(?)
-- [ttm Sharesheet Shortcut](https://i.snap.as/sNRzBjPj.png)
-- [Discourse API Siri Shortcuts](https://docs.discourse.org)
 ⌦ ⌦ ⌦ ⌦ 
 
 **Reading**
@@ -218,6 +159,7 @@ _ACQUIRE_
 
 - [Silicon Valley Buzz: Apple Paid More Than $200 Million For Siri To Get Into Mobile Search | TechCrunch](https://techcrunch.com/2010/04/28/apple-siri-200-million/)
 - [Workflow iOS App Store page, archived](https://web.archive.org/web/*/https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334)
+- 
 **_SnippetsLab**
 -_ [General Terminal Bookmarks](snippetslab://snippet/4B6F1AD4-4A13-439D-92E7-D64D3E7501A7/)
 - ⇧ [Gist](https://gist.github.com/fdc905bbe098e1d7172c3d619d00e808)
