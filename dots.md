@@ -1,7 +1,7 @@
 **_Constraints can be powerful._**
 T       O       T               L       E       A       R       N    
 
-[dark](shortcuts://x-callback-url/run-shortcut?name=DaybreakDark) - [light](shortcuts://x-callback-url/run-shortcut?name=VenturaLight) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [ARTISTS](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random  Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - _[DraftsKeysUpdate](shortcuts://run-shortcut?name=DraftsKeysUpdate)_ - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=3Remind) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [Vocabulary Index](shortcuts://run-shortcut?name=Vocabulary%20Index) - [HighResArtwork.](shortcuts://run-shortcut?name=HighResArtwork.) - [HRAAnim](shortcuts://run-shortcut?name=HighResArtwork%20Animated) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [Clipboard⇨txt](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File) - [GIF](shortcuts://run-shortcut?name=Better%20Gif%20Maker) - [ReleaseNotes](shortcuts://run-shortcut?name=Retrieve%20Release%20Notes) - [CombineImgs](shortcuts://run-shortcut?name=ImageCombineScratch) - [PATHS](shortcuts://run-shortcut?name=PATHS) - [Autolock](shortcuts://run-shortcut?name=Autolock) - [PersonalHotspot](shortcuts://run-shortcut?name=PersonalHotspot) - [TabGrouptoDrafts](shortcuts://run-shortcut?name=TabGrouptoDrafts) - [rhUsers](shortcuts://run-shortcut?name=rh-api%20Users) - [DavodTime](shortcuts://run-shortcut?name=DavodTime%20Conversion) - [TabstoNote](shortcuts://run-shortcut?name=Tab%20Group%20%E2%87%A8%20Apple%20Note) - [AmandaBatteryLog](shortcuts://run-shortcut?name=AmandaBatteryLog) - [SoundcloudDL](shortcuts://run-shortcut?name=SoundcloudDownloader) - [TitledLinks](shortcuts://run-shortcut?name=Titled%20Markdown%20Links) - [RECURSE](shortcuts://run-shortcut?name=Recursively%20Eliminate%20Directories) - [rh-Shortcut](shortcuts://run-shortcut?name=rh-Shortcut) - [Shortcuts Backup](shortcuts://run-shortcut?name=Shortcuts%20Backup) - [AmandaBatteryLog](shortcuts://run-shortcut?name=AmandaBatteryLog) - [temp](shortcuts://run-shortcut?name=temp) - [sl](shortcuts://run-shortcut?name=sl) - [resume](shortcuts://run-shortcut?name=resume) - [FILEurl](shortcuts://run-shortcut?name=FILEurl) - [FileMarks](shortcuts://run-shortcut?name=FileMarks) - [PDF-PNG](shortcuts://run-shortcut?name=PDF%20to%20PNG) - [JSONSpeedtest](shortcuts://run-shortcut?name=JSON%20Speedtest) - [GatherFormat](shortcuts://run-shortcut?name=GatherFormat) - [GatherSync](shortcuts://run-shortcut?name=GatherSync) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - [DownloadFileList](shortcuts://run-shortcut?name=Download%20File%20List) - [ShortcutsBatchSource](shortcuts://run-shortcut?name=ShortcutsBatchSource) - [TabstoNote](shortcuts://run-shortcut?name=Safari%20Tabs%20%E2%87%A8%20Apple%20Note) - [pip](shortcuts://run-shortcut?name=pip) - [RESET](shortcuts://run-shortcut?name=Network%20Reset) - [FileExtensions](shortcuts://run-shortcut?name=File%20Extensions) - [RedditJSON](shortcuts://run-shortcut?name=RedditJSON)
+[dark](shortcuts://x-callback-url/run-shortcut?name=DaybreakDark) - [light](shortcuts://x-callback-url/run-shortcut?name=VenturaLight) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [ARTISTS](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random  Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - _[DraftsKeysUpdate](shortcuts://run-shortcut?name=DraftsKeysUpdate)_ - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=3Remind) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [Vocabulary Index](shortcuts://run-shortcut?name=Vocabulary%20Index) - [HighResArtwork.](shortcuts://run-shortcut?name=HighResArtwork.) - [HRAAnim](shortcuts://run-shortcut?name=HighResArtwork%20Animated) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [Clipboard⇨txt](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File) - [GIF](shortcuts://run-shortcut?name=Better%20Gif%20Maker) - [ReleaseNotes](shortcuts://run-shortcut?name=Retrieve%20Release%20Notes) - [CombineImgs](shortcuts://run-shortcut?name=ImageCombineScratch) - [PATHS](shortcuts://run-shortcut?name=PATHS) - [Autolock](shortcuts://run-shortcut?name=Autolock) - [PersonalHotspot](shortcuts://run-shortcut?name=PersonalHotspot) - [TabGrouptoDrafts](shortcuts://run-shortcut?name=TabGrouptoDrafts) - [rhUsers](shortcuts://run-shortcut?name=rh-api%20Users) - [DavodTime](shortcuts://run-shortcut?name=DavodTime%20Conversion) - [TabstoNote](shortcuts://run-shortcut?name=Tab%20Group%20%E2%87%A8%20Apple%20Note) - [AmandaBatteryLog](shortcuts://run-shortcut?name=AmandaBatteryLog) - [SoundcloudDL](shortcuts://run-shortcut?name=SoundcloudDownloader) - [TitledLinks](shortcuts://run-shortcut?name=Titled%20Markdown%20Links) - [RECURSE](shortcuts://run-shortcut?name=Recursively%20Eliminate%20Directories) - [rh-Shortcut](shortcuts://run-shortcut?name=rh-Shortcut) - [Shortcuts Backup](shortcuts://run-shortcut?name=Shortcuts%20Backup) - [AmandaBatteryLog](shortcuts://run-shortcut?name=AmandaBatteryLog) - [temp](shortcuts://run-shortcut?name=temp) - [sl](shortcuts://run-shortcut?name=sl) - [resume](shortcuts://run-shortcut?name=resume) - [FILEurl](shortcuts://run-shortcut?name=FILEurl) - [FileMarks](shortcuts://run-shortcut?name=FileMarks) - [PDF-PNG](shortcuts://run-shortcut?name=PDF%20to%20PNG) - [JSONSpeedtest](shortcuts://run-shortcut?name=JSON%20Speedtest) - [GatherFormat](shortcuts://run-shortcut?name=GatherFormat) - [GatherSync](shortcuts://run-shortcut?name=GatherSync) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - [DownloadFileList](shortcuts://run-shortcut?name=Download%20File%20List) - [ShortcutsBatchSource](shortcuts://run-shortcut?name=ShortcutsBatchSource) - [TabstoNote](shortcuts://run-shortcut?name=Safari%20Tabs%20%E2%87%A8%20Apple%20Note) - [pip](shortcuts://run-shortcut?name=pip) - [RESET](shortcuts://run-shortcut?name=Network%20Reset) - [FileExtensions](shortcuts://run-shortcut?name=File%20Extensions) - [RedditJSON](shortcuts://run-shortcut?name=RedditJSON) - [WeechatLogsGistUpdate](shortcuts://run-shortcut?name=WeechatLogsGistUpdate)
 
 [David Krusemark](https://start.1password.com/open/i?a=IMZ3BUQ3WRBWJDRIVNYONMPBNI&v=4rr53dwfguuvtckkmbvzbtnkei&i=njm4hixzls5x6kwcz5bu33rrdq&h=my.1password.com)
 
@@ -12,6 +12,7 @@ T       O       T               L       E       A       R       N
 ---
 
 – [SystemSoundsFolder](working-copy://open?repo=iOSSystemSounds&path=m4a&mode=content)
+– [Link Hell Queueueu](mobilenotes://showNote?identifier=600A9688-9FA8-41CC-A713-9B0621C03AC8)
 – [Working Copy URL Schemes](https://workingcopyapp.com/url-schemes.html)
 – [Please Fuck With This License](drafts://open?uuid=FAFFA333-34A5-4412-B46C-3D216C09FD8E)
 
@@ -19,7 +20,7 @@ T       O       T               L       E       A       R       N
 
 [RoutinePub](shortcuts://run-shortcut?name=RoutinePub)
 [Shortcut Source](shortcuts://run-shortcut?name=Shortcut%20Source%20Tool)
-[JellycutsHelper](shortcuts://run-shortcut?name=JellycutsHelper)
+[JellycutsHelperf](shortcuts://run-shortcut?name=JellycutsHelper)
 [Action Directory](shortcuts://run-shortcut?name=Action%20Directory)
 [iOSSystemSounds](https://extratone.github.io/iOSSystemSounds)
 [Routinehub Report](shortcuts://run-shortcut?name=Routinehub%20Report)
@@ -395,24 +396,282 @@ Updated 09072022-195203
 - [Index/Welcome](drafts://open?uuid=6BE78CAC-6238-4797-894D-59FDDB9E3CD7)
 - [The Agony & The Ecstasy of the iPhone 12 Pro Max](drafts://open?uuid=07B641B2-6692-4FA9-9E7C-79D7EED5F803)
 - [- [Shortcuts](https://www.icloud.com/shortcuts/a2ef3a327a0b4c32854cbe55e9a63080)](drafts://open?uuid=6203D523-0B68-443B-BADE-F4A5D441FE86)
-**File Bookmarks**
-
-- [cloudclipboard](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Clipboard.txt)
-- [ascii](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/ascii.JPG)
-- [allposts](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/allposts.json)
-- [pixkup](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/Archive/1991%20Toyota%20Pickup.md.md)
-- [ankeys](shareddocuments:///private/var/mobile/Containers/Data/Application/54557E17-3076-4EE6-9D3C-65A79A2AFF3D/Documents/ankeys.txt)
-- [writeasjson](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/writeas.json)
-- [vcf](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/David%20Blue.vcf)
-- [doof](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/Audio/doof.mp3)
-- [ReflectingOnOurPlatformRelationships](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Essayist/ReflectingOnOurPlatformReleationships.essay)
-- [venturalight](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/Configuration/venturalight.jpg)
-- [venturadark](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/Configuration/venturadark.jpg)
-- [ThisisYourBrainoniPhone-BigTechnologyPodcast](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Citation/Audio/ThisisYourBrainoniPhone-BigTechnologyPodcast.mp3)
-- [DraftsHTMLTemplate](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~com~agiletortoise~Drafts5/Documents/Library/Templates/NeoCities.html)
-- [LocalIndex](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/index.md)
-- [clipboard](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/Clipboard.txt)
-- [JortsDataLog](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~Numbers/Documents/CellularDataUsage.numbers/)
-- [simplenotejson](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/08602123-223A-410C-A18F-EBBF1E607712/File%20Provider%20Storage/Repositories/Documentation/d914efacfa35e77705c2d09ad8999993/simplenote.json)
-- [fw4](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Legal/FederalW-4.pdf)
-- [churchofcompaqlog](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Logging/churchofcompaqlog.md)
+Tot 1.5
+Greater control when creating and editing Smart Bullets, find and print text, improved layout control, and a new watch app to put Tot on your wrist!
+All
+	-	Added keyboard shortcuts for Smart Bullets [Yay MrStaggs!]
+	-	Control-8 to create a Smart Bullet on the current line
+	-	Command-8 to toggle Smart Bullet on current line
+	-	The last Smart Bullet you picked will be used
+	-	Use the keyboard combo to create a normal bullet (Option-8) as a reminder 
+	-	Added printing support
+	-	On macOS, use the File menu
+	-	On iOS, use Print at the end of the Edit menu
+	-	Added setting to adjust line height [Yay David!]
+	-	macOS: Format menu > Line Spacing > Standard → 30% increase
+	-	iOS: Settings > Text & Layout > Standard → 30% increase
+	-	New “Dot” app icon choice in Settings to match new watchOS app (see below)
+iOS
+	-	Added support for standard Find behavior in iOS 16
+	-	In Edit menu, use Find or Find Selection
+	-	To replace text, tap on magnifying glass and select Find & Replace
+	-	Added key clicks and haptic feedback on keyboard controls and Quick Keys
+	-	To turn on haptics, use Settings > Sounds & Haptics > Keyboard Feedback
+	-	Improved Edit menu layout and behavior
+	-	Fixed a bug where text wouldn't save properly when Tot was launched from a widget [Yay Harrie!]
+macOS
+	-	Added a command-line option to disable automatic backups:
+  % defaults write com.iconfactory.Tot disableAutomaticBackups 1
+	-	Using ⌘-0 to select an empty dot is now disabled if no dots are available [Yay Gruber!]
+	-	Updated status bar icon to be more consistent in size and spacing
+	-	The Settings icon now indicates its state more clearly
+watchOS:
+	-	New app that takes Tot’s mobility to a new level!
+	-	Available as a separate purchase on your watch’s App Store
+	-	Shows the contents of all your dots
+	-	Add text with dictation, Scribble, and other text input
+	-	Changes sync between macOS, iOS, and watchOS
+	-	NO general editing of text due to watch limitations
+Tot 1.4
+Easily create TODO checklists with Smart Bullets, keep an eye on your dots with iOS Widgets, and added a What's New in-app help video. 
+All
+	-	Smart Bullets:
+	-	Perfect for creating TODOs and checklists
+	-	Click or tap on a Smart Bullet to toggle its state ON/OFF
+	-	Bullets are normal text that you can copy & paste into other documents
+	-	Easy to share Smart Bullet lists as plain text
+	-	Optimized for both platforms: macOS: Pick Smart Bullet using * button in status bar iOS: Set which Smart Bullet to use via Quick Keys in Settings
+    - Check out What’s New in Help for a video overview and more info
+iOS
+	-	Support for Widgets:
+	-	Multi-dot for viewing a summary of all of your dots [Yay Everyone!]
+	-	Single dot for viewing a snippet of a configured dot [Yay and their dog!]
+	-	Widget content can be updated via iOS Shortcuts
+	-	Links now open directly in Tot:
+	-	Use Settings to turn this feature off and open links in Safari instead
+	-	Improved pointer interactions on iPadOS when using a trackpad
+	-	Fixed current selection in character picker
+macOS
+	-	Fixed a crash when viewing plain text in Help [Yay Terry!]
+	-	Fixed a problem with popover window not appearing over a full screen window [Yay Adrian!]
+	-	Added “Paste and Match Style” [Yay sharprichnorth!]
+	-	Fixed an issue displaying links on the most recent version of macOS
+Tot 1.3
+All
+	-	Added support for Shortcuts:
+	-	Commands to get, set, or show text from any dot
+	-	Query a dot to get text counts, modification date, JSON dictionary, and more
+	-	Works great as scratchpad to collect input for a Shortcut
+	-	Also a convenient way to save text that has been processed
+	-	Same actions on macOS and iOS, allowing shared workflows 
+macOS:
+	-	New “Control With” setting – Smart Icons:
+	-	Use Tot‘s menu bar icon to display a popover window
+	-	Detaching the popover window shows Tot‘s app icon in the Dock
+	-	Select Tot with Command-Tab keys and access menu bar options [Yay Elsie!]
+	-	Tot‘s Dock icon disappears when its window is closed
+	-	Improved window behavior when changing Dock and menu bar settings
+	-	Added caching to speed up Font menu (both in menu bar and context menu) [Yay Allen!]
+	-	Reminder about the iOS app isn’t shown on first few runs
+	-	Hovering over a dot now displays its number as a helpful tooltip
+iOS
+	-	Increased contrast of unused dots in dark mode [Yay Mark!]
+Tot 1.2.4
+macOS
+	-	Local backups of iCloud data are now done automatically:
+	-	View latest backups with File > Show Automatic Backups
+	-	Backups are JSON files encoded in UTF-8
+	-	Restore a backup with File > Restore Backup…
+	-	Backups are updated as needed every hour
+	-	Increased contrast of unused dots in dark mode [Yay Mark!]
+	-	Keyboard shortcuts like ⌘G now work correctly while Find panel is displayed [Yay Ben!]
+	-	Improved compatibility with Bartender [Yay Michal!]
+Tot 1.2.3
+All
+	-	Fixed a crash during iCloud updates - often seen at launch
+	-	Fixed a typo in help: there are no longer limitions in this app
+	-	Hash marks for Markdown headers are no longer used for AutoList [Yay TJ!]
+	-	Fixed issues with some bullet characters not automatically starting a list
+macOS
+	-	Fixed a problem with spell check settings not saving correctly
+	-	Improved rendering of dots on the flat title bar
+	-	Fixed placement of popover window in menu bar
+iOS
+	-	Fixed a problem with text undo not working
+	-	Changed shortcut action names to be more explicit by adding “Text”
+	-	Fixed a problem with RTL text being displayed incorrectly when returning to foreground [Yay Moshik!]
+Tot 1.2.1
+All
+	-	Dot defragger: compacts dots to keep things clean and organized:
+	-	Cleans up dots by moving full ones to the left and empty ones to the right
+	-	iOS: Use “Compact Dots” in share sheet (or tap & hold on share icon)
+	-	macOS: Use Window > Compact Dots… (or ⇧⌘D)
+	-	AutoList will only remove bullets if they are in the middle of a list [Thanks Ian!]
+	-	Fixed check for 100,000 characters: deleting text no longer triggers the alert
+	-	If the first paragraph of a dot is mostly Arabic or Hebrew, the text will automatically switch to using a Right-to-Left writing direction [Thanks Ezra!]
+	-	In plain text, ⌘B and ⌘I inserts a single Markdown character without a selection (this previously only worked with selected text)
+macOS
+	-	New symbol picker added to status bar:
+	-	Click on the asterisk to get a popover with symbols
+	-	Pick a bullet to start a new list, Emoji to add status, or any other symbol
+	-	A quick alternative to ⌃⌘Spacebar
+iOS
+	-	Fixed sample text at first launch
+Tot 1.2.2
+macOS
+	-	Updated all icons, including dynamic ones, to Big Sur style
+	-	Added purple tint color on controls to match iOS
+Tot 1.2
+All
+	-	Compatibility with latest operating systems and hardware, including Big Sur and Apple Silicon.
+macOS
+	-	Fixed an issue where the center dot wasn’t clickable. [Yay Chris!]
+	-	Fixed titlebar appearance.
+Tot 1.1.1
+All
+	-	Improved Markdown support:
+	-	Text should not lose characters when switching edit modes, and literal escapes are only added as needed.
+	-	Fixed issues with escaped Markdown characters not being removed from rich text. [Yay Marvin!]
+	-	Underscores and asterisks in rich text are now escaped when converted to Markdown.
+	-	Text for inline links is handled correctly now.
+	-	Improved handling of horizontal rulers.
+macOS
+	-	The icon picker in Settings is a lot simpler now. We’re not afraid to make mistakes, we’re afraid of bad decisions that don’t get corrected. :-)
+	-	Added icons that look better on future versions of macOS.
+	-	Titlebar appearance was adapted for future versions of macOS.
+	-	Pasting relative URLs now treats them as plain text. [Yay Marvin!]
+	-	Fixed selecting fixed width fonts by not using a localized name. [Yay Carles!]
+	-	Fixed issues with substitutions and text checking getting stored and synced correctly. [Yay Dom!]
+iOS
+	-	Added entitlement for “user installed fonts” so Adobe CC fonts can be used.
+	-	Change sharing extension button from “Done” to “Save”.
+	-	Fixed issues with keys when reduced transparency was turned on. [Yay Oli!]
+	-	Typing whitespace at the end of a link will remove link formatting and allow normal text to be entered. [Yay Gruber!]
+Tot 1.1
+All
+	-	Added Share extension and widget
+	-	On macOS, enable in System Preferences > Extensions
+	-	On iOS, use ⋯ in Share sheet app icons to add Tot
+	-	On iOS, use Edit at bottom of widget view to add Tot
+	-	New Mobius icon. [Yay Ged!]
+	-	Added a limit of 100,000 characters per dot. [Yay Garrett!]
+macOS
+	-	Help text is displayed using the font size setting of the current dot. [Yay zax!]
+	-	Fixed styling for links dragged in from Chrome.
+	-	URLs pasted into rich text are now linked automatically.
+	-	Scrollbar is now tinted using dot theme [Yay Frank!]
+	-	Fixed drawing issues with status bar.
+	-	Improved VoiceOver labels for statistics and text mode toggle. [Yay Alex!]
+	-	Improved VoiceOver for dot header, status bar, and settings. [Yay Robin!]
+iOS
+	-	Default font is now selected correctly in settings (both variable and fixed).
+	-	Fixed a bug where tapping a link while editing didn’t select the entire URL.
+	-	Fixed VoiceOver for switching edit modes. [Yay Alex!]
+	-	Improvements when navigating header using VoiceOver. [Yay Alex!]
+Tot 1.0.6
+macOS
+	-	Fixed a crash when dragging or quitting from menu bar (yes, really).
+iOS
+	-	Fixed VoiceOver when switching edit modes. [Yay Alex!]
+	-	Improvements when navigating header using VoiceOver. [Yay Alex!]
+	-	Disabled text size changes using keyboard commands (⌘ + and -). [Yay Gruber!]
+	-	Text statistics are no longer abbreviated if there’s enough space (e.g. iPad).
+Tot 1.0.5
+All
+	-	Improved Accessibility:
+	-	Dots in header are now treated as an ordered list of tab buttons in VoiceOver.
+	-	The text view’s label is now read as “Dot #” followed by its contents.
+	-	Fixed many items so they read correctly in VoiceOver.
+	-	Dots now use numbers for "differentiate without color" in Accessibility settings. [Yay Jason!]
+	-	Updated help and default content for color blindness accessibility.
+	-	Added Grayscale icons to app settings.
+	-	Lines that begin with a brace or bracket are no longer used for AutoList [Yay huckncatch!]
+macOS
+	-	Moved Dock icon configuration to Settings:
+	-	Pick your favorite icon style using the heart icon.
+	-	Use the contrast icon to pick between Dark & Light themes.
+	-	Dots can be numbered using “defaults write com.iconfactory.Tot showIndex true” then quit and relaunch. [Yay Kelvin!]
+	-	Added tooltip on menu bar icon that shows app name and keyboard shortcut. [Yay stiegjon!]
+iOS
+	-	Fixed a potential crash if a custom font was no longer available [Yay Ged!]
+	-	Cleaned up presentation of bulk actions (when tapping and holding on share button). [Yay Gruber!]
+Tot 1.0.4
+macOS
+	-	AutoList improvements:
+	-	Items without any text are automatically removed when you press return. [Yay Ben, Gus, Ged, and Ian!]
+	-	A new item will be inserted before the current line if the cursor is at or before the symbol. [Yay Ian!]
+	-	Text now scrolls into view after inserting a new symbol. [Yay Ian!]
+	-	Hiding the window with the hotkey will restore the application that was open when the window was activated.
+	-	Updated help with settings for menu bar items: configuring text view quotes and spelling, floating window support, and modifying keyboard shortcuts. [Yay @tot\_app followers!]
+	-	Removed an unneeded submenu from text view context menu. 
+iOS
+	-	AutoList improvements:
+	-	Items without any text are automatically removed when you press return. [Yay Ben, Gus, Ged, and Ian!]
+	-	A new item will be inserted before the current line if the cursor is at or before the symbol. [Yay Ian!]
+	-	Text now scrolls into view after inserting a new symbol. [Yay Ian!]
+	-	Font improvements:
+	-	Tot now supports custom fonts.
+	-	For help installing fonts on iOS, please see: <https://support.iconfactory.com/kb/tot/using-custom-fonts-in-tot-pocket>
+	-	Added setting for fixed width font. [Yay Gruber!]
+	-	Added sliders in Settings to fine tune text size. [Yay Ged!] 
+	-	Updated tab button icon (so it no longer looks like indent).
+	-	Fixed name of dark green icon [Yay Karan!]
+	-	Fixed a problem with pasting URLs as plain text.
+Tot 1.0.1
+macOS
+	-	Text mode is now synced across devices: if you switch to plain text on your phone, your desktop will also switch.
+	-	Updated Settings to match Apple Style Guide. [Yay John!]
+	-	Fixed a problem with the dynamic dock icon's drop shadow. [Yay Anthony!]
+	-	Increased contrast of help text for better readability. [Yay John!]
+	-	Cleaned up help text – its great now. [Yay John, Dan, and TJ!] 
+	-	Straight quote obliteration. [Fricken’ Gruber!]
+	-	Selecting Tot with ⌘-Tab will now reopen its window if needed.
+	-	Popover window no longer animates from menu bar. Snappy. [Yay Fredrik!]
+	-	A detached popover window’s size is saved and used the next time you click on the menu bar icon. [Yay Jordan!]
+	-	Added a “Display as Floating Window” option in Window menu. [Yay Kevin!]
+	-	New Edit > Add Link… (⌘K) can used to create or edit links in rich text mode.
+	-	Arrow keys can now navigate in Help.
+iOS
+	-	Text mode is now synced across devices: if you switch to plain text on your phone, your desktop will also switch.
+	-	Cleaned up help text – its great now.
+	-	Straight quote obliteration. [Fricken’ Gruber!]
+	-	Delete button no longer causes a crash a first character. [Yay Matthew!]
+	-	Fixed check for adding sample content: you may see it once more, but then it will only occur after a new install.
+	-	Text editing now adapts to new dynamic text size without having to relaunch.
+	-	The keyboard is no longer tinted when Colored Backgrounds are set to OFF
+	-	Additional keyboard shortcuts to match Safari muscle memory: ⌘⇧[ to show previous dot, ⌘⇧] to show next dot. [Thanks Erik!]
+Tot 1.0.3
+macOS
+	-	Tot can now customize the dot color theme:
+	-	Use Option key in Tot menu or ⌘-Option-, to open Theme Preferences.
+	-	Select the dot you want to change in the main window.
+	-	Changes to color well are displayed immediately.
+	-	New colors are synced to all devices, including iOS.
+	-	Share your theme as .tot file with save/load in Theme Preferences.
+	-	Theme file is JSON with hex colors: easy to modify in text editor, too.
+	-	Added Share to File menu. [Yay DW!]
+	-	Allows you to create custom keyboard shortcuts.
+	-	See <https://support.iconfactory.com/kb/tot/keyboard-shortcuts-in-tot>
+	-	Updated Help to match changes with ⌘-S.
+iOS
+	-	Custom app icons in 14 colors are now available in Settings. [Yay Ged!]
+	-	Custom themes are supported - use macOS theme editor to update all devices.
+	-	Sharing sheet now includes actions to clear, copy, and replace all text.
+	-	Use long press on sharing icon for quicker access and additional options.
+	-	Added “Paste as Plain Text” [Yay Brian!]
+	-	Use keyboard command Shift-⌘-V on iPadOS.
+	-	Also at end of text selection menu.
+	-	Worked around an iOS crash when selecting a huge amount of text. [Yay Federico!]
+Tot 1.0.2
+macOS
+	-	AutoList™: lines with leading tabs or a symbol and a space are automatically replicated to make maintaining lists easier. [Yay Ben!]
+	-	⌘-S no longer beeps when saving text, immediately syncs instead. [Yay Nick!]
+	-	New “Extra Extra Large” font size setting. [Yay Justin!]
+	-	Added check for plain text mode to prevent issues with style attributes in fonts like Fira Code. [Yay Jed!]
+	-	Added a new Window > Column Layout option to set column width (wide, narrow or full) for wider windows [Yay Ben!]
+	-	Spelling, grammar, and substitution settings are now synced for each dot. Use Edit or the contextual menu within a dot to turn on spell check or turn off substitutions. [Yay Andre!]
+iOS
+	-	AutoList™: lines with leading tabs or a symbol and a space are automatically replicated to make maintaining lists easier. [Yay Ben!]
+	-	Sharing now uses text from dot, not a file. To save a file, long-press on the share icon.
+	-	Added ⌘-0 and ⌘-1-7 support to iPadOS
+	-	Clear All no longer adds stuff to the clipboard unexpectedly
