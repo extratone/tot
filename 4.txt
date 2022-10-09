@@ -1,135 +1,52 @@
-**RoutineHub Library Index**
-Updated `09142022-225507`
+**RoutineHub Community Updates**
 
-- [@blue's RoutineHub Shortcuts (Library)](https://routinehub.co/shortcuts/10984)
-- [Accessibility Defaults (All Off)](https://routinehub.co/shortcuts/11130)
-- [Action Directory](https://routinehub.co/shortcuts/10921)
-- [AMEN](https://routinehub.co/shortcuts/11097)
-- [App Store ⇨ Market Tools](https://routinehub.co/shortcuts/12346)
-- [App Store Marketing Tools](https://routinehub.co/shortcuts/9821)
-- [App Store Reviews](https://routinehub.co/shortcuts/12644)
-- [Apple Design Resources](https://routinehub.co/shortcuts/12779)
-- [Apple News ⇨ Safari](https://routinehub.co/shortcuts/8690)
-- [audio Element Embed](https://routinehub.co/shortcuts/9948)
-- [Audio file ⇨ Base64 Text](https://routinehub.co/shortcuts/8914)
-- [Authenticate with Write.as API](https://routinehub.co/shortcuts/11589)
-- [Batch Shortcuts Signer (iOS)](https://routinehub.co/shortcuts/11467)
-- [Batch Shortcuts Signer (macOS)](https://routinehub.co/shortcuts/11401)
-- [Bible API](https://routinehub.co/shortcuts/12335)
-- [BIG WORDLE 𝘗𝘙𝘖](https://routinehub.co/shortcuts/10918)
-- [BIG WORDLE](https://routinehub.co/shortcuts/10871)
-- [Bookmarked Folder Index](https://routinehub.co/shortcuts/12853)
-- [Bulk Background Removal](https://routinehub.co/shortcuts/12553)
-- [Capture Web Page in Markdown](https://routinehub.co/shortcuts/9549)
-- [Capture Web Page to Drafts](https://routinehub.co/shortcuts/8994)
-- [Capture Webpage to Drafts (macOS)](https://routinehub.co/shortcuts/11078)
-- [Clean URLs](https://routinehub.co/shortcuts/11081)
-- [Clear Dot](https://routinehub.co/shortcuts/11540)
-- [Clipboard ⇨ Mastodon](https://routinehub.co/shortcuts/10980)
-- [Clipboard ⇨ Telegram Message](https://routinehub.co/shortcuts/10929)
-- [Collect References](https://routinehub.co/shortcuts/8913)
-- [Contacts Photo Grid](https://routinehub.co/shortcuts/12621)
-- [cowsay](https://routinehub.co/shortcuts/11087)
-- [Current Song ⇨ Song.Link ⇨ Clipboard ⇨ Safari](https://routinehub.co/shortcuts/8940)
-- [Custom Text Image](https://routinehub.co/shortcuts/9284)
-- [Data Jar List](https://routinehub.co/shortcuts/10730)
-- [David Blue](https://routinehub.co/shortcuts/9282)
-- [DavodTime Conversion](https://routinehub.co/shortcuts/12603)
-- [DavodTime](https://routinehub.co/shortcuts/10872)
-- [Disable All Alarms](https://routinehub.co/shortcuts/12902)
-- [DJ Screw Discography](https://routinehub.co/shortcuts/12618)
-- [Dot ⇨ New Draft](https://routinehub.co/shortcuts/11541)
-- [Dot Info](https://routinehub.co/shortcuts/11459)
-- [Dots Summary](https://routinehub.co/shortcuts/11542)
-- [Download Random Screw Tape](https://routinehub.co/shortcuts/12610)
-- [Drafts Workspace ⇨ Apple Notes](https://routinehub.co/shortcuts/11622)
-- [Drafts Workspace ⇨ Gists](https://routinehub.co/shortcuts/12921)
-- [Extratone Ebook](https://routinehub.co/shortcuts/11146)
-- [File/App Icon Extractor (macOS)](https://routinehub.co/shortcuts/10982)
-- [Flagged Drafts ⇨ Tot Dot](https://routinehub.co/shortcuts/12938)
-- [Generate Shortcuts Run Links List](https://routinehub.co/shortcuts/11143)
-- [Get Write.as Post Text](https://routinehub.co/shortcuts/12340)
-- [Holy Bible Spam (macOS)](https://routinehub.co/shortcuts/10924)
-- [Holy Bible Spam](https://routinehub.co/shortcuts/10925)
-- [Hot Tot Dot Swap](https://routinehub.co/shortcuts/11457)
-- [Index Drafts Workspace](https://routinehub.co/shortcuts/11397)
-- [Instant Alpha Selfie](https://routinehub.co/shortcuts/12554)
-- [JavaScript Helper (Toolbox Pro Beta)](https://routinehub.co/shortcuts/12761)
-- [JSON Speedtest](https://routinehub.co/shortcuts/12901)
-- [JSONize Image Colors](https://routinehub.co/shortcuts/11132)
-- [Key Command Formatting (ksc)](https://routinehub.co/shortcuts/12442)
-- [Last Trip Average Speed (mph)](https://routinehub.co/shortcuts/10953)
-- [LinkGopher (macOS)](https://routinehub.co/shortcuts/11852)
-- [Links List to Bear Notes](https://routinehub.co/shortcuts/11091)
-- [List .md Drafts Open Links by Tag](https://routinehub.co/shortcuts/11085)
-- [Logger Local Purge](https://routinehub.co/shortcuts/12856)
-- [LookUp Collection ⇨ Clipboard](https://routinehub.co/shortcuts/11076)
-- [LookUp Liked Words ⇨ Drafts](https://routinehub.co/shortcuts/12336)
-- [Make Audio from Article Body (Siri Speech Synthesis)](https://routinehub.co/shortcuts/9953)
-- [Make Audio from Document Text](https://routinehub.co/shortcuts/10028)
-- [Make Bear Notes from RSS Feed](https://routinehub.co/shortcuts/11089)
-- [Make Spoken Audio of Selected Text](https://routinehub.co/shortcuts/12439)
-- [Marco!](https://routinehub.co/shortcuts/8987)
-- [Markdown Capture ⇨Day One](https://routinehub.co/shortcuts/11904)
-- [Markdown Link ⇨ Tot Dot](https://routinehub.co/shortcuts/11504)
-- [Mastgur](https://routinehub.co/shortcuts/9781)
-- [Mastodon Bookmark](https://routinehub.co/shortcuts/11967)
-- [Mastodon Post (API)](https://routinehub.co/shortcuts/11865)
-- [Mastodon Post Embed](https://routinehub.co/shortcuts/12647)
-- [Mastodon Share](https://routinehub.co/shortcuts/9776)
-- [MusicHarbor Artist List](https://routinehub.co/shortcuts/8935)
-- [Noir Configuration Utility](https://routinehub.co/shortcuts/10917)
-- [Original Wikimedia Commons File](https://routinehub.co/shortcuts/12436)
-- [Overcast Show Notes ⇨ Bear](https://routinehub.co/shortcuts/8942)
-- [Overcast Show Notes ⇨ Drafts](https://routinehub.co/shortcuts/8944)
-- [Overcast Show Notes ⇨ Markdown](https://routinehub.co/shortcuts/8943)
-- [Paste to Apple Note](https://routinehub.co/shortcuts/11079)
-- [Paste to Clipboard](https://routinehub.co/shortcuts/11077)
-- [Paste to Jar](https://routinehub.co/shortcuts/11049)
-- [Paul](https://routinehub.co/shortcuts/10941)
-- [Post to Write.as Blog (macOS)](https://routinehub.co/shortcuts/10981)
-- [Query Snap.as Library](https://routinehub.co/shortcuts/11543)
-- [Quick App Icon](https://routinehub.co/shortcuts/12777)
-- [Raw Discourse Thread ⇨ Clipboard](https://routinehub.co/shortcuts/11187)
-- [Reminders Backup](https://routinehub.co/shortcuts/10118)
-- [Reminders List ⇨ Tot](https://routinehub.co/shortcuts/11539)
-- [Restore Safari Tabs](https://routinehub.co/shortcuts/10869)
-- [Safari Reading List ⇨ Raindrop](https://routinehub.co/shortcuts/12764)
-- [Safari Tabs ⇨ Apple Note](https://routinehub.co/shortcut/12975/)
-- [Safari Tabs Archive](https://routinehub.co/shortcuts/10774)
-- [Safari Tabs Jar](https://routinehub.co/shortcuts/10868)
-- [Safari Tabs List to Drafts](https://routinehub.co/shortcuts/11024)
-- [Scrub URL](https://routinehub.co/shortcuts/8783)
-- [Search iCloud Keychain](https://routinehub.co/shortcuts/11801)
-- [Seek Telegram Message by ID](https://routinehub.co/shortcuts/10930)
-- [Siri Shortcuts for Scrubs (Library Links)](https://routinehub.co/shortcuts/10978)
-- [Siri Speech Synthesis (MacOS)](https://routinehub.co/shortcuts/10583)
-- [Sleep Now (macOS)](https://routinehub.co/shortcuts/10867)
-- [Snap.as Upload](https://routinehub.co/shortcuts/11616)
-- [Speak Word Count](https://routinehub.co/shortcuts/11094)
-- [Speedy Frames](https://routinehub.co/shortcuts/10775)
-- [Spy Kids 3 Spam (macOS)](https://routinehub.co/shortcuts/10873)
-- [Spy Kids 3 Spam](https://routinehub.co/shortcuts/10919)
-- [T A R](https://routinehub.co/shortcuts/12564)
-- [Tab Group ⇨ Apple Note](https://routinehub.co/shortcuts/12525)
-- [Telegram Bot Post](https://routinehub.co/shortcuts/11860)
-- [Telegram Message Embed](https://routinehub.co/shortcuts/12622)
-- [They/Them](https://routinehub.co/shortcuts/10511)
-- [Tiny](https://routinehub.co/shortcuts/11697)
-- [Title Case](https://routinehub.co/shortcuts/10866)
-- [Tot ⇨ Apple Notes](https://routinehub.co/shortcuts/11500)
-- [Tot Git](https://routinehub.co/shortcuts/11565)
-- [Tot Jar](https://routinehub.co/shortcuts/11456)
-- [Tot Markdown Backup](https://routinehub.co/shortcuts/11458)
-- [TrippleTap Reminders](https://routinehub.co/shortcuts/11038)
-- [ttm.sh (macOS)](https://routinehub.co/shortcuts/11377)
-- [ttm.sh File](https://routinehub.co/shortcuts/12854)
-- [Twitter Jail (macOS)](https://routinehub.co/shortcuts/11135)
-- [Twitter Jail](https://routinehub.co/shortcuts/11086)
-- [Twitter Spaces Downloader](https://routinehub.co/shortcuts/12865)
-- [URL List ⇨ Telegram](https://routinehub.co/shortcuts/10926)
-- [Visualize Latest Colornames](https://routinehub.co/shortcuts/12841)
-- [Wake Up Weather Spoken Aloud](https://routinehub.co/shortcuts/8387)
-- [What’s on NPR?](https://routinehub.co/shortcuts/12143)
-- [What’s wrong with Spotify?](https://routinehub.co/shortcuts/10402)
-- [Write.as Post](https://routinehub.co/shortcuts/11698)
+Hello RoutineHub Community, 
+
+Lots of strong updates, so let's get started. 
+
+**Part 1 of 4 -** **Bug Fixes**
+
+1. Broken link after selecting "Forgot Password" User selects link "Forgot Password", submit their email, receive a reset password email with a broken link. **Fixed**
+
+2. Incorrect Password Error - A website error occurs when a user submits an incorrect password during log-in. **Fixed**
+
+3. Inconsistent Log In Log Out - Members noticed session inconsistencies while logging in. **Fixed**
+
+**Part 2 of 4 - Process Improvements**
+
+**Better Protocol for Reporting Takedown Requests**
+
+If you report a shortcut due to a policy violation, we now have a better process for managing them. This does not mean that every shortcut you report will be removed, but it does mean that we have a better system for capturing your submissions and verifying your assertion.  
+
+Thank you <@355492101758255116> for your input [here](https://discord.com/channels/503976650439131183/504063013515427851/1025931452312981614)
+
+**Part 3 of 4 - We Now Have Two Task Forces**
+
+We have two active task forces helping us a) curate the best shortcuts created by the community and b) remove low-quality shortcuts. 
+ 
+
+**Quality & Integrity Task Force**
+
+Per my previous announcement, <@986735824982904882>  and <@438277346487697418>  have begun a task force dedicated to removing low-quality shortcuts on the site. 
+
+Phase 1 consisted of removing low-quality shortcuts, and within that category, the team decided to organize "Low Quality" into tiers (Squirrel Thought: I prefer the word "Tranche" more than Tier but whatever, I digress.).
+
+Tier0 was focused on identifying and removing shortcuts that pattern match "test,"/test/, /(test)/. You get the picture. The group reviewed a sample of 300 shortcuts and identified 21% for removal. Great!
+
+Here is <@986735824982904882> [announcement from yesterday](https://discord.com/channels/503976650439131183/504063013515427851/1027608343117840464)
+
+Now, if you're like me, you have got to believe that there are way more placeholder shortcuts with the title "test" in them. If you agree, please read on.
+
+**Part 4 of 4 - We Need Your Help**
+
+This community is incredible at solving problems. I see you do it daily on this Discord group so if you're ready to help, please ping <@986735824982904882> or <@438277346487697418> to join the Shortcut Quality & Integrity task force. Reach out <@986735824982904882> to join the <#1000149774722416760> Together, we can deliver a better platform for the community to enjoy. 
+
+**Other Ways to Help**
+If you're busy but you like the community, here are a few other things you can consider. 
+
+1. Submit a shortcut you like to <#504120881119887371> . RoutineHub is the largest community of shortcut badasses who know how to build and therefore know what a well-made script is. If you think something is good, share it with us. If you made it and you think it's good, share it. If you're concerned about looking like a braggart, don't. 
+
+2. Boost our Server. This Discord is all about community, and if members believe that the team and I are making strong efforts to make improvements, show your support and submit a boost.
+
+3. Become a Community Member: [**Join here**](https://routinehub.co/membership/)
+

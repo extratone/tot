@@ -34,6 +34,13 @@ _New Issues_
 _Radio_
 [kbia](shortcuts://run-shortcut?name=kbia) - [kcou](shortcuts://run-shortcut?name=kcou) - [kopn](shortcuts://run-shortcut?name=kopn) - [datafruits](shortcuts://run-shortcut?name=datafruits)
 
+**Things**
+- **[$](things:///show?id=21qrJbSnKrB2yhcKMhr8Rp)**
+	- _[Consultation](things:///show?id=SLdM5dnobroZTA6pVfFwi2)_
+	- **[Fairview](things:///show?id=QMwNY36kns1Q5gCQ2uzDzc)**
+	- [Rolodex](things:///show?id=Tu4Cm6E49gQ4jxyhUvfaQ)
+
+
 **Drafts Instrument Panel**
 _[Master Index](https://tilde.town/~extratone/drafts/big/)_
 
