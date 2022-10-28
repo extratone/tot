@@ -12,6 +12,7 @@ T       O       T               L       E       A       R       N
 ---
 
 – [bilge Repo](working-copy://open?repo=bilge)
+– [developer Repo](working-copy://open?repo=developer)
 – [Shortcuts i Repo Folder](working-copy://open?repo=i&path=shortcuts&mode=content)
 – [SystemSoundsFolder](working-copy://open?repo=iOSSystemSounds&path=m4a&mode=content)
 – [Link Hell Queueueu](mobilenotes://showNote?identifier=600A9688-9FA8-41CC-A713-9B0621C03AC8)
