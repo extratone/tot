@@ -1,5 +1,5 @@
 **Working Copy Index**
-Updated `10222022-064400`
+Updated `10292022-070457`
 
 - [a-shell](https://github.com/extratone/a-shell)
 - [alexis](https://github.com/extratone/alexis)
@@ -8,12 +8,14 @@ Updated `10222022-064400`
 - [bear](https://github.com/extratone/bear)
 - [bilge](https://github.com/extratone/bilge)
 - [blink](https://github.com/extratone/blink)
+- [developer](https://github.com/extratone/developer)
 - [dots](https://github.com/extratone/dots)
 - [enpass-to-1password](https://github.com/extratone/enpass-to-1password)
 - [i](https://github.com/extratone/i)
 - [iOSSystemSounds](https://github.com/extratone/iOSSystemSounds)
 - [ish](https://github.com/ish-app/ish)
 - [keys](https://github.com/extratone/keys)
+- [nb](https://gitlab.com/DavidBlue/nb)
 - [obsidian](https://github.com/extratone/obsidian)
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 - [Private]()
@@ -22,6 +24,7 @@ Updated `10222022-064400`
 - [screw](https://github.com/extratone/screw)
 - [scriptable](https://github.com/extratone/scriptable)
 - [simplenote-ios](https://github.com/extratone/simplenote-ios)
+- [spring](https://github.com/extratone/springsettings)
 - [taio](https://github.com/extratone/taio)
 - [taioactions](https://github.com/extratone/taioactions)
 - [test]()
@@ -82,6 +85,7 @@ Updated `10222022-064400`
 - [Drafts/orchard](https://github.com/ExtraKeys/orchard)
 - [Drafts/Public-Drafts-Scripts](https://github.com/extratone/Public-Drafts-Scripts)
 - [Drafts/TemplateDraftsTable]()
+- [Gist/Twitter Users Gist]()
 - [Gist/YouTube Gist]()
 - [GitLab/wtf](https://gitlab.com/DavidBlue/wtf)
 - [Hardware/amanda](https://github.com/extratone/amanda)
@@ -111,6 +115,7 @@ Updated `10222022-064400`
 - [ii/routinehub-archive](https://github.com/softwarehistorysociety/routinehub-archive)
 - [ii/RoutinehubReport](https://github.com/extratone/RoutinehubReport)
 - [ii/Scriptable](https://gitlab.com/DavidBlue/Scriptable)
+- [ii/Scripts](https://github.com/extratone/userscripts)
 - [ii/shortcuts](https://github.com/extratone/shortcuts)
 - [ii/SW-DLT](https://github.com/softwarehistorysociety/SW-DLT)
 - [ii/ThingsJSONCoder](https://github.com/extratone/ThingsJSONCoder)
