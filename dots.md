@@ -171,50 +171,14 @@ _ACQUIRE_
 - [Silicon Valley Buzz: Apple Paid More Than $200 Million For Siri To Get Into Mobile Search | TechCrunch](https://techcrunch.com/2010/04/28/apple-siri-200-million/)
 - [Workflow iOS App Store page, archived](https://web.archive.org/web/*/https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334)
 - 
-**_SnippetsLab**
--_ [General Terminal Bookmarks](snippetslab://snippet/4B6F1AD4-4A13-439D-92E7-D64D3E7501A7/)
-- ⇧ [Gist](https://gist.github.com/fdc905bbe098e1d7172c3d619d00e808)
-- [Export TextExpander Groups](snippetslab://snippet/D5A1809B-FD3C-4C5C-A6D5-9FEF986439CF/)<message:%3Ccm.2308278116099.fideil.tkuiuhhylu.d@cmail20.com%3E>
-_-_ 
-
-_No highs? 
-No lows?
-It must be Bose!_
-
-[TWIT JUT](https://botsin.space/@commandandcontrol/107686912492769882)
-
-[UNDER A FULL PROCUREMENT MOON.](https://twitter.com/tomcritchlowBOT/status/1488829725606924291)
-
-**Bear Trial**
-
-_[BearTest](bear://x-callback-url/open-note?id=E2DE96E8-7C98-4403-AD5B-586C2048FFC5-52345-000061152F43AC38)_ - [Bear Test II](bear://x-callback-url/open-note?id=E2DE96E8-7C98-4403-AD5B-586C2048FFC5-52345-000061152F43AC38&title=Testing&header=Test%20Header&exclude_trashed=no&new_window=yes&open_note=yes&pin=yes&edit=yes)
-
-- [On Drafts and Obsidian](bear://x-callback-url/open-note?id=1370F643-9CD2-4B55-8C06-61A596AFA4C0-596-0000000E21830D7A) (Bear)
-- [How to Fuck Text](bear://x-callback-url/open-note?id=9F12813D-74E7-498B-8CC4-1B23DB6B33C7-20824-000024D69F569FB9)
-- [iPad Diaries: Working with Drag and Drop – Bear and Gladys](bear://x-callback-url/open-note?id=F5F74BDA-3884-4376-9538-0CDDDAE5E1A9-20824-000024AC62301A7C)
-- [Why I’m Considering Bear as a Notes App Replacement
--](bear://x-callback-url/open-note?id=ADA46854-09EE-479E-BC4E-ADD5604A62D5-20824-000024A929A0E1A7) 
-
-- [Solar Witch](https://witch.solar)
-- Tilde friend reminded me about [Low Tech Magazine](https://solar.lowtechmagazine.com). it’s been years!! how did I lose this bookmark‽‽‽
-
-**_Day To Do_**
-- Day One Capture Shortcut Publish
-- MacHD Space Shortcut Publish
-- Esse Scripts
-- Cheatsheets
-
-**iPad Pro**
-- Hypothesis on homescreen
-- Doof
-- Tmux
-- The homescreens MacStories section	
-- Complain about the widdle keyboard button
-- Add friend's music via iTunes for Windows
-- SimpleNote as cross-platform snippet manager.
-
-Creative Wellness\*\*
-- Gran Turismo Sounds
+**DAVOD WELLNESS**
+- Less RSS, more electronic music
+- WRISTWATCH
+- writing instrument
+- not quite _that_ deliberate
+- touch/smell publishing
+- CHORDOPHONE TIME
+- COJO - plan in advance, idiot.
 **RoutineHub Community Updates**
 
 Hello RoutineHub Community, 
