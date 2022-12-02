@@ -244,7 +244,7 @@ If you're busy but you like the community, here are a few other things you can c
 
 
 **Working Copy Index**
-Updated `11092022-132212`
+Updated `12022022-073538`
 
 - [alexis](https://github.com/extratone/alexis)
 - [archive-pdf-tools]()
@@ -258,7 +258,6 @@ Updated `11092022-132212`
 - [enpass-to-1password](https://github.com/extratone/enpass-to-1password)
 - [i](https://github.com/extratone/i)
 - [iOSSystemSounds](https://github.com/extratone/iOSSystemSounds)
-- [ish](https://github.com/ish-app/ish)
 - [keys](https://github.com/extratone/keys)
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 - [Private]()
@@ -280,8 +279,14 @@ Updated `11092022-132212`
 - [userscripts-safari](https://github.com/extratone/userscripts-safari)
 - [API/api](https://github.com/extratone/api)
 - [Auto/cartography](https://github.com/extratone/cartography)
+- [Dev/Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
+- [Dev/microblog-theme-template](https://github.com/extratone/microblog-theme-template)
+- [Dev/Runestone](https://gitlab.com/DavidBlue/Runestone)
+- [Dev/sunlit](https://github.com/extratone/sunlit)
 - [Documentation/app-uri](https://github.com/sysapps/app-uri)
 - [Documentation/bilge.wiki](https://github.com/extratone/bilge/wiki)
+- [Documentation/itty-bitty.wiki](https://github.com/alcor/itty-bitty/wiki)
+- [Documentation/Mastodon Documentation (Main Repo)](https://github.com/mastodon/documentation)
 - [Documentation/ohmyzsh.wiki](https://github.com/ohmyzsh/ohmyzsh/wiki)
 - [Documentation/timery](https://github.com/extratone/timery)
 - [Documentation/WhirlwindTourOfPython](https://github.com/jakevdp/WhirlwindTourOfPython)
@@ -290,6 +295,7 @@ Updated `11092022-132212`
 - [Drafts/Draftist](https://github.com/softwarehistorysociety/Draftist)
 - [Drafts/drafts](https://github.com/extratone/drafts)
 - [Drafts/Drafts Themes]()
+- [Drafts/drafts-actions (Ernst Widerberg)](https://github.com/ernstwi/drafts-actions)
 - [Drafts/drafts-script-reference](https://github.com/agiletortoise/drafts-script-reference)
 - [Drafts/drafts-template-parser](https://github.com/extratone/drafts-template-parser)
 - [Drafts/drafts.wiki](https://github.com/extratone/drafts/wiki)
@@ -298,11 +304,14 @@ Updated `11092022-132212`
 - [Drafts/orchard](https://github.com/ExtraKeys/orchard)
 - [Drafts/Public-Drafts-Scripts](https://github.com/extratone/Public-Drafts-Scripts)
 - [Drafts/TemplateDraftsTable]()
+- [Drafts/themes](https://github.com/bryanscarolina/themes)
 - [Gist/AppWish]()
+- [Gist/Brew Packages List Gist]()
 - [Gist/Contact Card Gist]()
 - [Gist/Mastodon Following Gist]()
 - [Gist/Redirection Gist]()
 - [Gist/TaioActionsGist]()
+- [Gist/Text Substitutions Gist]()
 - [Gist/Twitter Users Gist]()
 - [Gist/Vocabulary Gist]()
 - [Gist/write.as Gist]()
@@ -312,13 +321,13 @@ Updated `11092022-132212`
 - [Hardware/benchmarks]()
 - [Hardware/cloudpilot-emu](https://github.com/softwarehistorysociety/cloudpilot-emu)
 - [Hardware/jorts](https://github.com/extratone/jorts)
+- [Hardware/midnight](https://github.com/extratone/midnight)
 - [Hardware/odette](https://github.com/extratone/odette)
-- [Hardware/respring](https://gitlab.com/Forelps/respring)
 - [Hardware/windows](https://github.com/extratone/windows)
 - [ii/Actions](https://github.com/extratone/Actions)
 - [ii/b3f7439599f4f6939e101edc45927d9d]()
-- [ii/capture](https://github.com/extratone/capture)
 - [ii/datajar](https://github.com/extratone/datajar)
+- [ii/editorial](https://github.com/extratone/editorial)
 - [ii/gallery](https://github.com/extratone/shortcutsgallery)
 - [ii/globe](https://github.com/ExtraKeys/globe)
 - [ii/ios-settings-urls](https://github.com/FifiTheBulldog/ios-settings-urls)
@@ -337,6 +346,7 @@ Updated `11092022-132212`
 - [ii/routinehub-archive](https://github.com/softwarehistorysociety/routinehub-archive)
 - [ii/RoutinehubReport](https://github.com/extratone/RoutinehubReport)
 - [ii/Rubyist](https://github.com/extratone/rubyist)
+- [ii/RunestoneThemes](https://github.com/extratone/RunestoneThemes)
 - [ii/Scriptable](https://gitlab.com/DavidBlue/Scriptable)
 - [ii/Scripts](https://github.com/extratone/userscripts)
 - [ii/shortcuts](https://github.com/extratone/shortcuts)
@@ -346,10 +356,13 @@ Updated `11092022-132212`
 - [ii/underdocumented](https://github.com/extratone/underdocumented)
 - [ii/wwdc](https://github.com/extratone/wwdc)
 - [JFA/astrology](https://github.com/extratone/astrology)
+- [JFA/coolpix](https://github.com/extratone/coolpix)
 - [JFA/davod](https://github.com/extratone/davod)
 - [JFA/emoji](https://github.com/extratone/emoji)
+- [JFA/flightplan](https://github.com/extratone/flightplan)
 - [JFA/JSBox](https://github.com/extratone/JSBox)
 - [JFA/microblog](https://github.com/extratone/microblog)
+- [JFA/purity](https://github.com/extratone/purity)
 - [JFA/test](https://github.com/extratone/test)
 - [JFA/textastic](https://github.com/extratone/textastic)
 - [JFA/Vectornator](https://github.com/extratone/vectornator)
@@ -357,6 +370,8 @@ Updated `11092022-132212`
 - [Meta/enduser](https://github.com/extratone/enduser)
 - [Meta/extratone](https://github.com/extratone/extratone)
 - [Meta/highlights]()
+- [Meta/itty](https://github.com/extratone/itty)
+- [Meta/itty-bitty](https://github.com/extratone/itty-bitty)
 - [Meta/latte](https://github.com/extratone/latte)
 - [Meta/wtf](https://github.com/extratone/wtf)
 - [SNOWDEN/CPS Pay Gist]()
@@ -384,6 +399,7 @@ Updated `11092022-132212`
 - [Social/periscope](https://github.com/extratone/periscope)
 - [Social/rolodex](https://github.com/extratone/rolodex)
 - [Social/RoutineChat Gist]()
+- [Social/SpringThemes](https://github.com/extratone/SpringThemes)
 - [Social/t](https://github.com/extratone/t)
 - [Social/Telegra.ph Index Gist]()
 - [Social/tilde](https://github.com/extratone/tilde)
@@ -397,58 +413,6 @@ Updated `11092022-132212`
 - [UIKeyCommand/keys-2](https://github.com/ExtraKeys/keys)
 - [UIKeyCommand/obsidian-keyboard-analyzer](https://github.com/ExtraKeys/obsidian-keyboard-analyzer)
 - [UIKeyCommand/Secure ShellFish Keys Gist]()
-# The Timely Mastodon Primer Thread
-Updated `11092022-035441`
-
-- [**GitHub Issue**](https://github.com/extratone/mastodon-init/issues/7)
-- [WTF](https://davidblue.wtf/drafts/6D0765CA-FF35-4487-B154-B37C2D27C94C.html)
-- [MicroBlog Page](https://davidblue.bio/mastodon-primer)
-- [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/6D0765CA-FF35-4487-B154-B37C2D27C94C.md)
-- [Ulysses](ulysses://x-callback-url/open?id=Nn1tdkvjmyptrKmeveOszA)
-- [Draft](drafts://open?uuid=6D0765CA-FF35-4487-B154-B37C2D27C94C)
-- [Things](things:///show?id=56fNxxR4RNCawvu5iSYmor)
-
----
-
-## Social
-
-<iframe src="https://mastodon.social/@DavidBlue/109312051364743493/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://static-cdn.mastodon.social/embed.js" async="async"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">figure I might as well do a nice, undying, bigass, crossposted thread one more time for the sake of<br><br>E͟s͟s͟e͟n͟t͟i͟a͟l͟ M͟a͟s͟t͟o͟d͟o͟n͟/F͟e͟d͟e͟r͟a͟t͟e͟d͟ S͟o͟c͟i͟a͟l͟ R͟e͟s͟o͟u͟r͟c͟e͟s͟ f͟o͟r͟ N͟o͟r͟m͟l͟o͟r͟d͟s͟<br><br>I started a repository, even! <a href="https://t.co/62WKQvBK3u">https://t.co/62WKQvBK3u</a></p>&mdash; 𝗗 𝗔 𝗩 𝗢 𝗗 (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1590204664527482881?ref_src=twsrc%5Etfw">November 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<script async="" src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="extratone/13104" data-width="100%"></script>
-
-- [**Twitter Thread**](https://twitter.com/NeoYokel/status/1590204664527482881)
-- [Typefully](https://typefully.com/NeoYokel/the-timely-mastodon-primer-vBMoyRY)
-- [Telegram](https://t.me/extratone/13104)
-- [Extratone Discord](https://discord.com/channels/107272441889341440/1039768880735846501)
-- [Hacker News](https://news.ycombinator.com/item?id=33527676)
-- [r/Twitter](https://reddit.com/r/Twitter/comments/yq94qm/the_timely_mastodon_primer_typefully/)
-- [Tumblr](https://asphaltapostle.tumblr.com/post/700419290467287040/mastodonprimer)
-
----
-
-figure I might as well do a nice, undying, bigass, crossposted thread one more time for the sake of E͟s͟s͟e͟n͟t͟i͟a͟l͟ M͟a͟s͟t͟o͟d͟o͟n͟/F͟e͟d͟e͟r͟a͟t͟e͟d͟ S͟o͟c͟i͟a͟l͟ R͟e͟s͟o͟u͟r͟c͟e͟s͟ f͟o͟r͟ N͟o͟r͟m͟l͟o͟r͟d͟s͟ I started a repository, even! [https://github.com/extratone/mastodon-init](https://github.com/extratone/mastodon-init)
-
-there's nothing there, at the moment, but I would love it if any of y'all'd be interested in collaboration! I still don't know how tf to go about doing that on GitHub, though.
-
-the first thing to know, for many of you (both Android and iOS users,) is that Mastodon's "official" app is absolutely THE best way to create an account. (the very first app link embeds on this page.) [https://joinmastodon.org/apps](https://joinmastodon.org/apps)
-
-if for whatever reason you are one of those folks who won't download a free app to try it even if it's very small (still just 33.7mb on iOS/iPadOS,) well... here's a video demonstration of the actual process as it was at launch. [https://youtu.be/bD8GQvNrE7E](https://youtu.be/bD8GQvNrE7E)
-
-if you absolutely despise the whole idea of mobile credential creation (same tbh) or something and you *must* do the desktop thing, the "official" site has a relatively new server search tool... [https://joinmastodon.org/servers](https://joinmastodon.org/servers)
-
-but it's hard to beat the tried and true [instances.social](http://instances.social) tool. either start at the root to use its wizard (I really hate wizards, personally lmao) or use this URL to quick jump to a list of English-speaking servers with greater than 2000 members. [https://davidblue.wtf/instance](https://davidblue.wtf/instance)
-
-I would suggest immediately sorting that list by ` Registration ` . please note that at this particular moment, the whole of the fediverse is experiencing its greatest concentrated server loads, ever, because y'all so (???) that you waited out SIX YEARS of my begging.
-
-my usual advice (to just start on [mastodon.social](http://mastodon.social) ) doesn't exactly apply considering we're at closed registration right now. nor does it for my second choice, [mastodon.online](http://mastodon.online).
-
-I know that *I* find looking through instances utterly fascinating, but if you arrive at this point and are still struggling to find where to go, please contact me! we can walk through it. [https://davidblue.wtf/contact](https://davidblue.wtf/contact)
-
----
-
-## Crossposting
 This is a test.
 
 <https://www.macstories.net/stories/ios-and-ipados-14-the-macstories-review/19/#p2>
