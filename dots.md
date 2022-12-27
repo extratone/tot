@@ -246,7 +246,7 @@ If you're busy but you like the community, here are a few other things you can c
 
 
 **Working Copy Index**
-Updated `12022022-073538`
+Updated `12272022-122904`
 
 - [alexis](https://github.com/extratone/alexis)
 - [archive-pdf-tools]()
@@ -310,8 +310,12 @@ Updated `12022022-073538`
 - [Gist/AppWish]()
 - [Gist/Brew Packages List Gist]()
 - [Gist/Contact Card Gist]()
+- [Gist/FedEx Live Aircraft Checklist Gist]()
+- [Gist/Flights Gist]()
 - [Gist/Mastodon Following Gist]()
 - [Gist/Redirection Gist]()
+- [Gist/RoutineHub Backup Source Gist]()
+- [Gist/Secure ShellFish Snippets Gist]()
 - [Gist/TaioActionsGist]()
 - [Gist/Text Substitutions Gist]()
 - [Gist/Twitter Users Gist]()
@@ -369,6 +373,8 @@ Updated `12022022-073538`
 - [JFA/textastic](https://github.com/extratone/textastic)
 - [JFA/Vectornator](https://github.com/extratone/vectornator)
 - [JFA/WindowsIowa](https://github.com/extratone/WindowsIowa)
+- [Juegos/aviation](https://github.com/extratone/aviation)
+- [Juegos/aviation.wiki](https://github.com/extratone/aviation/wiki)
 - [Meta/enduser](https://github.com/extratone/enduser)
 - [Meta/extratone](https://github.com/extratone/extratone)
 - [Meta/highlights]()
