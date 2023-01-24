@@ -1,7 +1,7 @@
 **_Constraints can be powerful._**
 T       O       T               L       E       A       R       N    
 
-[dark](shortcuts://x-callback-url/run-shortcut?name=DaybreakDark) - [light](shortcuts://x-callback-url/run-shortcut?name=VenturaLight) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [ARTISTS](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random  Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - _[DraftsKeysUpdate](shortcuts://run-shortcut?name=DraftsKeysUpdate)_ - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=3Remind) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [Vocabulary Index](shortcuts://run-shortcut?name=Vocabulary%20Index) - [HighResArtwork.](shortcuts://run-shortcut?name=HighResArtwork.) - [HRAAnim](shortcuts://run-shortcut?name=HighResArtwork%20Animated) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [Clipboard⇨txt](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File) - [GIF](shortcuts://run-shortcut?name=Better%20Gif%20Maker) - [ReleaseNotes](shortcuts://run-shortcut?name=Retrieve%20Release%20Notes) - [CombineImgs](shortcuts://run-shortcut?name=ImageCombineScratch) - [PATHS](shortcuts://run-shortcut?name=PATHS) - [Autolock](shortcuts://run-shortcut?name=Autolock) - [PersonalHotspot](shortcuts://run-shortcut?name=PersonalHotspot) - [TabGrouptoDrafts](shortcuts://run-shortcut?name=TabGrouptoDrafts) - [rhUsers](shortcuts://run-shortcut?name=rh-api%20Users) - [DavodTime](shortcuts://run-shortcut?name=DavodTime%20Conversion) - [TabstoNote](shortcuts://run-shortcut?name=Tab%20Group%20%E2%87%A8%20Apple%20Note) - [AmandaBatteryLog](shortcuts://run-shortcut?name=AmandaBatteryLog) - [SoundcloudDL](shortcuts://run-shortcut?name=SoundcloudDownloader) - [TitledLinks](shortcuts://run-shortcut?name=Titled%20Markdown%20Links) - [RECURSE](shortcuts://run-shortcut?name=Recursively%20Eliminate%20Directories) - [rh-Shortcut](shortcuts://run-shortcut?name=rh-Shortcut) - [Shortcuts Backup](shortcuts://run-shortcut?name=Shortcuts%20Backup) - [AmandaBatteryLog](shortcuts://run-shortcut?name=AmandaBatteryLog) - [temp](shortcuts://run-shortcut?name=temp) - [sl](shortcuts://run-shortcut?name=sl) - [resume](shortcuts://run-shortcut?name=resume) - [FILEurl](shortcuts://run-shortcut?name=FILEurl) - [FileMarks](shortcuts://run-shortcut?name=FileMarks) - [PDF-PNG](shortcuts://run-shortcut?name=PDF%20to%20PNG) - [JSONSpeedtest](shortcuts://run-shortcut?name=JSON%20Speedtest) - [GatherFormat](shortcuts://run-shortcut?name=GatherFormat) - [GatherSync](shortcuts://run-shortcut?name=GatherSync) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - [DownloadFileList](shortcuts://run-shortcut?name=Download%20File%20List) - [ShortcutsBatchSource](shortcuts://run-shortcut?name=ShortcutsBatchSource) - [pip](shortcuts://run-shortcut?name=pip) - [RESET](shortcuts://run-shortcut?name=Network%20Reset) - [FileExtensions](shortcuts://run-shortcut?name=File%20Extensions) - [RedditJSON](shortcuts://run-shortcut?name=RedditJSON) - [WeechatLogsGistUpdate](shortcuts://run-shortcut?name=WeechatLogsGistUpdate) - [AmandaHomeScreens](shortcuts://run-shortcut?name=AmandaHomeScreens) - [TemplatesRepositoryUpdate](shortcuts://run-shortcut?name=TemplatesRepositoryUpdate) - [nb](shortcuts://run-shortcut?name=nb) - [WorkingCopyIndex](shortcuts://run-shortcut?name=Working%20Copy%20Index) - [nbtabs](shortcuts://run-shortcut?name=Safari%20Tabs-nb) - **[GIST](shortcuts://run-shortcut?name=GIST)** - [ImageUploader](jsbox://run?name=imageuploader.js&location=icloud) - [davodtrack](shortcuts://run-shortcut?name=davodtrack) - [Linky2](shortcuts://run-shortcut?name=Linky2)
+[dark](shortcuts://x-callback-url/run-shortcut?name=DaybreakDark) - [light](shortcuts://x-callback-url/run-shortcut?name=VenturaLight) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [ARTISTS](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random  Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - _[DraftsKeysUpdate](shortcuts://run-shortcut?name=DraftsKeysUpdate)_ - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=3Remind) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [Vocabulary Index](shortcuts://run-shortcut?name=Vocabulary%20Index) - [HighResArtwork.](shortcuts://run-shortcut?name=HighResArtwork.) - [HRAAnim](shortcuts://run-shortcut?name=HighResArtwork%20Animated) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [Clipboard⇨txt](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File) - [GIF](shortcuts://run-shortcut?name=Better%20Gif%20Maker) - [ReleaseNotes](shortcuts://run-shortcut?name=Retrieve%20Release%20Notes) - [CombineImgs](shortcuts://run-shortcut?name=ImageCombineScratch) - [PATHS](shortcuts://run-shortcut?name=PATHS) - [Autolock](shortcuts://run-shortcut?name=Autolock) - [PersonalHotspot](shortcuts://run-shortcut?name=PersonalHotspot) - [TabGrouptoDrafts](shortcuts://run-shortcut?name=TabGrouptoDrafts) - [rhUsers](shortcuts://run-shortcut?name=rh-api%20Users) - [DavodTime](shortcuts://run-shortcut?name=DavodTime%20Conversion) - [TabstoNote](shortcuts://run-shortcut?name=Tab%20Group%20%E2%87%A8%20Apple%20Note) - [AmandaBatteryLog](shortcuts://run-shortcut?name=AmandaBatteryLog) - [SoundcloudDL](shortcuts://run-shortcut?name=SoundcloudDownloader) - [TitledLinks](shortcuts://run-shortcut?name=Titled%20Markdown%20Links) - [RECURSE](shortcuts://run-shortcut?name=Recursively%20Eliminate%20Directories) - [rh-Shortcut](shortcuts://run-shortcut?name=rh-Shortcut) - [Shortcuts Backup](shortcuts://run-shortcut?name=Shortcuts%20Backup) - [AmandaBatteryLog](shortcuts://run-shortcut?name=AmandaBatteryLog) - [temp](shortcuts://run-shortcut?name=temp) - [sl](shortcuts://run-shortcut?name=sl) - [resume](shortcuts://run-shortcut?name=resume) - [FILEurl](shortcuts://run-shortcut?name=FILEurl) - [FileMarks](shortcuts://run-shortcut?name=FileMarks) - [PDF-PNG](shortcuts://run-shortcut?name=PDF%20to%20PNG) - [JSONSpeedtest](shortcuts://run-shortcut?name=JSON%20Speedtest) - [GatherFormat](shortcuts://run-shortcut?name=GatherFormat) - [GatherSync](shortcuts://run-shortcut?name=GatherSync) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - [DownloadFileList](shortcuts://run-shortcut?name=Download%20File%20List) - [ShortcutsBatchSource](shortcuts://run-shortcut?name=ShortcutsBatchSource) - [pip](shortcuts://run-shortcut?name=pip) - [RESET](shortcuts://run-shortcut?name=Network%20Reset) - [FileExtensions](shortcuts://run-shortcut?name=File%20Extensions) - [RedditJSON](shortcuts://run-shortcut?name=RedditJSON) - [WeechatLogsGistUpdate](shortcuts://run-shortcut?name=WeechatLogsGistUpdate) - [AmandaHomeScreens](shortcuts://run-shortcut?name=AmandaHomeScreens) - [TemplatesRepositoryUpdate](shortcuts://run-shortcut?name=TemplatesRepositoryUpdate) - [nb](shortcuts://run-shortcut?name=nb) - [WorkingCopyIndex](shortcuts://run-shortcut?name=Working%20Copy%20Index) - [nbtabs](shortcuts://run-shortcut?name=Safari%20Tabs-nb) - **[GIST](shortcuts://run-shortcut?name=GIST)** - [ImageUploader](jsbox://run?name=imageuploader.js&location=icloud) - [davodtrack](shortcuts://run-shortcut?name=davodtrack) - [Linky2](shortcuts://run-shortcut?name=Linky2) - [TitledTo-Do](shortcuts://run-shortcut?name=Titled%20Page%20To-Do) - [MarkdownManpagesRemote](shortcuts://run-shortcut?name=MarkdownManpagesRemote) - [IvoryURL](shortcuts://run-shortcut?name=Ivory%20Clipboard%20URL)
 
 [David Krusemark](https://start.1password.com/open/i?a=IMZ3BUQ3WRBWJDRIVNYONMPBNI&v=4rr53dwfguuvtckkmbvzbtnkei&i=njm4hixzls5x6kwcz5bu33rrdq&h=my.1password.com)
 
@@ -245,8 +245,10 @@ If you're busy but you like the community, here are a few other things you can c
 – 
 
 
+
+- [unthought](drafts://open?uuid=EEB5C0F0-48B4-45AF-A8A7-4FCE5DDCBE03)
 **Working Copy Index**
-Updated `12272022-122904`
+Updated `01232023-185551`
 
 - [alexis](https://github.com/extratone/alexis)
 - [archive-pdf-tools]()
@@ -255,6 +257,7 @@ Updated `12272022-122904`
 - [bilge](https://github.com/extratone/bilge)
 - [blink](https://github.com/extratone/blink)
 - [capture](https://github.com/extratone/capture)
+- [chaff](https://github.com/extratone/chaff)
 - [developer](https://github.com/extratone/developer)
 - [dots](https://github.com/extratone/dots)
 - [enpass-to-1password](https://github.com/extratone/enpass-to-1password)
@@ -281,14 +284,15 @@ Updated `12272022-122904`
 - [userscripts-safari](https://github.com/extratone/userscripts-safari)
 - [API/api](https://github.com/extratone/api)
 - [Auto/cartography](https://github.com/extratone/cartography)
+- [Configuration/micro](https://github.com/zyedidia/micro)
+- [Configuration/thingsthemes](https://github.com/extratone/thingsthemes)
+- [Configuration/wp](https://github.com/softwarehistorysociety/wp)
 - [Dev/Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
-- [Dev/microblog-theme-template](https://github.com/extratone/microblog-theme-template)
 - [Dev/Runestone](https://gitlab.com/DavidBlue/Runestone)
 - [Dev/sunlit](https://github.com/extratone/sunlit)
 - [Documentation/app-uri](https://github.com/sysapps/app-uri)
 - [Documentation/bilge.wiki](https://github.com/extratone/bilge/wiki)
 - [Documentation/itty-bitty.wiki](https://github.com/alcor/itty-bitty/wiki)
-- [Documentation/Mastodon Documentation (Main Repo)](https://github.com/mastodon/documentation)
 - [Documentation/ohmyzsh.wiki](https://github.com/ohmyzsh/ohmyzsh/wiki)
 - [Documentation/timery](https://github.com/extratone/timery)
 - [Documentation/WhirlwindTourOfPython](https://github.com/jakevdp/WhirlwindTourOfPython)
@@ -307,12 +311,14 @@ Updated `12272022-122904`
 - [Drafts/Public-Drafts-Scripts](https://github.com/extratone/Public-Drafts-Scripts)
 - [Drafts/TemplateDraftsTable]()
 - [Drafts/themes](https://github.com/bryanscarolina/themes)
+- [Gist/APIWishlistGist]()
 - [Gist/AppWish]()
 - [Gist/Brew Packages List Gist]()
 - [Gist/Contact Card Gist]()
 - [Gist/FedEx Live Aircraft Checklist Gist]()
 - [Gist/Flights Gist]()
 - [Gist/Mastodon Following Gist]()
+- [Gist/Mastodon Lists Gist]()
 - [Gist/Redirection Gist]()
 - [Gist/RoutineHub Backup Source Gist]()
 - [Gist/Secure ShellFish Snippets Gist]()
@@ -362,19 +368,22 @@ Updated `12272022-122904`
 - [ii/underdocumented](https://github.com/extratone/underdocumented)
 - [ii/wwdc](https://github.com/extratone/wwdc)
 - [JFA/astrology](https://github.com/extratone/astrology)
+- [JFA/chastity](https://github.com/extratone/chastity)
 - [JFA/coolpix](https://github.com/extratone/coolpix)
 - [JFA/davod](https://github.com/extratone/davod)
 - [JFA/emoji](https://github.com/extratone/emoji)
 - [JFA/flightplan](https://github.com/extratone/flightplan)
+- [JFA/indie-microblogging](https://github.com/microdotblog/indie-microblogging)
 - [JFA/JSBox](https://github.com/extratone/JSBox)
-- [JFA/microblog](https://github.com/extratone/microblog)
 - [JFA/purity](https://github.com/extratone/purity)
 - [JFA/test](https://github.com/extratone/test)
 - [JFA/textastic](https://github.com/extratone/textastic)
 - [JFA/Vectornator](https://github.com/extratone/vectornator)
 - [JFA/WindowsIowa](https://github.com/extratone/WindowsIowa)
+- [Juegos/Airports](https://github.com/mwgg/Airports)
 - [Juegos/aviation](https://github.com/extratone/aviation)
 - [Juegos/aviation.wiki](https://github.com/extratone/aviation/wiki)
+- [Juegos/FedEx](https://github.com/extratone/fdx)
 - [Meta/enduser](https://github.com/extratone/enduser)
 - [Meta/extratone](https://github.com/extratone/extratone)
 - [Meta/highlights]()
@@ -400,6 +409,7 @@ Updated `12272022-122904`
 - [Social/gerogerigegege](https://github.com/extratone/gerogerigegege)
 - [Social/Guestbook Gist]()
 - [Social/Highlights Gist]()
+- [Social/ifusers](https://github.com/extratone/ifusers)
 - [Social/lists](https://github.com/extratone/lists)
 - [Social/Mastodon Bookmarks Gist]()
 - [Social/mastodon-init](https://github.com/extratone/mastodon-init)
@@ -421,8 +431,78 @@ Updated `12272022-122904`
 - [UIKeyCommand/keys-2](https://github.com/ExtraKeys/keys)
 - [UIKeyCommand/obsidian-keyboard-analyzer](https://github.com/ExtraKeys/obsidian-keyboard-analyzer)
 - [UIKeyCommand/Secure ShellFish Keys Gist]()
-**_Ulysses Workbench_**
+Forza Horizon Share Codes
 
-- [Automation with Infinite Flight's Live API](ulysses://x-callback-url/open?id=opa0rd2Jq4uVNz-jrCyTbA)
-- [Spring/Mona Review](ulysses://x-callback-url/open?id=tJjwFlnbixf_ExVUoDQHGw)
-- [Pythonista's Native Text Replacement Integration](ulysses://x-callback-url/open?id=xDeRdOHfnLXtGv5yPtOqbQ)
+_5_
+
+- Tsukuba Full Circuit 5 Lap - 767 531 646
+- Tsukuba Short Circuit 5 Lap - 162 313 491
+**/ can be fully qualified @user@host or @user or blank for currently active user**
+
+### Tabs
+
+<ivory:////home> (or timeline)
+
+<ivory:////mentions>
+
+<ivory:////lists>
+
+<ivory:////favorites>
+
+<ivory:////bookmarks>
+
+<ivory:////statistics>
+
+<ivory:////profile>
+
+<ivory:////search>
+
+### Modal callback\_url=<url> valid for all the below
+
+<ivory:////openURL?url=https://mastodon.social/@//900350>
+<ivory:////openURL?url=https://social.elarial.tech/@CMDRBULB&callback_url=shortcuts://>
+
+<ivory:///openURL?url=https://mastodon.social/@//900350>
+<ivory:///openURL?url=https://mastodon.uno/@quintsns>
+<ivory:////status/946428> (from /'s instance)
+
+[ivory:////userprofile//](ivory:////userprofile/user/)
+<ivory://user_profile//>
+
+<ivory:////post>
+
+<ivory:////post/text>
+
+[ivory:////post?text=<text>&in](ivory:////post?text=%3Ctext%3E&inreplytostatusurl=%3Curl%3E)_[reply](ivory:////post?text=%3Ctext%3E&inreplytostatusurl=%3Curl%3E)_[to](ivory:////post?text=%3Ctext%3E&inreplytostatusurl=%3Curl%3E)_[status](ivory:////post?text=%3Ctext%3E&inreplytostatusurl=%3Curl%3E)_[url=<url>](ivory:////post?text=%3Ctext%3E&inreplytostatusurl=%3Curl%3E)
+
+<mammoth://mastodon.social/@//900350>
+
+curl -v \
+	-X GET \
+	-H "User-Agent: HTTPBot-iOS/2022.2" \
+	-H "Authorization: Bearer {{AUTH}}" \
+	"<https://mastodon.social/api/v1/followed_tags>"
+
+---
+
+**Tot loves links.**
+
+Whether you’re in plain text or rich text, Tot handles links intelligently. If you drag a link from a web browser, you’ll get the page title and URL formatted as rich text or as Markdown inline link. In plain text mode, it’s easy to edit the parts individually; rich text gives you a clickable link.
+
+This conversion also happens if you copy and paste a block of text from a web page: text and links are converted on the fly. If you’re entering URLs manually, they’ll automatically be detected as you type.
+
+Links aren’t limited to just web pages. [Click here](dict://tot) to see "tot" in the dictionary. Here are other useful examples:
+
+<dict://CHOCK>
+<x-bbedit://open?url=file:///etc/hosts>
+<facetime:18005551212>
+<tel:1-800-555-1212>
+<ssh://root@example.com>
+
+Try dragging a message from Mail into Tot’s window: you will get [a link](https://daringfireball.net/2007/12/message_urls_leopard_mail) that’s a simple way to reference conversations and other information!
+
+**Take a shortcut.**
+
+Tot fully supports [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) on both macOS and iOS. There are actions to get, set, and show text from any dot. You can also query a dot to get more advanced information, like text counts, the modification date, JSON representations, and more.
+
+These features turn Tot into a great scratchpad for automation, and with support for both platforms, your workflows work anywhere.
