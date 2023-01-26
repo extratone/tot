@@ -463,7 +463,7 @@ _5_
 <ivory:////openURL?url=https://social.elarial.tech/@CMDRBULB&callback_url=shortcuts://>
 
 <ivory:///openURL?url=https://mastodon.social/@//900350>
-<ivory:///openURL?url=https://mastodon.uno/@quintsns>
+<ivory:///openURL?url=https://friend.camp/@darius/109746065952541290>
 <ivory:////status/946428> (from /'s instance)
 
 [ivory:////userprofile//](ivory:////userprofile/user/)
