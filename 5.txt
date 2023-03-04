@@ -1,12 +1,96 @@
-**Post by Email Addresses**
+**Odette Applications Index**
 
-– <ihadtopee.boats@blogger.com>
-– <mepu996huka@post.wordpress.com>
-– <davidblue105.f7e7243@m.evernote.com>
-– <journal-ckl35exrn00005gj0c1n28fde@dayone.email>
-– <beamer-e8ecb4f78686444d5a5c89d53c49de7c8feb8ac5@tinyletter.com>
-– 
+*Last updated 03022023-012653*
 
-
-
-- [unthought](drafts://open?uuid=EEB5C0F0-48B4-45AF-A8A7-4FCE5DDCBE03)
+1. 1Password
+2. 1Password for Safari
+3. Actions
+4. AdaptivityA
+5. AppCleaner
+6. appIconMaker
+7. Apple Configurator
+8. Arc
+9. Bear
+10. Bluetooth Inspector
+11. calibre
+12. Cardhop
+13. CodeCows
+14. Color Picker
+15. ConnectAPI
+16. Craft
+17. Cyberduck
+18. Data Jar
+19. Developer
+20. Drafts
+21. Esse
+22. Fantastical
+23. finale
+24. Geekbench 6
+25. GitHub Desktop
+26. Highlights
+27. Homecoming for Mastodon
+28. HotKey
+29. HTTPBot
+30. iA Presenter
+31. Image2Icon
+32. Jayson
+33. Keka
+34. Key Codes
+35. Logger
+36. Magnet
+37. Mapper
+38. Marked 2
+39. MarkEdit
+40. MassReplaceIt
+41. Mastodon Air
+42. Mastonaut
+43. Mona Beta
+44. MusicHarbor
+45. NetNewsWire
+46. Noir
+47. npmhub
+48. Numbers
+49. Paste
+50. Pastery for Xcode
+51. Playgrounds
+52. Refined GitHub
+53. RSS Button for Safari
+54. Safari
+55. Save to Raindrop.io
+56. Script Debugger
+57. Script Geek
+58. Scriptable
+59. SensibleSideButtons
+60. SF Symbols
+61. Shane's Script Library Pack
+62. ShareBot
+63. Shareful
+64. Shortery
+65. Simplenote
+66. SnailGitLite
+67. SnippetsLab
+68. Speediness
+69. Stellar
+70. Super Agent
+71. Taio
+72. Telegram
+73. TestFlight
+74. Text Case
+75. Textcraft
+76. TextExpander
+77. TextMate
+78. TextPlus
+79. Things3
+80. Timery
+81. Tot
+82. Typewriter
+83. UlyssesMac
+84. URL Linker
+85. Userscripts
+86. Utilities
+87. Vectornator
+88. VLC
+89. Wayback Machine
+90. Wipr
+91. WorldWideWeb
+92. Xcode
