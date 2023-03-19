@@ -4,3 +4,12 @@
 
 [shortcuts://run-shortcut?name=AppleFramesJorts&input=text&text=latest&photos](shortcuts://run-shortcut?name=Apple%20Frames&input=text&text=latest&copy)
 
+
+
+long1950-5G
+`03732023-213305`
+- Down: 499
+- Up: 49
+- Ping: 35
+- RPM: 505
+- Type: wifi

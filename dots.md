@@ -8,7 +8,6 @@ T       O       T               L       E       A       R       N
 **[Distributed Index](drafts://open?uuid=3B7930BE-07BC-4DB9-A591-4254BEE42A82)**
 - [TrueLightWallpaper](shortcuts://run-shortcut?name=TrueLightWallpaper)
 - [TrueDarkWallpaper](shortcuts://run-shortcut?name=TrueDarkWallpaper)
-
 - [Quill](jsbox://run?name=Quill&location=local)
 - [Mona Themes Thread](ivory:///openURL?url=https://mastodon.social/users/MonaApp/statuses/109859984571889210)
 
@@ -19,19 +18,22 @@ T       O       T               L       E       A       R       N
 – [developer Repo](working-copy://open?repo=developer)
 – [Shortcuts i Repo Folder](working-copy://open?repo=i&path=shortcuts&mode=content)
 – [SystemSoundsFolder](working-copy://open?repo=iOSSystemSounds&path=m4a&mode=content)
-– [Link Hell Queueueu](mobilenotes://showNote?identifier=600A9688-9FA8-41CC-A713-9B0621C03AC8)
 – [Working Copy URL Schemes](https://workingcopyapp.com/url-schemes.html)
 – [Please Fuck With This License](drafts://open?uuid=FAFFA333-34A5-4412-B46C-3D216C09FD8E)
+ 
 
-[symbol](shortcuts://run-shortcut?name=symbol)
+**Juegos**
+- [IF World Tour](https://community.infiniteflight.com/t/infinite-flight-world-tour/736114)
+- [IF Events Calendar](https://community.infiniteflight.com/c/live/events/16)
+- [Siri Shortcuts for IF Thread](https://community.infiniteflight.com/t/siri-shortcuts-for-infinite-flight/758214)
+- [KJEF Dev Thread](https://community.infiniteflight.com/t/kjef-jefferson-city-memorial-airport/774223)
 
-[RoutinePub](shortcuts://run-shortcut?name=RoutinePub)
+
 [Shortcut Source](shortcuts://run-shortcut?name=Shortcut%20Source%20Tool)
-[JellycutsHelper](shortcuts://run-shortcut?name=JellycutsHelper)
 [Action Directory](shortcuts://run-shortcut?name=Action%20Directory)
 [iOSSystemSounds](https://extratone.github.io/iOSSystemSounds)
 [Routinehub Report](shortcuts://run-shortcut?name=Routinehub%20Report)
-[RoutineHub - Create Shortcut](https://routinehub.co/shortcut/create)
+**[RoutineHub - Create Shortcut](https://routinehub.co/shortcut/create)**
 
 _New Issues_
 - [i](https://github.com/extratone/i/issues/new/choose)
@@ -238,111 +240,129 @@ If you're busy but you like the community, here are a few other things you can c
 
 **Odette Applications Index**
 
-*Last updated 03132023-085123*
+*Last updated 03192023-130649*
 
 1. 1Password
 2. 1Password for Safari
 3. Actions
-4. AdaptivityA
-5. AppCleaner
-6. appIconMaker
-7. Apple Configurator
-8. Bear
-9. Bluetooth Inspector
-10. calibre
-11. Caprine
-12. Cardhop
-13. CodeCows
-14. Color Picker
-15. ConnectAPI
-16. Craft
-17. Cyberduck
-18. Data Jar
-19. Developer
-20. Discord
-21. Drafts
-22. Esse
-23. Fantastical
-24. finale
-25. Geekbench 6
-26. Gifski
-27. GitHub Desktop
-28. Highlights
-29. Homecoming for Mastodon
-30. HotKey
-31. HTTPBot
-32. iA Presenter
-33. Image2Icon
-34. Interact Scratchpad
-35. Jayson
-36. Keka
-37. Key Codes
-38. Logger
-39. Mactracker
-40. Magnet
-41. Mail Assistant
-42. Mapper
-43. Marked 2
-44. MarkEdit
-45. MassReplaceIt
-46. Mastonaut
-47. Meta
-48. Mona Beta
-49. MusicHarbor
-50. Netflix
-51. NetNewsWire
-52. Noir
-53. npmhub
-54. Numbers
-55. Paste
-56. Pastery for Xcode
-57. Playgrounds
-58. Postman
-59. Prefs Editor
-60. Refined GitHub
-61. RSS Button for Safari
-62. Safari
-63. Save to Raindrop.io
-64. Script Debugger
-65. Script Geek
-66. Scriptable
-67. SensibleSideButtons
-68. SF Symbols
-69. Shane's Script Library Pack
-70. Shareful
-71. Shortery
-72. SimBrief Downloader
-73. Simplenote
-74. SnippetsLab
-75. Speediness
-76. Stellar
-77. Super Agent
-78. Taio
-79. Telegram
-80. TestFlight
-81. Text Case
-82. Textcraft
-83. TextExpander
-84. TextMate
-85. TextPlus
-86. Things3Beta
-87. Timery
-88. Tot
-89. Typewriter
-90. UlyssesMac
-91. URL Linker
-92. Userscripts
-93. UTC Time
-94. Utilities
-95. Vectornator
-96. VLC
-97. Wayback Machine
-98. Wipr
-99. WorldWideWeb
-100. Xcode
+4. Amphetamine
+5. Amphetamine Enhancer
+6. AppCleaner
+7. appIconMaker
+8. Apple Configurator
+9. Arc
+10. BBEdit
+11. Bear
+12. Bluetooth Inspector
+13. Bookmarks
+14. Broadcasts
+15. Bwana
+16. Cardhop
+17. ClearVPN
+18. CodeCows
+19. Color Picker
+20. Craft
+21. Cyberduck
+22. Dark Noise
+23. Data Jar
+24. Developer
+25. Discord
+26. Emacs
+27. Esse
+28. Fantastical
+29. finale
+30. Gifski
+31. GitHub Desktop
+32. Highlights
+33. Homecoming for Mastodon
+34. HotKey
+35. HTTPBot
+36. iA Presenter
+37. Image2Icon
+38. Interact Scratchpad
+39. Jayson
+40. Karabiner-Elements
+41. Karabiner-EventViewer
+42. Keka
+43. Key Codes
+44. Logger
+45. Mactracker
+46. Magnet
+47. Mail Assistant
+48. Mapper
+49. Marked 2
+50. MarkEdit
+51. MassReplaceIt
+52. Mastonaut
+53. Mimestream
+54. Mona Beta
+55. MusicHarbor
+56. Netflix
+57. NetNewsWire
+58. Noir
+59. NotePlan
+60. npmhub
+61. Numbers
+62. nvALT
+63. OBS
+64. Paste
+65. Pastery for Xcode
+66. Playgrounds
+67. Postman
+68. Prefs Editor
+69. Refined GitHub
+70. RSS Button for Safari
+71. Safari
+72. Safari Technology Preview
+73. safaritabstomd
+74. Save to Raindrop.io
+75. ScreenFlow
+76. Script Geek
+77. Scriptable
+78. SensibleSideButtons
+79. SF Symbols
+80. Shane's Script Library Pack
+81. Shareful
+82. ShortcutDetective
+83. Shortery
+84. SimBrief Downloader
+85. Simplenote
+86. SnippetsLab
+87. Speediness
+88. Steam
+89. Stellar
+90. StopTheMadness
+91. StopTheNews
+92. Super Agent
+93. Taio
+94. Telegram
+95. TestFlight
+96. Text Case
+97. Textcraft
+98. TextExpander
+99. TextMate
+100. TextPlus
+101. The Unarchiver
+102. Things3Beta
+103. Timery
+104. Tot
+105. Transmission
+106. Typewriter
+107. UlyssesMac
+108. URL Linker
+109. Userscripts
+110. UTC Time
+111. Utilities
+112. VLC
+113. Wayback Machine
+114. Wipr
+115. WorldWideWeb
+116. WriteFreely for Mac
+117. Xcode
+118. Zed
 
 **Working Copy Index**
-Updated `01232023-185551`
+Updated `03192023-161049`
 
 - [alexis](https://github.com/extratone/alexis)
 - [archive-pdf-tools]()
@@ -351,7 +371,6 @@ Updated `01232023-185551`
 - [bilge](https://github.com/extratone/bilge)
 - [blink](https://github.com/extratone/blink)
 - [capture](https://github.com/extratone/capture)
-- [chaff](https://github.com/extratone/chaff)
 - [developer](https://github.com/extratone/developer)
 - [dots](https://github.com/extratone/dots)
 - [enpass-to-1password](https://github.com/extratone/enpass-to-1password)
@@ -375,11 +394,14 @@ Updated `01232023-185551`
 - [things](https://github.com/extratone/things)
 - [ThingsJSONCoder](https://github.com/extratone/ThingsJSONCoder)
 - [tot](https://github.com/extratone/tot)
+- [twitterific](https://github.com/softwarehistorysociety/twitterific)
 - [userscripts-safari](https://github.com/extratone/userscripts-safari)
 - [API/api](https://github.com/extratone/api)
 - [Auto/cartography](https://github.com/extratone/cartography)
+- [Auto/tmr]()
+- [Configuration/bilge-theme](https://gitlab.com/DavidBlue/bilge-writeas)
 - [Configuration/micro](https://github.com/zyedidia/micro)
-- [Configuration/thingsthemes](https://github.com/extratone/thingsthemes)
+- [Configuration/MonaThemes](https://github.com/extratone/MonaThemes)
 - [Configuration/wp](https://github.com/softwarehistorysociety/wp)
 - [Dev/Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
 - [Dev/Runestone](https://gitlab.com/DavidBlue/Runestone)
@@ -388,12 +410,15 @@ Updated `01232023-185551`
 - [Documentation/bilge.wiki](https://github.com/extratone/bilge/wiki)
 - [Documentation/itty-bitty.wiki](https://github.com/alcor/itty-bitty/wiki)
 - [Documentation/ohmyzsh.wiki](https://github.com/ohmyzsh/ohmyzsh/wiki)
+- [Documentation/Plume]()
+- [Documentation/swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club)
 - [Documentation/timery](https://github.com/extratone/timery)
 - [Documentation/WhirlwindTourOfPython](https://github.com/jakevdp/WhirlwindTourOfPython)
 - [Drafts/ddtemplates](https://github.com/extratone/ddtemplates)
 - [Drafts/DRAFTCUTS]()
 - [Drafts/Draftist](https://github.com/softwarehistorysociety/Draftist)
 - [Drafts/drafts](https://github.com/extratone/drafts)
+- [Drafts/Drafts HTML Template Gist]()
 - [Drafts/Drafts Themes]()
 - [Drafts/drafts-actions (Ernst Widerberg)](https://github.com/ernstwi/drafts-actions)
 - [Drafts/drafts-script-reference](https://github.com/agiletortoise/drafts-script-reference)
@@ -407,6 +432,7 @@ Updated `01232023-185551`
 - [Drafts/themes](https://github.com/bryanscarolina/themes)
 - [Gist/APIWishlistGist]()
 - [Gist/AppWish]()
+- [Gist/awesome-mastodon Gist]()
 - [Gist/Brew Packages List Gist]()
 - [Gist/Contact Card Gist]()
 - [Gist/FedEx Live Aircraft Checklist Gist]()
@@ -429,7 +455,6 @@ Updated `01232023-185551`
 - [Hardware/jorts](https://github.com/extratone/jorts)
 - [Hardware/midnight](https://github.com/extratone/midnight)
 - [Hardware/odette](https://github.com/extratone/odette)
-- [Hardware/windows](https://github.com/extratone/windows)
 - [ii/Actions](https://github.com/extratone/Actions)
 - [ii/b3f7439599f4f6939e101edc45927d9d]()
 - [ii/datajar](https://github.com/extratone/datajar)
@@ -438,7 +463,7 @@ Updated `01232023-185551`
 - [ii/globe](https://github.com/ExtraKeys/globe)
 - [ii/ios-settings-urls](https://github.com/FifiTheBulldog/ios-settings-urls)
 - [ii/iTaio](https://github.com/extratone/iTaio)
-- [ii/jellycuts](https://github.com/extratone/jellycuts)
+- [ii/jellycuts](https://codeberg.org/extratone/jellycuts)
 - [ii/juno](https://github.com/extratone/juno)
 - [ii/landing](https://github.com/ExtraKeys/landing)
 - [ii/openai](https://github.com/extratone/openai)
@@ -456,17 +481,15 @@ Updated `01232023-185551`
 - [ii/Scriptable](https://gitlab.com/DavidBlue/Scriptable)
 - [ii/Scripts](https://github.com/extratone/userscripts)
 - [ii/shortcuts](https://github.com/extratone/shortcuts)
-- [ii/SW-DLT](https://github.com/softwarehistorysociety/SW-DLT)
 - [ii/Text Case](https://github.com/extratone/TextCase)
-- [ii/ThingsJSONCoder](https://github.com/extratone/ThingsJSONCoder)
 - [ii/underdocumented](https://github.com/extratone/underdocumented)
-- [ii/wwdc](https://github.com/extratone/wwdc)
 - [JFA/astrology](https://github.com/extratone/astrology)
 - [JFA/chastity](https://github.com/extratone/chastity)
 - [JFA/coolpix](https://github.com/extratone/coolpix)
 - [JFA/davod](https://github.com/extratone/davod)
 - [JFA/emoji](https://github.com/extratone/emoji)
 - [JFA/flightplan](https://github.com/extratone/flightplan)
+- [JFA/GCGC](https://github.com/apple/GCGC)
 - [JFA/indie-microblogging](https://github.com/microdotblog/indie-microblogging)
 - [JFA/JSBox](https://github.com/extratone/JSBox)
 - [JFA/purity](https://github.com/extratone/purity)
@@ -474,21 +497,20 @@ Updated `01232023-185551`
 - [JFA/textastic](https://github.com/extratone/textastic)
 - [JFA/Vectornator](https://github.com/extratone/vectornator)
 - [JFA/WindowsIowa](https://github.com/extratone/WindowsIowa)
+- [Juegos/aerodrome](https://github.com/extratone/aerodrome)
 - [Juegos/Airports](https://github.com/mwgg/Airports)
 - [Juegos/aviation](https://github.com/extratone/aviation)
 - [Juegos/aviation.wiki](https://github.com/extratone/aviation/wiki)
 - [Juegos/FedEx](https://github.com/extratone/fdx)
+- [Juegos/igdb-contribution-guidelines.wiki](https://github.com/twitchtv/igdb-contribution-guidelines/wiki)
+- [Juegos/infiniteflight-docs](https://github.com/infiniteflight/infiniteflight-docs)
 - [Meta/enduser](https://github.com/extratone/enduser)
-- [Meta/extratone](https://github.com/extratone/extratone)
 - [Meta/highlights]()
 - [Meta/itty](https://github.com/extratone/itty)
 - [Meta/itty-bitty](https://github.com/extratone/itty-bitty)
 - [Meta/latte](https://github.com/extratone/latte)
 - [Meta/wtf](https://github.com/extratone/wtf)
 - [SNOWDEN/CPS Pay Gist]()
-- [SNOWDEN/cpsk12](https://github.com/extratone/cpsk12)
-- [SNOWDEN/docusaurus](https://github.com/extratone/docusaurus)
-- [SNOWDEN/fairview](https://github.com/extratone/fairview)
 - [SNOWDEN/leonard](https://github.com/extratone/leonard)
 - [SNOWDEN/nfs](https://github.com/extratone/nfs)
 - [SNOWDEN/rolodex](https://github.com/extratone/rolodex)
@@ -497,17 +519,18 @@ Updated `01232023-185551`
 - [Social/bigblue](https://github.com/extratone/bigblue)
 - [Social/columbia](https://github.com/extratone/columbia)
 - [Social/contact](https://github.com/extratone/contact)
-- [Social/discord](https://github.com/extratone/discord)
 - [Social/emoji](https://github.com/extratone/emoji)
 - [Social/feels](https://github.com/extratone/feels)
 - [Social/gerogerigegege](https://github.com/extratone/gerogerigegege)
 - [Social/Guestbook Gist]()
 - [Social/Highlights Gist]()
 - [Social/ifusers](https://github.com/extratone/ifusers)
+- [Social/letterboxd](https://github.com/extratone/letterboxd)
 - [Social/lists](https://github.com/extratone/lists)
 - [Social/Mastodon Bookmarks Gist]()
 - [Social/mastodon-init](https://github.com/extratone/mastodon-init)
 - [Social/mastodon-ios-apps](https://github.com/extratone/mastodon-ios-apps)
+- [Social/Mona Settings Backup](https://github.com/extratone/MonaSettings)
 - [Social/periscope](https://github.com/extratone/periscope)
 - [Social/rolodex](https://github.com/extratone/rolodex)
 - [Social/RoutineChat Gist]()
@@ -519,15 +542,18 @@ Updated `01232023-185551`
 - [Social/twat](https://github.com/extratone/twat)
 - [Social/TwidereX-iOS](https://github.com/TwidereProject/TwidereX-iOS)
 - [Social/Weechat Logs Gist]()
-- [UIKeyCommand/awards](https://github.com/ExtraKeys/awards)
-- [UIKeyCommand/feedback](https://github.com/ExtraKeys/feedback)
-- [UIKeyCommand/github](https://github.com/ExtraKeys/.github)
-- [UIKeyCommand/keys-2](https://github.com/ExtraKeys/keys)
-- [UIKeyCommand/obsidian-keyboard-analyzer](https://github.com/ExtraKeys/obsidian-keyboard-analyzer)
-- [UIKeyCommand/Secure ShellFish Keys Gist]()
 <shortcuts://run-shortcut?name=Apple%20Frames&input=text&text=latest&copy>
 
 [shortcuts://run-shortcut?name=AppleFramesJorts&input=text&text=latest&copy](shortcuts://run-shortcut?name=Apple%20Frames&input=text&text=latest&copy)
 
 [shortcuts://run-shortcut?name=AppleFramesJorts&input=text&text=latest&photos](shortcuts://run-shortcut?name=Apple%20Frames&input=text&text=latest&copy)
 
+
+
+long1950-5G
+`03732023-213305`
+- Down: 499
+- Up: 49
+- Ping: 35
+- RPM: 505
+- Type: wifi

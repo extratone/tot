@@ -8,7 +8,6 @@ T       O       T               L       E       A       R       N
 **[Distributed Index](drafts://open?uuid=3B7930BE-07BC-4DB9-A591-4254BEE42A82)**
 - [TrueLightWallpaper](shortcuts://run-shortcut?name=TrueLightWallpaper)
 - [TrueDarkWallpaper](shortcuts://run-shortcut?name=TrueDarkWallpaper)
-
 - [Quill](jsbox://run?name=Quill&location=local)
 - [Mona Themes Thread](ivory:///openURL?url=https://mastodon.social/users/MonaApp/statuses/109859984571889210)
 
@@ -19,19 +18,22 @@ T       O       T               L       E       A       R       N
 – [developer Repo](working-copy://open?repo=developer)
 – [Shortcuts i Repo Folder](working-copy://open?repo=i&path=shortcuts&mode=content)
 – [SystemSoundsFolder](working-copy://open?repo=iOSSystemSounds&path=m4a&mode=content)
-– [Link Hell Queueueu](mobilenotes://showNote?identifier=600A9688-9FA8-41CC-A713-9B0621C03AC8)
 – [Working Copy URL Schemes](https://workingcopyapp.com/url-schemes.html)
 – [Please Fuck With This License](drafts://open?uuid=FAFFA333-34A5-4412-B46C-3D216C09FD8E)
+ 
 
-[symbol](shortcuts://run-shortcut?name=symbol)
+**Juegos**
+- [IF World Tour](https://community.infiniteflight.com/t/infinite-flight-world-tour/736114)
+- [IF Events Calendar](https://community.infiniteflight.com/c/live/events/16)
+- [Siri Shortcuts for IF Thread](https://community.infiniteflight.com/t/siri-shortcuts-for-infinite-flight/758214)
+- [KJEF Dev Thread](https://community.infiniteflight.com/t/kjef-jefferson-city-memorial-airport/774223)
 
-[RoutinePub](shortcuts://run-shortcut?name=RoutinePub)
+
 [Shortcut Source](shortcuts://run-shortcut?name=Shortcut%20Source%20Tool)
-[JellycutsHelper](shortcuts://run-shortcut?name=JellycutsHelper)
 [Action Directory](shortcuts://run-shortcut?name=Action%20Directory)
 [iOSSystemSounds](https://extratone.github.io/iOSSystemSounds)
 [Routinehub Report](shortcuts://run-shortcut?name=Routinehub%20Report)
-[RoutineHub - Create Shortcut](https://routinehub.co/shortcut/create)
+**[RoutineHub - Create Shortcut](https://routinehub.co/shortcut/create)**
 
 _New Issues_
 - [i](https://github.com/extratone/i/issues/new/choose)
