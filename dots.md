@@ -47,6 +47,7 @@ _Radio_
 - **[$](things:///show?id=21qrJbSnKrB2yhcKMhr8Rp)**
 - _[Consultation](things:///show?id=SLdM5dnobroZTA6pVfFwi2)_
 - [Rolodex](things:///show?id=Tu4Cm6E49gQ4jxyhUvfaQ)
+- 
 
 
 **Drafts Instrument Panel**
@@ -158,6 +159,8 @@ _ACQUIRE_
 **Mail**
 
 - [Editors' Choice: Highlights of the recent literature](message://%3Cbaa42342-c6ec-4331-81f2-8c3c0d4cd364@atl1s07mta2191.xt.local%3E)
+- [The Bear 2 beta is here!](message:%3C11bfb68c5eebd7be7987b2076.5d333aa573.20230321160025.6da6bd9448.e4999be9@mail205.sea81.mcsv.net%3E) [🐻🎉❤️](message:%3C11bfb68c5eebd7be7987b2076.5d333aa573.20230321160025.6da6bd9448.e4999be9@mail205.sea81.mcsv.net%3E)
+ 
 
 ⌦ ⌦ ⌦ ⌦ 
 
@@ -240,7 +243,7 @@ If you're busy but you like the community, here are a few other things you can c
 
 **Odette Applications Index**
 
-*Last updated 03192023-130649*
+*Last updated 03232023-075846*
 
 1. 1Password
 2. 1Password for Safari
@@ -251,24 +254,24 @@ If you're busy but you like the community, here are a few other things you can c
 7. appIconMaker
 8. Apple Configurator
 9. Arc
-10. BBEdit
-11. Bear
-12. Bluetooth Inspector
-13. Bookmarks
-14. Broadcasts
-15. Bwana
-16. Cardhop
-17. ClearVPN
-18. CodeCows
-19. Color Picker
-20. Craft
-21. Cyberduck
-22. Dark Noise
+10. Avenue
+11. BBEdit
+12. Bear
+13. Bluetooth Inspector
+14. Bookmarks
+15. Broadcasts
+16. Bwana
+17. Cardhop
+18. ClearVPN
+19. CodeCows
+20. Color Picker
+21. Craft
+22. Cyberduck
 23. Data Jar
-24. Developer
-25. Discord
-26. Emacs
-27. Esse
+24. DB Browser for SQLite
+25. Developer
+26. Discord
+27. Duplicate File Finder
 28. Fantastical
 29. finale
 30. Gifski
@@ -285,84 +288,88 @@ If you're busy but you like the community, here are a few other things you can c
 41. Karabiner-EventViewer
 42. Keka
 43. Key Codes
-44. Logger
-45. Mactracker
-46. Magnet
-47. Mail Assistant
-48. Mapper
-49. Marked 2
-50. MarkEdit
-51. MassReplaceIt
-52. Mastonaut
-53. Mimestream
-54. Mona Beta
-55. MusicHarbor
-56. Netflix
-57. NetNewsWire
-58. Noir
-59. NotePlan
-60. npmhub
-61. Numbers
-62. nvALT
-63. OBS
-64. Paste
-65. Pastery for Xcode
-66. Playgrounds
-67. Postman
-68. Prefs Editor
-69. Refined GitHub
-70. RSS Button for Safari
-71. Safari
-72. Safari Technology Preview
-73. safaritabstomd
-74. Save to Raindrop.io
-75. ScreenFlow
+44. lghub
+45. Logger
+46. Mactracker
+47. Magnet
+48. Mail Assistant
+49. Mapper
+50. Marked 2
+51. MarkEdit
+52. MassReplaceIt
+53. Mastonaut
+54. Mimestream
+55. Mona Beta
+56. MusicHarbor
+57. net.downloadhelper.coapp
+58. Netflix
+59. NetNewsWire
+60. Noir
+61. NotePlan
+62. npmhub
+63. Numbers
+64. OnyX
+65. Paste
+66. Pastery for Xcode
+67. Playgrounds
+68. Postman
+69. Prefs Editor
+70. Refined GitHub
+71. RSS Button for Safari
+72. Safari
+73. Safari Technology Preview
+74. safaritabstomd
+75. Save to Raindrop.io
 76. Script Geek
 77. Scriptable
 78. SensibleSideButtons
-79. SF Symbols
-80. Shane's Script Library Pack
-81. Shareful
-82. ShortcutDetective
-83. Shortery
-84. SimBrief Downloader
-85. Simplenote
-86. SnippetsLab
-87. Speediness
-88. Steam
-89. Stellar
-90. StopTheMadness
-91. StopTheNews
-92. Super Agent
-93. Taio
-94. Telegram
-95. TestFlight
-96. Text Case
-97. Textcraft
-98. TextExpander
-99. TextMate
-100. TextPlus
-101. The Unarchiver
-102. Things3Beta
-103. Timery
-104. Tot
-105. Transmission
-106. Typewriter
-107. UlyssesMac
-108. URL Linker
-109. Userscripts
-110. UTC Time
-111. Utilities
-112. VLC
-113. Wayback Machine
-114. Wipr
-115. WorldWideWeb
-116. WriteFreely for Mac
-117. Xcode
-118. Zed
+79. Sequel Ace
+80. SF Symbols
+81. Shane's Script Library Pack
+82. Shareful
+83. ShortcutDetective
+84. Shortery
+85. SimBrief Downloader
+86. Simplenote
+87. SnippetsLab
+88. Speediness
+89. Steam
+90. Stellar
+91. StopTheMadness
+92. StopTheNews
+93. Super Agent
+94. Taio
+95. Telegram
+96. TestFlight
+97. Text Case
+98. Text Workflow
+99. Textcraft
+100. TextExpander
+101. TextMate
+102. TextPlus
+103. Textual
+104. The Unarchiver
+105. Things3Beta
+106. Timery
+107. Tot
+108. Transmission
+109. Transporter
+110. Typewriter
+111. UlyssesMac
+112. URL Linker
+113. Userscripts
+114. UTC Time
+115. Utilities
+116. VLC
+117. Wayback Machine
+118. Wipr
+119. WorldWideWeb
+120. WriteFreely for Mac
+121. Xcode
+122. Zed
 
 **Working Copy Index**
-Updated `03192023-161049`
+Updated `03242023-050106`
 
 - [alexis](https://github.com/extratone/alexis)
 - [archive-pdf-tools]()
@@ -505,6 +512,7 @@ Updated `03192023-161049`
 - [Juegos/igdb-contribution-guidelines.wiki](https://github.com/twitchtv/igdb-contribution-guidelines/wiki)
 - [Juegos/infiniteflight-docs](https://github.com/infiniteflight/infiniteflight-docs)
 - [Meta/enduser](https://github.com/extratone/enduser)
+- [Meta/extratone](https://github.com/extratone/extratone)
 - [Meta/highlights]()
 - [Meta/itty](https://github.com/extratone/itty)
 - [Meta/itty-bitty](https://github.com/extratone/itty-bitty)
@@ -542,18 +550,35 @@ Updated `03192023-161049`
 - [Social/twat](https://github.com/extratone/twat)
 - [Social/TwidereX-iOS](https://github.com/TwidereProject/TwidereX-iOS)
 - [Social/Weechat Logs Gist]()
-<shortcuts://run-shortcut?name=Apple%20Frames&input=text&text=latest&copy>
+Mona for Mac is not on TestFlight. Please download the Mac app separately. See <https://mastodon.social/@MonaApp>
 
-[shortcuts://run-shortcut?name=AppleFramesJorts&input=text&text=latest&copy](shortcuts://run-shortcut?name=Apple%20Frames&input=text&text=latest&copy)
+This update:
+More Siri Shortcuts are now available, including getting and setting themes (requires iOS/iPadOS 16, macOS 13)
+Use the system Focus Filter feature to automatically change themes when you enable or disable a Focus mode (requires iOS/iPadOS 16, macOS 13)
+Theme editor updates: you can now customize sidebar composer button (iPad only), and poll progress and selection ring
+On iOS/iPadOS 16, you can now touch and hold to select text on the full screen image viewer (requires an iPhone or iPad with A12 or newer chip)
+On Mac, you can now select to open images in your default image viewer app
+Adds keyboard shortcut for viewing profile photo, and opening user profile in browser
+Optimizes swipe option appearance for full screen mode on iPhone
+Optimizes menus for iOS 12
+Supports block and unblock accounts
+Resolves an issue on Mac, where the app window may unexpectedly open by itself, even when you are not using the app
+Push notification is now available for Akkoma accounts
 
-[shortcuts://run-shortcut?name=AppleFramesJorts&input=text&text=latest&photos](shortcuts://run-shortcut?name=Apple%20Frames&input=text&text=latest&copy)
+Previous update:
+Mac: add keyboard shortcuts to hide/show sidebar and bottom tab bar
+Truncates long posts on timelines
+You can now send longer posts from supported non-Mastodon instances
+Link preview will no longer be displayed on posts with a content warning
+Fixes incorrect line breaking for Akkoma instances
 
+Theme editor for Mac: tab bar icon color is now customizable
+Fixes iCloud reading position sync
+Resolves a VoiceOver focus issue on Mac
+Solves an issue where sign in website is occasionally not opened on iPhone/iPad
+Long post truncating feature has been temporarily disabled due to random crashes on some devices
+Tries to solve an iOS crash on rich notification preview screen
 
-
-long1950-5G
-`03732023-213305`
-- Down: 499
-- Up: 49
-- Ping: 35
-- RPM: 505
-- Type: wifi
+On macOS, you can now use Continuity Camera on post composer, to capture and attach photos from your iPhone or iPad. You can now also use the “Services” feature in more places with just keyboard shortcuts
+On iOS, with extended support for iOS 12, Mona Beta can now be used on iPhone 5s, iPhone 6, and iPhone 6 Plus, making the Mastodon experience accessible to even more people around the world
+Adds preliminary support for non-Mastodon instances
