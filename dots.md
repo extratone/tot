@@ -1,7 +1,7 @@
 **_Constraints can be powerful._**
 T       O       T               L       E       A       R       N    
 
-[dark](shortcuts://x-callback-url/run-shortcut?name=DaybreakDark) - [light](shortcuts://x-callback-url/run-shortcut?name=VenturaLight) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [TBLink](shortcuts://x-callback-url/run-shortcut?name=tbmac) - [Create Shortcut](shortcuts://create-shortcut) - [ARTISTS](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Random  Scriptable API](scriptable:///run/Random%20Scriptable%20API) - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - _[DraftsKeysUpdate](shortcuts://run-shortcut?name=DraftsKeysUpdate)_ - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=3Remind) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [Vocabulary Index](shortcuts://run-shortcut?name=Vocabulary%20Index) - [HighResArtwork.](shortcuts://run-shortcut?name=HighResArtwork.) - [HRAAnim](shortcuts://run-shortcut?name=HighResArtwork%20Animated) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [Clipboard](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[⇨](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[txt](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File) - [GIF](shortcuts://run-shortcut?name=Better%20Gif%20Maker) - [ReleaseNotes](shortcuts://run-shortcut?name=Retrieve%20Release%20Notes) - [CombineImgs](shortcuts://run-shortcut?name=ImageCombineScratch) - [PATHS](shortcuts://run-shortcut?name=PATHS) - [Autolock](shortcuts://run-shortcut?name=Autolock) - [PersonalHotspot](shortcuts://run-shortcut?name=PersonalHotspot) - [TabGrouptoDrafts](shortcuts://run-shortcut?name=TabGrouptoDrafts) - [rhUsers](shortcuts://run-shortcut?name=rh-api%20Users) - [DavodTime](shortcuts://run-shortcut?name=DavodTime%20Conversion) - [TabstoNote](shortcuts://run-shortcut?name=Safari%20Tabs%20%E2%87%A8%20Apple%20Note) - [AmandaBatteryLog](shortcuts://run-shortcut?name=AmandaBatteryLog) - [SoundcloudDL](shortcuts://run-shortcut?name=SoundcloudDownloader) - [TitledLinks](shortcuts://run-shortcut?name=Titled%20Markdown%20Links) - [RECURSE](shortcuts://run-shortcut?name=Recursively%20Eliminate%20Directories) - [rh-Shortcut](shortcuts://run-shortcut?name=rh-Shortcut) - [Shortcuts Backup](shortcuts://run-shortcut?name=Shortcuts%20Backup) - [AmandaBatteryLog](shortcuts://run-shortcut?name=AmandaBatteryLog) - [temp](shortcuts://run-shortcut?name=temp) - [sl](shortcuts://run-shortcut?name=sl) - [resume](shortcuts://run-shortcut?name=resume) - [FILEurl](shortcuts://run-shortcut?name=FILEurl) - [FileMarks](shortcuts://run-shortcut?name=FileMarks) - [PDF-PNG](shortcuts://run-shortcut?name=PDF%20to%20PNG) - [JSONSpeedtest](shortcuts://run-shortcut?name=JSON%20Speedtest) - [GatherFormat](shortcuts://run-shortcut?name=GatherFormat) - [GatherSync](shortcuts://run-shortcut?name=GatherSync) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - [DownloadFileList](shortcuts://run-shortcut?name=Download%20File%20List) - [ShortcutsBatchSource](shortcuts://run-shortcut?name=ShortcutsBatchSource) - [pip](shortcuts://run-shortcut?name=pip) - [RESET](shortcuts://run-shortcut?name=Network%20Reset) - [FileExtensions](shortcuts://run-shortcut?name=File%20Extensions) - [RedditJSON](shortcuts://run-shortcut?name=RedditJSON) - [WeechatLogsGistUpdate](shortcuts://run-shortcut?name=WeechatLogsGistUpdate) - [AmandaHomeScreens](shortcuts://run-shortcut?name=AmandaHomeScreens) - [TemplatesRepositoryUpdate](shortcuts://run-shortcut?name=TemplatesRepositoryUpdate) - [nb](shortcuts://run-shortcut?name=nb) - [WorkingCopyIndex](shortcuts://run-shortcut?name=Working%20Copy%20Index) - [nbtabs](shortcuts://run-shortcut?name=Safari%20Tabs-nb) - **[GIST](shortcuts://run-shortcut?name=GIST)** - [ImageUploader](jsbox://run?name=imageuploader.js&location=icloud) - [davodtrack](shortcuts://run-shortcut?name=davodtrack) - [Linky2](shortcuts://run-shortcut?name=Linky2) - [TitledTo-Do](shortcuts://run-shortcut?name=Titled%20Page%20To-Do) - [MarkdownManpagesRemote](shortcuts://run-shortcut?name=MarkdownManpagesRemote) - [IvoryURL](shortcuts://run-shortcut?name=Ivory%20Clipboard%20URL) - [IFTwitch](twitch://game/Infinite%20Flight)
+[dark](shortcuts://x-callback-url/run-shortcut?name=DaybreakDark) - [light](shortcuts://x-callback-url/run-shortcut?name=VenturaLight) - [LinkJar](shortcuts://x-callback-url/run-shortcut?name=LinkJar) - [Create Shortcut](shortcuts://create-shortcut) - [ARTISTS](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [Generate 20](shortcuts://x-callback-url/run-shortcut?name=Gen) - **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [Data Jar URL List](shortcuts://run-shortcut?name=Data%20Jar%20URL%20List) - [a](shortcuts://run-shortcut?name=a) - [iOS Soundboard Encoder](shortcuts://run-shortcut?name=iOS%20Soundboard%20Encoder) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Jorts Device Report](shortcuts://run-shortcut?name=Jorts%20Device%20Report) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [Speedy Home Screen](shortcuts://run-shortcut?name=Speedy%20Home%20Screen) - _[DraftsKeysUpdate](shortcuts://run-shortcut?name=DraftsKeysUpdate)_ - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - [DTwitter](shortcuts://run-shortcut?name=DTwitter) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - [README](shortcuts://run-shortcut?name=Drafts%20README%20Update) - [Logger Push](shortcuts://run-shortcut?name=Logger%20Push) - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [SW-DLT](shortcuts://run-shortcut?name=SW-DLT) - [rss](shortcuts://run-shortcut?name=rss) - [Artist List Push](shortcuts://run-shortcut?name=Update%20MusicHarbor%20Artists%20List) - [3Remind](shortcuts://run-shortcut?name=3Remind) - [ALL](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [Vocabulary Index](shortcuts://run-shortcut?name=Vocabulary%20Index) - [HighResArtwork.](shortcuts://run-shortcut?name=HighResArtwork.) - [HRAAnim](shortcuts://run-shortcut?name=HighResArtwork%20Animated) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [Clipboard](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[⇨](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[txt](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File) - [GIF](shortcuts://run-shortcut?name=Better%20Gif%20Maker) - [ReleaseNotes](shortcuts://run-shortcut?name=Retrieve%20Release%20Notes) - [CombineImgs](shortcuts://run-shortcut?name=ImageCombineScratch) - [PATHS](shortcuts://run-shortcut?name=PATHS) - [Autolock](shortcuts://run-shortcut?name=Autolock) - [PersonalHotspot](shortcuts://run-shortcut?name=PersonalHotspot) - [TabGrouptoDrafts](shortcuts://run-shortcut?name=TabGrouptoDrafts) - [rhUsers](shortcuts://run-shortcut?name=rh-api%20Users) - [DavodTime](shortcuts://run-shortcut?name=DavodTime%20Conversion) - [TabstoNote](shortcuts://run-shortcut?name=Safari%20Tabs%20%E2%87%A8%20Apple%20Note) - [AmandaBatteryLog](shortcuts://run-shortcut?name=AmandaBatteryLog) - [SoundcloudDL](shortcuts://run-shortcut?name=SoundcloudDownloader) - [TitledLinks](shortcuts://run-shortcut?name=Titled%20Markdown%20Links) - [RECURSE](shortcuts://run-shortcut?name=Recursively%20Eliminate%20Directories) - [rh-Shortcut](shortcuts://run-shortcut?name=rh-Shortcut) - [Shortcuts Backup](shortcuts://run-shortcut?name=Shortcuts%20Backup) - [AmandaBatteryLog](shortcuts://run-shortcut?name=AmandaBatteryLog) - [temp](shortcuts://run-shortcut?name=temp) - [sl](shortcuts://run-shortcut?name=sl) - [resume](shortcuts://run-shortcut?name=resume) - [FILEurl](shortcuts://run-shortcut?name=FILEurl) - [FileMarks](shortcuts://run-shortcut?name=FileMarks) - [PDF-PNG](shortcuts://run-shortcut?name=PDF%20to%20PNG) - [JSONSpeedtest](shortcuts://run-shortcut?name=JSON%20Speedtest) - [GatherFormat](shortcuts://run-shortcut?name=GatherFormat) - [GatherSync](shortcuts://run-shortcut?name=GatherSync) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - [DownloadFileList](shortcuts://run-shortcut?name=Download%20File%20List) - [ShortcutsBatchSource](shortcuts://run-shortcut?name=ShortcutsBatchSource) - [pip](shortcuts://run-shortcut?name=pip) - [RESET](shortcuts://run-shortcut?name=Network%20Reset) - [FileExtensions](shortcuts://run-shortcut?name=File%20Extensions) - [RedditJSON](shortcuts://run-shortcut?name=RedditJSON) - [WeechatLogsGistUpdate](shortcuts://run-shortcut?name=WeechatLogsGistUpdate) - [AmandaHomeScreens](shortcuts://run-shortcut?name=AmandaHomeScreens) - [TemplatesRepositoryUpdate](shortcuts://run-shortcut?name=TemplatesRepositoryUpdate) - [nb](shortcuts://run-shortcut?name=nb) - [WorkingCopyIndex](shortcuts://run-shortcut?name=Working%20Copy%20Index) - [nbtabs](shortcuts://run-shortcut?name=Safari%20Tabs-nb) - **[GIST](shortcuts://run-shortcut?name=GIST)** - [ImageUploader](jsbox://run?name=imageuploader.js&location=icloud) - [davodtrack](shortcuts://run-shortcut?name=davodtrack) - [Linky2](shortcuts://run-shortcut?name=Linky2) - [TitledTo-Do](shortcuts://run-shortcut?name=Titled%20Page%20To-Do) - [MarkdownManpagesRemote](shortcuts://run-shortcut?name=MarkdownManpagesRemote) - [IvoryURL](shortcuts://run-shortcut?name=Ivory%20Clipboard%20URL) - [IFTwitch](twitch://game/Infinite%20Flight)
 
 [David Krusemark](https://start.1password.com/open/i?a=IMZ3BUQ3WRBWJDRIVNYONMPBNI&v=4rr53dwfguuvtckkmbvzbtnkei&i=njm4hixzls5x6kwcz5bu33rrdq&h=my.1password.com)
 
@@ -9,7 +9,7 @@ T       O       T               L       E       A       R       N
 - [TrueLightWallpaper](shortcuts://run-shortcut?name=TrueLightWallpaper)
 - [TrueDarkWallpaper](shortcuts://run-shortcut?name=TrueDarkWallpaper)
 - [Quill](jsbox://run?name=Quill&location=local)
-- [Mona Themes Thread](ivory:///openURL?url=https://mastodon.social/users/MonaApp/statuses/109859984571889210)
+- [Mona Themes Thread](mona://open?link=https://mastodon.social/users/MonaApp/statuses/109859984571889210)
 
 ---
 
@@ -49,6 +49,8 @@ _Radio_
 - [Rolodex](things:///show?id=Tu4Cm6E49gQ4jxyhUvfaQ)
 - 
 
+- [Boiler Room Apple Music](https://music.apple.com/us/curator/boiler-room/1082539854)
+
 
 **Drafts Instrument Panel**
 _[Master Index](https://tilde.town/~extratone/drafts/big/)_
@@ -69,9 +71,7 @@ _Drafts_
 - [Underdocumented Maneuvers in iOS](drafts://open?uuid=6271A84E-D0F9-4881-A20D-B22E88AA9E3B)
 - [How I Manage Drafts](drafts://open?uuid=0BF34703-065D-4A2F-9F89-381A2348405E)
 - [Simplenote as Cross-Platform Snippets Manager](drafts://open?uuid=2000267B-6381-42E8-BACF-59166C5467A5)
-- [iOS iPadOS 16](drafts://open?uuid=886C9F8B-3919-489A-AA62-D0558C7C7FC9)
 - [Drafts as a Static Site Generator](drafts://open?uuid=26A9B32D-5C73-4CBD-A9D7-A18C2CBE5B74)
-- [Fucking Off Forever](drafts://open?uuid=1B3F92E5-7F8A-49F4-9C29-1714F3999FE8)
 
 _Notes_
 
@@ -180,14 +180,17 @@ _ACQUIRE_
 - [Silicon Valley Buzz: Apple Paid More Than $200 Million For Siri To Get Into Mobile Search | TechCrunch](https://techcrunch.com/2010/04/28/apple-siri-200-million/)
 - [Workflow iOS App Store page, archived](https://web.archive.org/web/*/https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334)
 - 
-**DAVOD WELLNESS**
-- Less RSS, more electronic music
-- WRISTWATCH
-- writing instrument
-- not quite _that_ deliberate
-- touch/smell publishing
-- CHORDOPHONE TIME
-- COJO - plan in advance, idiot.
+3 weeks ago, upon first discovering and toying around with Logitech’s gargantuan “G Hub” sofwate for macOS, I thought I’d somehow immediatly remembered preciely how I once had [my beloved G203](https://youtu.be/oIAY1-aW8Es) so well configured.
+
+I’m afraid that I’m still not sure I have, but whatever I just did feels
+
+Diamond Computers
+https://diamondcpu.com
+support@diamondcpu.com
+(816) 566-5523
+625 N Sterling Ave
+Sugar Creek, MO  64054
+United States
 **RoutineHub Community Updates**
 
 Hello RoutineHub Community, 
@@ -243,130 +246,134 @@ If you're busy but you like the community, here are a few other things you can c
 
 **Odette Applications Index**
 
-*Last updated 03232023-075846*
+*Last updated 04112023-211546*
 
 1. 1Password
 2. 1Password for Safari
 3. Actions
-4. Amphetamine
-5. Amphetamine Enhancer
-6. AppCleaner
-7. appIconMaker
-8. Apple Configurator
-9. Arc
-10. Avenue
-11. BBEdit
-12. Bear
-13. Bluetooth Inspector
-14. Bookmarks
-15. Broadcasts
-16. Bwana
-17. Cardhop
-18. ClearVPN
-19. CodeCows
-20. Color Picker
-21. Craft
-22. Cyberduck
-23. Data Jar
-24. DB Browser for SQLite
-25. Developer
-26. Discord
-27. Duplicate File Finder
-28. Fantastical
-29. finale
-30. Gifski
-31. GitHub Desktop
-32. Highlights
-33. Homecoming for Mastodon
-34. HotKey
-35. HTTPBot
-36. iA Presenter
-37. Image2Icon
-38. Interact Scratchpad
-39. Jayson
-40. Karabiner-Elements
-41. Karabiner-EventViewer
-42. Keka
-43. Key Codes
-44. lghub
-45. Logger
-46. Mactracker
-47. Magnet
-48. Mail Assistant
-49. Mapper
-50. Marked 2
-51. MarkEdit
-52. MassReplaceIt
-53. Mastonaut
-54. Mimestream
-55. Mona Beta
-56. MusicHarbor
-57. net.downloadhelper.coapp
-58. Netflix
-59. NetNewsWire
-60. Noir
-61. NotePlan
-62. npmhub
-63. Numbers
-64. OnyX
-65. Paste
-66. Pastery for Xcode
-67. Playgrounds
-68. Postman
-69. Prefs Editor
-70. Refined GitHub
-71. RSS Button for Safari
-72. Safari
-73. Safari Technology Preview
-74. safaritabstomd
-75. Save to Raindrop.io
-76. Script Geek
-77. Scriptable
-78. SensibleSideButtons
-79. Sequel Ace
-80. SF Symbols
-81. Shane's Script Library Pack
-82. Shareful
-83. ShortcutDetective
-84. Shortery
-85. SimBrief Downloader
-86. Simplenote
-87. SnippetsLab
-88. Speediness
-89. Steam
-90. Stellar
-91. StopTheMadness
-92. StopTheNews
-93. Super Agent
-94. Taio
-95. Telegram
-96. TestFlight
-97. Text Case
-98. Text Workflow
-99. Textcraft
-100. TextExpander
-101. TextMate
-102. TextPlus
-103. Textual
-104. The Unarchiver
-105. Things3Beta
-106. Timery
-107. Tot
-108. Transmission
-109. Transporter
-110. Typewriter
-111. UlyssesMac
-112. URL Linker
-113. Userscripts
-114. UTC Time
-115. Utilities
-116. VLC
-117. Wayback Machine
-118. Wipr
-119. WorldWideWeb
-120. WriteFreely for Mac
-121. Xcode
-122. Zed
+4. AdaptivityA
+5. Adobe Acrobat DC
+6. Adobe Creative Cloud
+7. Amphetamine
+8. Amphetamine Enhancer
+9. AppCleaner
+10. Are.na for Safari
+11. Audacity
+12. Bailiff
+13. BBEdit
+14. Bear
+15. bearclaw
+16. BEEP6
+17. Bluetooth Inspector
+18. Broadcasts
+19. Bwana
+20. Cardhop
+21. Chromium
+22. Cirrus
+23. CodeCows
+24. Color Picker
+25. CotEditor
+26. Craft
+27. Cyberduck
+28. Data Jar
+29. DB Browser for SQLite
+30. Developer
+31. Discord
+32. Dropover
+33. Duplicate File Finder
+34. Emacs
+35. Fantastical
+36. finale
+37. GhostText
+38. Ghounter
+39. Gifski
+40. GitHub Desktop
+41. HextEdit
+42. Highlights
+43. Homecoming for Mastodon
+44. HotKey
+45. HTTPBot
+46. iA Presenter
+47. Icon Set Creator
+48. Image2Icon
+49. Interact Scratchpad
+50. Jayson
+51. Karabiner-Elements
+52. Karabiner-EventViewer
+53. Keka
+54. Key Codes
+55. Keybase
+56. Logger
+57. Mactracker
+58. Magnet
+59. Mapper
+60. Marked 2
+61. MassReplaceIt
+62. Mastonaut
+63. Mimestream
+64. Mona Beta
+65. Mp3tag
+66. net.downloadhelper.coapp
+67. NetNewsWire
+68. Noir
+69. npmhub
+70. Numbers
+71. OnyX
+72. Pages
+73. Paste
+74. Pastery for Xcode
+75. Prefs Editor
+76. Raycast
+77. Readwise_iBooks
+78. Refined GitHub
+79. RocketSim
+80. RSS Button for Safari
+81. Safari
+82. safaritabstomd
+83. Save to Raindrop.io
+84. Save to Reader
+85. Scriptable
+86. SensibleSideButtons
+87. SF Symbols
+88. Shane's Script Library Pack
+89. Shareful
+90. Shortery
+91. Simplenote
+92. SnippetsLab
+93. Speediness
+94. Stellar
+95. StopTheMadness
+96. StopTheNews
+97. Super Agent
+98. SystHist
+99. Telegram
+100. TestFlight
+101. Text Case
+102. Text Workflow
+103. Textcraft
+104. TextExpander
+105. TextMate
+106. TextPlus
+107. Textual
+108. The Unarchiver
+109. Things Stats
+110. Things3Beta
+111. Timery
+112. Tot
+113. tyke
+114. Typewriter
+115. UlyssesMac
+116. URL Linker
+117. Userscripts
+118. UTC Time
+119. Utilities
+120. VLC
+121. Wayback Machine
+122. Wipr
+123. WorldWideWeb
+124. WriteFreely for Mac
+125. Xcode
+126. Zed
 
 **Working Copy Index**
 Updated `03242023-050106`
@@ -550,35 +557,64 @@ Updated `03242023-050106`
 - [Social/twat](https://github.com/extratone/twat)
 - [Social/TwidereX-iOS](https://github.com/TwidereProject/TwidereX-iOS)
 - [Social/Weechat Logs Gist]()
-Mona for Mac is not on TestFlight. Please download the Mac app separately. See <https://mastodon.social/@MonaApp>
+ivory://acct/home (or timeline)
+ivory://acct/mentions
+ivory://acct/lists
+ivory://acct/favorites
+ivory://acct/bookmarks
+ivory://acct/statistics
+ivory://acct/profile
+ivory://acct/search
+**Modal callback\_url=<url> valid for all the below**
+ivory://acct/openURL?url=https://mastodon.social/@MonaApp/109859984571889210
+ivory://acct/status/status\_id (from acct's instance)
+ivory://acct/user\_profile/user\_acct
+ivory://acct/post
+ivory://acct/post/text
+ivory://acct/post?text=<text>&in\_reply\_to\_status\_url=<url>
 
-This update:
-More Siri Shortcuts are now available, including getting and setting themes (requires iOS/iPadOS 16, macOS 13)
-Use the system Focus Filter feature to automatically change themes when you enable or disable a Focus mode (requires iOS/iPadOS 16, macOS 13)
-Theme editor updates: you can now customize sidebar composer button (iPad only), and poll progress and selection ring
-On iOS/iPadOS 16, you can now touch and hold to select text on the full screen image viewer (requires an iPhone or iPad with A12 or newer chip)
-On Mac, you can now select to open images in your default image viewer app
-Adds keyboard shortcut for viewing profile photo, and opening user profile in browser
-Optimizes swipe option appearance for full screen mode on iPhone
-Optimizes menus for iOS 12
-Supports block and unblock accounts
-Resolves an issue on Mac, where the app window may unexpectedly open by itself, even when you are not using the app
-Push notification is now available for Akkoma accounts
+Mona Beta: `com.jonny.monabeta://`
 
-Previous update:
-Mac: add keyboard shortcuts to hide/show sidebar and bottom tab bar
-Truncates long posts on timelines
-You can now send longer posts from supported non-Mastodon instances
-Link preview will no longer be displayed on posts with a content warning
-Fixes incorrect line breaking for Akkoma instances
+Mona: `com.jonny.mona://`
 
-Theme editor for Mac: tab bar icon color is now customizable
-Fixes iCloud reading position sync
-Resolves a VoiceOver focus issue on Mac
-Solves an issue where sign in website is occasionally not opened on iPhone/iPad
-Long post truncating feature has been temporarily disabled due to random crashes on some devices
-Tries to solve an iOS crash on rich notification preview screen
+Common Parameters
 
-On macOS, you can now use Continuity Camera on post composer, to capture and attach photos from your iPhone or iPad. You can now also use the “Services” feature in more places with just keyboard shortcuts
-On iOS, with extended support for iOS 12, Mona Beta can now be used on iPhone 5s, iPhone 6, and iPhone 6 Plus, making the Mastodon experience accessible to even more people around the world
-Adds preliminary support for non-Mastodon instances
+	_account_
+Perform a task with specific account identified by your Twitter handle (@username), or Mastodon user address. The value of account is case insensitive.
+
+
+Mastodon example: @MonaApp@mastodon.social
+
+**Open Links in Spring or Mona**
+
+
+#### Mastodon
+
+User profile: https://[any\_domain]/@[username]. https://mastodon.social/@MonaApp
+
+Toot: https://[any\_domain]/@[username]/[toot\_id\_number] https://mastodon.social/@MonaApp/109506252875971252
+
+### Advanced
+
+Use the “open” URL scheme if you want to open multiple pages at once, or open a page with specific account.
+
+/Users/blue/Library/Group Containers/JLMPQHK86H.com.culturedcode.ThingsMac
+## Switch Account
+Provide "account" as parameter. Nothing changed if the target account is already activated on the current app window.
+
+mona://switch?account=@MonaApp@mastodon.social
+
+## Open Tweet Composer
+You can provide 2 optional parameters: text, account
+
+mona://post?text=hello&account=@MonaApp@mastodon.social
+
+## Open Search View
+
+You can provide 2 optional parameters: text, account
+
+The value of text parameter will be filled into the search bar.
+
+### Examples:
+
+mona://search?text=hello&account=@MonaApp@mastodon.social7
