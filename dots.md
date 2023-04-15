@@ -10,6 +10,7 @@ T       O       T               L       E       A       R       N
 - [TrueDarkWallpaper](shortcuts://run-shortcut?name=TrueDarkWallpaper)
 - [Quill](jsbox://run?name=Quill&location=local)
 - [Mona Themes Thread](mona://open?link=https://mastodon.social/users/MonaApp/statuses/109859984571889210)
+- [Password Manager Poll](https://mastodon.social/@DavidBlue/110194268998932692)
 
 ---
 
@@ -18,9 +19,7 @@ T       O       T               L       E       A       R       N
 – [developer Repo](working-copy://open?repo=developer)
 – [Shortcuts i Repo Folder](working-copy://open?repo=i&path=shortcuts&mode=content)
 – [SystemSoundsFolder](working-copy://open?repo=iOSSystemSounds&path=m4a&mode=content)
-– [Working Copy URL Schemes](https://workingcopyapp.com/url-schemes.html)
-– [Please Fuck With This License](drafts://open?uuid=FAFFA333-34A5-4412-B46C-3D216C09FD8E)
- 
+– [Working Copy URL Schemes](https://workingcopyapp.com/url-schemes.html) 
 
 **Juegos**
 - [IF World Tour](https://community.infiniteflight.com/t/infinite-flight-world-tour/736114)
@@ -47,7 +46,6 @@ _Radio_
 - **[$](things:///show?id=21qrJbSnKrB2yhcKMhr8Rp)**
 - _[Consultation](things:///show?id=SLdM5dnobroZTA6pVfFwi2)_
 - [Rolodex](things:///show?id=Tu4Cm6E49gQ4jxyhUvfaQ)
-- 
 
 - [Boiler Room Apple Music](https://music.apple.com/us/curator/boiler-room/1082539854)
 
@@ -66,7 +64,6 @@ _Drafts_
 - [Fresh Eyes on macOS](drafts://open?uuid=944F772C-CC9D-47F2-BD98-F4E435E40227)
 - [Hold Your Clipboard Mangers Close](drafts://open?uuid=81CC3D50-BC7A-471F-B247-DBE0ACC54C6B)
 - [David Blue’s Twitter History](drafts://open?uuid=F490F4FE-5635-4513-9320-B5DB7E0FFE31)
-- [How to Fuck Text](drafts://open?uuid=A350D578-1CFA-4B5A-8655-74F6B3AD72AE)
 - [Please Fuck With This License](drafts://open?uuid=FAFFA333-34A5-4412-B46C-3D216C09FD8E)
 - [Underdocumented Maneuvers in iOS](drafts://open?uuid=6271A84E-D0F9-4881-A20D-B22E88AA9E3B)
 - [How I Manage Drafts](drafts://open?uuid=0BF34703-065D-4A2F-9F89-381A2348405E)
@@ -80,7 +77,6 @@ _Notes_
 - [Notes-Fresh Eyes on macOS](drafts://open?uuid=6C76EDBD-025D-40BA-9381-9AE95AD70F36)
 - [Notes-Hold Your Clipboard Managers Close](drafts://open?uuid=65AC8211-F3F9-419D-A7B3-EBF82E4944F1)
 - [Notes-Personal Twitter History](drafts://open?uuid=37B865E1-4372-4AF7-BB77-3979836130D4)
-- [Notes-TextFuck](drafts://open?uuid=F0E9A527-77DE-45C6-9B24-F101565AC0BE)
 - **[Drag Safari Tab Group Links Demo](drafts://open?uuid=4FBF3BCC-2F65-4C8B-9486-839E118B4B3A)**
 - [Notes-Drafts vs. Obsidian](drafts://open?uuid=C300D6BD-07A2-44E2-9231-54ADA771F952)
 - [Remark.as Integration](drafts://open?uuid=B0C95CA5-E5DE-4478-9C09-1E30499438CE)
@@ -246,7 +242,7 @@ If you're busy but you like the community, here are a few other things you can c
 
 **Odette Applications Index**
 
-*Last updated 04112023-211546*
+*Last updated 04142023-084009*
 
 1. 1Password
 2. 1Password for Safari
@@ -265,44 +261,44 @@ If you're busy but you like the community, here are a few other things you can c
 15. bearclaw
 16. BEEP6
 17. Bluetooth Inspector
-18. Broadcasts
-19. Bwana
-20. Cardhop
-21. Chromium
-22. Cirrus
-23. CodeCows
-24. Color Picker
-25. CotEditor
-26. Craft
-27. Cyberduck
-28. Data Jar
-29. DB Browser for SQLite
-30. Developer
-31. Discord
-32. Dropover
-33. Duplicate File Finder
-34. Emacs
-35. Fantastical
-36. finale
-37. GhostText
-38. Ghounter
-39. Gifski
-40. GitHub Desktop
-41. HextEdit
-42. Highlights
-43. Homecoming for Mastodon
-44. HotKey
-45. HTTPBot
-46. iA Presenter
-47. Icon Set Creator
-48. Image2Icon
-49. Interact Scratchpad
-50. Jayson
-51. Karabiner-Elements
-52. Karabiner-EventViewer
-53. Keka
-54. Key Codes
-55. Keybase
+18. Bwana
+19. Cardhop
+20. Chromium
+21. Cirrus
+22. CodeCows
+23. Color Picker
+24. CotEditor
+25. Craft
+26. Cyberduck
+27. Data Jar
+28. DB Browser for SQLite
+29. Developer
+30. Discord
+31. Duplicate File Finder
+32. Emacs
+33. Fantastical
+34. Fedora Media Writer
+35. finale
+36. GhostText
+37. Ghounter
+38. Gifski
+39. GitHub Desktop
+40. HextEdit
+41. Highlights
+42. Homecoming for Mastodon
+43. HotKey
+44. HTTPBot
+45. iA Presenter
+46. Icon Set Creator
+47. Image2Icon
+48. Interact Scratchpad
+49. Jayson
+50. Karabiner-Elements
+51. Karabiner-EventViewer
+52. Keka
+53. Key Codes
+54. Keybase
+55. Keyboard Maestro
 56. Logger
 57. Mactracker
 58. Magnet
@@ -376,7 +372,7 @@ If you're busy but you like the community, here are a few other things you can c
 126. Zed
 
 **Working Copy Index**
-Updated `03242023-050106`
+Updated `04152023-082611`
 
 - [alexis](https://github.com/extratone/alexis)
 - [archive-pdf-tools]()
@@ -390,8 +386,10 @@ Updated `03242023-050106`
 - [enpass-to-1password](https://github.com/extratone/enpass-to-1password)
 - [i](https://github.com/extratone/i)
 - [iOSSystemSounds](https://github.com/extratone/iOSSystemSounds)
+- [js](https://github.com/extratone/js)
 - [keys](https://github.com/extratone/keys)
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
+- [policy](https://github.com/extratone/policy)
 - [Private]()
 - [progit2](https://github.com/extratone/progit2)
 - [pythonista](https://github.com/extratone/pythonista)
@@ -409,14 +407,13 @@ Updated `03242023-050106`
 - [ThingsJSONCoder](https://github.com/extratone/ThingsJSONCoder)
 - [tot](https://github.com/extratone/tot)
 - [twitterific](https://github.com/softwarehistorysociety/twitterific)
-- [userscripts-safari](https://github.com/extratone/userscripts-safari)
 - [API/api](https://github.com/extratone/api)
 - [Auto/cartography](https://github.com/extratone/cartography)
 - [Auto/tmr]()
+- [Configuration/BearThemes](https://github.com/extratone/BearThemes)
 - [Configuration/bilge-theme](https://gitlab.com/DavidBlue/bilge-writeas)
-- [Configuration/micro](https://github.com/zyedidia/micro)
+- [Configuration/MonaSettings](https://github.com/extratone/MonaSettings)
 - [Configuration/MonaThemes](https://github.com/extratone/MonaThemes)
-- [Configuration/wp](https://github.com/softwarehistorysociety/wp)
 - [Dev/Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
 - [Dev/Runestone](https://gitlab.com/DavidBlue/Runestone)
 - [Dev/sunlit](https://github.com/extratone/sunlit)
@@ -586,7 +583,9 @@ Perform a task with specific account identified by your Twitter handle (@usernam
 Mastodon example: @MonaApp@mastodon.social
 
 **Open Links in Spring or Mona**
+file:///Users/blue/.lesshst
 
+t
 
 #### Mastodon
 
