@@ -1,52 +1,95 @@
-**RoutineHub Community Updates**
+**Secure ShellFish Widget Attempts**
 
-Hello RoutineHub Community, 
+Usage: widget [target] <data> ...
 
-Lots of strong updates, so let's get started. 
+Update widget on device from which this function was installed with a number of content parameters that can be _string_, _progress_, _icon_, _target_, _color_, _url_ or _shortcut_.
 
-**Part 1 of 4 -** **Bug Fixes**
+Each argument type is derived from input, where the first argument is assumed to be a target if it matches a target configured on the widget.
 
-1. Broken link after selecting "Forgot Password" User selects link "Forgot Password", submit their email, receive a reset password email with a broken link. **Fixed**
+**Progress** has the form: _50%_ or _110/220_
 
-2. Incorrect Password Error - A website error occurs when a user submits an incorrect password during log-in. **Fixed**
+**Icon** must match valid SF Symbol name such as _globe_ or _terminal.fill_
 
-3. Inconsistent Log In Log Out - Members noticed session inconsistencies while logging in. **Fixed**
+Colors must be hex colours such as #000 #ff00ff where the color is used for later content and 'foreground' switches back to default colour
 
-**Part 2 of 4 - Process Improvements**
+Target is used to send different content to different widgets after configuring the widgets with different target identifiers which requires the pro unlock. The target parameter is never assumed unless --target is used and is effective until next --target parameter allowing updates of several widgets with a single command
 
-**Better Protocol for Reporting Takedown Requests**
+URL is used when tapping the widget and is assumed for arguments starting with https:// and other schemes are supported by using --url
 
-If you report a shortcut due to a policy violation, we now have a better process for managing them. This does not mean that every shortcut you report will be removed, but it does mean that we have a better system for capturing your submissions and verifying your assertion.  
+Shortcut works like URL running the Shortcut with the given name and is never assumed without --shortcut
 
-Thank you <@355492101758255116> for your input [here](https://discord.com/channels/503976650439131183/504063013515427851/1025931452312981614)
+String is the fallback type if nothing else matches, but content type can be forced for next parameter with --progress, --icon, --color, --text or --target with something like:
+  widget --text "50/100"
 
-**Part 3 of 4 - We Now Have Two Task Forces**
+You can update several widgets at once by using --target to send all parameters until the next --target to a particular widget. Updating several widgets at once allows more total updates per day.
 
-We have two active task forces helping us a) curate the best shortcuts created by the community and b) remove low-quality shortcuts. 
- 
+---
 
-**Quality & Integrity Task Force**
+**Examples**
 
-Per my previous announcement, <@986735824982904882>  and <@438277346487697418>  have begun a task force dedicated to removing low-quality shortcuts on the site. 
+_widget cpu.fill 23% CPU drive 68% HDD_
 
-Phase 1 consisted of removing low-quality shortcuts, and within that category, the team decided to organize "Low Quality" into tiers (Squirrel Thought: I prefer the word "Tranche" more than Tier but whatever, I digress.).
+<ivory://acct/home> (or timeline)
+<ivory://acct/mentions>
+<ivory://acct/lists>
+<ivory://acct/favorites>
+<ivory://acct/bookmarks>
+<ivory://acct/statistics>
+<ivory://acct/profile>
+<ivory://acct/search>
+**Modal callback\_url=<url> valid for all the below**
+<ivory://acct/openURL?url=https://mastodon.social/@MonaApp/109859984571889210>
+<ivory://acct/status/status_id> (from acct's instance)
+<ivory://acct/user_profile/user_acct>
+<ivory://acct/post>
+<ivory://acct/post/text>
+[ivory://acct/post?text=<text>&in\_reply\_to\_status\_url=<url>](ivory://acct/post?text=%3Ctext%3E&in_reply_to_status_url=%3Curl%3E)
 
-Tier0 was focused on identifying and removing shortcuts that pattern match "test,"/test/, /(test)/. You get the picture. The group reviewed a sample of 300 shortcuts and identified 21% for removal. Great!
+Mona Beta: `[com.jonny.monabeta://`](com.jonny.monabeta://%60)
 
-Here is <@986735824982904882> [announcement from yesterday](https://discord.com/channels/503976650439131183/504063013515427851/1027608343117840464)
+Mona: `[com.jonny.mona://`](com.jonny.mona://%60)
 
-Now, if you're like me, you have got to believe that there are way more placeholder shortcuts with the title "test" in them. If you agree, please read on.
+Common Parameters
 
-**Part 4 of 4 - We Need Your Help**
+	_account_
+Perform a task with specific account identified by your Twitter handle (@username), or Mastodon user address. The value of account is case insensitive.
 
-This community is incredible at solving problems. I see you do it daily on this Discord group so if you're ready to help, please ping <@986735824982904882> or <@438277346487697418> to join the Shortcut Quality & Integrity task force. Reach out <@986735824982904882> to join the <#1000149774722416760> Together, we can deliver a better platform for the community to enjoy. 
 
-**Other Ways to Help**
-If you're busy but you like the community, here are a few other things you can consider. 
+Mastodon example: @<MonaApp@mastodon.social>
 
-1. Submit a shortcut you like to <#504120881119887371> . RoutineHub is the largest community of shortcut badasses who know how to build and therefore know what a well-made script is. If you think something is good, share it with us. If you made it and you think it's good, share it. If you're concerned about looking like a braggart, don't. 
+**Open Links in Spring or Mona**
+<file:///Users/blue/.lesshst>
 
-2. Boost our Server. This Discord is all about community, and if members believe that the team and I are making strong efforts to make improvements, show your support and submit a boost.
+t
 
-3. Become a Community Member: [**Join here**](https://routinehub.co/membership/)
+#### Mastodon
+
+User profile: [https://[any\_domain]/@[username]](https://[any_domain]/@%5Busername%5D). <https://mastodon.social/@MonaApp>
+
+Toot: [https://[any\_domain]/@[username]/[toot\_id\_number]](https://[any_domain]/@%5Busername%5D/%5Btoot_id_number%5D) <https://mastodon.social/@MonaApp/109506252875971252>
+
+### Advanced
+
+Use the “open” URL scheme if you want to open multiple pages at once, or open a page with specific account.
+
+/Users/blue/Library/Group Containers/JLMPQHK86H.com.culturedcode.ThingsMac
+## Switch Account
+Provide "account" as parameter. Nothing changed if the target account is already activated on the current app window.
+
+<mona://switch?account=@MonaApp@mastodon.social>
+
+## Open Tweet Composer
+You can provide 2 optional parameters: text, account
+
+<mona://post?text=hello&account=@MonaApp@mastodon.social>
+
+## Open Search View
+
+You can provide 2 optional parameters: text, account
+
+The value of text parameter will be filled into the search bar.
+
+### Examples:
+
+<mona://search?text=hello&account=@MonaApp@mastodon.social>
 
