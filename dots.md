@@ -1,16 +1,17 @@
 **_[Q U I C K F R A M E](shortcuts://run-shortcut?name=Apple%20Frames&input=text&text=latest%26photos)_**
 
-**[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames)** - [HiResTwitter](shortcuts://run-shortcut?name=HiRes%20Twitter) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [OpenALLURLs](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [Clipboard](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[⇨](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[txt](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File) - [GIF](shortcuts://run-shortcut?name=Better%20Gif%20Maker) - [ReleaseNotes](shortcuts://run-shortcut?name=Retrieve%20Release%20Notes) - [CombineImgs](shortcuts://run-shortcut?name=ImageCombineScratch) - [PATHS](shortcuts://run-shortcut?name=PATHS) - [Autolock](shortcuts://run-shortcut?name=Autolock) - [PersonalHotspot](shortcuts://run-shortcut?name=PersonalHotspot) - [TabGrouptoDrafts](shortcuts://run-shortcut?name=TabGrouptoDrafts) - [rhUsers](shortcuts://run-shortcut?name=rh-api%20Users) - [DavodTime](shortcuts://run-shortcut?name=DavodTime%20Conversion) - [TabstoNote](shortcuts://run-shortcut?name=Safari%20Tabs%20%E2%87%A8%20Apple%20Note) - **[KudzuBatteryLog](shortcuts://run-shortcut?name=KudzuBatteryLog)** - [SoundcloudDL](shortcuts://run-shortcut?name=SoundcloudDownloader) - [TitledLinks](shortcuts://run-shortcut?name=Titled%20Markdown%20Links) - [RECURSE](shortcuts://run-shortcut?name=Recursively%20Eliminate%20Directories) - [rh-Shortcut](shortcuts://run-shortcut?name=rh-Shortcut) - [temp](shortcuts://run-shortcut?name=temp) - [FILEurl](shortcuts://run-shortcut?name=FILEurl) - [PDF-PNG](shortcuts://run-shortcut?name=PDF%20to%20PNG) - [JSONSpeedtest](shortcuts://run-shortcut?name=JSON%20Speedtest) - [GatherFormat](shortcuts://run-shortcut?name=GatherFormat) - [GatherSync](shortcuts://run-shortcut?name=GatherSync) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - [DownloadFileList](shortcuts://run-shortcut?name=Download%20File%20List) - [ShortcutsBatchSource](shortcuts://run-shortcut?name=ShortcutsBatchSource) - [pip](shortcuts://run-shortcut?name=pip) - [RESET](shortcuts://run-shortcut?name=Network%20Reset) - [FileExtensions](shortcuts://run-shortcut?name=File%20Extensions) - [RedditJSON](shortcuts://run-shortcut?name=RedditJSON) - [WeechatLogsGistUpdate](shortcuts://run-shortcut?name=WeechatLogsGistUpdate) - **[WorkingCopyIndex](shortcuts://run-shortcut?name=WorkingCopyRepositoryTotIndex)** - **[GIST](shortcuts://run-shortcut?name=GIST)** - [ImageUploader](jsbox://run?name=imageuploader.js&location=icloud) - [davodtrack](shortcuts://run-shortcut?name=davodtrack) - [Linky2](shortcuts://run-shortcut?name=Linky2) - [TitledTo-Do](shortcuts://run-shortcut?name=Titled%20Page%20To-Do) - [MarkdownManpagesRemote](shortcuts://run-shortcut?name=MarkdownManpagesRemote) - [IvoryURL](shortcuts://run-shortcut?name=Ivory%20Clipboard%20URL) - [IFTwitch](twitch://game/Infinite%20Flight) - [UNBackground](shortcuts://run-shortcut?name=Remove%20Image%20Background) - [MastodonThread-Draft](shortcuts://run-shortcut?name=MastodonThread-Draft)
+**[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames&input=text&text=latest)** - [HiResTwitter](shortcuts://run-shortcut?name=HiRes%20Twitter) - [Scriptable Refresh](shortcuts://run-shortcut?name=Scriptable%20Refresh) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [jobot](shortcuts://run-shortcut?name=jobot) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [OpenALLURLs](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [Clipboard](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[⇨](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File)[txt](shortcuts://run-shortcut?name=Clipboard%20%E2%87%A8%20.txt%20File) - [GIF](shortcuts://run-shortcut?name=Better%20Gif%20Maker) - [ReleaseNotes](shortcuts://run-shortcut?name=Retrieve%20Release%20Notes) - [CombineImgs](shortcuts://run-shortcut?name=ImageCombineScratch) - [PATHS](shortcuts://run-shortcut?name=PATHS) - [Autolock](shortcuts://run-shortcut?name=Autolock) - [PersonalHotspot](shortcuts://run-shortcut?name=PersonalHotspot) - [TabGrouptoDrafts](shortcuts://run-shortcut?name=TabGrouptoDrafts) - [rhUsers](shortcuts://run-shortcut?name=rh-api%20Users) - [DavodTime](shortcuts://run-shortcut?name=DavodTime%20Conversion) - [TabstoNote](shortcuts://run-shortcut?name=Safari%20Tabs%20%E2%87%A8%20Apple%20Note) - **[KudzuBatteryLog](shortcuts://run-shortcut?name=KudzuBatteryLog)** - [SoundcloudDL](shortcuts://run-shortcut?name=SoundcloudDownloader) - [TitledLinks](shortcuts://run-shortcut?name=Titled%20Markdown%20Links) - [RECURSE](shortcuts://run-shortcut?name=Recursively%20Eliminate%20Directories) - [rh-Shortcut](shortcuts://run-shortcut?name=rh-Shortcut) - [temp](shortcuts://run-shortcut?name=temp) - [FILEurl](shortcuts://run-shortcut?name=FILEurl) - [PDF-PNG](shortcuts://run-shortcut?name=PDF%20to%20PNG) - [JSONSpeedtest](shortcuts://run-shortcut?name=JSON%20Speedtest) - [GatherFormat](shortcuts://run-shortcut?name=GatherFormat) - [GatherSync](shortcuts://run-shortcut?name=GatherSync) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - [DownloadFileList](shortcuts://run-shortcut?name=Download%20File%20List) - [ShortcutsBatchSource](shortcuts://run-shortcut?name=ShortcutsBatchSource) - [pip](shortcuts://run-shortcut?name=pip) - [RESET](shortcuts://run-shortcut?name=Network%20Reset) - [FileExtensions](shortcuts://run-shortcut?name=File%20Extensions) - [RedditJSON](shortcuts://run-shortcut?name=RedditJSON) - [WeechatLogsGistUpdate](shortcuts://run-shortcut?name=WeechatLogsGistUpdate) - **[WorkingCopyIndex](shortcuts://run-shortcut?name=WorkingCopyRepositoryTotIndex)** - **[GIST](shortcuts://run-shortcut?name=GIST)** - [ImageUploader](jsbox://run?name=imageuploader.js&location=icloud) - [davodtrack](shortcuts://run-shortcut?name=davodtrack) - [Linky2](shortcuts://run-shortcut?name=Linky2) - [TitledTo-Do](shortcuts://run-shortcut?name=Titled%20Page%20To-Do) - [MarkdownManpagesRemote](shortcuts://run-shortcut?name=MarkdownManpagesRemote) - [IvoryURL](shortcuts://run-shortcut?name=Ivory%20Clipboard%20URL) - [IFTwitch](twitch://game/Infinite%20Flight) - [UNBackground](shortcuts://run-shortcut?name=Remove%20Image%20Background) - [MastodonThread-Draft](shortcuts://run-shortcut?name=MastodonThread-Draft)
 
-[David Krusemark](https://start.1password.com/open/i?a=IMZ3BUQ3WRBWJDRIVNYONMPBNI&v=4rr53dwfguuvtckkmbvzbtnkei&i=njm4hixzls5x6kwcz5bu33rrdq&h=my.1password.com)
+- **[Light](shortcuts://run-shortcut?name=TrueLightWallpaper)**
+- **[Dark](shortcuts://run-shortcut?name=TrueDarkWallpaper)**
+- **_[Black](shortcuts://run-shortcut?name=TrueBlackWallpaper)_**
 
 [kbia](shortcuts://run-shortcut?name=kbia)
 
-**[Distributed Index](drafts://open?uuid=3B7930BE-07BC-4DB9-A591-4254BEE42A82)**
-- [TrueLightWallpaper](shortcuts://run-shortcut?name=TrueLightWallpaper)
-- [TrueDarkWallpaper](shortcuts://run-shortcut?name=TrueDarkWallpaper)
+- [Distributed Index](drafts://open?uuid=3B7930BE-07BC-4DB9-A591-4254BEE42A82)
 - [Quill](jsbox://run?name=Quill&location=local)
 - [Mona Themes Thread](mona://open?link=https://mastodon.social/users/MonaApp/statuses/109859984571889210)
+- [SongLinks Thread](ivory://@DavidBlue/status/101077476349140779)
 
 ---
 
@@ -142,6 +143,9 @@ _ACQUIRE_
 - Mail ⇨ [Facebook information file requested](message:%3Cfa2584ec-db36-11ec-87d4-950a89070374@facebookmail.com%3E)
 
 ⍋⍙≜𝚫𝛅𝛥𝛿𝜟𝜹𝝙𝝳𝞓𝞭ᵟƍ
+**[WWDC 2023](things:///show?id=SyhySJdQNaJ2tN7xpV7Lxr)**
+
+
 **Tot Keys**
 - **⌘/** = Show/Hide Status Bar
 - **⇧⌘T** = Switch to Plain Text View
@@ -287,7 +291,7 @@ The value of text parameter will be filled into the search bar.
 
 **Odette Applications Index**
 
-*Last updated 05112023-161857*
+*Last updated 05172023-144538*
 
 1. _shellfish_uploading_5586829648016392241
 2. 1Password
@@ -306,7 +310,7 @@ The value of text parameter will be filled into the search bar.
 15. bearclaw
 16. BEEP6
 17. Bike
-18. Blocs-5.1.0-b5
+18. Blocs
 19. Bluetooth Inspector
 20. Bwana
 21. Cardhop
@@ -354,68 +358,67 @@ The value of text parameter will be filled into the search bar.
 63. MEGAcmd
 64. Mimestream
 65. Mona
-66. Mona Beta
-67. Mp3tag
-68. Music Remote
-69. net.downloadhelper.coapp
-70. NetNewsWire
-71. Noir
-72. npmhub
-73. Numbers
-74. OnyX
-75. Pages
-76. Paste
-77. Pastery for Xcode
-78. Prefs Editor
-79. Readwise_iBooks
-80. Refined GitHub
-81. RocketSim
-82. RSS Button for Safari
-83. Safari
-84. safaritabstomd
-85. Save to Raindrop.io
-86. Scriptable
-87. SensibleSideButtons
-88. SF Symbols
-89. Shane's Script Library Pack
-90. Shareful
-91. Shortery
-92. Simplenote
-93. SnippetsLab
-94. Speediness
-95. Stellar
-96. StopTheMadness
-97. StopTheNews
-98. Super Agent
-99. SystHist
-100. Telegram
-101. TestFlight
-102. Text Case
-103. Text Workflow
-104. Textcraft
-105. TextExpander
-106. TextMate
-107. TextPlus
-108. Textual
-109. The Unarchiver
-110. Things Stats
-111. Things3Beta
-112. Timery
-113. Tot
-114. tyke
-115. Typewriter
-116. UlyssesMac
-117. URL Linker
-118. Userscripts
-119. UTC Time
-120. Utilities
-121. VLC
-122. Wayback Machine
-123. Wipr
-124. WorldWideWeb
-125. WriteFreely for Mac
-126. Xcode
-127. Zed
+66. Music Remote
+67. net.downloadhelper.coapp
+68. NetNewsWire
+69. Noir
+70. npmhub
+71. Numbers
+72. OnyX
+73. Pages
+74. Parcel
+75. Paste
+76. Pastery for Xcode
+77. Prefs Editor
+78. Readwise_iBooks
+79. Refined GitHub
+80. RocketSim
+81. RSS Button for Safari
+82. Safari
+83. safaritabstomd
+84. Save to Raindrop.io
+85. Scriptable
+86. SensibleSideButtons
+87. SF Symbols
+88. Shane's Script Library Pack
+89. Shareful
+90. Shortery
+91. Simplenote
+92. SnippetsLab
+93. Speediness
+94. Stellar
+95. StopTheMadness
+96. StopTheNews
+97. Super Agent
+98. SystHist
+99. Telegram
+100. TestFlight
+101. Text Case
+102. Text Workflow
+103. Textcraft
+104. TextExpander
+105. TextMate
+106. TextPlus
+107. Textual
+108. The Unarchiver
+109. Things Stats
+110. Things3Beta
+111. Timery
+112. Tot
+113. tyke
+114. Typewriter
+115. UlyssesMac
+116. URL Linker
+117. Userscripts
+118. UTC Time
+119. Utilities
+120. VLC
+121. Wayback Machine
+122. Wipr
+123. WorldWideWeb
+124. WriteFreely for Mac
+125. Xcode
+126. Zed
 
 **Working Copy Index**
 Updated `05122023-151303`
@@ -501,25 +504,29 @@ Updated `05122023-151303`
 - [Social/snac2](https://codeberg.org/extratone/snac2)
 - [Social/t](https://github.com/extratone/t)
 - [UIKeyCommand/openradar](https://github.com/timburks/openradar)
-ivory://acct/home (or timeline)
-ivory://acct/mentions
-ivory://acct/lists
-ivory://acct/favorites
-ivory://acct/bookmarks
-ivory://acct/statistics
-ivory://acct/profile
-ivory://acct/search
+<ivory://acct/home> (or timeline)
+<ivory://acct/mentions>
+<ivory://acct/lists>
+<ivory://acct/favorites>
+<ivory://acct/bookmarks>
+<ivory://acct/statistics>
+<ivory://acct/profile>
+<ivory://acct/search>
 **Modal callback\_url=<url> valid for all the below**
-ivory://acct/openURL?url=https://mastodon.social/@MonaApp/109859984571889210
-ivory://acct/status/status\_id (from acct's instance)
-ivory://acct/user\_profile/user\_acct
-ivory://acct/post
-ivory://acct/post/text
-ivory://acct/post?text=<text>&in\_reply\_to\_status\_url=<url>
+<ivory://acct/openURL?url=https://mastodon.social/@MonaApp/109859984571889210>
+<ivory://@DavidBlue/status/101077476349140779> (from acct's instance)
+<ivory://acct/user_profile/user_acct>
+<ivory://acct/post>
+<ivory://acct/post/text>
+[ivory://acct/post?text=<text>&in\_reply\_to\_status\_url=<url>](ivory://acct/post?text=%3Ctext%3E&in_reply_to_status_url=%3Curl%3E)
 
-Mona Beta: `com.jonny.monabeta://`
+<https://mastodon.social/@DavidBlue/101077476349140779>
 
-Mona: `com.jonny.mona://`
+<ivory://@DavidBlue/status/101077476349140779>
+
+Mona Beta: `[com.jonny.monabeta://`](com.jonny.monabeta://%60)
+
+Mona: `[com.jonny.mona://`](com.jonny.mona://%60)
 
 Common Parameters
 
@@ -527,18 +534,18 @@ Common Parameters
 Perform a task with specific account identified by your Twitter handle (@username), or Mastodon user address. The value of account is case insensitive.
 
 
-Mastodon example: @MonaApp@mastodon.social
+Mastodon example: @<MonaApp@mastodon.social>
 
 **Open Links in Spring or Mona**
-file:///Users/blue/.lesshst
+<file:///Users/blue/.lesshst>
 
 t
 
 #### Mastodon
 
-User profile: https://[any\_domain]/@[username]. https://mastodon.social/@MonaApp
+User profile: [https://[any\_domain]/@[username]](https://[any_domain]/@%5Busername%5D). <https://mastodon.social/@MonaApp>
 
-Toot: https://[any\_domain]/@[username]/[toot\_id\_number] https://mastodon.social/@MonaApp/109506252875971252
+Toot: [https://[any\_domain]/@[username]/[toot\_id\_number]](https://[any_domain]/@%5Busername%5D/%5Btoot_id_number%5D) <https://mastodon.social/@MonaApp/109506252875971252>
 
 ### Advanced
 
@@ -548,12 +555,12 @@ Use the “open” URL scheme if you want to open multiple pages at once, or ope
 ## Switch Account
 Provide "account" as parameter. Nothing changed if the target account is already activated on the current app window.
 
-mona://switch?account=@MonaApp@mastodon.social
+<mona://switch?account=@MonaApp@mastodon.social>
 
 ## Open Tweet Composer
 You can provide 2 optional parameters: text, account
 
-mona://post?text=hello&account=@MonaApp@mastodon.social
+<mona://post?text=hello&account=@MonaApp@mastodon.social>
 
 ## Open Search View
 
@@ -563,4 +570,8 @@ The value of text parameter will be filled into the search bar.
 
 ### Examples:
 
-mona://search?text=hello&account=@MonaApp@mastodon.social7
+<mona://search?text=hello&account=@MonaApp@mastodon.social7>
+
+---
+
+ https://davidblue.wtf/

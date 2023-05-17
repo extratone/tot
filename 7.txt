@@ -1,22 +1,26 @@
-ivory://acct/home (or timeline)
-ivory://acct/mentions
-ivory://acct/lists
-ivory://acct/favorites
-ivory://acct/bookmarks
-ivory://acct/statistics
-ivory://acct/profile
-ivory://acct/search
+<ivory://acct/home> (or timeline)
+<ivory://acct/mentions>
+<ivory://acct/lists>
+<ivory://acct/favorites>
+<ivory://acct/bookmarks>
+<ivory://acct/statistics>
+<ivory://acct/profile>
+<ivory://acct/search>
 **Modal callback\_url=<url> valid for all the below**
-ivory://acct/openURL?url=https://mastodon.social/@MonaApp/109859984571889210
-ivory://acct/status/status\_id (from acct's instance)
-ivory://acct/user\_profile/user\_acct
-ivory://acct/post
-ivory://acct/post/text
-ivory://acct/post?text=<text>&in\_reply\_to\_status\_url=<url>
+<ivory://acct/openURL?url=https://mastodon.social/@MonaApp/109859984571889210>
+<ivory://@DavidBlue/status/101077476349140779> (from acct's instance)
+<ivory://acct/user_profile/user_acct>
+<ivory://acct/post>
+<ivory://acct/post/text>
+[ivory://acct/post?text=<text>&in\_reply\_to\_status\_url=<url>](ivory://acct/post?text=%3Ctext%3E&in_reply_to_status_url=%3Curl%3E)
 
-Mona Beta: `com.jonny.monabeta://`
+<https://mastodon.social/@DavidBlue/101077476349140779>
 
-Mona: `com.jonny.mona://`
+<ivory://@DavidBlue/status/101077476349140779>
+
+Mona Beta: `[com.jonny.monabeta://`](com.jonny.monabeta://%60)
+
+Mona: `[com.jonny.mona://`](com.jonny.mona://%60)
 
 Common Parameters
 
@@ -24,18 +28,18 @@ Common Parameters
 Perform a task with specific account identified by your Twitter handle (@username), or Mastodon user address. The value of account is case insensitive.
 
 
-Mastodon example: @MonaApp@mastodon.social
+Mastodon example: @<MonaApp@mastodon.social>
 
 **Open Links in Spring or Mona**
-file:///Users/blue/.lesshst
+<file:///Users/blue/.lesshst>
 
 t
 
 #### Mastodon
 
-User profile: https://[any\_domain]/@[username]. https://mastodon.social/@MonaApp
+User profile: [https://[any\_domain]/@[username]](https://[any_domain]/@%5Busername%5D). <https://mastodon.social/@MonaApp>
 
-Toot: https://[any\_domain]/@[username]/[toot\_id\_number] https://mastodon.social/@MonaApp/109506252875971252
+Toot: [https://[any\_domain]/@[username]/[toot\_id\_number]](https://[any_domain]/@%5Busername%5D/%5Btoot_id_number%5D) <https://mastodon.social/@MonaApp/109506252875971252>
 
 ### Advanced
 
@@ -45,12 +49,12 @@ Use the “open” URL scheme if you want to open multiple pages at once, or ope
 ## Switch Account
 Provide "account" as parameter. Nothing changed if the target account is already activated on the current app window.
 
-mona://switch?account=@MonaApp@mastodon.social
+<mona://switch?account=@MonaApp@mastodon.social>
 
 ## Open Tweet Composer
 You can provide 2 optional parameters: text, account
 
-mona://post?text=hello&account=@MonaApp@mastodon.social
+<mona://post?text=hello&account=@MonaApp@mastodon.social>
 
 ## Open Search View
 
@@ -60,4 +64,8 @@ The value of text parameter will be filled into the search bar.
 
 ### Examples:
 
-mona://search?text=hello&account=@MonaApp@mastodon.social7
+<mona://search?text=hello&account=@MonaApp@mastodon.social7>
+
+---
+
+ https://davidblue.wtf/
