@@ -15,12 +15,8 @@
 
 ---
 
-- **[TabstoNote](shortcuts://run-shortcut?name=Safari%20Tabs%20%E2%87%A8%20Apple%20Note)**
-– [bilge Repo](working-copy://open?repo=bilge)
-– [developer Repo](working-copy://open?repo=developer)
-– [Shortcuts i Repo Folder](working-copy://open?repo=i&path=shortcuts&mode=content)
-– [SystemSoundsFolder](working-copy://open?repo=iOSSystemSounds&path=m4a&mode=content)
-– [Working Copy URL Schemes](https://workingcopyapp.com/url-schemes.html) 
+**Noted**
+- [Logic Pro for iPad](noted://open-note?id=24269027-7F93-4DFB-B74B-E26E77E5C283)
 
 **Juegos**
 - [IF World Tour](https://community.infiniteflight.com/t/infinite-flight-world-tour/736114)
@@ -56,10 +52,11 @@ _[Master Index](https://tilde.town/~extratone/drafts/big/)_
 
 **[Automation April](drafts://open?uuid=114E449F-7518-4158-87EB-C817F633FBF2)**
 
-_Drafts_
+**_Drafts_**
 
 [Master HTML Template](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~com~agiletortoise~Drafts5/Documents/Library/Templates/NeoCities.html)
 
+- **[Logic Pro and Final Cut Pro for iPad](drafts://open?uuid=8E913945-4BB1-4A52-AEAE-1A8CD7FE8EBE)**
 - [Tools - The Psalms](drafts://open?uuid=66C1E86E-4688-4EFA-84CA-8F2742145AE3)
 - [Regarding the iPad Professional](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
 - [Achieving Indexed File Share with iCloud Drive](drafts://open?uuid=3DB9B5E2-45FA-41FC-AB60-1AEAD7E516F8)
@@ -73,7 +70,7 @@ _Drafts_
 - [Simplenote as Cross-Platform Snippets Manager](drafts://open?uuid=2000267B-6381-42E8-BACF-59166C5467A5)
 - [Drafts as a Static Site Generator](drafts://open?uuid=26A9B32D-5C73-4CBD-A9D7-A18C2CBE5B74)
 
-_Notes_
+**_Notes_**
 
 - [Notes-Regarding the iPad Professional](drafts://open?uuid=40EE2100-5A13-4D4C-8DE6-6838131CDBEF)
 - [Notes-Achieving Indexed File Share with iCloud Drive](drafts://open?uuid=01EBA27E-AD8D-4660-9CE5-14EC3A4E52D4)

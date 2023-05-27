@@ -15,12 +15,8 @@
 
 ---
 
-- **[TabstoNote](shortcuts://run-shortcut?name=Safari%20Tabs%20%E2%87%A8%20Apple%20Note)**
-– [bilge Repo](working-copy://open?repo=bilge)
-– [developer Repo](working-copy://open?repo=developer)
-– [Shortcuts i Repo Folder](working-copy://open?repo=i&path=shortcuts&mode=content)
-– [SystemSoundsFolder](working-copy://open?repo=iOSSystemSounds&path=m4a&mode=content)
-– [Working Copy URL Schemes](https://workingcopyapp.com/url-schemes.html) 
+**Noted**
+- [Logic Pro for iPad](noted://open-note?id=24269027-7F93-4DFB-B74B-E26E77E5C283)
 
 **Juegos**
 - [IF World Tour](https://community.infiniteflight.com/t/infinite-flight-world-tour/736114)
@@ -56,10 +52,11 @@ _[Master Index](https://tilde.town/~extratone/drafts/big/)_
 
 **[Automation April](drafts://open?uuid=114E449F-7518-4158-87EB-C817F633FBF2)**
 
-_Drafts_
+**_Drafts_**
 
 [Master HTML Template](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~com~agiletortoise~Drafts5/Documents/Library/Templates/NeoCities.html)
 
+- **[Logic Pro and Final Cut Pro for iPad](drafts://open?uuid=8E913945-4BB1-4A52-AEAE-1A8CD7FE8EBE)**
 - [Tools - The Psalms](drafts://open?uuid=66C1E86E-4688-4EFA-84CA-8F2742145AE3)
 - [Regarding the iPad Professional](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
 - [Achieving Indexed File Share with iCloud Drive](drafts://open?uuid=3DB9B5E2-45FA-41FC-AB60-1AEAD7E516F8)
@@ -73,7 +70,7 @@ _Drafts_
 - [Simplenote as Cross-Platform Snippets Manager](drafts://open?uuid=2000267B-6381-42E8-BACF-59166C5467A5)
 - [Drafts as a Static Site Generator](drafts://open?uuid=26A9B32D-5C73-4CBD-A9D7-A18C2CBE5B74)
 
-_Notes_
+**_Notes_**
 
 - [Notes-Regarding the iPad Professional](drafts://open?uuid=40EE2100-5A13-4D4C-8DE6-6838131CDBEF)
 - [Notes-Achieving Indexed File Share with iCloud Drive](drafts://open?uuid=01EBA27E-AD8D-4660-9CE5-14EC3A4E52D4)
@@ -291,7 +288,7 @@ The value of text parameter will be filled into the search bar.
 
 **Odette Applications Index**
 
-*Last updated 05172023-144538*
+*Last updated 05242023-024337*
 
 1. _shellfish_uploading_5586829648016392241
 2. 1Password
@@ -305,123 +302,113 @@ The value of text parameter will be filled into the search bar.
 10. AppCleaner
 11. Are.na for Safari
 12. Audacity
-13. Bailiff
-14. Bear
-15. bearclaw
-16. BEEP6
-17. Bike
-18. Blocs
-19. Bluetooth Inspector
-20. Bwana
-21. Cardhop
-22. Chromium
-23. Cirrus
-24. CodeCows
-25. Color Picker
-26. CotEditor
-27. Craft
-28. Cyberduck
-29. Data Jar
-30. DB Browser for SQLite
-31. Developer
-32. Discord
-33. Duplicate File Finder
-34. Emacs
-35. Fantastical
-36. finale
-37. Gifski
-38. GitHub Desktop
-39. HextEdit
-40. Highlights
-41. Homecoming for Mastodon
-42. HotKey
-43. HTTPBot
-44. iA Presenter
-45. Icon Set Creator
-46. Image2Icon
-47. Interact Scratchpad
-48. Jayson
-49. Karabiner-Elements
-50. Karabiner-EventViewer
-51. Keka
-52. Key Codes
-53. Keybase
-54. Keyboard Maestro
-55. Last.fm
-56. Logger
-57. Mactracker
-58. Magnet
-59. Mapper
-60. Marked 2
-61. MassReplaceIt
-62. Mastonaut
-63. MEGAcmd
-64. Mimestream
-65. Mona
-66. Music Remote
-67. net.downloadhelper.coapp
-68. NetNewsWire
-69. Noir
-70. npmhub
-71. Numbers
-72. OnyX
-73. Pages
-74. Parcel
-75. Paste
-76. Pastery for Xcode
-77. Prefs Editor
-78. Readwise_iBooks
-79. Refined GitHub
-80. RocketSim
-81. RSS Button for Safari
-82. Safari
-83. safaritabstomd
-84. Save to Raindrop.io
-85. Scriptable
-86. SensibleSideButtons
-87. SF Symbols
-88. Shane's Script Library Pack
-89. Shareful
-90. Shortery
-91. Simplenote
-92. SnippetsLab
-93. Speediness
-94. Stellar
-95. StopTheMadness
-96. StopTheNews
-97. Super Agent
-98. SystHist
-99. Telegram
-100. TestFlight
-101. Text Case
-102. Text Workflow
-103. Textcraft
-104. TextExpander
-105. TextMate
-106. TextPlus
-107. Textual
-108. The Unarchiver
-109. Things Stats
-110. Things3Beta
-111. Timery
-112. Tot
-113. tyke
-114. Typewriter
-115. UlyssesMac
-116. URL Linker
-117. Userscripts
-118. UTC Time
-119. Utilities
-120. VLC
-121. Wayback Machine
-122. Wipr
-123. WorldWideWeb
-124. WriteFreely for Mac
-125. Xcode
-126. Zed
+13. BEEP6
+14. Blocs
+15. Bluetooth Inspector
+16. Cardhop
+17. Chromium
+18. Cirrus
+19. CodeCows
+20. Color Picker
+21. CotEditor
+22. Craft
+23. Cyberduck
+24. Data Jar
+25. DB Browser for SQLite
+26. Developer
+27. Discord
+28. Duplicate File Finder
+29. Emacs
+30. Fantastical
+31. finale
+32. Gifski
+33. GitHub Desktop
+34. HextEdit
+35. Highlights
+36. Homecoming for Mastodon
+37. HotKey
+38. HTTPBot
+39. iA Presenter
+40. Icon Set Creator
+41. Image2Icon
+42. Interact Scratchpad
+43. Jayson
+44. Karabiner-Elements
+45. Karabiner-EventViewer
+46. Keka
+47. Key Codes
+48. Keybase
+49. Keyboard Maestro
+50. Last.fm
+51. Logger
+52. Mactracker
+53. Magnet
+54. Mapper
+55. Marked 2
+56. MassReplaceIt
+57. Mastonaut
+58. MEGAcmd
+59. Mimestream
+60. Music Remote
+61. net.downloadhelper.coapp
+62. NetNewsWire
+63. Noir
+64. npmhub
+65. Numbers
+66. OnyX
+67. Pages
+68. Parcel
+69. Paste
+70. Pastery for Xcode
+71. Prefs Editor
+72. Refined GitHub
+73. RSS Button for Safari
+74. Safari
+75. safaritabstomd
+76. Save to Raindrop.io
+77. Scriptable
+78. SensibleSideButtons
+79. SF Symbols
+80. Shane's Script Library Pack
+81. Shareful
+82. Shortery
+83. Simplenote
+84. SnippetsLab
+85. Speediness
+86. Stellar
+87. StopTheMadness
+88. StopTheNews
+89. Super Agent
+90. SystHist
+91. Telegram
+92. TestFlight
+93. Text Case
+94. Text Workflow
+95. Textcraft
+96. TextExpander
+97. TextMate
+98. TextPlus
+99. The Unarchiver
+100. Things3Beta
+101. Timery
+102. Tot
+103. tyke
+104. Typewriter
+105. UlyssesMac
+106. URL Linker
+107. Userscripts
+108. UTC Time
+109. Utilities
+110. VLC
+111. Wayback Machine
+112. Wipr
+113. WorldWideWeb
+114. WriteFreely for Mac
+115. Xcode
+116. Zed
 
 **Working Copy Index**
-Updated `05122023-151303`
+Updated `05272023-032532`
 
 - [as](https://github.com/extratone/as)
 - [bigblue](https://github.com/extratone/bigblue)
@@ -435,12 +422,15 @@ Updated `05122023-151303`
 - [jsbox-docs](https://github.com/extratone/jsbox-docs)
 - [mastodon-ios-apps](https://github.com/extratone/mastodon-ios-apps)
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
+- [resume](https://github.com/extratone/resume)
 - [snowden](https://github.com/extratone/snowden)
 - [taio](https://github.com/extratone/taio)
 - [TextExpander](https://github.com/extratone/TextExpander)
 - [tilde](https://github.com/extratone/tilde)
 - [tot](https://github.com/extratone/tot)
 - [Vocabulary Gist]()
+- [w3](https://github.com/extratone/w3)
+- [wordprocessors](https://github.com/softwarehistorysociety/wordprocessors)
 - [Auto/cartography](https://github.com/extratone/cartography)
 - [Configuration/EditorialWorkflowsAPI](https://github.com/softwarehistorysociety/EditorialWorkflowDirectoryAPI)
 - [Configuration/MonaSettings](https://github.com/extratone/MonaSettings)
@@ -450,11 +440,16 @@ Updated `05122023-151303`
 - [Documentation/snippets](https://github.com/extratone/snippets)
 - [Drafts/drafts](https://github.com/extratone/drafts)
 - [Drafts/themes](https://github.com/bryanscarolina/themes)
-- [Gist/6b1f31830d77ca1b0f8ce400a23d33b4]()
 - [Gist/a-Shell Configuration Gist]()
 - [Gist/AppWish Gist]()
+- [Gist/Astrology Reference Gist]()
+- [Gist/Blink Themes Gist]()
+- [Gist/Command Browser Gist]()
 - [Gist/Drafts Export Gist]()
 - [Gist/iSH Themes Gist]()
+- [Gist/Mastodon Bookmarks Gist]()
+- [Gist/Mastodon Following Gist]()
+- [Gist/MusicHarbor Artists Gist]()
 - [Gist/Net Analyzer Gist]()
 - [Gist/Podcast Subscriptions Gist]()
 - [Gist/Redirection Gist]()
@@ -473,6 +468,7 @@ Updated `05122023-151303`
 - [Hardware/odette](https://github.com/extratone/odette)
 - [ii/datajar](https://github.com/extratone/datajar)
 - [ii/editorial](https://github.com/extratone/editorial)
+- [ii/feedback](https://github.com/extratone/feedback)
 - [ii/ios-settings-urls](https://github.com/FifiTheBulldog/ios-settings-urls)
 - [ii/jellycuts](https://github.com/extratone/jellycuts)
 - [ii/ringtones](https://github.com/extratone/ringtones)
@@ -480,12 +476,12 @@ Updated `05122023-151303`
 - [ii/Scriptable](https://gitlab.com/DavidBlue/Scriptable)
 - [ii/shortcuts](https://github.com/extratone/shortcuts)
 - [ii/userscripts](https://github.com/extratone/userscripts)
+- [JFA/bilge](https://codeberg.org/extratone/bilge)
 - [JFA/chastity](https://github.com/extratone/chastity)
 - [JFA/gpt](https://github.com/extratone/gpt)
 - [JFA/ihadtopee]()
 - [JFA/kjvmd](https://github.com/extratone/kjvmd)
 - [JFA/test](https://github.com/extratone/test)
-- [Meta/00e5f4a3db9708a37fa5b195e0ca9a49]()
 - [Meta/extratone](https://github.com/extratone/extratone)
 - [Meta/itty](https://github.com/extratone/itty)
 - [Meta/latte](https://github.com/extratone/latte)
@@ -494,10 +490,8 @@ Updated `05122023-151303`
 - [Social/00e5f4a3db9708a37fa5b195e0ca9a49]()
 - [Social/bigblue](https://github.com/extratone/bigblue)
 - [Social/columbia](https://github.com/extratone/columbia)
-- [Social/dede06361a8f62c9492a78d4cd030ecc]()
 - [Social/GuestbookGist]()
 - [Social/mastodon-init](https://github.com/extratone/mastodon-init)
-- [Social/mastodon-ios-apps](https://github.com/extratone/mastodon-ios-apps)
 - [Social/MonaSettings](https://github.com/extratone/MonaSettings)
 - [Social/rolodex](https://github.com/extratone/rolodex)
 - [Social/RoutineChatGist]()
@@ -575,3 +569,147 @@ The value of text parameter will be filled into the search bar.
 ---
 
  https://davidblue.wtf/
+**adumbrate**
+- [Terminology](terminology://x-callback-url/lookup?text=adumbrate)
+
+# adumbrate
+
+
+## Verb
+
+1. describe roughly or briefly or give the main points or summary of; “sketch the outline of the book”; “outline his ideas”
+	- Synonyms
+		- sketch
+		- outline
+	- Less specific
+		- describe
+		- depict
+		- draw
+	- More specific
+		- block out
+	- Related
+		- outline
+		- synopsis
+		- abstract
+		- precis
+		- sketch
+		- survey
+		- resume
+		- sketch
+		- vignette
+2. give to understand; “I insinuated that I did not like his wife”
+	- Synonyms
+		- intimate
+		- insinuate
+	- Less specific
+		- hint
+		- suggest
+	- Related
+		- insinuation
+		- innuendo
+		- inkling
+		- intimation
+		- glimmering
+		- glimmer
+
+
+- [**adumbrate** - LookUp](https://learnwithlookup.com/share/index.html?word=adumbrate&definition=represent%2520in%2520outline&data=eyJpbWFnZSI6IiIsIndvcmQiOiJhZHVtYnJhdGUiLCJkZWZpbml0aW9uIjoicmVwcmVzZW50IGluIG91dGxpbmUifQ%3D%3D)
+Verb
+1.	Formal report or represent in outline
+they have adumbrated the importance of education as a means of social transformation
+
+indicate faintly
+the walls were not more than adumbrated by the meager light
+
+foreshadow or symbolize
+what qualities in Christ are adumbrated by the vine?
+
+overshadow
+her happy reminiscences were adumbrated by consciousness of something else
+
+## Origin
+late 16th century: from Latin adumbrat- ‘shaded’, from the verb adumbrare, from ad- ‘to’ (as an intensifier) + umbrare ‘cast a shadow’ (from umbra ‘shade’)
+**lede**
+- [Terminology](terminology://x-callback-url/lookup?text=lede)
+
+# lede
+
+
+## Noun
+
+1. the introductory section of a story; “it was an amusing lead-in to a very serious matter”
+	- Synonyms
+		- lead
+		- lead-in
+	- Less specific
+		- section
+		- subdivision
+	- Part of
+		- news article
+		- news story
+		- newspaper article
+
+
+
+**stratify**
+- [Terminology](terminology://x-callback-url/lookup?text=stratify)
+
+# stratify
+
+
+## Verb
+
+1. divide society into social classes or castes; “Income distribution often stratifies a society”
+	- Less specific
+		- distinguish
+		- separate
+		- differentiate
+		- secern
+		- secernate
+		- severalize
+		- severalise
+		- tell
+		- tell apart
+	- Related
+		- stratification
+		- social stratification
+		- stratification
+		- stratum
+2. form layers or strata; “The rock stratifies”
+	- Less specific
+		- arrange
+		- set up
+	- Related
+		- stratification
+		- stratum
+	- Topic Members
+		- geology
+3. develop different social levels, classes, or castes; “Society stratifies when the income gap widens”
+	- Less specific
+		- change
+	- Related
+		- stratification
+		- social stratification
+		- stratification
+4. form, arrange, or deposit in layers; “The fish are stratified in barrels”; “The rock was stratified by the force of the water”; “A statistician stratifies the list of names according to the addresses”
+	- Less specific
+		- put
+		- set
+		- place
+		- pose
+		- position
+		- lay
+	- More specific
+		- interstratify
+	- Related
+		- stratification
+5. render fertile and preserve by placing between layers of earth or sand; “stratify seeds”
+	- Less specific
+		- inseminate
+		- fecundate
+		- fertilize
+		- fertilise
+	- Related
+		- stratification
+
+

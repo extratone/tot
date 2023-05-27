@@ -1,6 +1,6 @@
 **Odette Applications Index**
 
-*Last updated 05172023-144538*
+*Last updated 05242023-024337*
 
 1. _shellfish_uploading_5586829648016392241
 2. 1Password
@@ -14,117 +14,107 @@
 10. AppCleaner
 11. Are.na for Safari
 12. Audacity
-13. Bailiff
-14. Bear
-15. bearclaw
-16. BEEP6
-17. Bike
-18. Blocs
-19. Bluetooth Inspector
-20. Bwana
-21. Cardhop
-22. Chromium
-23. Cirrus
-24. CodeCows
-25. Color Picker
-26. CotEditor
-27. Craft
-28. Cyberduck
-29. Data Jar
-30. DB Browser for SQLite
-31. Developer
-32. Discord
-33. Duplicate File Finder
-34. Emacs
-35. Fantastical
-36. finale
-37. Gifski
-38. GitHub Desktop
-39. HextEdit
-40. Highlights
-41. Homecoming for Mastodon
-42. HotKey
-43. HTTPBot
-44. iA Presenter
-45. Icon Set Creator
-46. Image2Icon
-47. Interact Scratchpad
-48. Jayson
-49. Karabiner-Elements
-50. Karabiner-EventViewer
-51. Keka
-52. Key Codes
-53. Keybase
-54. Keyboard Maestro
-55. Last.fm
-56. Logger
-57. Mactracker
-58. Magnet
-59. Mapper
-60. Marked 2
-61. MassReplaceIt
-62. Mastonaut
-63. MEGAcmd
-64. Mimestream
-65. Mona
-66. Music Remote
-67. net.downloadhelper.coapp
-68. NetNewsWire
-69. Noir
-70. npmhub
-71. Numbers
-72. OnyX
-73. Pages
-74. Parcel
-75. Paste
-76. Pastery for Xcode
-77. Prefs Editor
-78. Readwise_iBooks
-79. Refined GitHub
-80. RocketSim
-81. RSS Button for Safari
-82. Safari
-83. safaritabstomd
-84. Save to Raindrop.io
-85. Scriptable
-86. SensibleSideButtons
-87. SF Symbols
-88. Shane's Script Library Pack
-89. Shareful
-90. Shortery
-91. Simplenote
-92. SnippetsLab
-93. Speediness
-94. Stellar
-95. StopTheMadness
-96. StopTheNews
-97. Super Agent
-98. SystHist
-99. Telegram
-100. TestFlight
-101. Text Case
-102. Text Workflow
-103. Textcraft
-104. TextExpander
-105. TextMate
-106. TextPlus
-107. Textual
-108. The Unarchiver
-109. Things Stats
-110. Things3Beta
-111. Timery
-112. Tot
-113. tyke
-114. Typewriter
-115. UlyssesMac
-116. URL Linker
-117. Userscripts
-118. UTC Time
-119. Utilities
-120. VLC
-121. Wayback Machine
-122. Wipr
-123. WorldWideWeb
-124. WriteFreely for Mac
-125. Xcode
-126. Zed
+13. BEEP6
+14. Blocs
+15. Bluetooth Inspector
+16. Cardhop
+17. Chromium
+18. Cirrus
+19. CodeCows
+20. Color Picker
+21. CotEditor
+22. Craft
+23. Cyberduck
+24. Data Jar
+25. DB Browser for SQLite
+26. Developer
+27. Discord
+28. Duplicate File Finder
+29. Emacs
+30. Fantastical
+31. finale
+32. Gifski
+33. GitHub Desktop
+34. HextEdit
+35. Highlights
+36. Homecoming for Mastodon
+37. HotKey
+38. HTTPBot
+39. iA Presenter
+40. Icon Set Creator
+41. Image2Icon
+42. Interact Scratchpad
+43. Jayson
+44. Karabiner-Elements
+45. Karabiner-EventViewer
+46. Keka
+47. Key Codes
+48. Keybase
+49. Keyboard Maestro
+50. Last.fm
+51. Logger
+52. Mactracker
+53. Magnet
+54. Mapper
+55. Marked 2
+56. MassReplaceIt
+57. Mastonaut
+58. MEGAcmd
+59. Mimestream
+60. Music Remote
+61. net.downloadhelper.coapp
+62. NetNewsWire
+63. Noir
+64. npmhub
+65. Numbers
+66. OnyX
+67. Pages
+68. Parcel
+69. Paste
+70. Pastery for Xcode
+71. Prefs Editor
+72. Refined GitHub
+73. RSS Button for Safari
+74. Safari
+75. safaritabstomd
+76. Save to Raindrop.io
+77. Scriptable
+78. SensibleSideButtons
+79. SF Symbols
+80. Shane's Script Library Pack
+81. Shareful
+82. Shortery
+83. Simplenote
+84. SnippetsLab
+85. Speediness
+86. Stellar
+87. StopTheMadness
+88. StopTheNews
+89. Super Agent
+90. SystHist
+91. Telegram
+92. TestFlight
+93. Text Case
+94. Text Workflow
+95. Textcraft
+96. TextExpander
+97. TextMate
+98. TextPlus
+99. The Unarchiver
+100. Things3Beta
+101. Timery
+102. Tot
+103. tyke
+104. Typewriter
+105. UlyssesMac
+106. URL Linker
+107. Userscripts
+108. UTC Time
+109. Utilities
+110. VLC
+111. Wayback Machine
+112. Wipr
+113. WorldWideWeb
+114. WriteFreely for Mac
+115. Xcode
+116. Zed
