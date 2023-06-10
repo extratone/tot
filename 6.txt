@@ -1,5 +1,5 @@
 **Working Copy Index**
-Updated `05272023-032532`
+Updated `06102023-015226`
 
 - [as](https://github.com/extratone/as)
 - [bigblue](https://github.com/extratone/bigblue)
@@ -77,6 +77,7 @@ Updated `05272023-032532`
 - [Meta/itty](https://github.com/extratone/itty)
 - [Meta/latte](https://github.com/extratone/latte)
 - [Private/tilde](https://github.com/extratone/tilde)
+- [SHS/periscope](https://github.com/extratone/periscope)
 - [SNOWDEN/chrome](https://github.com/extratone/chrome)
 - [Social/00e5f4a3db9708a37fa5b195e0ca9a49]()
 - [Social/bigblue](https://github.com/extratone/bigblue)

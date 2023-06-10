@@ -288,7 +288,7 @@ The value of text parameter will be filled into the search bar.
 
 **Odette Applications Index**
 
-*Last updated 05242023-024337*
+*Last updated 06092023-193427*
 
 1. _shellfish_uploading_5586829648016392241
 2. 1Password
@@ -374,41 +374,42 @@ The value of text parameter will be filled into the search bar.
 82. Shortery
 83. Simplenote
 84. SnippetsLab
-85. Speediness
-86. Stellar
-87. StopTheMadness
-88. StopTheNews
-89. Super Agent
-90. SystHist
-91. Telegram
-92. TestFlight
-93. Text Case
-94. Text Workflow
-95. Textcraft
-96. TextExpander
-97. TextMate
-98. TextPlus
-99. The Unarchiver
-100. Things3Beta
-101. Timery
-102. Tot
-103. tyke
-104. Typewriter
-105. UlyssesMac
-106. URL Linker
-107. Userscripts
-108. UTC Time
-109. Utilities
-110. VLC
-111. Wayback Machine
-112. Wipr
-113. WorldWideWeb
-114. WriteFreely for Mac
-115. Xcode
-116. Zed
+85. Spark
+86. Speediness
+87. Stellar
+88. StopTheMadness
+89. StopTheNews
+90. Super Agent
+91. SystHist
+92. Telegram
+93. TestFlight
+94. Text Case
+95. Text Workflow
+96. Textcraft
+97. TextExpander
+98. TextMate
+99. TextPlus
+100. The Unarchiver
+101. Things3Beta
+102. Timery
+103. Tot
+104. tyke
+105. Typewriter
+106. UlyssesMac
+107. URL Linker
+108. Userscripts
+109. UTC Time
+110. Utilities
+111. VLC
+112. Wayback Machine
+113. Wipr
+114. WorldWideWeb
+115. WriteFreely for Mac
+116. Xcode
+117. Zed
 
 **Working Copy Index**
-Updated `05272023-032532`
+Updated `06102023-015226`
 
 - [as](https://github.com/extratone/as)
 - [bigblue](https://github.com/extratone/bigblue)
@@ -486,6 +487,7 @@ Updated `05272023-032532`
 - [Meta/itty](https://github.com/extratone/itty)
 - [Meta/latte](https://github.com/extratone/latte)
 - [Private/tilde](https://github.com/extratone/tilde)
+- [SHS/periscope](https://github.com/extratone/periscope)
 - [SNOWDEN/chrome](https://github.com/extratone/chrome)
 - [Social/00e5f4a3db9708a37fa5b195e0ca9a49]()
 - [Social/bigblue](https://github.com/extratone/bigblue)
@@ -530,186 +532,4 @@ Perform a task with specific account identified by your Twitter handle (@usernam
 
 Mastodon example: @<MonaApp@mastodon.social>
 
-**Open Links in Spring or Mona**
-<file:///Users/blue/.lesshst>
-
-t
-
-#### Mastodon
-
-User profile: [https://[any\_domain]/@[username]](https://[any_domain]/@%5Busername%5D). <https://mastodon.social/@MonaApp>
-
-Toot: [https://[any\_domain]/@[username]/[toot\_id\_number]](https://[any_domain]/@%5Busername%5D/%5Btoot_id_number%5D) <https://mastodon.social/@MonaApp/109506252875971252>
-
-### Advanced
-
-Use the “open” URL scheme if you want to open multiple pages at once, or open a page with specific account.
-
-/Users/blue/Library/Group Containers/JLMPQHK86H.com.culturedcode.ThingsMac
-## Switch Account
-Provide "account" as parameter. Nothing changed if the target account is already activated on the current app window.
-
-<mona://switch?account=@MonaApp@mastodon.social>
-
-## Open Tweet Composer
-You can provide 2 optional parameters: text, account
-
-<mona://post?text=hello&account=@MonaApp@mastodon.social>
-
-## Open Search View
-
-You can provide 2 optional parameters: text, account
-
-The value of text parameter will be filled into the search bar.
-
-### Examples:
-
-<mona://search?text=hello&account=@MonaApp@mastodon.social7>
-
----
-
- https://davidblue.wtf/
-**adumbrate**
-- [Terminology](terminology://x-callback-url/lookup?text=adumbrate)
-
-# adumbrate
-
-
-## Verb
-
-1. describe roughly or briefly or give the main points or summary of; “sketch the outline of the book”; “outline his ideas”
-	- Synonyms
-		- sketch
-		- outline
-	- Less specific
-		- describe
-		- depict
-		- draw
-	- More specific
-		- block out
-	- Related
-		- outline
-		- synopsis
-		- abstract
-		- precis
-		- sketch
-		- survey
-		- resume
-		- sketch
-		- vignette
-2. give to understand; “I insinuated that I did not like his wife”
-	- Synonyms
-		- intimate
-		- insinuate
-	- Less specific
-		- hint
-		- suggest
-	- Related
-		- insinuation
-		- innuendo
-		- inkling
-		- intimation
-		- glimmering
-		- glimmer
-
-
-- [**adumbrate** - LookUp](https://learnwithlookup.com/share/index.html?word=adumbrate&definition=represent%2520in%2520outline&data=eyJpbWFnZSI6IiIsIndvcmQiOiJhZHVtYnJhdGUiLCJkZWZpbml0aW9uIjoicmVwcmVzZW50IGluIG91dGxpbmUifQ%3D%3D)
-Verb
-1.	Formal report or represent in outline
-they have adumbrated the importance of education as a means of social transformation
-
-indicate faintly
-the walls were not more than adumbrated by the meager light
-
-foreshadow or symbolize
-what qualities in Christ are adumbrated by the vine?
-
-overshadow
-her happy reminiscences were adumbrated by consciousness of something else
-
-## Origin
-late 16th century: from Latin adumbrat- ‘shaded’, from the verb adumbrare, from ad- ‘to’ (as an intensifier) + umbrare ‘cast a shadow’ (from umbra ‘shade’)
-**lede**
-- [Terminology](terminology://x-callback-url/lookup?text=lede)
-
-# lede
-
-
-## Noun
-
-1. the introductory section of a story; “it was an amusing lead-in to a very serious matter”
-	- Synonyms
-		- lead
-		- lead-in
-	- Less specific
-		- section
-		- subdivision
-	- Part of
-		- news article
-		- news story
-		- newspaper article
-
-
-
-**stratify**
-- [Terminology](terminology://x-callback-url/lookup?text=stratify)
-
-# stratify
-
-
-## Verb
-
-1. divide society into social classes or castes; “Income distribution often stratifies a society”
-	- Less specific
-		- distinguish
-		- separate
-		- differentiate
-		- secern
-		- secernate
-		- severalize
-		- severalise
-		- tell
-		- tell apart
-	- Related
-		- stratification
-		- social stratification
-		- stratification
-		- stratum
-2. form layers or strata; “The rock stratifies”
-	- Less specific
-		- arrange
-		- set up
-	- Related
-		- stratification
-		- stratum
-	- Topic Members
-		- geology
-3. develop different social levels, classes, or castes; “Society stratifies when the income gap widens”
-	- Less specific
-		- change
-	- Related
-		- stratification
-		- social stratification
-		- stratification
-4. form, arrange, or deposit in layers; “The fish are stratified in barrels”; “The rock was stratified by the force of the water”; “A statistician stratifies the list of names according to the addresses”
-	- Less specific
-		- put
-		- set
-		- place
-		- pose
-		- position
-		- lay
-	- More specific
-		- interstratify
-	- Related
-		- stratification
-5. render fertile and preserve by placing between layers of earth or sand; “stratify seeds”
-	- Less specific
-		- inseminate
-		- fecundate
-		- fertilize
-		- fertilise
-	- Related
-		- stratification
-
-
+- [I Accidentally Bought a Year of Spark Premium](drafts://open?uuid=573DF872-7B53-4B0D-9FCE-AD5F80F5EA99)
