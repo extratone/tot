@@ -8,6 +8,8 @@
 
 [kbia](shortcuts://run-shortcut?name=kbia)
 
+**_[17](ivory://@DavidBlue/status/110518482239210073) [Thread](ivory://@DavidBlue/status/110518482239210073)_**
+
 - [Distributed Index](drafts://open?uuid=3B7930BE-07BC-4DB9-A591-4254BEE42A82)
 - [Quill](jsbox://run?name=Quill&location=local)
 - [Mona Themes Thread](mona://open?link=https://mastodon.social/users/MonaApp/statuses/109859984571889210)
@@ -48,9 +50,9 @@ _Radio_
 
 
 **Drafts Instrument Panel**
-_[Master Index](https://tilde.town/~extratone/drafts/big/)_
 
-**[Automation April](drafts://open?uuid=114E449F-7518-4158-87EB-C817F633FBF2)**
+**_[TE Refresh](drafts://refresh_text_expander)_** [(Drafts)](drafts://refresh_text_expander)
+
 
 **_Drafts_**
 
@@ -288,7 +290,7 @@ The value of text parameter will be filled into the search bar.
 
 **Odette Applications Index**
 
-*Last updated 06092023-193427*
+*Last updated 06102023-032753*
 
 1. _shellfish_uploading_5586829648016392241
 2. 1Password
@@ -510,7 +512,7 @@ Updated `06102023-015226`
 <ivory://acct/search>
 **Modal callback\_url=<url> valid for all the below**
 <ivory://acct/openURL?url=https://mastodon.social/@MonaApp/109859984571889210>
-<ivory://@DavidBlue/status/101077476349140779> (from acct's instance)
+[ivory://@DavidBlue/status/](ivory://@DavidBlue/status/101077476349140779)[110518482239210073](https://mastodon.social/@DavidBlue/110518482239210073) (from acct's instance)<https://mastodon.social/@DavidBlue/110572671060838984> <https://mastodon.social/@DavidBlue/110518482239210073> 
 <ivory://acct/user_profile/user_acct>
 <ivory://acct/post>
 <ivory://acct/post/text>
