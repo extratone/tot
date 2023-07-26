@@ -290,7 +290,7 @@ The value of text parameter will be filled into the search bar.
 
 **Odette Applications Index**
 
-*Last updated 06102023-032753*
+*Last updated 07252023-172526*
 
 1. _shellfish_uploading_5586829648016392241
 2. 1Password
@@ -363,55 +363,56 @@ The value of text parameter will be filled into the search bar.
 69. Paste
 70. Pastery for Xcode
 71. Prefs Editor
-72. Refined GitHub
-73. RSS Button for Safari
-74. Safari
-75. safaritabstomd
-76. Save to Raindrop.io
-77. Scriptable
-78. SensibleSideButtons
-79. SF Symbols
-80. Shane's Script Library Pack
-81. Shareful
-82. Shortery
-83. Simplenote
-84. SnippetsLab
-85. Spark
-86. Speediness
-87. Stellar
-88. StopTheMadness
-89. StopTheNews
-90. Super Agent
-91. SystHist
-92. Telegram
-93. TestFlight
-94. Text Case
-95. Text Workflow
-96. Textcraft
-97. TextExpander
-98. TextMate
-99. TextPlus
-100. The Unarchiver
-101. Things3Beta
-102. Timery
-103. Tot
-104. tyke
-105. Typewriter
-106. UlyssesMac
-107. URL Linker
-108. Userscripts
-109. UTC Time
-110. Utilities
-111. VLC
-112. Wayback Machine
-113. Wipr
-114. WorldWideWeb
-115. WriteFreely for Mac
-116. Xcode
-117. Zed
+72. Raindrop.io
+73. Refined GitHub
+74. RSS Button for Safari
+75. Safari
+76. safaritabstomd
+77. Save to Raindrop.io
+78. Scriptable
+79. SensibleSideButtons
+80. SF Symbols
+81. Shane's Script Library Pack
+82. Shareful
+83. Shortery
+84. Simplenote
+85. SnippetsLab
+86. Spark
+87. Speediness
+88. Stellar
+89. StopTheMadness
+90. StopTheNews
+91. Super Agent
+92. SystHist
+93. Telegram
+94. TestFlight
+95. Text Case
+96. Text Workflow
+97. Textcraft
+98. TextExpander
+99. TextMate
+100. TextPlus
+101. The Unarchiver
+102. Things3Beta
+103. Timery
+104. Tot
+105. tyke
+106. Typewriter
+107. UlyssesMac
+108. URL Linker
+109. Userscripts
+110. UTC Time
+111. Utilities
+112. VLC
+113. Wayback Machine
+114. Wipr
+115. WorldWideWeb
+116. WriteFreely for Mac
+117. Xcode
+118. Zed
 
 **Working Copy Index**
-Updated `07152023-221038`
+Updated `07252023-202302`
 
 - [as](https://github.com/extratone/as)
 - [bigblue](https://github.com/extratone/bigblue)
@@ -479,6 +480,7 @@ Updated `07152023-221038`
 - [ii/routinehub](https://github.com/extratone/routinehub)
 - [ii/Scriptable](https://gitlab.com/DavidBlue/Scriptable)
 - [ii/shortcuts](https://github.com/extratone/shortcuts)
+- [ii/toggl](https://codeberg.org/extratone/toggl)
 - [ii/userscripts](https://github.com/extratone/userscripts)
 - [JFA/bilge](https://codeberg.org/extratone/bilge)
 - [JFA/chastity](https://github.com/extratone/chastity)
