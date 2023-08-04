@@ -1,5 +1,5 @@
 **Working Copy Index**
-Updated `07252023-202302`
+Updated `08042023-123104`
 
 - [as](https://github.com/extratone/as)
 - [bigblue](https://github.com/extratone/bigblue)
@@ -12,6 +12,7 @@ Updated `07252023-202302`
 - [js](https://github.com/extratone/js)
 - [jsbox-docs](https://github.com/extratone/jsbox-docs)
 - [mastodon-ios-apps](https://github.com/extratone/mastodon-ios-apps)
+- [MyRoute](https://github.com/extratone/MyRoute)
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 - [resume](https://github.com/extratone/resume)
 - [snowden](https://github.com/extratone/snowden)
@@ -25,7 +26,6 @@ Updated `07252023-202302`
 - [Auto/cartography](https://github.com/extratone/cartography)
 - [Configuration/EditorialWorkflowsAPI](https://github.com/softwarehistorysociety/EditorialWorkflowDirectoryAPI)
 - [Configuration/MonaSettings](https://github.com/extratone/MonaSettings)
-- [Configuration/MonaThemes](https://github.com/extratone/MonaThemes)
 - [Configuration/terminology](https://github.com/extratone/terminology)
 - [Documentation/05eb876eb0cb3e02f357b746731ff16e]()
 - [Documentation/snippets](https://github.com/extratone/snippets)
@@ -34,6 +34,7 @@ Updated `07252023-202302`
 - [Gist/a-Shell Configuration Gist]()
 - [Gist/AppWish Gist]()
 - [Gist/Astrology Reference Gist]()
+- [Gist/Blessed Web Utilities Gist]()
 - [Gist/Blink Themes Gist]()
 - [Gist/Command Browser Gist]()
 - [Gist/Drafts Export Gist]()
@@ -42,6 +43,7 @@ Updated `07252023-202302`
 - [Gist/Mastodon Following Gist]()
 - [Gist/MusicHarbor Artists Gist]()
 - [Gist/Net Analyzer Gist]()
+- [Gist/NetNewsWire Subscriptions Gist]()
 - [Gist/Podcast Subscriptions Gist]()
 - [Gist/Reading List Gist]()
 - [Gist/Redirection Gist]()
@@ -87,7 +89,6 @@ Updated `07252023-202302`
 - [Social/columbia](https://github.com/extratone/columbia)
 - [Social/GuestbookGist]()
 - [Social/mastodon-init](https://github.com/extratone/mastodon-init)
-- [Social/MonaSettings](https://github.com/extratone/MonaSettings)
 - [Social/rolodex](https://github.com/extratone/rolodex)
 - [Social/RoutineChatGist]()
 - [Social/snac2](https://codeberg.org/extratone/snac2)
