@@ -6,7 +6,8 @@
 - **[Dark](shortcuts://run-shortcut?name=TrueDarkWallpaper)**
 - **_[Black](shortcuts://run-shortcut?name=TrueBlackWallpaper)_**
 
-[kbia](shortcuts://run-shortcut?name=kbia)
+- [kbia](shortcuts://run-shortcut?name=kbia)
+- [Discovery Station](https://music.apple.com/us/station/discovery-station/ra.q-GAI6IGQyNTZlOGI0YThlNWU0N2QxYWJiNzBmZjc1N2FhOTVm)
 
 **Threads**
 - **_[17](ivory://@DavidBlue/status/110518482239210073) [Thread](ivory://@DavidBlue/status/110518482239210073)_**
@@ -28,7 +29,7 @@
 - [IF World Tour](https://community.infiniteflight.com/t/infinite-flight-world-tour/736114)
 - [IF Events Calendar](https://community.infiniteflight.com/c/live/events/16)
 - [Siri Shortcuts for IF Thread](https://community.infiniteflight.com/t/siri-shortcuts-for-infinite-flight/758214)
-- [KJEF Dev Thread](https://community.infiniteflight.com/t/kjef-jefferson-city-memorial-airport/774223)
+- [KJEF Dev](https://community.infiniteflight.com/t/kjef-jefferson-city-memorial-airport/774223) 
 
 
 [Shortcut Source](shortcuts://run-shortcut?name=Shortcut%20Source%20Tool)
@@ -294,7 +295,7 @@ The value of text parameter will be filled into the search bar.
 
 **Odette Applications Index**
 
-*Last updated 07262023-141620*
+*Last updated 08102023-153058*
 
 1. _shellfish_uploading_5586829648016392241
 2. 1Password
@@ -521,7 +522,7 @@ Updated `08042023-123104`
 <ivory://acct/search>
 **Modal callback\_url=<url> valid for all the below**
 <ivory://acct/openURL?url=https://mastodon.social/@MonaApp/109859984571889210>
-[ivory://@DavidBlue/status/](ivory://@DavidBlue/status/101077476349140779)[110518482239210073](https://mastodon.social/@DavidBlue/110518482239210073) (from acct's instance)<https://mastodon.social/@DavidBlue/110572671060838984> <https://mastodon.social/@DavidBlue/110518482239210073> 
+[f](ivory://@DavidBlue/status/101077476349140779) (from acct's instance)<https://mastodon.social/@DavidBlue/110572671060838984> <https://mastodon.social/@DavidBlue/110518482239210073> 
 <ivory://acct/user_profile/user_acct>
 <ivory://acct/post>
 <ivory://acct/post/text>
