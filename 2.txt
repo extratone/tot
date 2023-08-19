@@ -1,4 +1,3 @@
-**[WWDC 2023](things:///show?id=SyhySJdQNaJ2tN7xpV7Lxr)**
 
 
 **Tot Keys**
@@ -13,27 +12,17 @@
 - **⌥⌘S** = Save Backup
 - **⌥⌘R** = Restore Backup
 
-**Mail**
-
-- [Editors' Choice: Highlights of the recent literature](message://%3Cbaa42342-c6ec-4331-81f2-8c3c0d4cd364@atl1s07mta2191.xt.local%3E)
-- [The Bear 2 beta is here!](message:%3C11bfb68c5eebd7be7987b2076.5d333aa573.20230321160025.6da6bd9448.e4999be9@mail205.sea81.mcsv.net%3E) [🐻🎉❤️](message:%3C11bfb68c5eebd7be7987b2076.5d333aa573.20230321160025.6da6bd9448.e4999be9@mail205.sea81.mcsv.net%3E)
- 
-<message:%3C3915d033acebc7675f49f0407aac1b2b@www.w3.org%3E><message:%3C16c2a6fdf4ecd3647d27fc87a54ea556@www.w3.org%3E><message:%3C844338b70489a31f2aabb15b0eaa4228@www.w3.org%3E><message:%3C7870c3881ad449b3884884b251808e7f@www.w3.org%3E>
-⌦ ⌦ ⌦ ⌦ 
-
-**Reading**
-- [Toolbox Pro Review: A Must-Have Companion Utility for Shortcuts Power Users](https://www.macstories.net/reviews/toolbox-pro-review-a-must-have-companion-utility-for-shortcuts-power-users/)
-- [Drafts 15 Review: Multiwindow, Shortcuts, and More](https://www.macstories.net/reviews/drafts-15-review-multiwindow-shortcuts-and-more/)
-- “[Automating iOS: A Comprehensive Guide to URL Schemes and Drafts Actions](drafts://open?uuid=A944CF95-DE24-47AA-BC50-CB03E1A20396)”
-- [Best way to learn regular expressions : shortcuts](https://www.reddit.com/r/shortcuts/comments/tv4o6b/tip_best_way_to_learn_regular_expressions/)
-- [iOSTextEditors Wiki, Archived](message:%3C20220519183936.3D22C6620355@ci74p00im-qukt09081101.me.com%3E)
-- [Flexibits Thanks](message:%3C01000180dcd5c12d-8a339643-092f-482c-b4c2-34bea5293300-000000@email.amazonses.com%3E)
-- [MacStories Weekly Issue 328](message:%3C9f4b80a35728f7271fe3ea6ff.1211774273.20220708190844.111c35d50b.5ee0cdcc@mail118.suw15.mcsv.net%3E)
 
 **Tools**
 - [ColorHound](http://colorhound.net)
 - [HTML HOUSE](https://html.house)
 
-- [Silicon Valley Buzz: Apple Paid More Than $200 Million For Siri To Get Into Mobile Search | TechCrunch](https://techcrunch.com/2010/04/28/apple-siri-200-million/)
-- [Workflow iOS App Store page, archived](https://web.archive.org/web/*/https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334)
-- 
+**Odette Stuff**
+
+- [Safari Bookmarks](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Safari%20Bookmarks.html)
+- [Text Substitutions](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Text%20Substitutions.plist)
+[
+](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Text%20Substitutions.plist)_FileURL Automation_
+_
+_- [AppleScript Gist](https://gist.github.com/extratone/69b77092d1baecb9901b23ae67c3526e)
+- [AppleScript Snippet](snippetslab://snippet/03D3ADE9-00BB-4764-B4A9-67025A23276C)

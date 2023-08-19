@@ -1,6 +1,6 @@
 **Odette Applications Index**
 
-*Last updated 08102023-153058*
+*Last updated 08162023-093033*
 
 1. _shellfish_uploading_5586829648016392241
 2. 1Password
@@ -9,82 +9,82 @@
 5. AdaptivityA
 6. Adobe Acrobat DC
 7. Adobe Creative Cloud
-8. Amphetamine
-9. Amphetamine Enhancer
-10. AppCleaner
-11. Are.na for Safari
-12. Audacity
-13. BEEP6
-14. Blocs
-15. Bluetooth Inspector
-16. Cardhop
-17. Chromium
-18. Cirrus
-19. CodeCows
-20. Color Picker
-21. CotEditor
-22. Craft
-23. Cyberduck
-24. Data Jar
-25. DB Browser for SQLite
-26. Developer
-27. Discord
-28. Duplicate File Finder
-29. Emacs
-30. Fantastical
-31. finale
-32. Gifski
-33. GitHub Desktop
-34. HextEdit
-35. Highlights
-36. Homecoming for Mastodon
-37. HotKey
-38. HTTPBot
-39. iA Presenter
-40. Icon Set Creator
-41. Image2Icon
-42. Interact Scratchpad
-43. Jayson
-44. Karabiner-Elements
-45. Karabiner-EventViewer
-46. Keka
-47. Key Codes
-48. Keybase
-49. Keyboard Maestro
-50. Last.fm
-51. Logger
-52. Mactracker
-53. Magnet
-54. Mapper
-55. Marked 2
-56. MassReplaceIt
-57. Mastonaut
-58. MEGAcmd
-59. Mimestream
-60. Music Remote
-61. net.downloadhelper.coapp
-62. NetNewsWire
-63. Noir
-64. npmhub
-65. Numbers
-66. OnyX
-67. Pages
-68. Parcel
-69. Paste
-70. Pastery for Xcode
-71. Prefs Editor
-72. Raindrop.io
-73. Refined GitHub
-74. RSS Button for Safari
-75. Safari
-76. safaritabstomd
-77. Save to Raindrop.io
-78. Scriptable
-79. SensibleSideButtons
-80. SF Symbols
-81. Shane's Script Library Pack
-82. Shareful
-83. Shortery
+8. AppCleaner
+9. Are.na for Safari
+10. Audacity
+11. BEEP6
+12. Blocs
+13. Cardhop
+14. Chromium
+15. CodeCows
+16. Color Picker
+17. CotEditor
+18. Craft
+19. Curve
+20. Cyberduck
+21. Data Jar
+22. DB Browser for SQLite
+23. Developer
+24. Discord
+25. Emacs
+26. Evernote Legacy
+27. Fantastical
+28. finale
+29. Gifski
+30. GitHub Desktop
+31. Google Earth Pro
+32. HextEdit
+33. Highlights
+34. Homecoming for Mastodon
+35. HotKey
+36. HTTPBot
+37. iA Presenter
+38. Icon Set Creator
+39. Image2Icon
+40. inRoute
+41. Interact Scratchpad
+42. Jayson
+43. Karabiner-Elements
+44. Karabiner-EventViewer
+45. Keka
+46. Key Codes
+47. Keybase
+48. Keyboard Maestro
+49. Last.fm
+50. Logger
+51. Mactracker
+52. Magnet
+53. Mapper
+54. Marked 2
+55. MassReplaceIt
+56. Mastonaut
+57. MEGAcmd
+58. Mp3tag
+59. Music Remote
+60. net.downloadhelper.coapp
+61. NetNewsWire
+62. Noir
+63. npmhub
+64. Numbers
+65. OnyX
+66. Pages
+67. Parcel
+68. Paste
+69. Pastery for Xcode
+70. Prefs Editor
+71. Raindrop.io
+72. Refined GitHub
+73. RSS Button for Safari
+74. Safari
+75. safaritabstomd
+76. Save to Raindrop.io
+77. Scriptable
+78. SensibleSideButtons
+79. SF Symbols
+80. Shane's Script Library Pack
+81. Shareful
+82. Shortery
+83. Sim Genie
 84. Simplenote
 85. SnippetsLab
 86. Spark
@@ -120,3 +120,6 @@
 116. WriteFreely for Mac
 117. Xcode
 118. Zed
+
+
+- [Send Coordinates with Map View Shortcut](drafts://open?uuid=0EA9F736-A96A-4D89-BCAD-E33C19381BAE)
