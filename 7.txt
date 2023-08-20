@@ -31,3 +31,57 @@ Perform a task with specific account identified by your Twitter handle (@usernam
 Mastodon example: @<MonaApp@mastodon.social>
 
 - [I Accidentally Bought a Year of Spark Premium](drafts://open?uuid=573DF872-7B53-4B0D-9FCE-AD5F80F5EA99)
+Mocked-up iPad Pro screenshot of LookUp for iPadOS' Word of The Day, yesterday: "daub," the first definition of which reads:
+
+> verb
+> 1.	carelessly coat or smear (a surface) with a thick or sticky substance
+>  splashes of paint
+
+> spread (a thick or sticky substance) on a surface in a careless or clumsy way
+>  it
+ 
+verb
+1.	carelessly coat or smear (a surface) with a thick or sticky substance
+ splashes of paint
+
+spread (a thick or sticky substance) on a surface in a careless or clumsy way
+ it
+
+
+noun
+1.	a patch or smear of a thick or sticky substance
+a daub of paint
+
+a painting executed without much skill
+she stuck the painting up alongside the daubs made by her children
+
+2.	Building plaster, clay, or another substance used for coating a surface, especially when mixed with straw and applied to laths or wattles to form a wall
+wattle and daub
+
+vlc-x-callback://x-callback-url/stream?url=https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/TBtxwQvFQVvQkDiHnR6UsSlTahY29dyfqMs8tExbrc3Jewxoxh_EXwiHAR7tsTt8QIe1WjUiJIMHZ3veLwa-Aw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/audio-space/dynamic_playlist.m3u8
+
+https://itty.bitty.site/#/vlc-x-callback://x-callback-url/stream?url=https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/TBtxwQvFQVvQkDiHnR6UsSlTahY29dyfqMs8tExbrc3Jewxoxh_EXwiHAR7tsTt8QIe1WjUiJIMHZ3veLwa-Aw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/audio-space/dynamic_playlist.m3u8
+
+vlc-x-callback://x-callback-url/download?url=vlc-x-callback://x-callback-url/stream?url=https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/TBtxwQvFQVvQkDiHnR6UsSlTahY29dyfqMs8tExbrc3Jewxoxh_EXwiHAR7tsTt8QIe1WjUiJIMHZ3veLwa-Aw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/audio-space/dynamic_playlist.m3u8
+daub
+https://itty.bitty.site/#/<|>
+pythonista3://?action=add-theme&theme-data=eNqdVktzmzAQvvtXeMi1zGATY7s3O8a3XvoHGCEWR0VoPUK0cTP575UENm8nLjqhfX770r7P5nOHs1gSeYkUE8qZf587wcs62HjON0NMICUlV5GCtyFRvZZ5LAjjUYwyAWkZwmW4CBcVw6lUCmQUE5qdJJYisRzHnTkVx13SUNJ-FTlFodyC_QVDWXj2TpDc_jq1fyQeaPDMqcgFnIkkCmXEmYCB8yClJt2AP1FYLZ63LeMpyRm_WOIPEBzdn3AqOZEVyzWsdxAWFM9QmOt3_WuijbRQkolTc6dvKXKsYrtZ7X2v8t5SqhioC6-8Z4pwRh1L_aiYHMpJUUyoe_K3W4CgK5ATmVWpvEnE-OY2MNyWglR_nue3XLK8thpcdTlbv57HiB0lsIr9rhc6I1nHB5MHNwGKOmMMhZXUzoC0uevIZnD5o41MgD7uNgc_7AUJE-giHkW78cxZttBqd4QGI0nCShvlZUfvK2iCOLmLjvJe1mLkyUjOdOdNINBZC8NgsgqG-uq6uOPDWOWkKHOi1HQ11vHQ06AjZ-y7n5tssw3kH4vXNcz-Y2Jnib-Aqgdz8wo003XcjUnrUskSRiXcBAXcFbtl9Mo50KXI6dOuENhvCKHHdK-lmyzu_PXu5aWX-lLQq74vtpAiRTaCsCmWwH6bVvOMOW_GXwZYqq72mgunQITBfrcOx6ti-ViCr9in-6-G__X-i0vGdR_9R1RzTEoO9-dAb5LlOQg1lev93tv3JL7y4AyGZcyRZhozkeqx4VDvExNC9XJRScxqKQcSZh5pYoNXRIyiaJaVp4C2FhJdUVEBHCxrw3Q8BnvPa5YCxVSdrNVqdQwOzpidM57x93B7sW9emtbKxiyYFylqes45bA7rQ-BMYhkY8MzpblDNftXeYLR1kIVGwwivZZfmOLOPf9Q_iXU~
+
+https://maps.apple.com/?q=38.936122,-92.359962&ll=38.936122,-92.359962
+inroute://coordinates?action=opt&loc={name 1}/{latitude 1}/{longitude 1}
+inroute://coordinates?action=opt&loc=Parking%20Spot/38.936122/-92.359962
+
+https://maps.apple.com/? q=38.954342,-92.383187&ll=38.954342,-92.383187
+inroute://coordinates?action=opt&loc=Tesla%20Parking%20Spot/38.954342/-92.383187
+38.90965° N, 91.54079° W
+
+[MediaMetadata](shortcuts://run-shortcut?name=Media%20Metadata)
+
+Mapbox
+hello@mapbox.com
+https://mapbox.com
+https://github.com/mapbox
+https://twitter.com/Mapbox
+https://www.instagram.com/mapbox
+https://www.facebook.com/Mapbox
+
