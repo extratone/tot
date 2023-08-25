@@ -8,12 +8,14 @@
 
 - [kbia](shortcuts://run-shortcut?name=kbia)
 - [Discovery Station](https://music.apple.com/us/station/discovery-station/ra.q-GAI6IGQyNTZlOGI0YThlNWU0N2QxYWJiNzBmZjc1N2FhOTVm)
+- _[Audio Messages](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Audio/Audio%20Messages)_
 
 **Threads**
 - **_[17](ivory://@DavidBlue/status/110518482239210073) [Thread](ivory://@DavidBlue/status/110518482239210073)_**
 - **[Speedtest Thread](ivory://acct/openURL?url=https://mastodon.social/@DavidBlue/107933050706028168) (Mastodon)**
 - [Speedtest Thread](https://www.threads.net/@asphaltapostle/post/CvUkur9uEiT) (Threads)
 - [GTI Thread](ivory://acct/openURL?url=https://mastodon.social/@DavidBlue/110808349007423057)
+- [Whyp Thread](ivory://acct/openURL?url=https://mastodon.social/@DavidBlue/110930552194076713) 
 
 - [Distributed Index](drafts://open?uuid=3B7930BE-07BC-4DB9-A591-4254BEE42A82)
 - [Quill](jsbox://run?name=Quill&location=local)
@@ -44,7 +46,7 @@ _New Issues_
 - [drafts](https://github.com/extratone/drafts/issues/new/choose)
 
 _Radio_
-[kbia](shortcuts://run-shortcut?name=kbia) - [kcou](shortcuts://run-shortcut?name=kcou) - [kopn](shortcuts://run-shortcut?name=kopn) - [datafruits](shortcuts://run-shortcut?name=datafruits)
+[kbia](shortcuts://run-shortcut?name=kbia) - [kcou](shortcuts://run-shortcut?name=kcou) - **[kopn](vlc-x-callback://x-callback-url/stream?url=https://cloud355.zoenetworks.net/proxy/kopn2?mp=/stream)** - [datafruits](shortcuts://run-shortcut?name=datafruits)
 
 **Things**
 - **[$](things:///show?id=21qrJbSnKrB2yhcKMhr8Rp)**
@@ -284,7 +286,7 @@ The value of text parameter will be filled into the search bar.
 
 **Odette Applications Index**
 
-*Last updated 08162023-093033*
+*Last updated 08252023-110358*
 
 1. _shellfish_uploading_5586829648016392241
 2. 1Password
@@ -296,117 +298,103 @@ The value of text parameter will be filled into the search bar.
 8. AppCleaner
 9. Are.na for Safari
 10. Audacity
-11. BEEP6
-12. Blocs
+11. Bear
+12. BEEP6
 13. Cardhop
 14. Chromium
 15. CodeCows
 16. Color Picker
-17. CotEditor
-18. Craft
+17. Connector
+18. CotEditor
 19. Curve
 20. Cyberduck
 21. Data Jar
 22. DB Browser for SQLite
 23. Developer
 24. Discord
-25. Emacs
-26. Evernote Legacy
-27. Fantastical
-28. finale
-29. Gifski
-30. GitHub Desktop
-31. Google Earth Pro
-32. HextEdit
-33. Highlights
-34. Homecoming for Mastodon
-35. HotKey
-36. HTTPBot
-37. iA Presenter
-38. Icon Set Creator
-39. Image2Icon
-40. inRoute
-41. Interact Scratchpad
-42. Jayson
-43. Karabiner-Elements
-44. Karabiner-EventViewer
-45. Keka
-46. Key Codes
-47. Keybase
-48. Keyboard Maestro
-49. Last.fm
-50. Logger
-51. Mactracker
-52. Magnet
-53. Mapper
-54. Marked 2
-55. MassReplaceIt
-56. Mastonaut
-57. MEGAcmd
-58. Mp3tag
-59. Music Remote
-60. net.downloadhelper.coapp
-61. NetNewsWire
-62. Noir
-63. npmhub
-64. Numbers
-65. OnyX
-66. Pages
-67. Parcel
-68. Paste
-69. Pastery for Xcode
-70. Prefs Editor
-71. Raindrop.io
-72. Refined GitHub
-73. RSS Button for Safari
-74. Safari
-75. safaritabstomd
-76. Save to Raindrop.io
-77. Scriptable
-78. SensibleSideButtons
-79. SF Symbols
-80. Shane's Script Library Pack
-81. Shareful
-82. Shortery
-83. Sim Genie
-84. Simplenote
-85. SnippetsLab
-86. Spark
-87. Speediness
-88. Stellar
-89. StopTheMadness
-90. StopTheNews
-91. Super Agent
-92. SystHist
-93. Telegram
-94. TestFlight
-95. Text Case
-96. Text Workflow
-97. Textcraft
-98. TextExpander
-99. TextMate
-100. TextPlus
-101. The Unarchiver
-102. Things3Beta
-103. Timery
-104. Tot
-105. tyke
-106. Typewriter
-107. UlyssesMac
-108. URL Linker
-109. Userscripts
-110. UTC Time
-111. Utilities
-112. VLC
-113. Wayback Machine
-114. Wipr
-115. WorldWideWeb
-116. WriteFreely for Mac
-117. Xcode
-118. Zed
+25. Fantastical
+26. finale
+27. Gifski
+28. GitHub Desktop
+29. Google Earth Pro
+30. Highlights
+31. Homecoming for Mastodon
+32. HotKey
+33. HTTPBot
+34. iA Presenter
+35. Icon Set Creator
+36. Image2Icon
+37. inRoute
+38. Interact Scratchpad
+39. Jayson
+40. Karabiner-Elements
+41. Karabiner-EventViewer
+42. Keka
+43. Key Codes
+44. Keybase
+45. Last.fm
+46. Logger
+47. Mactracker
+48. Magnet
+49. Mapper
+50. Marked 2
+51. MassReplaceIt
+52. Mastonaut
+53. Mp3tag
+54. Music Remote
+55. net.downloadhelper.coapp
+56. NetNewsWire
+57. Noir
+58. npmhub
+59. Numbers
+60. OnyX
+61. Pages
+62. Parcel
+63. Paste
+64. Pastery for Xcode
+65. Prefs Editor
+66. Refined GitHub
+67. RSS Button for Safari
+68. Safari
+69. safaritabstomd
+70. Save to Raindrop.io
+71. Scriptable
+72. SensibleSideButtons
+73. SF Symbols
+74. Shane's Script Library Pack
+75. Shareful
+76. Shortery
+77. Simplenote
+78. SnippetsLab
+79. Spark
+80. Speediness
+81. StopTheMadness
+82. Super Agent
+83. SystHist
+84. Telegram
+85. TestFlight
+86. Text Case
+87. Text Workflow
+88. Textcraft
+89. TextExpander
+90. TextMate
+91. The Unarchiver
+92. Things3Beta
+93. Timery
+94. Tot
+95. tyke
+96. Typewriter
+97. URL Linker
+98. Userscripts
+99. UTC Time
+100. Utilities
+101. VLC
+102. Wayback Machine
+103. Wipr
+104. WorldWideWeb
+105. WriteFreely for Mac
+106. Xcode
 
-
-- [Send Coordinates with Map View Shortcut](drafts://open?uuid=0EA9F736-A96A-4D89-BCAD-E33C19381BAE)
 **Working Copy Index**
 Updated `08182023-195452`
 
@@ -546,57 +534,5 @@ Perform a task with specific account identified by your Twitter handle (@usernam
 Mastodon example: @<MonaApp@mastodon.social>
 
 - [I Accidentally Bought a Year of Spark Premium](drafts://open?uuid=573DF872-7B53-4B0D-9FCE-AD5F80F5EA99)
-Mocked-up iPad Pro screenshot of LookUp for iPadOS' Word of The Day, yesterday: "daub," the first definition of which reads:
 
-> verb
-> 1.	carelessly coat or smear (a surface) with a thick or sticky substance
->  splashes of paint
-
-> spread (a thick or sticky substance) on a surface in a careless or clumsy way
->  it
- 
-verb
-1.	carelessly coat or smear (a surface) with a thick or sticky substance
- splashes of paint
-
-spread (a thick or sticky substance) on a surface in a careless or clumsy way
- it
-
-
-noun
-1.	a patch or smear of a thick or sticky substance
-a daub of paint
-
-a painting executed without much skill
-she stuck the painting up alongside the daubs made by her children
-
-2.	Building plaster, clay, or another substance used for coating a surface, especially when mixed with straw and applied to laths or wattles to form a wall
-wattle and daub
-
-vlc-x-callback://x-callback-url/stream?url=https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/TBtxwQvFQVvQkDiHnR6UsSlTahY29dyfqMs8tExbrc3Jewxoxh_EXwiHAR7tsTt8QIe1WjUiJIMHZ3veLwa-Aw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/audio-space/dynamic_playlist.m3u8
-
-https://itty.bitty.site/#/vlc-x-callback://x-callback-url/stream?url=https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/TBtxwQvFQVvQkDiHnR6UsSlTahY29dyfqMs8tExbrc3Jewxoxh_EXwiHAR7tsTt8QIe1WjUiJIMHZ3veLwa-Aw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/audio-space/dynamic_playlist.m3u8
-
-vlc-x-callback://x-callback-url/download?url=vlc-x-callback://x-callback-url/stream?url=https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/TBtxwQvFQVvQkDiHnR6UsSlTahY29dyfqMs8tExbrc3Jewxoxh_EXwiHAR7tsTt8QIe1WjUiJIMHZ3veLwa-Aw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/audio-space/dynamic_playlist.m3u8
-daub
-https://itty.bitty.site/#/<|>
-pythonista3://?action=add-theme&theme-data=eNqdVktzmzAQvvtXeMi1zGATY7s3O8a3XvoHGCEWR0VoPUK0cTP575UENm8nLjqhfX770r7P5nOHs1gSeYkUE8qZf587wcs62HjON0NMICUlV5GCtyFRvZZ5LAjjUYwyAWkZwmW4CBcVw6lUCmQUE5qdJJYisRzHnTkVx13SUNJ-FTlFodyC_QVDWXj2TpDc_jq1fyQeaPDMqcgFnIkkCmXEmYCB8yClJt2AP1FYLZ63LeMpyRm_WOIPEBzdn3AqOZEVyzWsdxAWFM9QmOt3_WuijbRQkolTc6dvKXKsYrtZ7X2v8t5SqhioC6-8Z4pwRh1L_aiYHMpJUUyoe_K3W4CgK5ATmVWpvEnE-OY2MNyWglR_nue3XLK8thpcdTlbv57HiB0lsIr9rhc6I1nHB5MHNwGKOmMMhZXUzoC0uevIZnD5o41MgD7uNgc_7AUJE-giHkW78cxZttBqd4QGI0nCShvlZUfvK2iCOLmLjvJe1mLkyUjOdOdNINBZC8NgsgqG-uq6uOPDWOWkKHOi1HQ11vHQ06AjZ-y7n5tssw3kH4vXNcz-Y2Jnib-Aqgdz8wo003XcjUnrUskSRiXcBAXcFbtl9Mo50KXI6dOuENhvCKHHdK-lmyzu_PXu5aWX-lLQq74vtpAiRTaCsCmWwH6bVvOMOW_GXwZYqq72mgunQITBfrcOx6ti-ViCr9in-6-G__X-i0vGdR_9R1RzTEoO9-dAb5LlOQg1lev93tv3JL7y4AyGZcyRZhozkeqx4VDvExNC9XJRScxqKQcSZh5pYoNXRIyiaJaVp4C2FhJdUVEBHCxrw3Q8BnvPa5YCxVSdrNVqdQwOzpidM57x93B7sW9emtbKxiyYFylqes45bA7rQ-BMYhkY8MzpblDNftXeYLR1kIVGwwivZZfmOLOPf9Q_iXU~
-
-https://maps.apple.com/?q=38.936122,-92.359962&ll=38.936122,-92.359962
-inroute://coordinates?action=opt&loc={name 1}/{latitude 1}/{longitude 1}
-inroute://coordinates?action=opt&loc=Parking%20Spot/38.936122/-92.359962
-
-https://maps.apple.com/? q=38.954342,-92.383187&ll=38.954342,-92.383187
-inroute://coordinates?action=opt&loc=Tesla%20Parking%20Spot/38.954342/-92.383187
-38.90965° N, 91.54079° W
-
-[MediaMetadata](shortcuts://run-shortcut?name=Media%20Metadata)
-
-Mapbox
-hello@mapbox.com
-https://mapbox.com
-https://github.com/mapbox
-https://twitter.com/Mapbox
-https://www.instagram.com/mapbox
-https://www.facebook.com/Mapbox
-
+ivory://@DavidBlue@mastodon.social/search
