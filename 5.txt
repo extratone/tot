@@ -1,6 +1,6 @@
 **Odette Applications Index**
 
-*Last updated 08252023-110358*
+*Last updated 09012023-101720*
 
 1. _shellfish_uploading_5586829648016392241
 2. 1Password
@@ -12,99 +12,90 @@
 8. AppCleaner
 9. Are.na for Safari
 10. Audacity
-11. Bear
-12. BEEP6
-13. Cardhop
-14. Chromium
-15. CodeCows
-16. Color Picker
-17. Connector
-18. CotEditor
-19. Curve
-20. Cyberduck
-21. Data Jar
-22. DB Browser for SQLite
-23. Developer
-24. Discord
-25. Fantastical
-26. finale
-27. Gifski
-28. GitHub Desktop
-29. Google Earth Pro
-30. Highlights
-31. Homecoming for Mastodon
-32. HotKey
-33. HTTPBot
-34. iA Presenter
-35. Icon Set Creator
-36. Image2Icon
-37. inRoute
-38. Interact Scratchpad
-39. Jayson
-40. Karabiner-Elements
-41. Karabiner-EventViewer
-42. Keka
-43. Key Codes
-44. Keybase
-45. Last.fm
-46. Logger
-47. Mactracker
-48. Magnet
-49. Mapper
-50. Marked 2
-51. MassReplaceIt
-52. Mastonaut
-53. Mp3tag
-54. Music Remote
-55. net.downloadhelper.coapp
-56. NetNewsWire
-57. Noir
-58. npmhub
-59. Numbers
-60. OnyX
-61. Pages
-62. Parcel
-63. Paste
-64. Pastery for Xcode
-65. Prefs Editor
-66. Refined GitHub
-67. RSS Button for Safari
-68. Safari
-69. safaritabstomd
-70. Save to Raindrop.io
-71. Scriptable
-72. SensibleSideButtons
-73. SF Symbols
-74. Shane's Script Library Pack
-75. Shareful
-76. Shortery
-77. Simplenote
-78. SnippetsLab
-79. Spark
-80. Speediness
-81. StopTheMadness
-82. Super Agent
-83. SystHist
-84. Telegram
-85. TestFlight
-86. Text Case
-87. Text Workflow
-88. Textcraft
-89. TextExpander
-90. TextMate
-91. The Unarchiver
-92. Things3Beta
-93. Timery
-94. Tot
-95. tyke
-96. Typewriter
-97. URL Linker
-98. Userscripts
-99. UTC Time
-100. Utilities
-101. VLC
-102. Wayback Machine
-103. Wipr
-104. WorldWideWeb
-105. WriteFreely for Mac
-106. Xcode
+11. BEEP6
+12. Cardhop
+13. Chromium
+14. CodeCows
+15. Color Picker
+16. Curve
+17. Cyberduck
+18. Data Jar
+19. DB Browser for SQLite
+20. Developer
+21. Discord
+22. Fantastical
+23. finale
+24. Gifski
+25. GitHub Desktop
+26. Go Map!!
+27. Google Earth Pro
+28. Highlights
+29. Homecoming for Mastodon
+30. HotKey
+31. HTTPBot
+32. iA Presenter
+33. Image2Icon
+34. inRoute
+35. Interact Scratchpad
+36. Jayson
+37. Karabiner-Elements
+38. Karabiner-EventViewer
+39. Keka
+40. Key Codes
+41. Keybase
+42. Last.fm
+43. Logger
+44. Mactracker
+45. Magnet
+46. Marked 2
+47. MassReplaceIt
+48. Mastonaut
+49. Mp3tag
+50. net.downloadhelper.coapp
+51. NetNewsWire
+52. Noir
+53. Numbers
+54. OnyX
+55. Pages
+56. Parcel
+57. Paste
+58. Pastery for Xcode
+59. Prefs Editor
+60. Refined GitHub
+61. RSS Button for Safari
+62. Safari
+63. safaritabstomd
+64. Save to Raindrop.io
+65. Scriptable
+66. SensibleSideButtons
+67. SF Symbols
+68. Shane's Script Library Pack
+69. Shareful
+70. Shortery
+71. Simplenote
+72. SnippetsLab
+73. Spark
+74. Speediness
+75. StopTheMadness
+76. Super Agent
+77. SystHist
+78. Telegram
+79. TestFlight
+80. Text Case
+81. Textcraft
+82. TextExpander
+83. TextMate
+84. The Unarchiver
+85. Things3Beta
+86. Timery
+87. Tot
+88. tyke
+89. Typewriter
+90. Userscripts
+91. UTC Time
+92. Utilities
+93. Wayback Machine
+94. Wipr
+95. WorldWideWeb
+96. WriteFreely for Mac
+97. Xcode

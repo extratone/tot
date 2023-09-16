@@ -19,10 +19,15 @@
 
 **Odette Stuff**
 
+**/Users/blue/Library/Group Containers/JLMPQHK86H.com.culturedcode.ThingsMac/Things Database.thingsdatabase alias**
+
+file:///Users/blue/Library/Group Containers/JLMPQHK86H.com.culturedcode.ThingsMac/Things Database.thingsdatabase/main.sqlite
+
+- [Things sqlite Database](file:///Users/blue/Library/Group Containers/JLMPQHK86H.com.culturedcode.ThingsMac/Things%20Database.thingsdatabase/main.sqlite)
 - [Safari Bookmarks](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Safari%20Bookmarks.html)
 - [Text Substitutions](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Text%20Substitutions.plist)
 [
 ](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Text%20Substitutions.plist)_FileURL Automation_
-_
-_- [AppleScript Gist](https://gist.github.com/extratone/69b77092d1baecb9901b23ae67c3526e)
+
+- [AppleScript Gist](https://gist.github.com/extratone/69b77092d1baecb9901b23ae67c3526e)
 - [AppleScript Snippet](snippetslab://snippet/03D3ADE9-00BB-4764-B4A9-67025A23276C)
