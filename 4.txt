@@ -38,7 +38,7 @@ _widget cpu.fill 23% CPU drive 68% HDD_
 <ivory://acct/profile>
 <ivory://acct/search>
 **Modal callback\_url=<url> valid for all the below**
-<ivory://acct/openURL?url=https://mastodon.social/@MonaApp/109859984571889210>
+[ivory://DavidBlue/openURL?url=https://mastodon.social/@MonaApp/109859984571889210](ivory://acct/openURL?url=https://mastodon.social/@MonaApp/109859984571889210)
 <ivory://acct/status/status_id> (from acct's instance)
 <ivory://acct/user_profile/user_acct>
 <ivory://acct/post>
@@ -58,15 +58,12 @@ Perform a task with specific account identified by your Twitter handle (@usernam
 Mastodon example: @<MonaApp@mastodon.social>
 
 **Open Links in Spring or Mona**
-<file:///Users/blue/.lesshst>
-
-t
 
 #### Mastodon
 
-User profile: [https://[any\_domain]/@[username]](https://[any_domain]/@%5Busername%5D). <https://mastodon.social/@MonaApp>
+User profile: [[[https://[any\_domain]/@[username]](https://[any_domain]/@%5Busername%5D)]([https://[any](https://[anydomain]/@%5Busername%5D)_[domain]/@%5Busername%5D](https://[anydomain]/@%5Busername%5D))]([https://[any](https://[any_domain]/@%5Busername%5D)_[domain]/@%5Busername%5D](https://[any_domain]/@%5Busername%5D)). <https://mastodon.social/@MonaApp>
 
-Toot: [https://[any\_domain]/@[username]/[toot\_id\_number]](https://[any_domain]/@%5Busername%5D/%5Btoot_id_number%5D) <https://mastodon.social/@MonaApp/109506252875971252>
+Toot: [[[https://[any\_domain]/@[username]/[toot\_id\_number]](https://[any_domain]/@%5Busername%5D/%5Btoot_id_number%5D)]([https://[any](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[domain]/@%5Busername%5D/%5Btoot](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[id](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[number%5D](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D))]([https://[any](https://[anydomain]/@%5Busername%5D/%5Btootid_number%5D)_[domain]/@%5Busername%5D/%5Btoot]([https://[anydomain]/@%5Busername%5D/%5Btootid](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[number%5D](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D))_[id\_number%5D](https://[anydomain]/@%5Busername%5D/%5Btootid_number%5D)) <https://mastodon.social/@MonaApp/109506252875971252>
 
 ### Advanced
 

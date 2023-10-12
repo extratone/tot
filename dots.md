@@ -6,12 +6,15 @@
 - **[Dark](shortcuts://run-shortcut?name=TrueDarkWallpaper)**
 - **_[Black](shortcuts://run-shortcut?name=TrueBlackWallpaper)_**
 
-- [kbia](shortcuts://run-shortcut?name=kbia)
+**Audio**
+- **[kbia](shortcuts://run-shortcut?name=kbia)**
 - [Discovery Station](https://music.apple.com/us/station/discovery-station/ra.q-GAI6IGQyNTZlOGI0YThlNWU0N2QxYWJiNzBmZjc1N2FhOTVm)
+- [Apple Music DJ Mixes](https://music.apple.com/us/curator/apple-music-dj-mixes/1441811365)
+- [Random Musicbox](musicbox://open-random-new)
 - _[Audio Messages](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Audio/Audio%20Messages)_
 
 **Threads**
-- **_[17](https://mastodon.social/@DavidBlue/110518482239210073)_**
+- **_[17](mona://mastodon.social/@DavidBlue/110518482239210073)_**
 - **[Speedtest Thread](ivory://acct/openURL?url=https://mastodon.social/@DavidBlue/107933050706028168) (Mastodon)**
 - [Speedtest Thread](https://www.threads.net/@asphaltapostle/post/CvUkur9uEiT) (Threads)
 - [GTI Thread](ivory://acct/openURL?url=https://mastodon.social/@DavidBlue/110808349007423057)
@@ -149,9 +152,7 @@ _ACQUIRE_
 - Mail ⇨ [Facebook information file requested](message:%3Cfa2584ec-db36-11ec-87d4-950a89070374@facebookmail.com%3E)
 
 ⍋⍙≜𝚫𝛅𝛥𝛿𝜟𝜹𝝙𝝳𝞓𝞭ᵟƍ
-
-
-**Tot Keys**
+**ot Keys**
 - **⌘/** = Show/Hide Status Bar
 - **⇧⌘T** = Switch to Plain Text View
 - **⌘,** = Preferences
@@ -168,13 +169,14 @@ _ACQUIRE_
 - [ColorHound](http://colorhound.net)
 - [HTML HOUSE](https://html.house)
 
+
 **Odette Stuff**
 
 **/Users/blue/Library/Group Containers/JLMPQHK86H.com.culturedcode.ThingsMac/Things Database.thingsdatabase alias**
 
-file:///Users/blue/Library/Group Containers/JLMPQHK86H.com.culturedcode.ThingsMac/Things Database.thingsdatabase/main.sqlite
+[file:///Users/blue/Library/Group%20](file:///Users/blue/Library/Group)Containers/JLMPQHK86H.com.culturedcode.ThingsMac/Things%20Database.thingsdatabase/main.sqlite
 
-- [Things sqlite Database](file:///Users/blue/Library/Group Containers/JLMPQHK86H.com.culturedcode.ThingsMac/Things%20Database.thingsdatabase/main.sqlite)
+- [Things sqlite Database](<file:///Users/blue/Library/Group> Containers/JLMPQHK86H.com.culturedcode.ThingsMac/Things%20Database.thingsdatabase/main.sqlite)
 - [Safari Bookmarks](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Safari%20Bookmarks.html)
 - [Text Substitutions](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Text%20Substitutions.plist)
 [
@@ -182,17 +184,6 @@ file:///Users/blue/Library/Group Containers/JLMPQHK86H.com.culturedcode.ThingsMa
 
 - [AppleScript Gist](https://gist.github.com/extratone/69b77092d1baecb9901b23ae67c3526e)
 - [AppleScript Snippet](snippetslab://snippet/03D3ADE9-00BB-4764-B4A9-67025A23276C)
-3 weeks ago, upon first discovering and toying around with Logitech’s gargantuan “G Hub” sofwate for macOS, I thought I’d somehow immediatly remembered preciely how I once had [my beloved G203](https://youtu.be/oIAY1-aW8Es) so well configured.
-
-I’m afraid that I’m still not sure I have, but whatever I just did feels
-
-Diamond Computers
-https://diamondcpu.com
-support@diamondcpu.com
-(816) 566-5523
-625 N Sterling Ave
-Sugar Creek, MO  64054
-United States
 **Secure ShellFish Widget Attempts**
 
 Usage: widget [target] <data> ...
@@ -233,7 +224,7 @@ _widget cpu.fill 23% CPU drive 68% HDD_
 <ivory://acct/profile>
 <ivory://acct/search>
 **Modal callback\_url=<url> valid for all the below**
-<ivory://acct/openURL?url=https://mastodon.social/@MonaApp/109859984571889210>
+[ivory://DavidBlue/openURL?url=https://mastodon.social/@MonaApp/109859984571889210](ivory://acct/openURL?url=https://mastodon.social/@MonaApp/109859984571889210)
 <ivory://acct/status/status_id> (from acct's instance)
 <ivory://acct/user_profile/user_acct>
 <ivory://acct/post>
@@ -253,15 +244,12 @@ Perform a task with specific account identified by your Twitter handle (@usernam
 Mastodon example: @<MonaApp@mastodon.social>
 
 **Open Links in Spring or Mona**
-<file:///Users/blue/.lesshst>
-
-t
 
 #### Mastodon
 
-User profile: [https://[any\_domain]/@[username]](https://[any_domain]/@%5Busername%5D). <https://mastodon.social/@MonaApp>
+User profile: [[[https://[any\_domain]/@[username]](https://[any_domain]/@%5Busername%5D)]([https://[any](https://[anydomain]/@%5Busername%5D)_[domain]/@%5Busername%5D](https://[anydomain]/@%5Busername%5D))]([https://[any](https://[any_domain]/@%5Busername%5D)_[domain]/@%5Busername%5D](https://[any_domain]/@%5Busername%5D)). <https://mastodon.social/@MonaApp>
 
-Toot: [https://[any\_domain]/@[username]/[toot\_id\_number]](https://[any_domain]/@%5Busername%5D/%5Btoot_id_number%5D) <https://mastodon.social/@MonaApp/109506252875971252>
+Toot: [[[https://[any\_domain]/@[username]/[toot\_id\_number]](https://[any_domain]/@%5Busername%5D/%5Btoot_id_number%5D)]([https://[any](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[domain]/@%5Busername%5D/%5Btoot](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[id](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[number%5D](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D))]([https://[any](https://[anydomain]/@%5Busername%5D/%5Btootid_number%5D)_[domain]/@%5Busername%5D/%5Btoot]([https://[anydomain]/@%5Busername%5D/%5Btootid](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[number%5D](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D))_[id\_number%5D](https://[anydomain]/@%5Busername%5D/%5Btootid_number%5D)) <https://mastodon.social/@MonaApp/109506252875971252>
 
 ### Advanced
 
@@ -387,7 +375,7 @@ The value of text parameter will be filled into the search bar.
 92. Xcode
 
 **Working Copy Index**
-Updated `08182023-195452`
+Updated `10122023-140828`
 
 - [as](https://github.com/extratone/as)
 - [bigblue](https://github.com/extratone/bigblue)
@@ -406,24 +394,28 @@ Updated `08182023-195452`
 - [snowden](https://github.com/extratone/snowden)
 - [taio](https://github.com/extratone/taio)
 - [TextExpander](https://github.com/extratone/TextExpander)
+- [TikTok_Data_1695675137]()
 - [tilde](https://github.com/extratone/tilde)
 - [tot](https://github.com/extratone/tot)
 - [Vocabulary Gist]()
 - [w3](https://github.com/extratone/w3)
 - [wordprocessors](https://github.com/softwarehistorysociety/wordprocessors)
 - [Auto/cartography](https://github.com/extratone/cartography)
-- [Auto/MyRoute]()
-- [Configuration/Actions](https://gitlab.com/DavidBlue/TaioActions)
+- [Auto/inRoute](https://github.com/extratone/inRoute)
+- [Auto/MyRoute-app]()
+- [Configuration/audacity](https://github.com/extratone/audacity)
 - [Configuration/EditorialWorkflowsAPI](https://github.com/softwarehistorysociety/EditorialWorkflowDirectoryAPI)
 - [Configuration/MonaSettings](https://github.com/extratone/MonaSettings)
 - [Configuration/snippets](https://github.com/blinksh/snippets)
 - [Configuration/terminology](https://github.com/extratone/terminology)
 - [Documentation/05eb876eb0cb3e02f357b746731ff16e]()
 - [Documentation/blinksh-docs](https://github.com/extratone/blinksh-docs)
+- [Documentation/MultiMarkdown-6](https://github.com/fletcher/MultiMarkdown-6)
 - [Documentation/shortcuts-directory](https://github.com/bradsiefert/shortcuts-directory)
 - [Documentation/snippets](https://github.com/extratone/snippets)
 - [Drafts/drafts](https://github.com/extratone/drafts)
 - [Drafts/themes](https://github.com/bryanscarolina/themes)
+- [Gist/3604700](https://gitlab.com/snippets/3604700)
 - [Gist/a-Shell Configuration Gist]()
 - [Gist/AppWish Gist]()
 - [Gist/Astrology Reference Gist]()
@@ -432,12 +424,14 @@ Updated `08182023-195452`
 - [Gist/Command Browser Gist]()
 - [Gist/Contacts Private Backup Gist]()
 - [Gist/Drafts Export Gist]()
+- [Gist/HiResTweet Gist]()
 - [Gist/iSH Themes Gist]()
 - [Gist/Mastodon Bookmarks Gist]()
 - [Gist/Mastodon Following Gist]()
 - [Gist/MusicHarbor Artists Gist]()
 - [Gist/Net Analyzer Gist]()
 - [Gist/NetNewsWire Subscriptions Gist]()
+- [Gist/Obsidian Web Clipper]()
 - [Gist/Podcast Subscriptions Gist]()
 - [Gist/Reading List Gist]()
 - [Gist/Redirection Gist]()
@@ -449,10 +443,7 @@ Updated `08182023-195452`
 - [Gist/Uses This Gist]()
 - [Gist/Weechat Logs Gist]()
 - [Gist/wget Gist]()
-- [Hardware/amanda](https://github.com/extratone/amanda)
-- [Hardware/cloudpilot-emu](https://github.com/softwarehistorysociety/cloudpilot-emu)
 - [Hardware/jorts](https://github.com/extratone/jorts)
-- [Hardware/kudzu](https://github.com/extratone/kudzu)
 - [Hardware/midnight](https://github.com/extratone/midnight)
 - [Hardware/odette](https://github.com/extratone/odette)
 - [ii/datajar](https://github.com/extratone/datajar)
