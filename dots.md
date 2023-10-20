@@ -2,9 +2,7 @@
 
 **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames&input=text&text=latest)** - **[TabstoNote](shortcuts://run-shortcut?name=Safari%20Tabs%20%E2%87%A8%20Apple%20Note)** - [HiResTwitter](shortcuts://run-shortcut?name=HiRes%20Twitter) - **[FILEurl](shortcuts://run-shortcut?name=FILEurl)** - [TitledLinks](shortcuts://run-shortcut?name=Titled%20Markdown%20Links) - [MastodonPostReminder](shortcuts://run-shortcut?name=MastodonPostReminder) - **_[MediaMetadata](shortcuts://run-shortcut?name=Media%20Metadata)_** - [YTDownload!](shortcuts://run-shortcut?name=YouTube%20Download) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [OpenALLURLs](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [ReleaseNotes](shortcuts://run-shortcut?name=Retrieve%20Release%20Notes) - [CombineImgs](shortcuts://run-shortcut?name=ImageCombineScratch) - [PATHS](shortcuts://run-shortcut?name=PATHS) - [PersonalHotspot](shortcuts://run-shortcut?name=PersonalHotspot) - [TabGrouptoDrafts](shortcuts://run-shortcut?name=TabGrouptoDrafts) - [rhUsers](shortcuts://run-shortcut?name=rh-api%20Users) - [DavodTime](shortcuts://run-shortcut?name=DavodTime%20Conversion) - [RECURSE](shortcuts://run-shortcut?name=Recursively%20Eliminate%20Directories) - [rh-Shortcut](shortcuts://run-shortcut?name=rh-Shortcut) - [temp](shortcuts://run-shortcut?name=temp) - [PDF-PNG](shortcuts://run-shortcut?name=PDF%20to%20PNG) - [JSONSpeedtest](shortcuts://run-shortcut?name=JSON%20Speedtest) - [GatherFormat](shortcuts://run-shortcut?name=GatherFormat) - [GatherSync](shortcuts://run-shortcut?name=GatherSync) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - [DownloadFileList](shortcuts://run-shortcut?name=Download%20File%20List) - [ShortcutsBatchSource](shortcuts://run-shortcut?name=ShortcutsBatchSource) - [pip](shortcuts://run-shortcut?name=pip) - [RESET](shortcuts://run-shortcut?name=Network%20Reset) - [FileExtensions](shortcuts://run-shortcut?name=File%20Extensions) - [RedditJSON](shortcuts://run-shortcut?name=RedditJSON) - [WeechatLogsGistUpdate](shortcuts://run-shortcut?name=WeechatLogsGistUpdate) - **[WorkingCopyIndex](shortcuts://run-shortcut?name=WorkingCopyRepositoryTotIndex)** - **[GIST](shortcuts://run-shortcut?name=GIST)** - [ImageUploader](jsbox://run?name=imageuploader.js&location=icloud) - [davodtrack](shortcuts://run-shortcut?name=davodtrack) - [Linky2](shortcuts://run-shortcut?name=Linky2) - [TitledTo-Do](shortcuts://run-shortcut?name=Titled%20Page%20To-Do) - [MarkdownManpagesRemote](shortcuts://run-shortcut?name=MarkdownManpagesRemote) - [IvoryURL](shortcuts://run-shortcut?name=Ivory%20Clipboard%20URL) - [IFTwitch](twitch://game/Infinite%20Flight) - [UNBackground](shortcuts://run-shortcut?name=Remove%20Image%20Background) - [MastodonThread-Draft](shortcuts://run-shortcut?name=MastodonThread-Draft)
 
-- **[Light](shortcuts://run-shortcut?name=TrueLightWallpaper)**
-- **[Dark](shortcuts://run-shortcut?name=TrueDarkWallpaper)**
-- **_[Black](shortcuts://run-shortcut?name=TrueBlackWallpaper)_**
+– **[Drafts as Task Manager](drafts://open?uuid=00C657D8-54EB-44BC-BFA5-33A919D0E448)**
 
 **Audio**
 - **[kbia](shortcuts://run-shortcut?name=kbia)**
@@ -29,12 +27,6 @@
 
 **Noted**
 - [Logic Pro for iPad](noted://open-note?id=24269027-7F93-4DFB-B74B-E26E77E5C283)
-
-**Juegos**
-- [IF World Tour](https://community.infiniteflight.com/t/infinite-flight-world-tour/736114)
-- [IF Events Calendar](https://community.infiniteflight.com/c/live/events/16)
-- [Siri Shortcuts for IF Thread](https://community.infiniteflight.com/t/siri-shortcuts-for-infinite-flight/758214)
-- [KJEF Dev](https://community.infiniteflight.com/t/kjef-jefferson-city-memorial-airport/774223) 
 
 
 [Shortcut Source](shortcuts://run-shortcut?name=Shortcut%20Source%20Tool)
@@ -279,103 +271,104 @@ The value of text parameter will be filled into the search bar.
 
 **Odette Applications Index**
 
-*Last updated 09252023-151757*
+*Last updated 10162023-152629*
 
 1. _shellfish_uploading_5586829648016392241
 2. 1Password
 3. 1Password for Safari
 4. Actions
-5. AdaptivityA
-6. Adobe Acrobat DC
-7. Adobe Creative Cloud
-8. AppCleaner
-9. Are.na for Safari
-10. Audacity
-11. Avenue
-12. BEEP6
+5. Adobe Acrobat DC
+6. Adobe Creative Cloud
+7. AppCleaner
+8. Are.na for Safari
+9. Audacity
+10. Avenue
+11. BEEP6
+12. Beeper
 13. Cardhop
 14. Chromium
 15. CodeCows
 16. Color Picker
 17. Crunch
-18. Data Jar
-19. Day One
-20. Developer
-21. Discord
-22. Fantastical
-23. Gifski
-24. GitHub Desktop
-25. Google Earth Pro
-26. Homecoming for Mastodon
-27. HotKey
-28. HTTPBot
-29. iA Presenter
-30. Image2Icon
-31. inRoute
-32. Interact Scratchpad
-33. Jayson
-34. Karabiner-Elements
-35. Karabiner-EventViewer
-36. Keka
-37. Keybase
-38. Last.fm
-39. Logger
-40. Mactracker
-41. Magnet
-42. Marked 2
-43. MassReplaceIt
-44. Mastonaut
-45. Mp3tag
-46. NetNewsWire
-47. Noir
-48. Numbers
-49. OnyX
-50. Pages
-51. Parcel
-52. Paste
-53. Prefs Editor
-54. Refined GitHub
-55. RSS Button for Safari
-56. Safari
-57. safaritabstomd
-58. Save to Raindrop.io
-59. Scriptable
-60. SensibleSideButtons
-61. SF Symbols
-62. Shane's Script Library Pack
-63. Shareful
-64. Shortery
-65. Simplenote
-66. SnippetsLab
-67. Soulver 3
-68. Speediness
-69. StopTheMadness
-70. Super Agent
-71. SystHist
-72. Telegram
-73. TestFlight
-74. Text Case
-75. Textcraft
-76. TextExpander
-77. TextMate
-78. The Unarchiver
-79. Things3Beta
-80. Timery
-81. Tot
-82. tyke
-83. Typewriter
-84. UlyssesMac
-85. Userscripts
-86. UTC Time
-87. Utilities
-88. Wayback Machine
-89. Wipr
-90. WorldWideWeb
-91. WriteFreely for Mac
-92. Xcode
+18. Cyberduck
+19. Data Jar
+20. Day One
+21. Developer
+22. Discord
+23. Drafts
+24. Fantastical
+25. Gifski
+26. GitHub Desktop
+27. Google Earth Pro
+28. Homecoming for Mastodon
+29. HotKey
+30. HTTPBot
+31. iA Presenter
+32. Image2Icon
+33. inRoute
+34. Interact Scratchpad
+35. Jayson
+36. Karabiner-Elements
+37. Karabiner-EventViewer
+38. Keka
+39. Keybase
+40. Last.fm
+41. Logger
+42. Mactracker
+43. Magnet
+44. Marked 2
+45. MassReplaceIt
+46. Mastonaut
+47. Mona
+48. Mp3tag
+49. NetNewsWire
+50. Noir
+51. Numbers
+52. Obsidian
+53. OnyX
+54. Pages
+55. Parcel
+56. Paste
+57. Prefs Editor
+58. Refined GitHub
+59. RSS Button for Safari
+60. Safari
+61. safaritabstomd
+62. Save to Raindrop.io
+63. Scriptable
+64. SensibleSideButtons
+65. SF Symbols
+66. Shane's Script Library Pack
+67. Simplenote
+68. SnippetsLab
+69. Soulver 3
+70. Speediness
+71. StopTheMadness
+72. Super Agent
+73. SystHist
+74. Telegram
+75. TestFlight
+76. Text Case
+77. Textcraft
+78. TextExpander
+79. TextMate
+80. The Unarchiver
+81. Things3Beta
+82. Timery
+83. Tot
+84. tyke
+85. Typewriter
+86. Userscripts
+87. UTC Time
+88. Utilities
+89. Wayback Machine
+90. Wipr
+91. WorldWideWeb
+92. WriteFreely for Mac
+93. Xcode
 
 **Working Copy Index**
-Updated `10122023-140828`
+Updated `10202023-175001`
 
 - [as](https://github.com/extratone/as)
 - [bigblue](https://github.com/extratone/bigblue)
@@ -402,7 +395,6 @@ Updated `10122023-140828`
 - [wordprocessors](https://github.com/softwarehistorysociety/wordprocessors)
 - [Auto/cartography](https://github.com/extratone/cartography)
 - [Auto/inRoute](https://github.com/extratone/inRoute)
-- [Auto/MyRoute-app]()
 - [Configuration/audacity](https://github.com/extratone/audacity)
 - [Configuration/EditorialWorkflowsAPI](https://github.com/softwarehistorysociety/EditorialWorkflowDirectoryAPI)
 - [Configuration/MonaSettings](https://github.com/extratone/MonaSettings)
@@ -410,7 +402,8 @@ Updated `10122023-140828`
 - [Configuration/terminology](https://github.com/extratone/terminology)
 - [Documentation/05eb876eb0cb3e02f357b746731ff16e]()
 - [Documentation/blinksh-docs](https://github.com/extratone/blinksh-docs)
-- [Documentation/MultiMarkdown-6](https://github.com/fletcher/MultiMarkdown-6)
+- [Documentation/mastoissues](https://codeberg.org/extratone/mastoissues)
+- [Documentation/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
 - [Documentation/shortcuts-directory](https://github.com/bradsiefert/shortcuts-directory)
 - [Documentation/snippets](https://github.com/extratone/snippets)
 - [Drafts/drafts](https://github.com/extratone/drafts)
@@ -471,7 +464,6 @@ Updated `10122023-140828`
 - [SHS/periscope](https://github.com/extratone/periscope)
 - [SNOWDEN/chrome](https://github.com/extratone/chrome)
 - [SNOWDEN/krusemark](https://github.com/extratone/krusemark)
-- [Social/00e5f4a3db9708a37fa5b195e0ca9a49]()
 - [Social/bigblue](https://github.com/extratone/bigblue)
 - [Social/columbia](https://github.com/extratone/columbia)
 - [Social/GuestbookGist]()
@@ -479,7 +471,6 @@ Updated `10122023-140828`
 - [Social/meetings](https://github.com/swicg/meetings)
 - [Social/rolodex](https://github.com/extratone/rolodex)
 - [Social/RoutineChatGist]()
-- [Social/snac2](https://codeberg.org/extratone/snac2)
 - [Social/t](https://github.com/extratone/t)
 - [Social/youtube](https://github.com/extratone/youtube)
 - [UIKeyCommand/openradar](https://github.com/timburks/openradar)
