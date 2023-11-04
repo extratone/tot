@@ -368,7 +368,7 @@ The value of text parameter will be filled into the search bar.
 93. Xcode
 
 **Working Copy Index**
-Updated `10202023-175001`
+Updated `11042023-050708`
 
 - [as](https://github.com/extratone/as)
 - [bigblue](https://github.com/extratone/bigblue)
@@ -396,6 +396,7 @@ Updated `10202023-175001`
 - [Auto/cartography](https://github.com/extratone/cartography)
 - [Auto/inRoute](https://github.com/extratone/inRoute)
 - [Configuration/audacity](https://github.com/extratone/audacity)
+- [Configuration/davod-2]()
 - [Configuration/EditorialWorkflowsAPI](https://github.com/softwarehistorysociety/EditorialWorkflowDirectoryAPI)
 - [Configuration/MonaSettings](https://github.com/extratone/MonaSettings)
 - [Configuration/snippets](https://github.com/blinksh/snippets)
@@ -427,6 +428,7 @@ Updated `10202023-175001`
 - [Gist/Obsidian Web Clipper]()
 - [Gist/Podcast Subscriptions Gist]()
 - [Gist/Reading List Gist]()
+- [Gist/Recon Gist]()
 - [Gist/Redirection Gist]()
 - [Gist/Secure ShellFish Snippets Gist]()
 - [Gist/SnapChat Data Gist]()
@@ -467,6 +469,7 @@ Updated `10202023-175001`
 - [Social/bigblue](https://github.com/extratone/bigblue)
 - [Social/columbia](https://github.com/extratone/columbia)
 - [Social/GuestbookGist]()
+- [Social/jab]()
 - [Social/mastodon-init](https://github.com/extratone/mastodon-init)
 - [Social/meetings](https://github.com/swicg/meetings)
 - [Social/rolodex](https://github.com/extratone/rolodex)
