@@ -12,10 +12,10 @@
 - _[Audio Messages](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Audio/Audio%20Messages)_
 
 **Threads**
-- **_[17](mona://mastodon.social/@DavidBlue/110518482239210073)_**
+- _[17](mona://mastodon.social/@DavidBlue/110518482239210073)_
 - **[Speedtest Thread](ivory://acct/openURL?url=https://mastodon.social/@DavidBlue/107933050706028168) (Mastodon)**
 - [Speedtest Thread](https://www.threads.net/@asphaltapostle/post/CvUkur9uEiT) (Threads)
-- [GTI Thread](ivory://acct/openURL?url=https://mastodon.social/@DavidBlue/110808349007423057)
+- [GTI Thread](mona://mastodon.social/@DavidBlue/110808349007423057)
 - [Whyp Thread](ivory://acct/openURL?url=https://mastodon.social/@DavidBlue/110930552194076713) 
 
 - [Distributed Index](drafts://open?uuid=3B7930BE-07BC-4DB9-A591-4254BEE42A82)
@@ -367,6 +367,8 @@ The value of text parameter will be filled into the search bar.
 92. WriteFreely for Mac
 93. Xcode
 
+
+- [](drafts://open?uuid=F347787D-9A34-4178-AF8E-ACB69D59C898)
 **Working Copy Index**
 Updated `11042023-050708`
 
@@ -477,46 +479,11 @@ Updated `11042023-050708`
 - [Social/t](https://github.com/extratone/t)
 - [Social/youtube](https://github.com/extratone/youtube)
 - [UIKeyCommand/openradar](https://github.com/timburks/openradar)
-<ivory://acct/home> (or timeline)
-<ivory://acct/mentions>
-<ivory://acct/lists>
-<ivory://acct/favorites>
-<ivory://acct/bookmarks>
-<ivory://acct/statistics>
-<ivory://acct/profile>
-<ivory://acct/search>
-**Modal callback\_url=<url> valid for all the below**
-<ivory://acct/openURL?url=https://mastodon.social/@MonaApp/109859984571889210>
-[f](ivory://@DavidBlue/status/101077476349140779) (from acct's instance)<https://mastodon.social/@DavidBlue/110572671060838984> <https://mastodon.social/@DavidBlue/110518482239210073> 
-<ivory://acct/user_profile/user_acct>
-<ivory://acct/post>
-<ivory://acct/post/text>
-[ivory://acct/post?text=<text>&in\_reply\_to\_status\_url=<url>](ivory://acct/post?text=%3Ctext%3E&in_reply_to_status_url=%3Curl%3E)
+	⁃	[My Account | Tiny Cloud](https://www.tiny.cloud/my-account/profile/)
+	⁃	[My Account | Tiny Cloud](https://www.tiny.cloud/my-account/integrate/)
+	⁃	[Quick start | TinyMCE Documentation](https://www.tiny.cloud/docs/tinymce/6/cloud-quick-start/)
+	⁃	
 
-<https://mastodon.social/@DavidBlue/101077476349140779>
-
-<ivory://@DavidBlue/status/101077476349140779>
-
-Mona Beta: `[com.jonny.monabeta://`](com.jonny.monabeta://%60)
-
-Mona: `[com.jonny.mona://`](com.jonny.mona://%60)
-
-Common Parameters
-
-	_account_
-Perform a task with specific account identified by your Twitter handle (@username), or Mastodon user address. The value of account is case insensitive.
-
-
-Mastodon example: @<MonaApp@mastodon.social>
-
-- [I Accidentally Bought a Year of Spark Premium](drafts://open?uuid=573DF872-7B53-4B0D-9FCE-AD5F80F5EA99)
-
-ivory://@DavidBlue@mastodon.social/search
-
-long1950-5G
-`082402023-141203`
-- Down: 924
-- Up: 73
-- Ping: 43
-- RPM: 443
-- Type: wifi
+[My Account | Tiny Cloud
+My Account | Tiny Cloud
+Quick start | TinyMCE Documentation](https://www.tiny.cloud/my-account/profile/)
