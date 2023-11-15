@@ -370,7 +370,7 @@ The value of text parameter will be filled into the search bar.
 
 - [](drafts://open?uuid=F347787D-9A34-4178-AF8E-ACB69D59C898)
 **Working Copy Index**
-Updated `11042023-050708`
+Updated `11152023-000509`
 
 - [as](https://github.com/extratone/as)
 - [bigblue](https://github.com/extratone/bigblue)
@@ -389,7 +389,6 @@ Updated `11042023-050708`
 - [snowden](https://github.com/extratone/snowden)
 - [taio](https://github.com/extratone/taio)
 - [TextExpander](https://github.com/extratone/TextExpander)
-- [TikTok_Data_1695675137]()
 - [tilde](https://github.com/extratone/tilde)
 - [tot](https://github.com/extratone/tot)
 - [Vocabulary Gist]()
@@ -398,8 +397,8 @@ Updated `11042023-050708`
 - [Auto/cartography](https://github.com/extratone/cartography)
 - [Auto/inRoute](https://github.com/extratone/inRoute)
 - [Configuration/audacity](https://github.com/extratone/audacity)
-- [Configuration/davod-2]()
 - [Configuration/EditorialWorkflowsAPI](https://github.com/softwarehistorysociety/EditorialWorkflowDirectoryAPI)
+- [Configuration/jumbo](https://github.com/extratone/jumbo)
 - [Configuration/MonaSettings](https://github.com/extratone/MonaSettings)
 - [Configuration/snippets](https://github.com/blinksh/snippets)
 - [Configuration/terminology](https://github.com/extratone/terminology)
@@ -420,6 +419,7 @@ Updated `11042023-050708`
 - [Gist/Command Browser Gist]()
 - [Gist/Contacts Private Backup Gist]()
 - [Gist/Drafts Export Gist]()
+- [Gist/GTI Fuel Log Gist]()
 - [Gist/HiResTweet Gist]()
 - [Gist/iSH Themes Gist]()
 - [Gist/Mastodon Bookmarks Gist]()
