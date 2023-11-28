@@ -1,5 +1,5 @@
 **Working Copy Index**
-Updated `11152023-000509`
+Updated `11282023-083821`
 
 - [as](https://github.com/extratone/as)
 - [bigblue](https://github.com/extratone/bigblue)
@@ -29,14 +29,9 @@ Updated `11152023-000509`
 - [Configuration/EditorialWorkflowsAPI](https://github.com/softwarehistorysociety/EditorialWorkflowDirectoryAPI)
 - [Configuration/jumbo](https://github.com/extratone/jumbo)
 - [Configuration/MonaSettings](https://github.com/extratone/MonaSettings)
+- [Configuration/plugins](https://github.com/NotePlan/plugins)
 - [Configuration/snippets](https://github.com/blinksh/snippets)
-- [Configuration/terminology](https://github.com/extratone/terminology)
-- [Documentation/05eb876eb0cb3e02f357b746731ff16e]()
-- [Documentation/blinksh-docs](https://github.com/extratone/blinksh-docs)
-- [Documentation/mastoissues](https://codeberg.org/extratone/mastoissues)
-- [Documentation/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-- [Documentation/shortcuts-directory](https://github.com/bradsiefert/shortcuts-directory)
-- [Documentation/snippets](https://github.com/extratone/snippets)
+- [Documentation/Documentation](https://codeberg.org/Codeberg/Documentation)
 - [Drafts/drafts](https://github.com/extratone/drafts)
 - [Drafts/themes](https://github.com/bryanscarolina/themes)
 - [Gist/3604700](https://gitlab.com/snippets/3604700)
@@ -48,6 +43,7 @@ Updated `11152023-000509`
 - [Gist/Command Browser Gist]()
 - [Gist/Contacts Private Backup Gist]()
 - [Gist/Drafts Export Gist]()
+- [Gist/Google Scholar Citations Gist]()
 - [Gist/GTI Fuel Log Gist]()
 - [Gist/HiResTweet Gist]()
 - [Gist/iSH Themes Gist]()
