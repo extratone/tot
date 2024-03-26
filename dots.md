@@ -149,24 +149,43 @@ _ACQUIRE_
 - [HTML HOUSE](https://html.house)
 
 ⍋⍙≜𝚫𝛅𝛥𝛿𝜟𝜹𝝙𝝳𝞓𝞭ᵟƍ
-**ot Keys**
-- **⌘/** = Show/Hide Status Bar
-- **⇧⌘T** = Switch to Plain Text View
-- **⌘,** = Preferences
-- **⌘⌥,** = Theme Preferences
-- **⌘⌥⇦⇨** = Tot Switch
-- **⌘0** = Empty Tot
-- **⇧⌘S** = Save File
-- **⌘S** = Save Version
-- **⌥⌘S** = Save Backup
-- **⌥⌘R** = Restore Backup
+**⇥ All About _[DAVÓD](https://davod.golf)_** 
 
 
-**Tools**
-- [ColorHound](http://colorhound.net)
-- [HTML HOUSE](https://html.house)
+`tot://2`
 
+- [1Password Item](https://start.1password.com/open/i?a=IMZ3BUQ3WRBWJDRIVNYONMPBNI&v=e3jr4acnvpzccdodlvjta4rxc4&i=v7alr3aaqt56btp2xn2zlcmvze&h=my.1password.com)
 
+_Bookmarks_
+
+- [MK7 GTI Service Interval Guide Inside - Articles](https://www.shopdap.com/blog/post/service-schedule-for-mk7-gti-2015-2016-html.html)
+- [2017 Golf GTI Press Kit](https://media.vw.com/en-us/press-kits/2017-golf-gti-press-kit)
+- [VW MK7 GTI Oil Change DIY - YouTube](https://www.youtube.com/watch?v=S5eUjUaiHjk)
+- [2017 Volkswagen GTI Dimmer switch. Instrument Light Rheostat. E-Golf. Golf. Golf Alltrack - 5G0941334WHS - Genuine Volkswagen Part](https://parts.vw.com/p/Volkswagen_2017_GTI/Dimmer-switch-Instrument-Light-Rheostat/52645743/5G0941334WHS.html)
+
+_[GTI Tot Dot Theme](craftdocs://open?blockId=C7EF9E49-06B3-46E2-99C1-EC3C170BA96D&spaceId=134ea655-f4d8-2d39-2233-6464ab9a36fd)_
+
+  {
+    "type" : "dot 2",
+    "dark" : {
+      "accent" : "#b3b4b1",
+      "status\_background" : "#111b2e",
+      "text" : "#f4f7f5",
+      "link" : "#ff564f",
+      "background" : "#171c26",
+      "dot" : "#283e68",
+      "status\_text" : "#dde0dd"
+    },
+    "light" : {
+      "accent" : "#7e3f13",
+      "status\_background" : "#bdf2c2",
+      "text" : "#000000",
+      "link" : "#d56a1f",
+      "background" : "#fff2e9",
+      "dot" : "#ed7e2f", 
+      "status\_text" : "#22617e"
+    }
+  },
 **Odette Stuff**
 
 **/Users/blue/Library/Group Containers/JLMPQHK86H.com.culturedcode.ThingsMac/Things Database.thingsdatabase alias**
@@ -181,6 +200,18 @@ _ACQUIRE_
 
 - [AppleScript Gist](https://gist.github.com/extratone/69b77092d1baecb9901b23ae67c3526e)
 - [AppleScript Snippet](snippetslab://snippet/03D3ADE9-00BB-4764-B4A9-67025A23276C)
+**Tot Keys**
+- **⌘/** = Show/Hide Status Bar
+- **⇧⌘T** = Switch to Plain Text View
+- **⌘,** = Preferences
+- **⌘⌥,** = Theme Preferences
+- **⌘⌥⇦⇨** = Tot Switch
+- **⌘0** = Empty Tot
+- **⇧⌘S** = Save File
+- **⌘S** = Save Version
+- **⌥⌘S** = Save Backup
+- **⌥⌘R** = Restore Backup
+
 **Secure ShellFish Widget Attempts**
 
 Usage: widget [target] <data> ...
@@ -246,7 +277,7 @@ Mastodon example: @<MonaApp@mastodon.social>
 
 User profile: [[[https://[any\_domain]/@[username]](https://[any_domain]/@%5Busername%5D)]([https://[any](https://[anydomain]/@%5Busername%5D)_[domain]/@%5Busername%5D](https://[anydomain]/@%5Busername%5D))]([https://[any](https://[any_domain]/@%5Busername%5D)_[domain]/@%5Busername%5D](https://[any_domain]/@%5Busername%5D)). <https://mastodon.social/@MonaApp>
 
-Toot: [[[https://[any\_domain]/@[username]/[toot\_id\_number]](https://[any_domain]/@%5Busername%5D/%5Btoot_id_number%5D)]([https://[any](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[domain]/@%5Busername%5D/%5Btoot](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[id](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[number%5D](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D))]([https://[any](https://[anydomain]/@%5Busername%5D/%5Btootid_number%5D)_[domain]/@%5Busername%5D/%5Btoot]([https://[anydomain]/@%5Busername%5D/%5Btootid](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[number%5D](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D))_[id\_number%5D](https://[anydomain]/@%5Busername%5D/%5Btootid_number%5D)) <https://mastodon.social/@MonaApp/109506252875971252>
+Toot: [[[https://[any\_domain]/@[username]/[toot\_id\_number]](https://[any_domain]/@%5Busername%5D/%5Btoot_id_number%5D)]([https://[any](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[domain]/@%5Busername%5D/%5Btoot](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[id](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[number%5D](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D))]([https://[any](https://[anydomain]/@%5Busername%5D/%5Btootid_number%5D)_[domain]/@%5Busername%5D/%5Btoot]([https://[anydomain]/@%5Busername%5D/%5Btootid](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[number%5D](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D))\_[id\_number%5D](https://[anydomain]/@%5Busername%5D/%5Btootid_number%5D)) <https://mastodon.social/@MonaApp/109506252875971252>
 
 ### Advanced
 
@@ -377,7 +408,7 @@ The value of text parameter will be filled into the search bar.
 
 - [vagary](drafts://open?uuid=EEB5C0F0-48B4-45AF-A8A7-4FCE5DDCBE03)
 **Working Copy Index**
-Updated `12252023-201722`
+Updated `03262024-044925`
 
 - [as](working-copy://open?repo=as&mode=content)
 - [bigblue](working-copy://open?repo=bigblue&mode=content)
@@ -385,6 +416,7 @@ Updated `12252023-201722`
 - [chaff](working-copy://open?repo=chaff&mode=content)
 - [columbia](working-copy://open?repo=columbia&mode=content)
 - [dots](working-copy://open?repo=dots&mode=content)
+- [Export-c1cad69e-db6d-499f-b99e-89aedfb19d7d](working-copy://open?repo=Export-c1cad69e-db6d-499f-b99e-89aedfb19d7d&mode=content)
 - [gti](working-copy://open?repo=gti&mode=content)
 - [i](working-copy://open?repo=i&mode=content)
 - [iOSSystemSounds](working-copy://open?repo=iOSSystemSounds&mode=content)
@@ -403,15 +435,21 @@ Updated `12252023-201722`
 - [w3](working-copy://open?repo=w3&mode=content)
 - [wordprocessors](working-copy://open?repo=wordprocessors&mode=content)
 - [Auto/cartography](working-copy://open?repo=Auto/cartography&mode=content)
+- [Auto/dieselgoth](working-copy://open?repo=Auto/dieselgoth&mode=content)
 - [Auto/inRoute](working-copy://open?repo=Auto/inRoute&mode=content)
+- [Auto/notion](working-copy://open?repo=Auto/notion&mode=content)
+- [Auto/obd](working-copy://open?repo=Auto/obd&mode=content)
+- [Auto/OsmAnd-iOS](working-copy://open?repo=Auto/OsmAnd-iOS&mode=content)
 - [Auto/ourairports-data](working-copy://open?repo=Auto/ourairports-data&mode=content)
 - [Auto/soundaktor](working-copy://open?repo=Auto/soundaktor&mode=content)
 - [Configuration/davodtime](working-copy://open?repo=Configuration/davodtime&mode=content)
+- [Configuration/DetailsPro](working-copy://open?repo=Configuration/DetailsPro&mode=content)
 - [Configuration/EditorialWorkflowsAPI](working-copy://open?repo=Configuration/EditorialWorkflowsAPI&mode=content)
 - [Configuration/jumbo](working-copy://open?repo=Configuration/jumbo&mode=content)
 - [Configuration/MonaSettings](working-copy://open?repo=Configuration/MonaSettings&mode=content)
 - [Configuration/plugins](working-copy://open?repo=Configuration/plugins&mode=content)
 - [Configuration/snippets](working-copy://open?repo=Configuration/snippets&mode=content)
+- [Configuration/tiddlylatte](working-copy://open?repo=Configuration/tiddlylatte&mode=content)
 - [Documentation/Documentation](working-copy://open?repo=Documentation/Documentation&mode=content)
 - [Documentation/juno](working-copy://open?repo=Documentation/juno&mode=content)
 - [Drafts/drafts](working-copy://open?repo=Drafts/drafts&mode=content)
@@ -432,6 +470,7 @@ Updated `12252023-201722`
 - [Gist/iSH Themes Gist](working-copy://open?repo=Gist/iSH Themes Gist&mode=content)
 - [Gist/Mastodon Bookmarks Gist](working-copy://open?repo=Gist/Mastodon Bookmarks Gist&mode=content)
 - [Gist/Mastodon Following Gist](working-copy://open?repo=Gist/Mastodon Following Gist&mode=content)
+- [Gist/Mona 6 Actions Gist](working-copy://open?repo=Gist/Mona 6 Actions Gist&mode=content)
 - [Gist/MusicHarbor Artists Gist](working-copy://open?repo=Gist/MusicHarbor Artists Gist&mode=content)
 - [Gist/Net Analyzer Gist](working-copy://open?repo=Gist/Net Analyzer Gist&mode=content)
 - [Gist/NetNewsWire Subscriptions Gist](working-copy://open?repo=Gist/NetNewsWire Subscriptions Gist&mode=content)
@@ -440,21 +479,27 @@ Updated `12252023-201722`
 - [Gist/Reading List Gist](working-copy://open?repo=Gist/Reading List Gist&mode=content)
 - [Gist/Recon Gist](working-copy://open?repo=Gist/Recon Gist&mode=content)
 - [Gist/Redirection Gist](working-copy://open?repo=Gist/Redirection Gist&mode=content)
+- [Gist/Rolodex Gist](working-copy://open?repo=Gist/Rolodex Gist&mode=content)
 - [Gist/Secure ShellFish Snippets Gist](working-copy://open?repo=Gist/Secure ShellFish Snippets Gist&mode=content)
 - [Gist/SnapChat Data Gist](working-copy://open?repo=Gist/SnapChat Data Gist&mode=content)
 - [Gist/Text Replacements Gist](working-copy://open?repo=Gist/Text Replacements Gist&mode=content)
 - [Gist/Things Log Gist](working-copy://open?repo=Gist/Things Log Gist&mode=content)
 - [Gist/Unicode Names List Gist](working-copy://open?repo=Gist/Unicode Names List Gist&mode=content)
 - [Gist/Uses This Gist](working-copy://open?repo=Gist/Uses This Gist&mode=content)
+- [Gist/VisualizeAudioSourceGist](working-copy://open?repo=Gist/VisualizeAudioSourceGist&mode=content)
 - [Gist/Weechat Logs Gist](working-copy://open?repo=Gist/Weechat Logs Gist&mode=content)
 - [Gist/wget Gist](working-copy://open?repo=Gist/wget Gist&mode=content)
+- [Hardware/coolpix](working-copy://open?repo=Hardware/coolpix&mode=content)
 - [Hardware/jorts](working-copy://open?repo=Hardware/jorts&mode=content)
 - [Hardware/midnight](working-copy://open?repo=Hardware/midnight&mode=content)
 - [Hardware/odette](working-copy://open?repo=Hardware/odette&mode=content)
 - [ii/a-Shell-commands](working-copy://open?repo=ii/a-Shell-commands&mode=content)
+- [ii/CoreMLCompiler.swiftpm](working-copy://open?repo=ii/CoreMLCompiler.swiftpm&mode=content)
 - [ii/datajar](working-copy://open?repo=ii/datajar&mode=content)
+- [ii/DevToys.swiftpm](working-copy://open?repo=ii/DevToys.swiftpm&mode=content)
 - [ii/editorial](working-copy://open?repo=ii/editorial&mode=content)
 - [ii/feedback](working-copy://open?repo=ii/feedback&mode=content)
+- [ii/GameOfLife.swiftpm](working-copy://open?repo=ii/GameOfLife.swiftpm&mode=content)
 - [ii/ios-settings-urls](working-copy://open?repo=ii/ios-settings-urls&mode=content)
 - [ii/jellycuts](working-copy://open?repo=ii/jellycuts&mode=content)
 - [ii/Playgrounds](working-copy://open?repo=ii/Playgrounds&mode=content)
