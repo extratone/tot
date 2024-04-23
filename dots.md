@@ -3,6 +3,7 @@
 **[Apple Frames](shortcuts://run-shortcut?name=Apple%20Frames&input=text&text=latest)** - **[TabstoNote](shortcuts://run-shortcut?name=Safari%20Tabs%20%E2%87%A8%20Apple%20Note)** - [HiResTwitter](shortcuts://run-shortcut?name=HiRes%20Twitter) - **[FILEurl](shortcuts://run-shortcut?name=FILEurl)** - [TitledLinks](shortcuts://run-shortcut?name=Titled%20Markdown%20Links) - [MastodonPostReminder](shortcuts://run-shortcut?name=MastodonPostReminder) - **_[MediaMetadata](shortcuts://run-shortcut?name=Media%20Metadata)_** - [YTDownload!](shortcuts://run-shortcut?name=YouTube%20Download) - [Update Scrubs](shortcuts://run-shortcut?name=Update%20Scrubs) - [App Store Marketeting Tools](shortcuts://run-shortcut?name=App%20Store%20Marketing%20Tools) - [RoutineHub Report](shortcuts://run-shortcut?name=RoutineHub%20Report) - [Safari Tabs Jar](shortcuts://run-shortcut?name=Safari%20Tabs%20Jar) - [gurgle](shortcuts://run-shortcut?name=gurgle) - [ttm](shortcuts://run-shortcut?name=ttm) - [HexScreen](shortcuts://run-shortcut?name=HexScreen) - [ts](shortcuts://run-shortcut?name=ts) - **[Speedy Frames](shortcuts://run-shortcut?name=Speedy%20Frames)** - **[Tot Git](shortcuts://run-shortcut?name=Tot%20Git%20iOS-NoDev)** - [DOWNLOAD](shortcuts://run-shortcut?name=DOWNLOAD) - [OpenALLURLs](shortcuts://run-shortcut?name=Open%20All%20URLS%20in%20Clipboard) - [CommitRepo](shortcuts://run-shortcut?name=Commit%20Repository) - [CombineImgs](shortcuts://run-shortcut?name=ImageCombineScratch) - [PATHS](shortcuts://run-shortcut?name=PATHS) - [PersonalHotspot](shortcuts://run-shortcut?name=PersonalHotspot) - [TabGrouptoDrafts](shortcuts://run-shortcut?name=TabGrouptoDrafts) - [rhUsers](shortcuts://run-shortcut?name=rh-api%20Users) - [DavodTime](shortcuts://run-shortcut?name=DavodTime%20Conversion) - [RECURSE](shortcuts://run-shortcut?name=Recursively%20Eliminate%20Directories) - [rh-Shortcut](shortcuts://run-shortcut?name=rh-Shortcut) - [temp](shortcuts://run-shortcut?name=temp) - [PDF-PNG](shortcuts://run-shortcut?name=PDF%20to%20PNG) - [GatherFormat](shortcuts://run-shortcut?name=GatherFormat) - [GatherSync](shortcuts://run-shortcut?name=GatherSync) - [ObsidianPush](shortcuts://run-shortcut?name=ObsidianPush) - [DownloadFileList](shortcuts://run-shortcut?name=Download%20File%20List) - [ShortcutsBatchSource](shortcuts://run-shortcut?name=ShortcutsBatchSource) - [pip](shortcuts://run-shortcut?name=pip) - [RESET](shortcuts://run-shortcut?name=Network%20Reset) - [FileExtensions](shortcuts://run-shortcut?name=File%20Extensions) - [RedditJSON](shortcuts://run-shortcut?name=RedditJSON) - [WeechatLogsGistUpdate](shortcuts://run-shortcut?name=WeechatLogsGistUpdate) - **[WorkingCopyIndex](shortcuts://run-shortcut?name=WorkingCopyRepositoryTotIndex)** - **[GIST](shortcuts://run-shortcut?name=GIST)** - [ImageUploader](jsbox://run?name=imageuploader.js&location=icloud) - [davodtrack](shortcuts://run-shortcut?name=davodtrack) - [Linky2](shortcuts://run-shortcut?name=Linky2) - [TitledTo-Do](shortcuts://run-shortcut?name=Titled%20Page%20To-Do) - [MarkdownManpagesRemote](shortcuts://run-shortcut?name=MarkdownManpagesRemote) - [IvoryURL](shortcuts://run-shortcut?name=Ivory%20Clipboard%20URL) - [IFTwitch](twitch://game/Infinite%20Flight) - [UNBackground](shortcuts://run-shortcut?name=Remove%20Image%20Background) - [MastodonThread-Draft](shortcuts://run-shortcut?name=MastodonThread-Draft)
 
 – **[Drafts as Task Manager](drafts://open?uuid=00C657D8-54EB-44BC-BFA5-33A919D0E448)**
+– [David Blue's Public Craft Index](craftdocs://open?blockId=1375BA5C-FAD3-4712-B6B6-2B845ADAADDD&spaceId=d64c60d3-b1ba-bda2-5e7a-5c1baae7751f)
 
 **Audio**
 - **[kbia](shortcuts://run-shortcut?name=kbia)**
@@ -16,6 +17,7 @@
 - **[Speedtest Thread](ivory://acct/openURL?url=https://mastodon.social/@DavidBlue/107933050706028168) (Mastodon)**
 - [Speedtest Thread](https://www.threads.net/@asphaltapostle/post/CvUkur9uEiT) (Threads)
 - [GTI Thread](mona://mastodon.social/@DavidBlue/110808349007423057)
+- [GTI Thread](https://www.threads.net/@asphaltapostle/post/CuzWTfrL8Ir) (Threads)
 - [Whyp Thread](ivory://acct/openURL?url=https://mastodon.social/@DavidBlue/110930552194076713) 
 
 - [Distributed Index](drafts://open?uuid=3B7930BE-07BC-4DB9-A591-4254BEE42A82)
@@ -143,25 +145,64 @@ _ACQUIRE_
 - [Facebook Data Request](x-apple-reminderkit://REMCDReminder/5D8EB1B2-A27B-4B11-BB8C-FCC98D75A94F)
 - Mail ⇨ [Facebook information file requested](message:%3Cfa2584ec-db36-11ec-87d4-950a89070374@facebookmail.com%3E)
 
-⍋⍙≜𝚫𝛅𝛥𝛿𝜟𝜹𝝙𝝳𝞓𝞭ᵟƍ
-**ot Keys**
-- **⌘/** = Show/Hide Status Bar
-- **⇧⌘T** = Switch to Plain Text View
-- **⌘,** = Preferences
-- **⌘⌥,** = Theme Preferences
-- **⌘⌥⇦⇨** = Tot Switch
-- **⌘0** = Empty Tot
-- **⇧⌘S** = Save File
-- **⌘S** = Save Version
-- **⌥⌘S** = Save Backup
-- **⌥⌘R** = Restore Backup
-
-
 **Tools**
 - [ColorHound](http://colorhound.net)
 - [HTML HOUSE](https://html.house)
 
+⍋⍙≜𝚫𝛅𝛥𝛿𝜟𝜹𝝙𝝳𝞓𝞭ᵟƍ
+**⇥ All About _[DAVÓD](https://davod.golf)_** 
 
+
+`[tot://2`](tot://2%60)
+
+- [1Password Item](https://start.1password.com/open/i?a=IMZ3BUQ3WRBWJDRIVNYONMPBNI&v=e3jr4acnvpzccdodlvjta4rxc4&i=v7alr3aaqt56btp2xn2zlcmvze&h=my.1password.com)
+ 
+**Time-Sensitive**
+
+- [Maintenance Outlook](craftdocs://open?blockId=BA581861-37AB-4AEF-8F18-CE29279E9D54&spaceId=134ea655-f4d8-2d39-2233-6464ab9a36fd)
+
+**Craft Bookmarks**
+
+- [GTI](craftdocs://openspace?spaceId=134ea655-f4d8-2d39-2233-6464ab9a36fd&tab=documents)
+    - [Modifications](craftdocs://open?blockId=e138e930-cc5a-41fc-b202-892355b21299&spaceId=134ea655-f4d8-2d39-2233-6464ab9a36fd)
+    - [davod.golf](craftdocs://open?blockId=4ADC34C7-83E8-4982-B2A6-909BAF8A5F92&spaceId=134ea655-f4d8-2d39-2233-6464ab9a36fd)
+
+**Social**
+
+- [GTI Thread](mona://mastodon.social/@DavidBlue/110808349007423057)
+- [GTI Thread](https://www.threads.net/@asphaltapostle/post/CuzWTfrL8Ir) (Threads)
+
+_Web Bookmarks_
+
+- **[Owner's Manual Online](https://api.ownersmanualvw.com/#/vin/3VW5T7AUXHM022312/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzVlc1VDdBVVhITTAyMjMxMiIsImRlc3RpbmF0aW9uQ29kZSI6IlVTQVVIICAgIEsiLCJkb2N1bWVudHMiOlsiM0cwMDEyNzIzREYiLCI1R00wMTI3MjNBSyJdLCJtb2RlbENvZGUiOiJBVTE5UzIiLCJpc3MiOiJCQk8iLCJ2aW4iOiIzVlc1VDdBVVhITTAyMjMxMiIsImV4cCI6MTcxMTg5OTY2Mn0.vcckjQiO63CmeO-Zm1OCbSs8X1MQdYH75t6CH-MeYl81scLJIlPzRbTT-LpTvzGlKEqWQcp64aJKJmZ742I7ybczxvrorBdE2C-Av2AU3DC0Wf-KCiWSkucX_yFlK3qqtBRmgQ3g_EQoNDpmOnRHInd7573WBJEdA29sOfPnndlzkCooLYNK_eVX6t7C9EdQKyE8G6pS3dGZ2j4jPi7x5c9XMMsPbC6F9OrC3IdrZHx282B-XrRAPO1zOd5gunn8AJIJwHJvXZNKwLZqU5QobYrN27YTzaxNwcF_iN2ljxQgQfiZIjIdVMgNdwFUYhNz6K2pLgnce_m0_h09KNQHuw/lang/en-us)**
+- [MK7 GTI Service Interval Guide Inside - Articles](https://www.shopdap.com/blog/post/service-schedule-for-mk7-gti-2015-2016-html.html)
+- [2017 Golf GTI Press Kit](https://media.vw.com/en-us/press-kits/2017-golf-gti-press-kit)
+- [VW MK7 GTI Oil Change DIY - YouTube](https://www.youtube.com/watch?v=S5eUjUaiHjk)
+- [2017 Volkswagen GTI Dimmer switch. Instrument Light Rheostat. E-Golf. Golf. Golf Alltrack - 5G0941334WHS - Genuine Volkswagen Part](https://parts.vw.com/p/Volkswagen_2017_GTI/Dimmer-switch-Instrument-Light-Rheostat/52645743/5G0941334WHS.html)
+
+_[GTI Tot Dot Theme](craftdocs://open?blockId=C7EF9E49-06B3-46E2-99C1-EC3C170BA96D&spaceId=134ea655-f4d8-2d39-2233-6464ab9a36fd)_
+
+  {
+    "type" : "dot 2",
+    "dark" : {
+      "accent" : "#b3b4b1",
+      "status\_background" : "#111b2e",
+      "text" : "#f4f7f5",
+      "link" : "#ff564f",
+      "background" : "#171c26",
+      "dot" : "#283e68",
+      "status\_text" : "#dde0dd"
+    },
+    "light" : {
+      "accent" : "#7e3f13",
+      "status\_background" : "#bdf2c2",
+      "text" : "#000000",
+      "link" : "#d56a1f",
+      "background" : "#fff2e9",
+      "dot" : "#ed7e2f", 
+      "status\_text" : "#22617e"
+    }
+  },
 **Odette Stuff**
 
 **/Users/blue/Library/Group Containers/JLMPQHK86H.com.culturedcode.ThingsMac/Things Database.thingsdatabase alias**
@@ -176,6 +217,18 @@ _ACQUIRE_
 
 - [AppleScript Gist](https://gist.github.com/extratone/69b77092d1baecb9901b23ae67c3526e)
 - [AppleScript Snippet](snippetslab://snippet/03D3ADE9-00BB-4764-B4A9-67025A23276C)
+**Tot Keys**
+- **⌘/** = Show/Hide Status Bar
+- **⇧⌘T** = Switch to Plain Text View
+- **⌘,** = Preferences
+- **⌘⌥,** = Theme Preferences
+- **⌘⌥⇦⇨** = Tot Switch
+- **⌘0** = Empty Tot
+- **⇧⌘S** = Save File
+- **⌘S** = Save Version
+- **⌥⌘S** = Save Backup
+- **⌥⌘R** = Restore Backup
+
 **Secure ShellFish Widget Attempts**
 
 Usage: widget [target] <data> ...
@@ -241,7 +294,7 @@ Mastodon example: @<MonaApp@mastodon.social>
 
 User profile: [[[https://[any\_domain]/@[username]](https://[any_domain]/@%5Busername%5D)]([https://[any](https://[anydomain]/@%5Busername%5D)_[domain]/@%5Busername%5D](https://[anydomain]/@%5Busername%5D))]([https://[any](https://[any_domain]/@%5Busername%5D)_[domain]/@%5Busername%5D](https://[any_domain]/@%5Busername%5D)). <https://mastodon.social/@MonaApp>
 
-Toot: [[[https://[any\_domain]/@[username]/[toot\_id\_number]](https://[any_domain]/@%5Busername%5D/%5Btoot_id_number%5D)]([https://[any](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[domain]/@%5Busername%5D/%5Btoot](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[id](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[number%5D](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D))]([https://[any](https://[anydomain]/@%5Busername%5D/%5Btootid_number%5D)_[domain]/@%5Busername%5D/%5Btoot]([https://[anydomain]/@%5Busername%5D/%5Btootid](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[number%5D](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D))_[id\_number%5D](https://[anydomain]/@%5Busername%5D/%5Btootid_number%5D)) <https://mastodon.social/@MonaApp/109506252875971252>
+Toot: [[[https://[any\_domain]/@[username]/[toot\_id\_number]](https://[any_domain]/@%5Busername%5D/%5Btoot_id_number%5D)]([https://[any](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[domain]/@%5Busername%5D/%5Btoot](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[id](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[number%5D](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D))]([https://[any](https://[anydomain]/@%5Busername%5D/%5Btootid_number%5D)_[domain]/@%5Busername%5D/%5Btoot]([https://[anydomain]/@%5Busername%5D/%5Btootid](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D)_[number%5D](https://[anydomain]/@%5Busername%5D/%5Btootidnumber%5D))\_[id\_number%5D](https://[anydomain]/@%5Busername%5D/%5Btootid_number%5D)) <https://mastodon.social/@MonaApp/109506252875971252>
 
 ### Advanced
 
@@ -372,7 +425,7 @@ The value of text parameter will be filled into the search bar.
 
 - [vagary](drafts://open?uuid=EEB5C0F0-48B4-45AF-A8A7-4FCE5DDCBE03)
 **Working Copy Index**
-Updated `11282023-102425`
+Updated `03262024-044925`
 
 - [as](working-copy://open?repo=as&mode=content)
 - [bigblue](working-copy://open?repo=bigblue&mode=content)
@@ -380,11 +433,13 @@ Updated `11282023-102425`
 - [chaff](working-copy://open?repo=chaff&mode=content)
 - [columbia](working-copy://open?repo=columbia&mode=content)
 - [dots](working-copy://open?repo=dots&mode=content)
+- [Export-c1cad69e-db6d-499f-b99e-89aedfb19d7d](working-copy://open?repo=Export-c1cad69e-db6d-499f-b99e-89aedfb19d7d&mode=content)
 - [gti](working-copy://open?repo=gti&mode=content)
 - [i](working-copy://open?repo=i&mode=content)
 - [iOSSystemSounds](working-copy://open?repo=iOSSystemSounds&mode=content)
+- [jar](working-copy://open?repo=jar&mode=content)
 - [js](working-copy://open?repo=js&mode=content)
-- [jsbox-docs](working-copy://open?repo=jsbox-docs&mode=content)
+- [jsbox-docs](working-copy://open?repo=jsbox-docs&mode=content)e
 - [mastodon-ios-apps](working-copy://open?repo=mastodon-ios-apps&mode=content)
 - [open-source-ios-apps](working-copy://open?repo=open-source-ios-apps&mode=content)
 - [resume](working-copy://open?repo=resume&mode=content)
@@ -393,56 +448,75 @@ Updated `11282023-102425`
 - [TextExpander](working-copy://open?repo=TextExpander&mode=content)
 - [tilde](working-copy://open?repo=tilde&mode=content)
 - [tot](working-copy://open?repo=tot&mode=content)
-- [Vocabulary Gist](working-copy://open?repo=Vocabulary Gist&mode=content)
+- [Vocabulary Gist](<working-copy://open?repo=Vocabulary> Gist&mode=content)
 - [w3](working-copy://open?repo=w3&mode=content)
 - [wordprocessors](working-copy://open?repo=wordprocessors&mode=content)
 - [Auto/cartography](working-copy://open?repo=Auto/cartography&mode=content)
+- [Auto/dieselgoth](working-copy://open?repo=Auto/dieselgoth&mode=content)
 - [Auto/inRoute](working-copy://open?repo=Auto/inRoute&mode=content)
+- [Auto/notion](working-copy://open?repo=Auto/notion&mode=content)
+- [Auto/obd](working-copy://open?repo=Auto/obd&mode=content)
+- [Auto/OsmAnd-iOS](working-copy://open?repo=Auto/OsmAnd-iOS&mode=content)
+- [Auto/ourairports-data](working-copy://open?repo=Auto/ourairports-data&mode=content)
+- [Auto/soundaktor](working-copy://open?repo=Auto/soundaktor&mode=content)
+- [Configuration/davodtime](working-copy://open?repo=Configuration/davodtime&mode=content)
+- [Configuration/DetailsPro](working-copy://open?repo=Configuration/DetailsPro&mode=content)
 - [Configuration/EditorialWorkflowsAPI](working-copy://open?repo=Configuration/EditorialWorkflowsAPI&mode=content)
 - [Configuration/jumbo](working-copy://open?repo=Configuration/jumbo&mode=content)
 - [Configuration/MonaSettings](working-copy://open?repo=Configuration/MonaSettings&mode=content)
 - [Configuration/plugins](working-copy://open?repo=Configuration/plugins&mode=content)
 - [Configuration/snippets](working-copy://open?repo=Configuration/snippets&mode=content)
+- [Configuration/tiddlylatte](working-copy://open?repo=Configuration/tiddlylatte&mode=content)
 - [Documentation/Documentation](working-copy://open?repo=Documentation/Documentation&mode=content)
+- [Documentation/juno](working-copy://open?repo=Documentation/juno&mode=content)
 - [Drafts/drafts](working-copy://open?repo=Drafts/drafts&mode=content)
 - [Drafts/themes](working-copy://open?repo=Drafts/themes&mode=content)
 - [Gist/3604700](working-copy://open?repo=Gist/3604700&mode=content)
-- [Gist/a-Shell Configuration Gist](working-copy://open?repo=Gist/a-Shell Configuration Gist&mode=content)
-- [Gist/AppWish Gist](working-copy://open?repo=Gist/AppWish Gist&mode=content)
-- [Gist/Astrology Reference Gist](working-copy://open?repo=Gist/Astrology Reference Gist&mode=content)
-- [Gist/Blessed Web Utilities Gist](working-copy://open?repo=Gist/Blessed Web Utilities Gist&mode=content)
-- [Gist/Blink Themes Gist](working-copy://open?repo=Gist/Blink Themes Gist&mode=content)
-- [Gist/Command Browser Gist](working-copy://open?repo=Gist/Command Browser Gist&mode=content)
-- [Gist/Contacts Private Backup Gist](working-copy://open?repo=Gist/Contacts Private Backup Gist&mode=content)
-- [Gist/Drafts Export Gist](working-copy://open?repo=Gist/Drafts Export Gist&mode=content)
-- [Gist/Google Scholar Citations Gist](working-copy://open?repo=Gist/Google Scholar Citations Gist&mode=content)
-- [Gist/GTI Fuel Log Gist](working-copy://open?repo=Gist/GTI Fuel Log Gist&mode=content)
-- [Gist/HiResTweet Gist](working-copy://open?repo=Gist/HiResTweet Gist&mode=content)
-- [Gist/iSH Themes Gist](working-copy://open?repo=Gist/iSH Themes Gist&mode=content)
-- [Gist/Mastodon Bookmarks Gist](working-copy://open?repo=Gist/Mastodon Bookmarks Gist&mode=content)
-- [Gist/Mastodon Following Gist](working-copy://open?repo=Gist/Mastodon Following Gist&mode=content)
-- [Gist/MusicHarbor Artists Gist](working-copy://open?repo=Gist/MusicHarbor Artists Gist&mode=content)
-- [Gist/Net Analyzer Gist](working-copy://open?repo=Gist/Net Analyzer Gist&mode=content)
-- [Gist/NetNewsWire Subscriptions Gist](working-copy://open?repo=Gist/NetNewsWire Subscriptions Gist&mode=content)
-- [Gist/Obsidian Web Clipper](working-copy://open?repo=Gist/Obsidian Web Clipper&mode=content)
-- [Gist/Podcast Subscriptions Gist](working-copy://open?repo=Gist/Podcast Subscriptions Gist&mode=content)
-- [Gist/Reading List Gist](working-copy://open?repo=Gist/Reading List Gist&mode=content)
-- [Gist/Recon Gist](working-copy://open?repo=Gist/Recon Gist&mode=content)
-- [Gist/Redirection Gist](working-copy://open?repo=Gist/Redirection Gist&mode=content)
-- [Gist/Secure ShellFish Snippets Gist](working-copy://open?repo=Gist/Secure ShellFish Snippets Gist&mode=content)
-- [Gist/SnapChat Data Gist](working-copy://open?repo=Gist/SnapChat Data Gist&mode=content)
-- [Gist/Text Replacements Gist](working-copy://open?repo=Gist/Text Replacements Gist&mode=content)
-- [Gist/Things Log Gist](working-copy://open?repo=Gist/Things Log Gist&mode=content)
-- [Gist/Unicode Names List Gist](working-copy://open?repo=Gist/Unicode Names List Gist&mode=content)
-- [Gist/Uses This Gist](working-copy://open?repo=Gist/Uses This Gist&mode=content)
-- [Gist/Weechat Logs Gist](working-copy://open?repo=Gist/Weechat Logs Gist&mode=content)
-- [Gist/wget Gist](working-copy://open?repo=Gist/wget Gist&mode=content)
+- [Gist/a-Shell Configuration Gist](<working-copy://open?repo=Gist/a-Shell> Configuration Gist&mode=content)
+- [Gist/AppWish Gist](<working-copy://open?repo=Gist/AppWish> Gist&mode=content)
+- [Gist/Astrology Reference Gist](<working-copy://open?repo=Gist/Astrology> Reference Gist&mode=content)
+- [Gist/Blessed Web Utilities Gist](<working-copy://open?repo=Gist/Blessed> Web Utilities Gist&mode=content)
+- [Gist/Blink Themes Gist](<working-copy://open?repo=Gist/Blink> Themes Gist&mode=content)
+- [Gist/Command Browser Gist](<working-copy://open?repo=Gist/Command> Browser Gist&mode=content)
+- [Gist/Contacts Private Backup Gist](<working-copy://open?repo=Gist/Contacts> Private Backup Gist&mode=content)
+- [Gist/DavodTime Gist](<working-copy://open?repo=Gist/DavodTime> Gist&mode=content)
+- [Gist/Drafts Export Gist](<working-copy://open?repo=Gist/Drafts> Export Gist&mode=content)
+- [Gist/Google Scholar Citations Gist](<working-copy://open?repo=Gist/Google> Scholar Citations Gist&mode=content)
+- [Gist/GTI Fuel Log Gist](<working-copy://open?repo=Gist/GTI> Fuel Log Gist&mode=content)
+- [Gist/HiResTweet Gist](<working-copy://open?repo=Gist/HiResTweet> Gist&mode=content)
+- [Gist/iSH Themes Gist](<working-copy://open?repo=Gist/iSH> Themes Gist&mode=content)
+- [Gist/Mastodon Bookmarks Gist](<working-copy://open?repo=Gist/Mastodon> Bookmarks Gist&mode=content)
+- [Gist/Mastodon Following Gist](<working-copy://open?repo=Gist/Mastodon> Following Gist&mode=content)
+- [Gist/Mona 6 Actions Gist](<working-copy://open?repo=Gist/Mona> 6 Actions Gist&mode=content)
+- [Gist/MusicHarbor Artists Gist](<working-copy://open?repo=Gist/MusicHarbor> Artists Gist&mode=content)
+- [Gist/Net Analyzer Gist](<working-copy://open?repo=Gist/Net> Analyzer Gist&mode=content)
+- [Gist/NetNewsWire Subscriptions Gist](<working-copy://open?repo=Gist/NetNewsWire> Subscriptions Gist&mode=content)
+- [Gist/Obsidian Web Clipper](<working-copy://open?repo=Gist/Obsidian> Web Clipper&mode=content)
+- [Gist/Podcast Subscriptions Gist](<working-copy://open?repo=Gist/Podcast> Subscriptions Gist&mode=content)
+- [Gist/Reading List Gist](<working-copy://open?repo=Gist/Reading> List Gist&mode=content)
+- [Gist/Recon Gist](<working-copy://open?repo=Gist/Recon> Gist&mode=content)
+- [Gist/Redirection Gist](<working-copy://open?repo=Gist/Redirection> Gist&mode=content)
+- [Gist/Rolodex Gist](<working-copy://open?repo=Gist/Rolodex> Gist&mode=content)
+- [Gist/Secure ShellFish Snippets Gist](<working-copy://open?repo=Gist/Secure> ShellFish Snippets Gist&mode=content)
+- [Gist/SnapChat Data Gist](<working-copy://open?repo=Gist/SnapChat> Data Gist&mode=content)
+- [Gist/Text Replacements Gist](<working-copy://open?repo=Gist/Text> Replacements Gist&mode=content)
+- [Gist/Things Log Gist](<working-copy://open?repo=Gist/Things> Log Gist&mode=content)
+- [Gist/Unicode Names List Gist](<working-copy://open?repo=Gist/Unicode> Names List Gist&mode=content)
+- [Gist/Uses This Gist](<working-copy://open?repo=Gist/Uses> This Gist&mode=content)
+- [Gist/VisualizeAudioSourceGist](working-copy://open?repo=Gist/VisualizeAudioSourceGist&mode=content)
+- [Gist/Weechat Logs Gist](<working-copy://open?repo=Gist/Weechat> Logs Gist&mode=content)
+- [Gist/wget Gist](<working-copy://open?repo=Gist/wget> Gist&mode=content)
+- [Hardware/coolpix](working-copy://open?repo=Hardware/coolpix&mode=content)
 - [Hardware/jorts](working-copy://open?repo=Hardware/jorts&mode=content)
 - [Hardware/midnight](working-copy://open?repo=Hardware/midnight&mode=content)
 - [Hardware/odette](working-copy://open?repo=Hardware/odette&mode=content)
+- [ii/a-Shell-commands](working-copy://open?repo=ii/a-Shell-commands&mode=content)
+- [ii/CoreMLCompiler.swiftpm](working-copy://open?repo=ii/CoreMLCompiler.swiftpm&mode=content)
 - [ii/datajar](working-copy://open?repo=ii/datajar&mode=content)
+- [ii/DevToys.swiftpm](working-copy://open?repo=ii/DevToys.swiftpm&mode=content)
 - [ii/editorial](working-copy://open?repo=ii/editorial&mode=content)
 - [ii/feedback](working-copy://open?repo=ii/feedback&mode=content)
+- [ii/GameOfLife.swiftpm](working-copy://open?repo=ii/GameOfLife.swiftpm&mode=content)
 - [ii/ios-settings-urls](working-copy://open?repo=ii/ios-settings-urls&mode=content)
 - [ii/jellycuts](working-copy://open?repo=ii/jellycuts&mode=content)
 - [ii/Playgrounds](working-copy://open?repo=ii/Playgrounds&mode=content)
@@ -463,8 +537,8 @@ Updated `11282023-102425`
 - [Meta/latte](working-copy://open?repo=Meta/latte&mode=content)
 - [Private/tilde](working-copy://open?repo=Private/tilde&mode=content)
 - [SHS/periscope](working-copy://open?repo=SHS/periscope&mode=content)
+- [SHS/tdamdouni](working-copy://open?repo=SHS/tdamdouni&mode=content)
 - [SNOWDEN/chrome](working-copy://open?repo=SNOWDEN/chrome&mode=content)
-- [SNOWDEN/krusemark](working-copy://open?repo=SNOWDEN/krusemark&mode=content)
 - [Social/bigblue](working-copy://open?repo=Social/bigblue&mode=content)
 - [Social/columbia](working-copy://open?repo=Social/columbia&mode=content)
 - [Social/GuestbookGist](working-copy://open?repo=Social/GuestbookGist&mode=content)

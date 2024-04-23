@@ -1,17 +1,53 @@
-**ot Keys**
-- **⌘/** = Show/Hide Status Bar
-- **⇧⌘T** = Switch to Plain Text View
-- **⌘,** = Preferences
-- **⌘⌥,** = Theme Preferences
-- **⌘⌥⇦⇨** = Tot Switch
-- **⌘0** = Empty Tot
-- **⇧⌘S** = Save File
-- **⌘S** = Save Version
-- **⌥⌘S** = Save Backup
-- **⌥⌘R** = Restore Backup
+**⇥ All About _[DAVÓD](https://davod.golf)_** 
 
 
-**Tools**
-- [ColorHound](http://colorhound.net)
-- [HTML HOUSE](https://html.house)
+`[tot://2`](tot://2%60)
 
+- [1Password Item](https://start.1password.com/open/i?a=IMZ3BUQ3WRBWJDRIVNYONMPBNI&v=e3jr4acnvpzccdodlvjta4rxc4&i=v7alr3aaqt56btp2xn2zlcmvze&h=my.1password.com)
+ 
+**Time-Sensitive**
+
+- [Maintenance Outlook](craftdocs://open?blockId=BA581861-37AB-4AEF-8F18-CE29279E9D54&spaceId=134ea655-f4d8-2d39-2233-6464ab9a36fd)
+
+**Craft Bookmarks**
+
+- [GTI](craftdocs://openspace?spaceId=134ea655-f4d8-2d39-2233-6464ab9a36fd&tab=documents)
+    - [Modifications](craftdocs://open?blockId=e138e930-cc5a-41fc-b202-892355b21299&spaceId=134ea655-f4d8-2d39-2233-6464ab9a36fd)
+    - [davod.golf](craftdocs://open?blockId=4ADC34C7-83E8-4982-B2A6-909BAF8A5F92&spaceId=134ea655-f4d8-2d39-2233-6464ab9a36fd)
+
+**Social**
+
+- [GTI Thread](mona://mastodon.social/@DavidBlue/110808349007423057)
+- [GTI Thread](https://www.threads.net/@asphaltapostle/post/CuzWTfrL8Ir) (Threads)
+
+_Web Bookmarks_
+
+- **[Owner's Manual Online](https://api.ownersmanualvw.com/#/vin/3VW5T7AUXHM022312/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzVlc1VDdBVVhITTAyMjMxMiIsImRlc3RpbmF0aW9uQ29kZSI6IlVTQVVIICAgIEsiLCJkb2N1bWVudHMiOlsiM0cwMDEyNzIzREYiLCI1R00wMTI3MjNBSyJdLCJtb2RlbENvZGUiOiJBVTE5UzIiLCJpc3MiOiJCQk8iLCJ2aW4iOiIzVlc1VDdBVVhITTAyMjMxMiIsImV4cCI6MTcxMTg5OTY2Mn0.vcckjQiO63CmeO-Zm1OCbSs8X1MQdYH75t6CH-MeYl81scLJIlPzRbTT-LpTvzGlKEqWQcp64aJKJmZ742I7ybczxvrorBdE2C-Av2AU3DC0Wf-KCiWSkucX_yFlK3qqtBRmgQ3g_EQoNDpmOnRHInd7573WBJEdA29sOfPnndlzkCooLYNK_eVX6t7C9EdQKyE8G6pS3dGZ2j4jPi7x5c9XMMsPbC6F9OrC3IdrZHx282B-XrRAPO1zOd5gunn8AJIJwHJvXZNKwLZqU5QobYrN27YTzaxNwcF_iN2ljxQgQfiZIjIdVMgNdwFUYhNz6K2pLgnce_m0_h09KNQHuw/lang/en-us)**
+- [MK7 GTI Service Interval Guide Inside - Articles](https://www.shopdap.com/blog/post/service-schedule-for-mk7-gti-2015-2016-html.html)
+- [2017 Golf GTI Press Kit](https://media.vw.com/en-us/press-kits/2017-golf-gti-press-kit)
+- [VW MK7 GTI Oil Change DIY - YouTube](https://www.youtube.com/watch?v=S5eUjUaiHjk)
+- [2017 Volkswagen GTI Dimmer switch. Instrument Light Rheostat. E-Golf. Golf. Golf Alltrack - 5G0941334WHS - Genuine Volkswagen Part](https://parts.vw.com/p/Volkswagen_2017_GTI/Dimmer-switch-Instrument-Light-Rheostat/52645743/5G0941334WHS.html)
+
+_[GTI Tot Dot Theme](craftdocs://open?blockId=C7EF9E49-06B3-46E2-99C1-EC3C170BA96D&spaceId=134ea655-f4d8-2d39-2233-6464ab9a36fd)_
+
+  {
+    "type" : "dot 2",
+    "dark" : {
+      "accent" : "#b3b4b1",
+      "status\_background" : "#111b2e",
+      "text" : "#f4f7f5",
+      "link" : "#ff564f",
+      "background" : "#171c26",
+      "dot" : "#283e68",
+      "status\_text" : "#dde0dd"
+    },
+    "light" : {
+      "accent" : "#7e3f13",
+      "status\_background" : "#bdf2c2",
+      "text" : "#000000",
+      "link" : "#d56a1f",
+      "background" : "#fff2e9",
+      "dot" : "#ed7e2f", 
+      "status\_text" : "#22617e"
+    }
+  },
