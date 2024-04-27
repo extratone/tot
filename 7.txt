@@ -154,7 +154,7 @@
 - lua
 - lynx
 - lz4
-- lzo
+- lz-o
 - m4
 - mbedtls
 - mdless
