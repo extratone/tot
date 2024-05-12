@@ -5,6 +5,9 @@
 – **[Drafts as Task Manager](drafts://open?uuid=00C657D8-54EB-44BC-BFA5-33A919D0E448)**
 – [David Blue's Public Craft Index](craftdocs://open?blockId=1375BA5C-FAD3-4712-B6B6-2B845ADAADDD&spaceId=d64c60d3-b1ba-bda2-5e7a-5c1baae7751f)
 
+– [Import Taio Action from Clipboard](taio://actions?action=import&data=clipboard)
+
+
 **Audio**
 - **[kbia](shortcuts://run-shortcut?name=kbia)**
 - [Discovery Station](https://music.apple.com/us/station/discovery-station/ra.q-GAI6IGQyNTZlOGI0YThlNWU0N2QxYWJiNzBmZjc1N2FhOTVm)
@@ -38,7 +41,7 @@
 **[RoutineHub - Create Shortcut](https://routinehub.co/shortcut/create)**
 
 _New Issues_
-- [i](https://github.com/extratone/i/issues/new/choose)
+- [iz`](https://github.com/extratone/i/issues/new/choose)
 - [bilge](https://github.com/extratone/bilge/issues/new/choose)
 - [drafts](https://github.com/extratone/drafts/issues/new/choose)
 
@@ -171,6 +174,11 @@ _ACQUIRE_
 
 - [GTI Thread](mona://mastodon.social/@DavidBlue/110808349007423057)
 - [GTI Thread](https://www.threads.net/@asphaltapostle/post/CuzWTfrL8Ir) (Threads)
+
+_DEVONThink_
+
+- [Missouri Driver's Guide](x-devonthink-item://CAE1E199-2007-4F8D-8C65-46FABEA7AC9C)
+- [Missouri Commercial Driver License Guide](x-devonthink-item://D99FF281-5426-4C96-8F83-6962D5C891E8)
 
 _Web Bookmarks_
 
@@ -550,287 +558,13 @@ Updated `03262024-044925`
 - [Social/t](working-copy://open?repo=Social/t&mode=content)
 - [Social/youtube](working-copy://open?repo=Social/youtube&mode=content)
 - [UIKeyCommand/openradar](working-copy://open?repo=UIKeyCommand/openradar&mode=content)
-**Brew List**
+**_Goddamned Meditations_**
 
-- abseil
-- antigen
-- aom
-- appstoreconnect-cli
-- aribb24
-- aspell
-- autoconf
-- automake
-- bash
-- bash-completion@2
-- bat
-- bdw-gc
-- berkeley-db
-- bison
-- blueutil
-- boost
-- brotli
-- c-ares
-- ca-certificates
-- cadaver
-- cairo
-- capnp
-- cfitsio
-- cgif
-- chruby
-- cjson
-- cmake
-- coreutils
-- cowsay
-- curl
-- dav1d
-- deno
-- dropbox-uploader
-- elinks
-- enex2notion
-- evernote-backup
-- evernote2md
-- faircamp
-- fff
-- ffmpeg
-- fftw
-- flac
-- fontconfig
-- fortune
-- freetype
-- frei0r
-- fribidi
-- frum
-- fzf
-- fzy
-- gcc
-- gdbm
-- gdk-pixbuf
-- geos
-- gettext
-- gh
-- ghostscript
-- giflib
-- git
-- glib
-- gmp
-- gnupg
-- gnutls
-- go
-- google-sparsehash
-- gooseberry
-- gpgme
-- graphite2
-- gum
-- gumbo-parser
-- harfbuzz
-- hdf5
-- highway
-- htop
-- hwloc
-- icu4c
-- imagemagick
-- imath
-- imessage-ruby
-- internetarchive
-- isl
-- jasper
-- jbig2dec
-- jelly
-- jpeg-turbo
-- jpeg-xl
-- jq
-- jsoncpp
-- jwt-cli
-- lame
-- leptonica
-- libaec
-- libarchive
-- libass
-- libassuan
-- libb2
-- libbluray
-- libcbor
-- libde265
-- libdicom
-- libevent
-- libexif
-- libffi
-- libfido2
-- libgcrypt
-- libgit2
-- libgpg-error
-- libgsf
-- libheif
-- libidn
-- libidn2
-- libimagequant
-- libksba
-- liblinear
-- liblqr
-- libmatio
-- libmicrohttpd
-- libmpc
-- libnghttp2
-- libogg
-- libomp
-- libpng
-- libraw
-- librist
-- librsvg
-- libsamplerate
-- libsndfile
-- libsodium
-- libsoxr
-- libspng
-- libssh2
-- libtasn1
-- libtiff
-- libtool
-- libunibreak
-- libunistring
-- libusb
-- libuv
-- libvidstab
-- libvmaf
-- libvorbis
-- libvpx
-- libx11
-- libxau
-- libxcb
-- libxdmcp
-- libxext
-- libxml2
-- libxrender
-- libyaml
-- little-cms2
-- lua
-- lynx
-- lz4
-- lz-o
-- m4
-- mbedtls
-- mdless
-- micro
-- mosh
-- mozjpeg
-- mpdecimal
-- mpfr
-- mpg123
-- mujs
-- multimarkdown
-- mupdf
-- mysql
-- nb
-- ncurses
-- neon
-- nettle
-- newman
-- newrelic-infra-agent
-- ninja
-- nmap
-- node
-- npth
-- nspr
-- nss
-- oniguruma
-- open-mpi
-- openapi-generator
-- opencore-amr
-- openexr
-- openjdk@11
-- openjpeg
-- openldap
-- openslide
-- openssl@1.1
-- openssl@3
-- opus
-- orc
-- p11-kit
-- pandoc
-- pango
-- pcre
-- pcre2
-- perl
-- pinentry
-- pixman
-- pkg-config
-- pmix
-- pnpm
-- poppler
-- protobuf
-- protobuf@21
-- pygments
-- pymupdf
-- python-brotli
-- python-certifi
-- python-click
-- python-lxml
-- python-mutagen
-- python-setuptools
-- python@3.11
-- python@3.12
-- ragel
-- rav1e
-- readline
-- redis
-- ripgrep
-- rtmpdump
-- rubberband
-- ruby
-- ruby-install
-- sdl2
-- shared-mime-info
-- shellcheck
-- six
-- snappy
-- so
-- speedtest-cli
-- speex
-- sqlite
-- srt
-- svt-av1
-- tcpstat
-- tesseract
-- theora
-- tig
-- tmux
-- toot
-- twitch-cli
-- unbound
-- utf8proc
-- uthash
-- vips
-- w3m
-- waybackpy
-- webarchiver
-- webp
-- weechat
-- wget
-- x264
-- x265
-- xorgproto
-- xvid
-- xz
-- yasm
-- youtube-dl
-- yt-dlp
-- zeromq
-- zimg
-- zlib
-- zstd
-- 1password-cli
-- audacity
-- cheatsheet
-- chromium
-- cyberduck
-- devonthink
-- google-earth-pro
-- josm
-- karabiner-elements
-- mp3tag
-- raindropio
-- soulver-cli
-- spotify
-- swiftdefaultappsprefpane
-- vlc
-s
+- Early Sunday mornings remain the best possible time to go for a drive.
+
+$
+
+**Resume**
+
+- [Repo File](https://github.com/extratone/resume/blob/main/davidkrusemark.md)
+- [Local File](working-copy://x-callback-url/read?key=LWJDCLV8BD&repo=resume&type=auto&clipboard=yes&path=davidkrusemark.md)
