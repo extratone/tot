@@ -160,10 +160,10 @@ _ACQUIRE_
 
 `[tot://2`](tot://2%60)
 
-- [1Password Item](https://start.1password.com/open/i?a=IMZ3BUQ3WRBWJDRIVNYONMPBNI&v=e3jr4acnvpzccdodlvjta4rxc4&i=v7alr3aaqt56btp2xn2zlcmvze&h=my.1password.com)
- 
-**Time-Sensitive**
+- [1Password Item](onepassword://open/i?a=IMZ3BUQ3WRBWJDRIVNYONMPBNI&h=my.1password.com&i=v7alr3aaqt56btp2xn2zlcmvze&v=e3jr4acnvpzccdodlvjta4rxc4)
 
+**Time-Sensitive**
+<https://start.1password.com/open/i?a=IMZ3BUQ3WRBWJDRIVNYONMPBNI&v=2pwdrctxvcufgyh6ijgs5wym6u&i=ocl6zp6g5yf7cgh4cfvvmx7fsm&h=my.1password.com>
 - [Maintenance Outlook](craftdocs://open?blockId=BA581861-37AB-4AEF-8F18-CE29279E9D54&spaceId=134ea655-f4d8-2d39-2233-6464ab9a36fd)
 
 **Craft Bookmarks**
@@ -219,7 +219,7 @@ _[GTI Tot Dot Theme](craftdocs://open?blockId=C7EF9E49-06B3-46E2-99C1-EC3C170BA9
 
 [file:///Users/blue/Library/Group%20](file:///Users/blue/Library/Group)Containers/JLMPQHK86H.com.culturedcode.ThingsMac/Things%20Database.thingsdatabase/main.sqlite
 
-- [Things sqlite Database](<file:///Users/blue/Library/Group> Containers/JLMPQHK86H.com.culturedcode.ThingsMac/Things%20Database.thingsdatabase/main.sqlite)
+- [Things sqlite Database](<file:///Users/blue/Library/Group>%20Containers/JLMPQHK86H.com.culturedcode.ThingsMac/Things%20Database.thingsdatabase/main.sqlite)
 - [Safari Bookmarks](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Safari%20Bookmarks.html)
 - [Text Substitutions](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Text%20Substitutions.plist)
 [
@@ -334,232 +334,520 @@ The value of text parameter will be filled into the search bar.
 
 **Odette Applications Index**
 
-*Last updated 10162023-152629*
+*Last updated 05182024-101106*
 
-1. _shellfish_uploading_5586829648016392241
-2. 1Password
-3. 1Password for Safari
-4. Actions
+*Applications*
+
+1. 1Password
+2. 1Password for Safari
+3. Actions
+4. AdaptivityA
 5. Adobe Acrobat DC
 6. Adobe Creative Cloud
-7. AppCleaner
-8. Are.na for Safari
-9. Audacity
-10. Avenue
-11. BEEP6
-12. Beeper
-13. Cardhop
-14. Chromium
-15. CodeCows
-16. Color Picker
-17. Crunch
-18. Cyberduck
-19. Data Jar
-20. Day One
-21. Developer
-22. Discord
-23. Drafts
-24. Fantastical
-25. Gifski
-26. GitHub Desktop
-27. Google Earth Pro
-28. Homecoming for Mastodon
-29. HotKey
-30. HTTPBot
-31. iA Presenter
-32. Image2Icon
-33. inRoute
-34. Interact Scratchpad
-35. Jayson
-36. Karabiner-Elements
-37. Karabiner-EventViewer
-38. Keka
-39. Keybase
-40. Last.fm
-41. Logger
-42. Mactracker
-43. Magnet
-44. Marked 2
-45. MassReplaceIt
-46. Mastonaut
-47. Mona
-48. Mp3tag
-49. NetNewsWire
-50. Noir
-51. Numbers
-52. Obsidian
-53. OnyX
-54. Pages
-55. Parcel
-56. Paste
-57. Prefs Editor
-58. Refined GitHub
-59. RSS Button for Safari
-60. Safari
-61. safaritabstomd
-62. Save to Raindrop.io
-63. Scriptable
-64. SensibleSideButtons
-65. SF Symbols
-66. Shane's Script Library Pack
-67. Simplenote
-68. SnippetsLab
-69. Soulver 3
-70. Speediness
-71. StopTheMadness
-72. Super Agent
-73. SystHist
-74. Telegram
-75. TestFlight
-76. Text Case
-77. Textcraft
-78. TextExpander
-79. TextMate
-80. The Unarchiver
-81. Things3Beta
-82. Timery
-83. Tot
-84. tyke
-85. Typewriter
-86. Userscripts
-87. UTC Time
-88. Utilities
-89. Wayback Machine
-90. Wipr
-91. WorldWideWeb
-92. WriteFreely for Mac
-93. Xcode
+7. Adobe Illustrator 2024
+8. Adobe InDesign 2024
+9. Adobe Media Encoder 2024
+10. AlignmentForXcode
+11. AppCleaner
+12. Apple Configurator
+13. Are.na for Safari
+14. Audacity
+15. Avenue
+16. BEEP6
+17. Box
+18. calibre
+19. Capacities
+20. Cardhop
+21. CheatSheet
+22. Chromium
+23. Clone in VS Code
+24. CodeCows
+25. Color Picker
+26. Comments Owl for Hacker News
+27. Craft
+28. craftythingshelper
+29. Cyberduck
+30. Data Jar
+31. DetailsPro
+32. Developer
+33. Dictionaries
+34. Discord
+35. Evernote Legacy
+36. Fabula
+37. Fantastical
+38. Game Controller Tester
+39. Geekbench 6
+40. Gifski
+41. GIMP
+42. GitHub Desktop
+43. Go Map!!
+44. HEY
+45. Homecoming for Mastodon
+46. HotKey
+47. HTTPBot
+48. IINA
+49. Image2Icon
+50. iMazing
+51. inRoute
+52. Interact Scratchpad
+53. Jayson
+54. JOSM
+55. Kagi for Safari
+56. Karabiner-Elements
+57. Karabiner-EventViewer
+58. Keka
+59. Key Codes
+60. Last.fm
+61. Local
+62. Logger
+63. Mactracker
+64. Magnet
+65. MarkDownload - Markdown Web Clipper
+66. Marked 2
+67. MassReplaceIt
+68. Mastonaut
+69. Micro.blog
+70. Mp3tag
+71. Nautomate
+72. NetNewsWire
+73. Noir
+74. Numbers
+75. Obsidian
+76. OnyX
+77. Orion
+78. Pages
+79. Panda
+80. Parcel
+81. Paste
+82. Pastel
+83. Pastery for Xcode
+84. Postman
+85. Prefs Editor
+86. Refined GitHub
+87. RSS Button for Safari
+88. Safari
+89. safaritabstomd
+90. Save to Raindrop.io
+91. Scrobbles for Last.fm
+92. SensibleSideButtons
+93. SF Symbols
+94. Shane's Script Library Pack
+95. Shareful
+96. Simplenote
+97. SnippetsLab
+98. Soulver 2
+99. Speediness
+100. SQLiteStudio
+101. SQLiteStudio
+102. StopTheMadness
+103. Super Agent
+104. SystHist
+105. Telegram
+106. TestFlight
+107. Text Case
+108. Textcraft
+109. TextExpander
+110. TextMate
+111. The Unarchiver
+112. Things3Beta
+113. TiddlyDesktop
+114. Timery
+115. Tot
+116. tyke
+117. Typewriter
+118. Typora
+119. UlyssesMac
+120. usdpython
+121. Userscripts
+122. Utilities
+123. Visual Studio Code
+124. Wayback Machine
+125. Wipr
+126. WorldWideWeb
+127. WriteFreely for Mac
+128. Xcode
+129. Zed
 
 
-- [](drafts://open?uuid=F347787D-9A34-4178-AF8E-ACB69D59C898)
+*Homebrew*
 
-- [vagary](drafts://open?uuid=EEB5C0F0-48B4-45AF-A8A7-4FCE5DDCBE03)
+1. abseil
+2. antigen
+3. aom
+4. apache-arrow
+5. appstoreconnect-cli
+6. aribb24
+7. aspell
+8. autoconf
+9. automake
+10. aws-sdk-cpp
+11. bash
+12. bash-completion@2
+13. bat
+14. bdw-gc
+15. berkeley-db@5
+16. bison
+17. blueutil
+18. boost
+19. brew-gem
+20. brotli
+21. bzip2
+22. c-ares
+23. ca-certificates
+24. cadaver
+25. cairo
+26. capnp
+27. certifi
+28. cfitsio
+29. cgal
+30. cgif
+31. chruby
+32. cjson
+33. cmake
+34. coreutils
+35. cowsay
+36. curl
+37. dav1d
+38. deno
+39. dropbox-uploader
+40. eigen
+41. elinks
+42. enex2notion
+43. epsilon
+44. evernote-backup
+45. evernote2md
+46. expat
+47. faircamp
+48. fff
+49. ffmpeg
+50. fftw
+51. flac
+52. fmt
+53. fontconfig
+54. fortune
+55. freetype
+56. freexl
+57. frei0r
+58. fribidi
+59. frum
+60. fx-upscale
+61. fzf
+62. fzy
+63. gcc
+64. gdal
+65. gdbm
+66. gdk-pixbuf
+67. gem-curlyq
+68. geos
+69. gettext
+70. gflags
+71. gh
+72. ghostscript
+73. giflib
+74. git
+75. glib
+76. glog
+77. gmp
+78. gnupg
+79. gnutls
+80. google-sparsehash
+81. gooseberry
+82. gpgme
+83. graphite2
+84. grpc
+85. gum
+86. gumbo-parser
+87. harfbuzz
+88. hdf5
+89. highway
+90. htop
+91. hwloc
+92. icu4c
+93. imagemagick
+94. imath
+95. imessage-ruby
+96. internetarchive
+97. ipinfo-cli
+98. isl
+99. jasper
+100. jbig2dec
+101. jelly
+102. jpeg-turbo
+103. jpeg-xl
+104. jq
+105. json-c
+106. jsoncpp
+107. jwt-cli
+108. krb5
+109. lame
+110. leptonica
+111. lftp
+112. libaec
+113. libarchive
+114. libass
+115. libassuan
+116. libb2
+117. libbluray
+118. libcbor
+119. libde265
+120. libdicom
+121. libevent
+122. libexif
+123. libffi
+124. libfido2
+125. libgcrypt
+126. libgeotiff
+127. libgit2
+128. libgpg-error
+129. libheif
+130. libidn
+131. libidn2
+132. libimagequant
+133. libkml
+134. libksba
+135. liblerc
+136. liblinear
+137. liblqr
+138. libmatio
+139. libmicrohttpd
+140. libmpc
+141. libnghttp2
+142. libogg
+143. libomp
+144. libpng
+145. libpq
+146. libraqm
+147. libraw
+148. librist
+149. librsvg
+150. librttopo
+151. libsamplerate
+152. libsndfile
+153. libsodium
+154. libsoxr
+155. libspatialite
+156. libspng
+157. libssh
+158. libssh2
+159. libtasn1
+160. libtiff
+161. libtool
+162. libunibreak
+163. libunistring
+164. libusb
+165. libuv
+166. libvidstab
+167. libvmaf
+168. libvorbis
+169. libvpx
+170. libx11
+171. libxau
+172. libxcb
+173. libxdmcp
+174. libxext
+175. libxml2
+176. libxrender
+177. libyaml
+178. little-cms2
+179. llvm
+180. lua
+181. lynx
+182. lz4
+183. lzo
+184. m4
+185. mas
+186. mbedtls
+187. mdless
+188. micro
+189. minizip
+190. moreutils
+191. mosh
+192. mozjpeg
+193. mpdecimal
+194. mpfr
+195. mpg123
+196. mujs
+197. multimarkdown
+198. mupdf
+199. mysql
+200. nb
+201. ncurses
+202. neon
+203. netcdf
+204. nettle
+205. newman
+206. newrelic-infra-agent
+207. ninja
+208. nmap
+209. node
+210. npth
+211. nspr
+212. nss
+213. numpy
+214. oniguruma
+215. open-mpi
+216. openapi-generator
+217. openblas
+218. opencore-amr
+219. openexr
+220. openjdk@11
+221. openjpeg
+222. openldap
+223. openslide
+224. openssl@1.1
+225. openssl@3
+226. openvino
+227. opus
+228. p11-kit
+229. pandoc
+230. pango
+231. pcre2
+232. perl
+233. pillow
+234. pinentry
+235. pixman
+236. pkg-config
+237. pmix
+238. pnpm
+239. poppler
+240. popt
+241. postgis
+242. postgresql@14
+243. proftpd
+244. proj
+245. protobuf
+246. protobuf-c
+247. protobuf@21
+248. pst
+249. pugixml
+250. pygments
+251. pymupdf
+252. python-certifi
+253. python-click
+254. python-packaging
+255. python-setuptools
+256. python@3.11
+257. python@3.12
+258. qhull
+259. ragel
+260. rapidjson
+261. rav1e
+262. rbspy
+263. re2
+264. readline
+265. redis
+266. ripgrep
+267. rtmpdump
+268. rubberband
+269. ruby
+270. ruby-install
+271. sdl2
+272. sfcgal
+273. shared-mime-info
+274. shellcheck
+275. snappy
+276. so
+277. speedtest-cli
+278. speex
+279. sqlite
+280. srt
+281. svt-av1
+282. tbb
+283. tcl-tk
+284. tcpstat
+285. tesseract
+286. theora
+287. thrift
+288. tig
+289. tmux
+290. toot
+291. twitch-cli
+292. unbound
+293. unixodbc
+294. uriparser
+295. utf8proc
+296. uthash
+297. vcpkg
+298. vips
+299. w3m
+300. waybackpy
+301. webarchiver
+302. webkit2png
+303. webp
+304. weechat
+305. wget
+306. wiki
+307. x264
+308. x265
+309. xerces-c
+310. xorgproto
+311. xvid
+312. xz
+313. yasm
+314. youtube-dl
+315. yt-dlp
+316. z3
+317. zeromq
+318. zimg
+319. zlib
+320. zstd
+321. 1password-cli
+322. audacity
+323. calibre
+324. cheatsheet
+325. chromium
+326. cyberduck
+327. devonthink
+328. dupeguru
+329. emojipedia
+330. gimp
+331. google-earth-pro
+332. iina
+333. josm
+334. karabiner-elements
+335. kid3
+336. nheko
+337. obsidian
+338. phantomjs
+339. raindropio
+340. soulver-cli
+341. spotify
+342. sqlitestudio
+343. swiftdefaultappsprefpane
+344. typora
+
 **Working Copy Index**
-Updated `03262024-044925`
+Updated `05222024-143947`
 
-- [as](working-copy://open?repo=as&mode=content)
-- [bigblue](working-copy://open?repo=bigblue&mode=content)
 - [bilge](working-copy://open?repo=bilge&mode=content)
-- [chaff](working-copy://open?repo=chaff&mode=content)
-- [columbia](working-copy://open?repo=columbia&mode=content)
-- [dots](working-copy://open?repo=dots&mode=content)
-- [Export-c1cad69e-db6d-499f-b99e-89aedfb19d7d](working-copy://open?repo=Export-c1cad69e-db6d-499f-b99e-89aedfb19d7d&mode=content)
-- [gti](working-copy://open?repo=gti&mode=content)
 - [i](working-copy://open?repo=i&mode=content)
 - [iOSSystemSounds](working-copy://open?repo=iOSSystemSounds&mode=content)
-- [jar](working-copy://open?repo=jar&mode=content)
 - [js](working-copy://open?repo=js&mode=content)
-- [jsbox-docs](working-copy://open?repo=jsbox-docs&mode=content)e
-- [mastodon-ios-apps](working-copy://open?repo=mastodon-ios-apps&mode=content)
-- [open-source-ios-apps](working-copy://open?repo=open-source-ios-apps&mode=content)
-- [resume](working-copy://open?repo=resume&mode=content)
-- [snowden](working-copy://open?repo=snowden&mode=content)
-- [taio](working-copy://open?repo=taio&mode=content)
-- [TextExpander](working-copy://open?repo=TextExpander&mode=content)
-- [tilde](working-copy://open?repo=tilde&mode=content)
 - [tot](working-copy://open?repo=tot&mode=content)
-- [Vocabulary Gist](<working-copy://open?repo=Vocabulary> Gist&mode=content)
-- [w3](working-copy://open?repo=w3&mode=content)
-- [wordprocessors](working-copy://open?repo=wordprocessors&mode=content)
-- [Auto/cartography](working-copy://open?repo=Auto/cartography&mode=content)
-- [Auto/dieselgoth](working-copy://open?repo=Auto/dieselgoth&mode=content)
-- [Auto/inRoute](working-copy://open?repo=Auto/inRoute&mode=content)
-- [Auto/notion](working-copy://open?repo=Auto/notion&mode=content)
-- [Auto/obd](working-copy://open?repo=Auto/obd&mode=content)
-- [Auto/OsmAnd-iOS](working-copy://open?repo=Auto/OsmAnd-iOS&mode=content)
-- [Auto/ourairports-data](working-copy://open?repo=Auto/ourairports-data&mode=content)
-- [Auto/soundaktor](working-copy://open?repo=Auto/soundaktor&mode=content)
-- [Configuration/davodtime](working-copy://open?repo=Configuration/davodtime&mode=content)
-- [Configuration/DetailsPro](working-copy://open?repo=Configuration/DetailsPro&mode=content)
-- [Configuration/EditorialWorkflowsAPI](working-copy://open?repo=Configuration/EditorialWorkflowsAPI&mode=content)
-- [Configuration/jumbo](working-copy://open?repo=Configuration/jumbo&mode=content)
-- [Configuration/MonaSettings](working-copy://open?repo=Configuration/MonaSettings&mode=content)
-- [Configuration/plugins](working-copy://open?repo=Configuration/plugins&mode=content)
-- [Configuration/snippets](working-copy://open?repo=Configuration/snippets&mode=content)
-- [Configuration/tiddlylatte](working-copy://open?repo=Configuration/tiddlylatte&mode=content)
-- [Documentation/Documentation](working-copy://open?repo=Documentation/Documentation&mode=content)
-- [Documentation/juno](working-copy://open?repo=Documentation/juno&mode=content)
-- [Drafts/drafts](working-copy://open?repo=Drafts/drafts&mode=content)
-- [Drafts/themes](working-copy://open?repo=Drafts/themes&mode=content)
-- [Gist/3604700](working-copy://open?repo=Gist/3604700&mode=content)
-- [Gist/a-Shell Configuration Gist](<working-copy://open?repo=Gist/a-Shell> Configuration Gist&mode=content)
-- [Gist/AppWish Gist](<working-copy://open?repo=Gist/AppWish> Gist&mode=content)
-- [Gist/Astrology Reference Gist](<working-copy://open?repo=Gist/Astrology> Reference Gist&mode=content)
-- [Gist/Blessed Web Utilities Gist](<working-copy://open?repo=Gist/Blessed> Web Utilities Gist&mode=content)
-- [Gist/Blink Themes Gist](<working-copy://open?repo=Gist/Blink> Themes Gist&mode=content)
-- [Gist/Command Browser Gist](<working-copy://open?repo=Gist/Command> Browser Gist&mode=content)
-- [Gist/Contacts Private Backup Gist](<working-copy://open?repo=Gist/Contacts> Private Backup Gist&mode=content)
-- [Gist/DavodTime Gist](<working-copy://open?repo=Gist/DavodTime> Gist&mode=content)
-- [Gist/Drafts Export Gist](<working-copy://open?repo=Gist/Drafts> Export Gist&mode=content)
-- [Gist/Google Scholar Citations Gist](<working-copy://open?repo=Gist/Google> Scholar Citations Gist&mode=content)
-- [Gist/GTI Fuel Log Gist](<working-copy://open?repo=Gist/GTI> Fuel Log Gist&mode=content)
-- [Gist/HiResTweet Gist](<working-copy://open?repo=Gist/HiResTweet> Gist&mode=content)
-- [Gist/iSH Themes Gist](<working-copy://open?repo=Gist/iSH> Themes Gist&mode=content)
-- [Gist/Mastodon Bookmarks Gist](<working-copy://open?repo=Gist/Mastodon> Bookmarks Gist&mode=content)
-- [Gist/Mastodon Following Gist](<working-copy://open?repo=Gist/Mastodon> Following Gist&mode=content)
-- [Gist/Mona 6 Actions Gist](<working-copy://open?repo=Gist/Mona> 6 Actions Gist&mode=content)
-- [Gist/MusicHarbor Artists Gist](<working-copy://open?repo=Gist/MusicHarbor> Artists Gist&mode=content)
-- [Gist/Net Analyzer Gist](<working-copy://open?repo=Gist/Net> Analyzer Gist&mode=content)
-- [Gist/NetNewsWire Subscriptions Gist](<working-copy://open?repo=Gist/NetNewsWire> Subscriptions Gist&mode=content)
-- [Gist/Obsidian Web Clipper](<working-copy://open?repo=Gist/Obsidian> Web Clipper&mode=content)
-- [Gist/Podcast Subscriptions Gist](<working-copy://open?repo=Gist/Podcast> Subscriptions Gist&mode=content)
-- [Gist/Reading List Gist](<working-copy://open?repo=Gist/Reading> List Gist&mode=content)
-- [Gist/Recon Gist](<working-copy://open?repo=Gist/Recon> Gist&mode=content)
-- [Gist/Redirection Gist](<working-copy://open?repo=Gist/Redirection> Gist&mode=content)
-- [Gist/Rolodex Gist](<working-copy://open?repo=Gist/Rolodex> Gist&mode=content)
-- [Gist/Secure ShellFish Snippets Gist](<working-copy://open?repo=Gist/Secure> ShellFish Snippets Gist&mode=content)
-- [Gist/SnapChat Data Gist](<working-copy://open?repo=Gist/SnapChat> Data Gist&mode=content)
-- [Gist/Text Replacements Gist](<working-copy://open?repo=Gist/Text> Replacements Gist&mode=content)
-- [Gist/Things Log Gist](<working-copy://open?repo=Gist/Things> Log Gist&mode=content)
-- [Gist/Unicode Names List Gist](<working-copy://open?repo=Gist/Unicode> Names List Gist&mode=content)
-- [Gist/Uses This Gist](<working-copy://open?repo=Gist/Uses> This Gist&mode=content)
-- [Gist/VisualizeAudioSourceGist](working-copy://open?repo=Gist/VisualizeAudioSourceGist&mode=content)
-- [Gist/Weechat Logs Gist](<working-copy://open?repo=Gist/Weechat> Logs Gist&mode=content)
-- [Gist/wget Gist](<working-copy://open?repo=Gist/wget> Gist&mode=content)
-- [Hardware/coolpix](working-copy://open?repo=Hardware/coolpix&mode=content)
-- [Hardware/jorts](working-copy://open?repo=Hardware/jorts&mode=content)
-- [Hardware/midnight](working-copy://open?repo=Hardware/midnight&mode=content)
-- [Hardware/odette](working-copy://open?repo=Hardware/odette&mode=content)
-- [ii/a-Shell-commands](working-copy://open?repo=ii/a-Shell-commands&mode=content)
-- [ii/CoreMLCompiler.swiftpm](working-copy://open?repo=ii/CoreMLCompiler.swiftpm&mode=content)
-- [ii/datajar](working-copy://open?repo=ii/datajar&mode=content)
-- [ii/DevToys.swiftpm](working-copy://open?repo=ii/DevToys.swiftpm&mode=content)
-- [ii/editorial](working-copy://open?repo=ii/editorial&mode=content)
-- [ii/feedback](working-copy://open?repo=ii/feedback&mode=content)
-- [ii/GameOfLife.swiftpm](working-copy://open?repo=ii/GameOfLife.swiftpm&mode=content)
-- [ii/ios-settings-urls](working-copy://open?repo=ii/ios-settings-urls&mode=content)
-- [ii/jellycuts](working-copy://open?repo=ii/jellycuts&mode=content)
-- [ii/Playgrounds](working-copy://open?repo=ii/Playgrounds&mode=content)
-- [ii/ringtones](working-copy://open?repo=ii/ringtones&mode=content)
-- [ii/routinehub](working-copy://open?repo=ii/routinehub&mode=content)
-- [ii/Scriptable](working-copy://open?repo=ii/Scriptable&mode=content)
-- [ii/shortcuts](working-copy://open?repo=ii/shortcuts&mode=content)
-- [ii/toggl](working-copy://open?repo=ii/toggl&mode=content)
+- [welcome to working copy](working-copy://open?repo=welcome to working copy&mode=content)
+- [Cartography/geocompy](working-copy://open?repo=Cartography/geocompy&mode=content)
+- [Configuration/RetroArchconfig](working-copy://open?repo=Configuration/RetroArchconfig&mode=content)
+- [Configuration/Warzone Config](working-copy://open?repo=Configuration/Warzone Config&mode=content)
+- [Documentation/GDPRtoMarkDownGrabber](working-copy://open?repo=Documentation/GDPRtoMarkDownGrabber&mode=content)
+- [Documentation/WebKit Documentation](working-copy://open?repo=Documentation/WebKit Documentation&mode=content)
+- [Gist/a-Shell Appearance Gist](working-copy://open?repo=Gist/a-Shell Appearance Gist&mode=content)
+- [Gist/Contact Card Gist](working-copy://open?repo=Gist/Contact Card Gist&mode=content)
+- [Gist/Redirection Gist](working-copy://open?repo=Gist/Redirection Gist&mode=content)
+- [Gist/ShellFish Snippets Gist](working-copy://open?repo=Gist/ShellFish Snippets Gist&mode=content)
+- [Hardware/kudzu](working-copy://open?repo=Hardware/kudzu&mode=content)
+- [ii/drafts](working-copy://open?repo=ii/drafts&mode=content)
+- [ii/Jellycuts](working-copy://open?repo=ii/Jellycuts&mode=content)
+- [ii/odette](working-copy://open?repo=ii/odette&mode=content)
+- [ii/taio](working-copy://open?repo=ii/taio&mode=content)
 - [ii/userscripts](working-copy://open?repo=ii/userscripts&mode=content)
-- [JFA/bilge](working-copy://open?repo=JFA/bilge&mode=content)
-- [JFA/chastity](working-copy://open?repo=JFA/chastity&mode=content)
-- [JFA/gpt](working-copy://open?repo=JFA/gpt&mode=content)
-- [JFA/ihadtopee](working-copy://open?repo=JFA/ihadtopee&mode=content)
-- [JFA/kjvmd](working-copy://open?repo=JFA/kjvmd&mode=content)
-- [JFA/test](working-copy://open?repo=JFA/test&mode=content)
 - [Meta/extratone](working-copy://open?repo=Meta/extratone&mode=content)
-- [Meta/itty](working-copy://open?repo=Meta/itty&mode=content)
-- [Meta/latte](working-copy://open?repo=Meta/latte&mode=content)
-- [Private/tilde](working-copy://open?repo=Private/tilde&mode=content)
-- [SHS/periscope](working-copy://open?repo=SHS/periscope&mode=content)
-- [SHS/tdamdouni](working-copy://open?repo=SHS/tdamdouni&mode=content)
-- [SNOWDEN/chrome](working-copy://open?repo=SNOWDEN/chrome&mode=content)
+- [Meta/resume](working-copy://open?repo=Meta/resume&mode=content)
 - [Social/bigblue](working-copy://open?repo=Social/bigblue&mode=content)
-- [Social/columbia](working-copy://open?repo=Social/columbia&mode=content)
-- [Social/GuestbookGist](working-copy://open?repo=Social/GuestbookGist&mode=content)
-- [Social/jab](working-copy://open?repo=Social/jab&mode=content)
-- [Social/mastodon-init](working-copy://open?repo=Social/mastodon-init&mode=content)
-- [Social/meetings](working-copy://open?repo=Social/meetings&mode=content)
-- [Social/rolodex](working-copy://open?repo=Social/rolodex&mode=content)
-- [Social/RoutineChatGist](working-copy://open?repo=Social/RoutineChatGist&mode=content)
+- [Social/gametrack](working-copy://open?repo=Social/gametrack&mode=content)
+- [Social/letterboxd](working-copy://open?repo=Social/letterboxd&mode=content)
+- [Social/microblog](working-copy://open?repo=Social/microblog&mode=content)
 - [Social/t](working-copy://open?repo=Social/t&mode=content)
-- [Social/youtube](working-copy://open?repo=Social/youtube&mode=content)
-- [UIKeyCommand/openradar](working-copy://open?repo=UIKeyCommand/openradar&mode=content)
+- [Social/userscripts](working-copy://open?repo=Social/userscripts&mode=content)
 **_Goddamned Meditations_**
 
 - Early Sunday mornings remain the best possible time to go for a drive.
@@ -570,3 +858,7 @@ $
 
 - [Repo File](https://github.com/extratone/resume/blob/main/davidkrusemark.md)
 - [Local File](working-copy://x-callback-url/read?key=LWJDCLV8BD&repo=resume&type=auto&clipboard=yes&path=davidkrusemark.md)
+- 
+
+
+
