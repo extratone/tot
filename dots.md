@@ -8,6 +8,7 @@
 – [David Blue's Public Craft Index](craftdocs://open?blockId=1375BA5C-FAD3-4712-B6B6-2B845ADAADDD&spaceId=d64c60d3-b1ba-bda2-5e7a-5c1baae7751f)
 
 – [Import Taio Action from Clipboard](taio://actions?action=import&data=clipboard)
+– [Final Cut Pro for iPad User Guide](https://support.apple.com/guide/final-cut-pro-ipad/welcome/ipados)
 
 
 **Audio**
@@ -835,7 +836,7 @@ The value of text parameter will be filled into the search bar.
 355. unetbootin
 
 **Working Copy Index**
-Updated `05222024-143947`
+Updated `06162024-224258`
 
 - [bilge](working-copy://open?repo=bilge&mode=content)
 - [i](working-copy://open?repo=i&mode=content)
@@ -844,28 +845,36 @@ Updated `05222024-143947`
 - [tot](working-copy://open?repo=tot&mode=content)
 - [welcome to working copy](working-copy://open?repo=welcome to working copy&mode=content)
 - [Cartography/geocompy](working-copy://open?repo=Cartography/geocompy&mode=content)
+- [Cartography/prettymaps](working-copy://open?repo=Cartography/prettymaps&mode=content)
+- [Configuration/davodtime](working-copy://open?repo=Configuration/davodtime&mode=content)
 - [Configuration/RetroArchconfig](working-copy://open?repo=Configuration/RetroArchconfig&mode=content)
 - [Configuration/Warzone Config](working-copy://open?repo=Configuration/Warzone Config&mode=content)
 - [Documentation/GDPRtoMarkDownGrabber](working-copy://open?repo=Documentation/GDPRtoMarkDownGrabber&mode=content)
 - [Documentation/WebKit Documentation](working-copy://open?repo=Documentation/WebKit Documentation&mode=content)
 - [Gist/a-Shell Appearance Gist](working-copy://open?repo=Gist/a-Shell Appearance Gist&mode=content)
+- [Gist/a-Shell Toolbar Configuration](working-copy://open?repo=Gist/a-Shell Toolbar Configuration&mode=content)
 - [Gist/Contact Card Gist](working-copy://open?repo=Gist/Contact Card Gist&mode=content)
+- [Gist/Mona Settings Gist](working-copy://open?repo=Gist/Mona Settings Gist&mode=content)
 - [Gist/Redirection Gist](working-copy://open?repo=Gist/Redirection Gist&mode=content)
 - [Gist/ShellFish Snippets Gist](working-copy://open?repo=Gist/ShellFish Snippets Gist&mode=content)
 - [Hardware/kudzu](working-copy://open?repo=Hardware/kudzu&mode=content)
+- [ii/David Blue.swiftpm](working-copy://open?repo=ii/David Blue.swiftpm&mode=content)
 - [ii/drafts](working-copy://open?repo=ii/drafts&mode=content)
 - [ii/Jellycuts](working-copy://open?repo=ii/Jellycuts&mode=content)
 - [ii/odette](working-copy://open?repo=ii/odette&mode=content)
+- [ii/RoutineHub Backup](working-copy://open?repo=ii/RoutineHub Backup&mode=content)
 - [ii/taio](working-copy://open?repo=ii/taio&mode=content)
 - [ii/userscripts](working-copy://open?repo=ii/userscripts&mode=content)
 - [Meta/extratone](working-copy://open?repo=Meta/extratone&mode=content)
 - [Meta/resume](working-copy://open?repo=Meta/resume&mode=content)
+- [Social/AppleMusic](working-copy://open?repo=Social/AppleMusic&mode=content)
 - [Social/bigblue](working-copy://open?repo=Social/bigblue&mode=content)
 - [Social/gametrack](working-copy://open?repo=Social/gametrack&mode=content)
 - [Social/letterboxd](working-copy://open?repo=Social/letterboxd&mode=content)
 - [Social/microblog](working-copy://open?repo=Social/microblog&mode=content)
 - [Social/t](working-copy://open?repo=Social/t&mode=content)
 - [Social/userscripts](working-copy://open?repo=Social/userscripts&mode=content)
+- [Style/purity](working-copy://open?repo=Style/purity&mode=content)
 **_Goddamned Meditations_**
 
 - Early Sunday mornings remain the best possible time to go for a drive.
@@ -879,5 +888,6 @@ $
 - 
 
 
+[Message](message:%3CpYyqz000000000000000000000000000000000000000000000SEQ6QE00zfsQeh5uT-SUGfLQtYqhdg@sfdc.net%3E)
 
-<message:%3CpYyqz000000000000000000000000000000000000000000000SEQ6QE00zfsQeh5uT-SUGfLQtYqhdg@sfdc.net%3E>
+[Planned Road Work for Mid-Missouri  June 17 - 23, 2024](message:%3C194838799.1727.1718385617614@GHSCWASWP01%3E)

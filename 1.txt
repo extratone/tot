@@ -8,6 +8,7 @@
 – [David Blue's Public Craft Index](craftdocs://open?blockId=1375BA5C-FAD3-4712-B6B6-2B845ADAADDD&spaceId=d64c60d3-b1ba-bda2-5e7a-5c1baae7751f)
 
 – [Import Taio Action from Clipboard](taio://actions?action=import&data=clipboard)
+– [Final Cut Pro for iPad User Guide](https://support.apple.com/guide/final-cut-pro-ipad/welcome/ipados)
 
 
 **Audio**
