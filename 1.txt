@@ -20,7 +20,7 @@
 - _[Audio Messages](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Audio/Audio%20Messages)_
 
 **Threads**
-- _[17](mona://mastodon.social/@DavidBlue/110518482239210073)_
+- _[18](mona://mastodon.social/@DavidBlue/112774594021576629)_
 - **[Speedtest Thread](ivory://acct/openURL?url=https://mastodon.social/@DavidBlue/107933050706028168) (Mastodon)**
 - [Speedtest Thread](https://www.threads.net/@asphaltapostle/post/CvUkur9uEiT) (Threads)
 - [GTI Thread](mona://mastodon.social/@DavidBlue/110808349007423057)
