@@ -4,13 +4,14 @@
 `[tot://2`](tot://2%60)
 
 - [1Password Item](onepassword://open/i?a=IMZ3BUQ3WRBWJDRIVNYONMPBNI&h=my.1password.com&i=v7alr3aaqt56btp2xn2zlcmvze&v=e3jr4acnvpzccdodlvjta4rxc4)
+- [DEVONThink Database](x-devonthink-item://336110DA-4C9E-4C55-BEED-C4ACBF714B61)
 
 **Time-Sensitive**
 <https://start.1password.com/open/i?a=IMZ3BUQ3WRBWJDRIVNYONMPBNI&v=2pwdrctxvcufgyh6ijgs5wym6u&i=ocl6zp6g5yf7cgh4cfvvmx7fsm&h=my.1password.com>
-- [Maintenance Outlook](craftdocs://open?blockId=BA581861-37AB-4AEF-8F18-CE29279E9D54&spaceId=134ea655-f4d8-2d39-2233-6464ab9a36fd)
 
 **Craft Bookmarks**
 
+- [**Maintenance Outlook**](craftdocs://open?blockId=BA581861-37AB-4AEF-8F18-CE29279E9D54&spaceId=134ea655-f4d8-2d39-2233-6464ab9a36fd)
 - [GTI](craftdocs://openspace?spaceId=134ea655-f4d8-2d39-2233-6464ab9a36fd&tab=documents)
     - [Modifications](craftdocs://open?blockId=e138e930-cc5a-41fc-b202-892355b21299&spaceId=134ea655-f4d8-2d39-2233-6464ab9a36fd)
     - [davod.golf](craftdocs://open?blockId=4ADC34C7-83E8-4982-B2A6-909BAF8A5F92&spaceId=134ea655-f4d8-2d39-2233-6464ab9a36fd)
