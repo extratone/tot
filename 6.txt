@@ -1,5 +1,5 @@
 **Working Copy Index**
-Updated `07202024-104540`
+Updated `08182024-170250`
 
 - [bilge](working-copy://open?repo=bilge&mode=content)
 - [i](working-copy://open?repo=i&mode=content)
@@ -8,6 +8,7 @@ Updated `07202024-104540`
 - [tot](working-copy://open?repo=tot&mode=content)
 - [welcome to working copy](working-copy://open?repo=welcome to working copy&mode=content)
 - [Aviation/airports](working-copy://open?repo=Aviation/airports&mode=content)
+- [Aviation/flight](working-copy://open?repo=Aviation/flight&mode=content)
 - [Aviation/ourairports-data](working-copy://open?repo=Aviation/ourairports-data&mode=content)
 - [Cartography/geocompy](working-copy://open?repo=Cartography/geocompy&mode=content)
 - [Cartography/prettymaps](working-copy://open?repo=Cartography/prettymaps&mode=content)
@@ -30,7 +31,6 @@ Updated `07202024-104540`
 - [ii/David Blue.swiftpm](working-copy://open?repo=ii/David Blue.swiftpm&mode=content)
 - [ii/drafts](working-copy://open?repo=ii/drafts&mode=content)
 - [ii/Jellycuts](working-copy://open?repo=ii/Jellycuts&mode=content)
-- [ii/jellycuts-2](working-copy://open?repo=ii/jellycuts-2&mode=content)
 - [ii/odette](working-copy://open?repo=ii/odette&mode=content)
 - [ii/RoutineHub Backup](working-copy://open?repo=ii/RoutineHub Backup&mode=content)
 - [ii/taio](working-copy://open?repo=ii/taio&mode=content)
@@ -47,6 +47,7 @@ Updated `07202024-104540`
 - [Social/gametrack](working-copy://open?repo=Social/gametrack&mode=content)
 - [Social/gpt](working-copy://open?repo=Social/gpt&mode=content)
 - [Social/GuestbookGist](working-copy://open?repo=Social/GuestbookGist&mode=content)
+- [Social/instagram](working-copy://open?repo=Social/instagram&mode=content)
 - [Social/letterboxd](working-copy://open?repo=Social/letterboxd&mode=content)
 - [Social/microblog](working-copy://open?repo=Social/microblog&mode=content)
 - [Social/t](working-copy://open?repo=Social/t&mode=content)

@@ -26,7 +26,6 @@
 - [GTI Thread](mona://mastodon.social/@DavidBlue/110808349007423057)
 - [GTI Thread](https://www.threads.net/@asphaltapostle/post/CuzWTfrL8Ir) (Threads)
 - [Whyp Thread](ivory://acct/openURL?url=https://mastodon.social/@DavidBlue/110930552194076713) 
-
 - [Distributed Index](drafts://open?uuid=3B7930BE-07BC-4DB9-A591-4254BEE42A82)
 - [Quill](jsbox://run?name=Quill&location=local)
 - [Mona Themes Thread](mona://open?link=https://mastodon.social/users/MonaApp/statuses/109859984571889210)
@@ -57,7 +56,10 @@ _Radio_
 - _[Consultation](things:///show?id=SLdM5dnobroZTA6pVfFwi2)_
 - [Rolodex](things:///show?id=Tu4Cm6E49gQ4jxyhUvfaQ)
 
-- [Boiler Room Apple Music](https://music.apple.com/us/curator/boiler-room/1082539854)
+_Apple Music_
+
+- [Boiler Room](https://music.apple.com/us/curator/boiler-room/1082539854)
+- [Resident Advisor](https://itunes.apple.com/gb/curator/resident-advisor/id996091687)
 
 
 **Drafts Instrument Panel**
@@ -1133,7 +1135,7 @@ googledrive:                handler pref googledrive (0xb844) (0xb845)
 
 
 **Working Copy Index**
-Updated `07202024-104540`
+Updated `08182024-170250`
 
 - [bilge](working-copy://open?repo=bilge&mode=content)
 - [i](working-copy://open?repo=i&mode=content)
@@ -1142,6 +1144,7 @@ Updated `07202024-104540`
 - [tot](working-copy://open?repo=tot&mode=content)
 - [welcome to working copy](working-copy://open?repo=welcome to working copy&mode=content)
 - [Aviation/airports](working-copy://open?repo=Aviation/airports&mode=content)
+- [Aviation/flight](working-copy://open?repo=Aviation/flight&mode=content)
 - [Aviation/ourairports-data](working-copy://open?repo=Aviation/ourairports-data&mode=content)
 - [Cartography/geocompy](working-copy://open?repo=Cartography/geocompy&mode=content)
 - [Cartography/prettymaps](working-copy://open?repo=Cartography/prettymaps&mode=content)
@@ -1164,7 +1167,6 @@ Updated `07202024-104540`
 - [ii/David Blue.swiftpm](working-copy://open?repo=ii/David Blue.swiftpm&mode=content)
 - [ii/drafts](working-copy://open?repo=ii/drafts&mode=content)
 - [ii/Jellycuts](working-copy://open?repo=ii/Jellycuts&mode=content)
-- [ii/jellycuts-2](working-copy://open?repo=ii/jellycuts-2&mode=content)
 - [ii/odette](working-copy://open?repo=ii/odette&mode=content)
 - [ii/RoutineHub Backup](working-copy://open?repo=ii/RoutineHub Backup&mode=content)
 - [ii/taio](working-copy://open?repo=ii/taio&mode=content)
@@ -1181,6 +1183,7 @@ Updated `07202024-104540`
 - [Social/gametrack](working-copy://open?repo=Social/gametrack&mode=content)
 - [Social/gpt](working-copy://open?repo=Social/gpt&mode=content)
 - [Social/GuestbookGist](working-copy://open?repo=Social/GuestbookGist&mode=content)
+- [Social/instagram](working-copy://open?repo=Social/instagram&mode=content)
 - [Social/letterboxd](working-copy://open?repo=Social/letterboxd&mode=content)
 - [Social/microblog](working-copy://open?repo=Social/microblog&mode=content)
 - [Social/t](working-copy://open?repo=Social/t&mode=content)
@@ -1204,4 +1207,6 @@ $
 
 [Planned Road Work for Mid-Missouri  June 17 - 23, 2024](message:%3C194838799.1727.1718385617614@GHSCWASWP01%3E)
 
-<(message:%3CPGG400090VD_66916563a279e_4d396c13162f_sprut@zendesk.com%3E)>
+<(message:%<3CPGG400090VD>_<66916563a279e>_<4d396c13162f_sprut@zendesk.com>%3E)>/Users/blue/.config/rsspls/feeds.toml
+
+<message:%3CSA1PR09MB11462B9CE25D2048FC1037978A6812@SA1PR09MB11462.namprd09.prod.outlook.com%3E>
