@@ -14,46 +14,9 @@ $
 [Message](message:%3CpYyqz000000000000000000000000000000000000000000000SEQ6QE00zfsQeh5uT-SUGfLQtYqhdg@sfdc.net%3E)
 
 [Planned Road Work for Mid-Missouri  June 17 - 23, 2024](message:%3C194838799.1727.1718385617614@GHSCWASWP01%3E)
+[Chatgpt Helps Me Publish my First Pypi Package](message:%3CNbgKWhQqTMqbwMmwpSz-pA@geopod-ismtpd-22%3E)
+<message:%3C20240830221113.3.4e5b765c373c93fa@mg2.substack.com%3E>
 
-<(message:%<3CPGG400090VD>_<66916563a279e>_<4d396c13162f_sprut@zendesk.com>%3E)>/Users/blue/.config/rsspls/feeds.toml
+---
 
-<message:%3CSA1PR09MB11462B9CE25D2048FC1037978A6812@SA1PR09MB11462.namprd09.prod.outlook.com%3E>
-
-<head><meta charset="UTF-8"></head><pre style="caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; overflow-wrap: break-word; white-space: pre-wrap;">Tot 1.5
-
-Greater control when creating and editing Smart Bullets, find and print text, improved layout control, and a new watch app to put Tot on your wrist!
-
-○ Smorth
-○ 
-•
-
-All:
-
-• Added keyboard shortcuts for Smart Bullets [Yay MrStaggs!]
-	- **^8** to create a Smart Bullet on the current line
-	- **⌘8** to toggle Smart Bullet on current line
-	- The last Smart Bullet you picked will be used
-	- Use the keyboard combo to create a normal bullet (**⌥8**) as a reminder 
-
-• Added printing support
-	- On macOS, use the File menu
-	- On iOS, use Print at the end of the Edit menu
-
-• Added setting to adjust line height [Yay David!]
-	- macOS: Format menu &gt; Line Spacing &gt; Standard → 30% increase
-	- iOS: Settings &gt; Text &amp; Layout &gt; Standard → 30% increase
-
-• New “Dot” app icon choice in Settings to match new watchOS app (see below)
-
-
-iOS:
-
-• Added support for standard Find behavior in iOS 16
-	- In Edit menu, use Find or Find Selection
-	- To replace text, tap on magnifying glass and select Find &amp; Replace
-
-• Added key clicks and haptic feedback on keyboard controls and Quick Keys
-	- To turn on haptics, use Settings &gt; Sounds &amp; Haptics &gt; Keyboard Feedback
-
-• Improved Edit menu layout and behavior
-• Fixed a bug where text wouldn't save properly when Tot was launched from a widget [Yay Harrie!]</pre>
+xcrun safari-web-extension-converter --project-location '~/dev/quotebacks' --app-name 'Quotebacks' --bundle-identifier 'com.extratone.clearurls' --obj --macos-only '~/dev/quotebacks-source' --copy-resources
