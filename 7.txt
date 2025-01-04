@@ -17,6 +17,13 @@ $
 [Chatgpt Helps Me Publish my First Pypi Package](message:%3CNbgKWhQqTMqbwMmwpSz-pA@geopod-ismtpd-22%3E)
 <message:%3C20240830221113.3.4e5b765c373c93fa@mg2.substack.com%3E>
 
----
+<shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/MySpace/MYSPACE.webarchive> `
 
-xcrun safari-web-extension-converter --project-location '~/dev/quotebacks' --app-name 'Quotebacks' --bundle-identifier 'com.extratone.clearurls' --obj --macos-only '~/dev/quotebacks-source' --copy-resources
+**Incredible Forked GitHub Pages Utilities**
+
+- [Gallery Creator](https://extratone.github.io/gallery)
+- 
+/Users/blue/Library/Containers/com.lukilabs.lukiapp/Data/Documents/plugins/com.craft.snippets
+<message:%3C01010193fc205493-ae750cd8-1450-4645-9b08-864d4f04cf94-000000@us-west-2.amazonses.com%3E>
+
+<files:///Applications/Craft.app/Contents/Resources/email.js>
